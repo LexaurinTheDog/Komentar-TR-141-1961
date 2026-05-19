@@ -2,6 +2,10 @@
 
 Komplexní komentář k **trestnímu řádu ČR** k aktuálnímu znění **1. 1. 2026**.
 
+## Úplné znění zákona
+
+**Plný text zákona** je v samostatném souboru **[zakon-141-1961-uplne-zneni.md](zakon-141-1961-uplne-zneni.md)** (~6 950 řádků, znění k 1. 1. 2026, zdroj e-Sbírka). Slouží jako přesná citace ke každému komentovanému paragrafu — kapitoly komentáře odkazují na konkrétní paragrafy podle čísel.
+
 ## Obsah
 
 Komentář je rozdělen do **18 souborů** podle struktury zákona. Hlavní vstupní bod: **[INDEX.md](INDEX.md)**.
