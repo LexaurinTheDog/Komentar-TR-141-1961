@@ -8,6 +8,17 @@
 ## Úvodní ustanovení (§ 52, § 52a)
 
 ### § 52 — Způsob provádění úkonů
+<details>
+<summary>📜 <strong>Citace § 52 (úplné znění)</strong></summary>
+
+> #### § 52
+>
+> ##### Způsob provádění úkonů trestního řízení
+>
+> Při provádění úkonů trestního řízení se musí jednat s osobami na úkonu zúčastněnými tak, jak to vyžaduje význam a výchovný účel trestního řízení; vždy je nutno šetřit jejich osobnosti a jejich ústavou zaručených práv.
+
+</details>
+
 
 > *Při provádění úkonů trestního řízení se musí jednat s osobami na úkonu zúčastněnými tak, jak to vyžaduje význam a výchovný účel trestního řízení; vždy je nutno šetřit jejich osobnosti a jejich ústavou zaručených práv.*
 
@@ -24,6 +35,275 @@ Praktické vyústění:
 § 52 nezakládá žádný konkrétní postup, ale je **interpretačním klíčem** k aplikaci dalších ustanovení Hlavy III.
 
 ### § 52a — Videokonference
+<details>
+<summary>📜 <strong>Citace § 52a (úplné znění)</strong></summary>
+
+> #### § 52a
+>
+> Je-li to potřebné pro ochranu práv osob, zejména s ohledem na jejich věk nebo zdravotní stav, nebo vyžadují-li to bezpečnostní anebo jiné závažné důvody, lze při provádění úkonů trestního řízení využívat technické zařízení pro přenos obrazu a zvuku (dále jen „videokonferenční zařízení“), umožňuje-li to povaha těchto úkonů a je-li to technicky možné.
+>
+> #### Oddíl první
+>
+> ##### Dožádání
+>
+> ##### § 53
+>
+> (1) Soud, státní zástupce a policejní orgán vykonávají jednotlivé úkony trestního řízení ve svém obvodu zpravidla sami. Mimo svůj obvod vykonávají jednotlivé úkony trestního řízení dožádáním okresního soudu, státního zástupce nebo policejního orgánu, v jehož obvodu má být úkon proveden, nebo prostřednictvím videokonferenčního zařízení; není-li úkon prováděn prostřednictvím videokonferenčního zařízení, vykonají jej mimo svůj obvod sami, jen jestliže věc nesnese odkladu nebo je-li toho pro řádné posouzení věci nezbytně třeba.
+>
+> (2) Nejvyšší soud, vrchní soud a krajský soud mohou jednotlivé úkony i ve svém obvodu vykonat dožádáním okresního soudu, v jehož obvodu má být úkon proveden; Nejvyšší soud a vrchní soud to mohou učinit též dožádáním krajského soudu.
+>
+> ##### § 54
+>
+> (1) V dožádání je třeba uvést spisové údaje, jejichž znalost je nutná k řádnému provedení úkonu. Je-li třeba, připojí dožadující orgán spisy a poukáže na ty jejich části, kde jsou potřebné údaje obsaženy. Dožádaný orgán je podle povahy věci a podle toho, co při provádění úkonu vyšlo najevo, oprávněn i povinen provést i další nezbytné úkony, zejména vyslechnout další osoby a dotazovat se na okolnosti v dožádání neuvedené, může-li to přispět k rychlému a správnému rozhodnutí věci.
+>
+> (2) Úkony dožádaného soudu koná soudce z povolání; má přitom práva a povinnosti předsedy senátu.
+>
+> #### Oddíl druhý
+>
+> ##### Protokol
+>
+> ##### § 55
+>
+> ###### Obecná ustanovení o sepisování protokolu
+>
+> (1) Nestanoví-li zákon jinak, o každém úkonu trestního řízení se sepíše, a to zpravidla při úkonu nebo bezprostředně po něm, protokol, který musí obsahovat
+>
+> - a) pojmenování soudu, státního zástupce nebo jiného orgánu provádějícího úkon,
+>
+> - b) místo, čas a předmět úkonu,
+>
+> - c) jméno a příjmení úředních osob a jejich funkce, jméno a příjmení přítomných stran, jméno, příjmení a adresu zákonných zástupců, opatrovníků, obhájců a zmocněnců, popřípadě jméno a příjmení dalších osob, kteří se úkonu zúčastnili, a u obviněného a poškozeného též adresu, kterou uvede pro účely doručování, a další údaje nutné k zjištění nebo ověření totožnosti, včetně data narození nebo rodného čísla; jsou-li při prováděném úkonu zjištěny údaje o bydlišti a doručovací adrese, o místě výkonu zaměstnání či povolání nebo podnikání poškozeného, svědka, zákonného zástupce, opatrovníka, zmocněnce nebo důvěrníka, pak se na žádost těchto osob do protokolu neuvádějí, není-li to nezbytné pro dosažení účelu trestního řízení, ale vedou se tak, aby se s nimi mohli seznamovat pouze orgány činné v trestním řízení a úředníci Probační a mediační služby činní v dané věci; to platí také pro údaje o osobních, rodinných a majetkových poměrech poškozeného a svědka; je-li to nezbytné pro řádné uplatnění práva na obhajobu osoby, proti níž se trestní řízení vede, sdělí se této osobě potřebné údaje; o sdělení údaje a jeho důvodech se učiní záznam do protokolu a bez zbytečného odkladu se o tom informuje osoba, o jejíž údaj jde,
+>
+> - d) stručné a výstižné vylíčení průběhu úkonu, z něhož by bylo patrné i zachování zákonných ustanovení upravujících provádění úkonu, dále podstatný obsah rozhodnutí při úkonu vyhlášených, a byl-li hned při úkonu doručen opis rozhodnutí, osvědčení o tomto doručení; pokud se provádí doslovná protokolace výpovědi osoby, je třeba to v protokole označit tak, aby bylo možné bezpečně určit počátek a konec doslovné protokolace,
+>
+> - e) návrhy stran, udělené poučení, popřípadě vyjádření poučených osob,
+>
+> - f) námitky stran nebo vyslýchaných osob proti průběhu úkonu nebo obsahu protokolu.
+>
+> (2) Nasvědčují-li zjištěné okolnosti tomu, že svědku nebo osobě jemu blízké v souvislosti s podáním svědectví zřejmě hrozí újma na zdraví nebo jiné vážné nebezpečí porušení jejich základních práv, a nelze-li ochranu svědka spolehlivě zajistit jiným způsobem, orgán činný v trestním řízení učiní opatření k utajení totožnosti i podoby svědka; jméno a příjmení a jeho další osobní údaje se do protokolu nezapisují, ale vedou se odděleně od trestního spisu a mohou se s nimi seznamovat jen orgány činné v trestním řízení v dané věci. Svědek se poučí o právu požádat o utajení své podoby a podepsat protokol smyšleným jménem a příjmením, pod kterým je pak veden. Je-li třeba zajistit ochranu těchto osob, orgán činný v trestním řízení učiní bezodkladně všechna potřebná opatření. Zvláštní způsob ochrany svědků a osob jim blízkých stanoví zvláštní zákon. Pominou-li důvody pro utajení podoby svědka a oddělené vedení osobních údajů svědka, orgán, který v té době vede trestní řízení, zruší stupeň utajení těchto informací, připojí uvedené údaje k trestnímu spisu a podoba svědka ani údaje o jeho totožnosti se nadále neutajují; to neplatí, je-li utajována totožnost a podoba osob uvedených v § 102a. O postupu podle věty páté orgán činný v trestním řízení bez zbytečného odkladu svědka informuje.
+>
+> (3) V protokolu sepsaném o konfrontaci se zapíší výpovědi konfrontovaných osob doslovně, stejně tak i znění položených otázek a odpovědi na ně; také se uvedou všechny okolnosti, které jsou z hlediska účelu a provádění konfrontace důležité. V protokolu sepsaném o rekognici se podrobně uvedou okolnosti, za nichž byla rekognice prováděna, zejména pořadí, ve kterém byly osoby nebo věci ukázány podezřelému, obviněnému nebo svědkovi, doba a podmínky jejich pozorování a jejich vyjádření; o rekognici prováděné v přípravném řízení se zpravidla pořídí též obrazové záznamy. V protokolu sepsaném o vyšetřovacím pokusu, o rekonstrukci a o prověrce na místě je třeba podrobně popsat okolnosti, za nichž byly tyto úkony prováděny, jakož i jejich obsah a výsledky; pokud to okolnosti případu nevylučují, pořídí se též obrazové záznamy, náčrtky a jiné vhodné pomůcky, které se, je-li to možné, připojí k protokolu. Obdobně je třeba postupovat i v případě provádění dalších důkazů výslovně v zákoně neupravených.
+>
+> (4) V českém jazyce se sepíše protokol o výpovědi osoby, i když vyslýchaná osoba vypovídá v jiném jazyce; záleží-li na doslovném znění výpovědi, zapíše zapisovatel nebo tlumočník do protokolu příslušnou část výpovědi také v jazyku, jímž tato osoba vypovídá.
+>
+> (5) Za správnost protokolu odpovídá ten, kdo úkon provedl.
+>
+> ##### § 55a
+>
+> ###### Použití zvláštních prostředků při protokolaci
+>
+> (1) K zachycení průběhu úkonu lze podle potřeby využít i těsnopisného zápisu, který se pak spolu s přepisem do obyčejného písma připojí k protokolu, případně zvukového nebo obrazového záznamu, anebo i jiného vhodného prostředku. Je-li při provádění úkonu využito videokonferenčního zařízení, pořizuje se zvukový a obrazový záznam vždy.
+>
+> (2) Byl-li o úkonu pořízen vedle protokolu i zvukový nebo obrazový záznam, poznamená se tato okolnost v protokolu sepsaném o úkonu, v němž se vedle údajů o čase, místě a způsobu jeho provedení uvede též údaj o použitém prostředku. Technický nosič záznamu se připojí ke spisu nebo se ve spise uvede, kde je uložen.
+>
+> ##### § 55b
+>
+> ###### Některé zvláštnosti protokolace v řízení před soudem
+>
+> (1) O průběhu hlavního líčení je, nerozhodne-li z důležitých důvodů předseda senátu jinak, pořizován zvukový záznam; ustanovení § 55a odst. 1 věty druhé tím není dotčeno.
+>
+> (2) Je-li jako zapisovatel přibrán vyšší soudní úředník nebo protokolující úředník, protokol se nediktuje, ale samostatně jej podle zvukového záznamu pořizuje vyšší soudní úředník nebo protokolující úředník.
+>
+> (3) Výpovědi osob, které již byly vyslechnuty, se do protokolu o hlavním líčení nebo ve veřejném zasedání zapisují jen potud, pokud obsahují odchylky nebo dodatky k dřívějším výpovědím nebo vysvětlením. Státní zástupce nebo obviněný mohou žádat, aby výpověď učiněná v řízení před soudem nebo její část byla doslovně zaprotokolována; předseda senátu takové žádosti vyhoví, pokud předmětem výpovědi není jen opakování toho, co je již zachyceno v protokolu.
+>
+> (4) Protokol o hlavním líčení nebo veřejném zasedání není třeba písemně vyhotovovat, jestliže obviněný a státní zástupce prohlásí, že se vzdávají opravného prostředku proti rozhodnutí a na písemném vyhotovení protokolu o hlavním líčení nebo veřejném zasedání netrvají, anebo žádná z oprávněných osob nepodá opravný prostředek a rozhodnutí nabude právní moci. V takovém případě vyhotoví vyšší soudní úředník nebo protokolující úředník stručný záznam o průběhu hlavního líčení nebo veřejného zasedání, ve kterém uvede místo a dobu trvání hlavního líčení nebo veřejného zasedání, přítomné osoby, výrok rozhodnutí s uvedením zákonných ustanovení, jichž bylo použito, a vyjádření oprávněných osob o využití opravných prostředků.
+>
+> (5) Byl-li zvukový záznam pořízen o průběhu úkonu před soudem a není-li dán důvod k postupu podle odstavce 4, zaznamená se jeho podstatný obsah již v průběhu úkonu nebo bezprostředně po jeho ukončení do protokolu.
+>
+> (6) V řízení před soudem odpovídá za správnost a úplnost protokolace vyšší soudní úředník nebo protokolující úředník, pokud byl přibrán jako zapisovatel.
+>
+> (7) Zvukový záznam se uchovává na nosiči informací spolu se spisem, a není-li jeho připojení ke spisu možné, poznamená se do protokolu nebo stručného záznamu místo jeho uložení. Výmaz zvukového záznamu nelze provést před skartací spisu.
+>
+> (8) Provádí-li se úkon mimo budovu soudu a zvukový záznam nelze pořídit, přibere se k úkonu zapisovatel a předseda senátu mu protokol diktuje.
+>
+> ##### § 56
+>
+> ###### Podpisování protokolu
+>
+> (1) Protokol o hlavním líčení a o veřejném a neveřejném zasedání podpisuje předseda senátu a zapisovatel; jiné protokoly podpíše ten, kdo úkon vykonal, a osoba, které se úkon týká, popřípadě zapisovatel, tlumočník, znalec nebo jiná osoba přivzatá k úkonu. Je-li úkon prováděn prostřednictvím videokonferenčního zařízení, osoba, jíž se úkon týká, protokol nepodepisuje. Má-li protokol o výslechu více stránek, musí vyslýchaná osoba podepsat každou stránku protokolu. Odmítne-li vyslýchaný nebo jiná osoba přivzatá k úkonu protokol podepsat, uvede se to v protokolu s poznamenáním důvodu odmítnutí.
+>
+> (2) Nemůže-li předseda senátu pro překážku delšího trvání podepsat protokol o hlavním líčení nebo o veřejném či neveřejném zasedání, podpíše jej jiný člen senátu. Je-li tato překážka u jiné osoby nebo u samosoudce, poznamená se v protokolu důvod, proč podpis odpadl.
+>
+> ##### § 57
+>
+> ###### Oprava protokolu
+>
+> (1) O opravě a doplnění protokolu o hlavním líčení a o veřejném a neveřejném zasedání a rovněž o námitkách proti takovému protokolu rozhoduje soud, o jehož protokol jde. Proti tomuto rozhodnutí je přípustná stížnost.
+>
+> (2) Ten, kdo řídil jednání nebo provádění úkonu, může i po podpisu protokolu nařídit nebo provést opravu chyb v psaní a počtech nebo jiných zřejmých nesprávností. Oprava se provede tak, aby původní zápis zůstal čitelný; opravu podpíše ten, kdo ji nařídil.
+>
+> ##### § 58
+>
+> ###### Protokol o hlasování
+>
+> (1) V protokolu o hlasování se uvede kromě všeobecných náležitostí (§ 55 odst. 1)
+>
+> - a) postup při jednotlivých hlasováních, jejich výsledek a výrok rozhodnutí,
+>
+> - b) mínění odlišné od názoru většiny, a to v celém znění i se stručným odůvodněním.
+>
+> (2) Zápis o všech hlasováních, která se vyskytla v průběhu téhož jednání, pojme se do jediného protokolu o hlasování.
+>
+> (3) Protokol o hlasování podpisují všichni členové senátu a zapisovatel.
+>
+> (4) Protokol o hlasování se zalepí a připojí k protokolu o jednání. Otevřít jej smí jen předseda senátu u nadřízeného soudu při rozhodování o opravném prostředku a předseda senátu Nejvyššího soudu při rozhodování o stížnosti pro porušení zákona, jakož i soudce pověřený vyhotovením rozsudku; po nahlédnutí jej opět zalepí a otevření potvrdí svým podpisem.
+>
+> (5) Protokol o hlasování se nesepisuje, jde-li o jednoduchá rozhodnutí, na kterých se senát usnesl jednomyslně a kterým předcházela porada pouze v jednací síni bez přerušení jednání; v protokole o jednání se v takovém případě poznamená, že usnesení bylo učiněno bez přerušení jednání.
+>
+> #### Oddíl třetí
+>
+> ##### Podání
+>
+> ##### § 59
+>
+> (1) Podání se posuzuje vždy podle svého obsahu, i když je nesprávně označeno. Lze je učinit písemně, ústně do protokolu, v elektronické podobě, telegraficky, telefaxem nebo dálnopisem.
+>
+> (2) V přípravném řízení sepisují podání ústně do protokolu policejní orgány a okresní státní zastupitelství; v řízení před soudem je sepisují okresní soudy. Jsou-li pro to důležité důvody, mohou je výjimečně sepsat i státní zastupitelství a soudy vyššího stupně. Ústně do protokolu nelze podat dovolání.
+>
+> (3) Pokud zákon pro podání určitého druhu nevyžaduje další náležitosti, musí být z podání patrno, kterému orgánu činnému v trestním řízení je určeno, kdo jej činí, které věci se týká a co sleduje, a musí být podepsáno a datováno. Podání je třeba předložit s potřebným počtem stejnopisů a s přílohami tak, aby jeden stejnopis zůstal u příslušného orgánu činného v trestním řízení a aby každá osoba dotčená takovým podáním dostala jeden stejnopis, jestliže je toho třeba. Nesplňuje-li tyto požadavky, orgán činný v trestním řízení ho vrátí podateli, je-li znám, k doplnění s příslušným poučením, jak nedostatky odstranit. Současně stanoví lhůtu k jejich odstranění. Není-li podatel znám anebo nejsou-li nedostatky ve stanovené lhůtě odstraněny, k podání se dále nepřihlíží; to neplatí pro trestní oznámení nebo pro jiný podnět, na jehož podkladě lze učinit závěr o podezření ze spáchání trestného činu, nebo pro podání, jehož obsahem je opravný prostředek, i když neobsahuje všechny uvedené náležitosti. Z opravného prostředku však vždy musí být patrno, které rozhodnutí napadá a kdo jej činí.
+>
+> (4) Činí-li se ústně trestní oznámení, je nutno oznamovatele vyslechnout o okolnostech, za nichž byl čin spáchán, o osobních poměrech toho, na něhož se oznámení podává, o důkazech a o výši škody způsobené oznámeným činem; je-li oznamovatel zároveň poškozeným nebo jeho zmocněncem, musí být vyslechnut též o tom, zda žádá, aby soud rozhodl v trestním řízení o jeho nároku na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení. Výslech má být proveden tak, aby byl získán podklad pro další řízení.
+>
+> (5) Jestliže byl protokol o trestním oznámení učiněném ústně sepsán u soudu, zašle jej soud neprodleně státnímu zástupci.
+>
+> #### Oddíl čtvrtý
+>
+> ##### Lhůty
+>
+> ##### § 60
+>
+> ###### Počítání lhůt
+>
+> (1) Do lhůty určené podle dní se nezapočítává den, kdy se stala událost určující počátek lhůty.
+>
+> (2) Lhůta stanovená podle týdnů, měsíců nebo let končí uplynutím toho dne, který svým jménem nebo číselným označením odpovídá dni, kdy se stala událost určující počátek lhůty. Chybí-li tento den v posledním měsíci lhůty, končí lhůta uplynutím posledního dne tohoto měsíce.
+>
+> (3) Připadne-li konec lhůty na den pracovního klidu nebo pracovního volna, pokládá se za poslední den lhůty nejbližší příští pracovní den.
+>
+> (4) Lhůta je zachována též tehdy, jestliže podání bylo ve lhůtě
+>
+> - a) podáno jako poštovní zásilka adresovaná soudu, státnímu zástupci nebo policejnímu orgánu, u něhož má být podáno nebo který má ve věci rozhodnout,
+>
+> - b) učiněno u soudu nebo u státního zástupce, který má ve věci rozhodnout,
+>
+> - c) učiněno příslušníkem ozbrojených sil nebo ozbrojeného sboru v činné službě u jeho náčelníka,
+>
+> - d) učiněno u ředitele nápravného zařízení, kde je ten, kdo podání činí, ve vazbě nebo v trestu, nebo
+>
+> - e) učiněno ústně do protokolu u kteréhokoli okresního soudu nebo okresního státního zástupce.
+>
+> ##### § 61
+>
+> ###### Navrácení lhůty
+>
+> (1) Zmešká-li obviněný nebo jeho obhájce z důležitých důvodů lhůtu k podání opravného prostředku, povolí mu, nestanoví-li zákon jinak, orgán, jemuž přísluší o opravném prostředku rozhodovat, navrácení lhůty. O navrácení lhůty je třeba požádat do tří dnů od pominutí překážky. Nebyl-li opravný prostředek ještě podán, je třeba jej se žádostí spojit. Jde-li o odvolání proti rozsudku, je možno odvolání odůvodnit ještě ve lhůtě osmi dnů od doručení usnesení o povolení navrácení lhůty.
+>
+> (2) Byl-li opravný prostředek už zamítnut jako opožděný, zruší orgán při povolení navrácení lhůty zároveň i svoje rozhodnutí o zamítnutí opravného prostředku.
+>
+> (3) Ustanovení odstavců 1 a 2 se užije přiměřeně i tehdy, ukáže-li se, že lhůta k podání opravného prostředku, který byl zamítnut jako opožděný, zmeškána nebyla.
+>
+> #### Oddíl pátý
+>
+> ##### Doručování
+>
+> ##### § 62
+>
+> ###### Obecné ustanovení
+>
+> (1) Nebyla-li písemnost doručena při úkonu trestního řízení, doručuje ji orgán činný v trestním řízení do datové schránky1b). Není-li možné doručit písemnost tímto způsobem, doručuje ji orgán činný v trestním řízení sám nebo prostřednictvím provozovatele poštovních služeb (dále jen „pošta“) a v případě, že by takové doručení nebylo úspěšné, i prostřednictvím orgánu obce. Doručují-li písemnost soud nebo státní zastupitelství samy, činí tak svými doručovateli nebo orgány justiční stráže. Nelze-li takto písemnost doručit, doručí se prostřednictvím příslušného policejního orgánu. V případech stanovených zvláštními předpisy doručuje orgán činný v trestním řízení prostřednictvím Ministerstva spravedlnosti nebo jiného stanoveného orgánu.
+>
+> (2) Má-li obviněný obhájce a poškozený nebo zúčastněná osoba zmocněnce, doručuje se písemnost pouze obhájci nebo zmocněnci, pokud zákon nestanoví jinak. Má-li však obviněný, poškozený nebo zúčastněná osoba něco osobně vykonat, doručuje se písemnost i jim.
+>
+> (3) Doručuje-li orgán činný v trestním řízení písemnost prostřednictvím pošty, lze takovou písemnost vyhotovit za její součinnosti; podrobnosti takového postupu stanoví Ministerstvo spravedlnosti vyhláškou.
+>
+> ##### § 63
+>
+> (1) Nestanoví-li tento zákon jinak, užijí se pro způsob doručování fyzickým osobám, právnickým osobám, státním orgánům, státu, advokátům, notářům, obcím a vyšším územně samosprávným celkům přiměřeně předpisy platné pro doručování v občanském soudním řízení.
+>
+> (2) Je-li adresátem obviněný, doručuje se mu především na adresu, kterou za tím účelem uvedl [§ 55 odst. 1 písm. c)].
+>
+> (3) Písemnosti týkající se zajištění peněžních prostředků na účtu je možné doručovat též na adresu, kterou osoba, jíž byly peněžní prostředky na účtu zajištěny, uvedla bance nebo jinému subjektu, který pro ni vede účet, jako kontaktní adresu, pokud neoznačila žádnou adresu pro doručování v trestním řízení a ani se nezdržuje na jiné adrese pro doručování podle občanského soudního řádu.
+>
+> (4) Doručují-li se obhájci v řízení proti uprchlému písemnosti určené pro obviněného (§ 306 odst. 1), postupuje se způsobem platným pro doručování obviněnému.
+>
+> ##### § 64
+>
+> ###### Doručování do vlastních rukou
+>
+> (1) Do vlastních rukou se doručuje
+>
+> - a) obviněnému obžaloba, návrh na schválení dohody o vině a trestu, návrh na potrestání a předvolání,
+>
+> - b) osobám oprávněným podat proti rozhodnutí opravný prostředek opis tohoto rozhodnutí,
+>
+> - c) jiná písemnost, jestliže to předseda senátu, státní zástupce nebo policejní orgán z důležitých důvodů nařídí.
+>
+> (2) Nebyl-li adresát písemnosti, kterou je třeba doručit do vlastních rukou, zastižen, písemnost se uloží a adresát se vhodným způsobem vyrozumí, kde si ji může vyzvednout.
+>
+> (3) Písemnost se ukládá
+>
+> - a) u okresního soudu, v jehož obvodu je místo doručení, nebo u soudu, který má sídlo v místě doručení, jestliže ji doručuje soudní doručovatel nebo orgán justiční stráže,
+>
+> - b) u státního zastupitelství, v jehož obvodu je místo doručení, nebo u státního zastupitelství, které má sídlo v místě doručení, jestliže ji doručuje doručovatel státního zastupitelství nebo orgán justiční stráže,
+>
+> - c) u pošty, jestliže se doručuje prostřednictvím pošty,
+>
+> - d) u orgánu obce, jestliže se doručuje prostřednictvím orgánu obce,
+>
+> - e) u příslušného orgánu policie, jestliže doručuje písemnost sám, anebo ji doručuje soud nebo státní zastupitelství prostřednictvím policejního orgánu.
+>
+> (4) Nevyzvedne-li si adresát písemnost do deseti dnů od uložení, považuje se poslední den této lhůty za den doručení, i když se adresát o uložení nedověděl, ačkoliv se v místě doručení zdržuje, nebo uvedenou adresu označil pro účely doručování, anebo jde o adresu uvedenou v § 63 odst. 3. Doručující orgán po marném uplynutí této lhůty vhodí písemnost do domovní nebo jiné adresátem užívané schránky, ledaže odesílatel vhození písemnosti do schránky vyloučí. Není-li takové schránky, písemnost se vrátí odesílateli a vyvěsí se o tom sdělení na úřední desce.
+>
+> (5) Odstavec 4 se neužije, doručuje-li se
+>
+> - a) obviněnému usnesení o zahájení trestního stíhání, obžaloba, návrh na potrestání, návrh na schválení dohody o vině a trestu, rozsudek, trestní příkaz nebo předvolání k hlavnímu líčení nebo veřejnému zasedání, nebo
+>
+> - b) jiná písemnost, jestliže to předseda senátu, státní zástupce, nebo policejní orgán z důležitých důvodů nařídí.
+>
+> (6) Je-li doručení podle odstavce 4 vyloučeno, musí to odesílatel na zásilce nápadně vyznačit. Doručující orgán v takovém případě vrátí písemnost odesílateli po marném uplynutí lhůty deseti dnů ode dne jejího uložení.
+>
+> ##### § 64a
+>
+> ###### Odepření přijetí
+>
+> (1) Odepře-li adresát, popřípadě osoba oprávněná za něj písemnost převzít, písemnost přijmout, poznamená se to na doručence spolu s datem a důvodem odepření a písemnost se vrátí.
+>
+> (2) Uzná-li předseda senátu, státní zástupce nebo policejní orgán, který písemnost odeslal, že přijetí bylo odepřeno bezdůvodně, považuje se písemnost za doručenou dnem, kdy přijetí bylo odepřeno; na tento následek musí být adresát doručovatelem upozorněn.
+>
+> #### Oddíl šestý
+>
+> ##### Nahlížení do spisů
+>
+> ##### § 65
+>
+> (1) Obviněný, poškozený a zúčastněná osoba, jejich obhájci a zmocněnci mají právo nahlížet do spisů, s výjimkou protokolu o hlasování a osobních údajů svědka podle § 55 odst. 2, činit si z nich výpisky a poznámky a pořizovat si na své náklady kopie spisů a jejich částí. Totéž právo má zákonný zástupce nebo opatrovník obviněného, poškozeného nebo zúčastněné osoby, jestliže tyto osoby nejsou plně svéprávné nebo je-li jejich svéprávnost omezena. Jiné osoby tak mohou činit se souhlasem předsedy senátu a v přípravném řízení se souhlasem státního zástupce nebo policejního orgánu, jen pokud je toho třeba k uplatnění jejich práv.
+>
+> (2) V přípravném řízení může státní zástupce nebo policejní orgán právo nahlédnout do spisů a spolu s tím ostatní práva uvedená v odstavci 1 ze závažných důvodů odepřít. Závažnost důvodů, ze kterých tato práva odepřel policejní orgán, je na žádost osoby, jíž se odepření týká, státní zástupce povinen urychleně přezkoumat. Tato práva nelze odepřít obviněnému a obhájci, jakmile byli upozorněni na možnost prostudovat spisy, a při sjednávání dohody o vině a trestu.
+>
+> (3) Tomu, kdo měl právo být úkonu přítomen, nemůže být odepřeno nahlédnutí do protokolu o takovém úkonu. Obviněnému a jeho obhájci nemůže být odepřeno nahlédnutí do usnesení o zahájení trestního stíhání (§ 160 odst. 1).
+>
+> (4) Práva státních orgánů a národního člena Eurojustu nahlížet do spisů podle jiných zákonných předpisů nejsou ustanovením předchozích odstavců dotčena.
+>
+> (5) Při povolování nahlížet do spisů je nutno učinit takové opatření, aby byla zachována tajnost utajovaných informací chráněných zvláštním zákonem a údajů, na které se vztahuje státem uložená nebo uznaná povinnost mlčenlivosti.
+>
+> (6) Při nahlížení do spisů je nutno učinit taková opatření, aby nebyly zpřístupněny údaje, se kterými se podle § 55 odst. 1 písm. c) mohou seznamovat pouze orgány činné v trestním řízení a úředníci Probační a mediační služby činní v dané věci. V případě žádosti osoby, proti níž se trestní řízení vede, o sdělení těchto údajů se užije § 55 odst. 1 písm. c) obdobně.
+>
+> #### Oddíl sedmý
+>
+> ##### Pořádková pokuta
+>
+> ##### § 66
+>
+> (1) Kdo přes předchozí napomenutí ruší řízení nebo kdo se k soudu, státnímu zástupci nebo policejnímu orgánu chová urážlivě nebo kdo bez dostatečné omluvy neuposlechne příkazu nebo nevyhoví výzvě, které mu byly dány podle tohoto zákona, může být předsedou senátu a v přípravném řízení státním zástupcem nebo policejním orgánem potrestán pořádkovou pokutou do 50 000 Kč.
+>
+> (2) Dopustí-li se jednání uvedeného v odstavci 1 příslušník ozbrojených sil nebo ozbrojeného sboru v činné službě, může se přenechat příslušnému veliteli nebo náčelníku ke kázeňskému potrestání. Dopustí-li se takového jednání osoba, která je ve vazbě nebo ve výkonu trestu odnětí svobody, může se přenechat řediteli věznice k uložení pořádkového opatření nebo ke kázeňskému potrestání. Příslušný velitel, náčelník nebo ředitel je povinen o výsledku vyrozumět orgán činný v trestním řízení.
+>
+> (3) Dopustí-li se jednání uvedeného v odstavci 1 obhájce nebo v řízení před soudem státní zástupce, předá se příslušnému orgánu ke kárnému postihu. Tento orgán je povinen o výsledku vyrozumět orgán činný v trestním řízení.
+>
+> (4) Proti rozhodnutí podle odstavců 1 až 3 je přípustná stížnost, jež má odkladný účinek.
+
+</details>
+
 
 > *Je-li to potřebné pro ochranu práv osob, zejména s ohledem na jejich věk nebo zdravotní stav, nebo vyžadují-li to bezpečnostní anebo jiné závažné důvody, lze při provádění úkonů trestního řízení využívat technické zařízení pro přenos obrazu a zvuku (dále jen „videokonferenční zařízení"), umožňuje-li to povaha těchto úkonů a je-li to technicky možné.*
 

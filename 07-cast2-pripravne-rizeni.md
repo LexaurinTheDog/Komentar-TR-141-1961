@@ -11,6 +11,31 @@
 ## Vstupní obecná ustanovení (§ 157, § 157a)
 
 ### § 157 — Obecné ustanovení
+<details>
+<summary>📜 <strong>Citace § 157 (úplné znění)</strong></summary>
+
+> #### § 157
+>
+> ##### Obecné ustanovení
+>
+> (1) Státní zástupce a policejní orgán jsou povinni organizovat svou činnost tak, aby účinně přispívali k včasnosti a důvodnosti trestního stíhání.
+>
+> (2) Státní zástupce může uložit policejnímu orgánu provedení takových úkonů, které je tento orgán oprávněn provést a jichž je třeba k objasnění věci nebo ke zjištění pachatele. K prověření skutečností nasvědčujících tomu, že byl spáchán trestný čin, je státní zástupce dále oprávněn:
+>
+> - a) vyžadovat od policejního orgánu spisy, včetně spisů, v nichž nebylo zahájeno trestní řízení, dokumenty, materiály a zprávy o postupu při prověřování oznámení,
+>
+> - b) odejmout kteroukoliv věc policejnímu orgánu a učinit opatření, aby věc byla přikázána jinému policejnímu orgánu,
+>
+> - c) dočasně odložit zahájení trestního stíhání.
+>
+> (3) V závažných a skutkově složitých věcech může státní zástupce nebo policejní orgán využít odborné pomoci konzultanta, který má znalost ze speciálního oboru. O návrh na výběr určité osoby jako konzultanta může též požádat správní úřad, jiný orgán, vědeckou nebo výzkumnou instituci. O přibrání konzultanta sepíše státní zástupce nebo policejní orgán úřední záznam. Se souhlasem státního zástupce nebo policejního orgánu může konzultant v rozsahu nezbytném pro výkon jeho funkce nahlížet do spisu a být přítomen při provádění úkonů trestního řízení. Do provádění úkonů však nesmí zasahovat. O všech skutečnostech, o nichž se konzultant v průběhu trestního řízení dozvěděl, je povinen zachovávat mlčenlivost. Na vyloučení konzultanta se přiměřeně užijí ustanovení tohoto zákona a zvláštního zákona upravující vyloučení znalce z podání znaleckého posudku. Účast konzultanta nezbavuje státního zástupce a policejní orgán odpovědnosti za zákonný průběh trestního řízení.
+>
+> (4) Konzultantovi přibranému podle odstavce 3 náleží za poskytnutí odborné pomoci odměna; odměna nenáleží konzultantovi, který je orgánem nebo institucí uvedenou v odstavci 3 větě druhé nebo fyzickou osobou poskytující odbornou pomoc v pracovněprávním nebo obdobném vztahu k takovému orgánu nebo instituci. Odměna se stanoví podle množství účelně vynaložené práce a stupně odbornosti potřebné k poskytnutí odborné pomoci, a to způsobem, jakým se stanoví odměna znalce za hodinu práce účelně vynaložené na výkon znalecké činnosti; hranice sazby odměny konzultanta činí 50 % hranice sazby odměny znalce. Odměna se může zvýšit, krátit nebo odepřít za stejných podmínek a ve stejném rozsahu jako odměna znalce. Konzultantovi přibranému podle odstavce 3 náleží též náhrada hotových výdajů, které účelně vynaložil v přímé souvislosti s poskytováním odborné pomoci, a to ve výši, v jaké náleží znalcům. Odměna a náhrada hotových výdajů se zvyšuje o částku odpovídající dani z přidané hodnoty, kterou je konzultant, plátce daně z přidané hodnoty, povinen z odměny a náhrady hotových výdajů uplatnit podle zákona o dani z přidané hodnoty.
+>
+> (5) Nárok na úhradu odměny a náhrady hotových výdajů je konzultant povinen vyúčtovat do 3 dnů od poskytnutí odborné pomoci. Výši odměny a náhrady hotových výdajů určí orgán činný v trestním řízení, který konzultanta přibral, do 30 dnů od provedení vyúčtování. Nesouhlasí-li orgán činný v trestním řízení s výší vyúčtované odměny nebo náhrady hotových výdajů, rozhodne usnesením. Proti usnesení je přípustná stížnost, která má odkladný účinek. Odměna a náhrada hotových výdajů konzultanta je splatná do 30 dnů od jejich přiznání.
+
+</details>
+
 
 **Odst. 1**: SZ a policejní orgán **organizují svou činnost** tak, aby účinně přispívali k **včasnosti a důvodnosti** TS. **Imperativ rychlosti a kvality**.
 
@@ -35,6 +60,19 @@ Klíč: **konzultant ≠ znalec**. Konzultant je odborný **rádce** OČTŘ (nap
 **Odst. 4–5 — odměna konzultanta**: podle množství práce a stupně odbornosti; **hranice sazby = 50 %** sazby znalce. Bezúplatné u orgánů a institucí. Vyúčtování do 3 dnů, rozhodnutí do 30 dnů, stížnost s odkladným účinkem.
 
 ### § 157a — Žádost o přezkoumání postupu policejního orgánu / SZ
+<details>
+<summary>📜 <strong>Citace § 157a (úplné znění)</strong></summary>
+
+> #### § 157a
+>
+> ##### Žádost o přezkoumání postupu policejního orgánu a státního zástupce
+>
+> (1) Ten, proti němuž se trestní řízení vede, a poškozený mají právo kdykoliv v průběhu přípravného řízení žádat státního zástupce, aby byly odstraněny průtahy v řízení nebo závady v postupu policejního orgánu. Tato žádost není vázána lhůtou. Žádost je nutno státnímu zástupci ihned předložit a státní zástupce ji musí neprodleně vyřídit. O výsledku přezkoumání musí být žadatel vyrozuměn.
+>
+> (2) Žádost o odstranění průtahů v řízení nebo závad v postupu státního zástupce vyřizuje státní zástupce bezprostředně vyššího státního zastupitelství.
+
+</details>
+
 
 **Odst. 1**: Obviněný a poškozený mohou **kdykoli v průběhu přípravného řízení** žádat SZ o:
 - **odstranění průtahů**;
@@ -51,6 +89,55 @@ Klíč: **konzultant ≠ znalec**. Konzultant je odborný **rádce** OČTŘ (nap
 ## Hlava IX — Postup před zahájením trestního stíhání (§ 158 – § 159d)
 
 ### § 158 — Prověřování (klíčový paragraf)
+<details>
+<summary>📜 <strong>Citace § 158 (úplné znění)</strong></summary>
+
+> #### § 158
+>
+> (1) Policejní orgán je povinen na základě vlastních poznatků, trestních oznámení i podnětů jiných osob a orgánů, na jejichž podkladě lze učinit závěr o podezření ze spáchání trestného činu, učinit všechna potřebná šetření a opatření k odhalení skutečností nasvědčujících tomu, že byl spáchán trestný čin, a směřující ke zjištění jeho pachatele; je povinen činit též nezbytná opatření k předcházení trestné činnosti. Policejní orgán informuje státního zástupce o skutečnostech nasvědčujících tomu, že byl spáchán trestný čin, u něhož by Úřad evropského veřejného žalobce mohl vykonat svou pravomoc v souladu s čl. 22 a čl. 25 odst. 2 a 3 nařízení Rady (EU) 2017/1939. Pověřené orgány Vězeňské služby České republiky neprodleně informují Generální inspekci bezpečnostních sborů, jakmile zahájí takové šetření.
+>
+> (2) Oznámení o skutečnostech nasvědčujících tomu, že byl spáchán trestný čin, je povinen přijímat státní zástupce a policejní orgán. Přitom je povinen oznamovatele poučit o odpovědnosti za vědomě nepravdivé údaje, a pokud o to oznamovatel požádá, do jednoho měsíce od oznámení jej vyrozumět o učiněných opatřeních.
+>
+> (3) O zahájení úkonů trestního řízení k objasnění a prověření skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, sepíše policejní orgán neprodleně záznam, ve kterém uvede skutkové okolnosti, pro které řízení zahajuje, a způsob, jakým se o nich dověděl. Opis záznamu zašle do 48 hodin od zahájení trestního řízení státnímu zástupci. Hrozí-li nebezpečí z prodlení, policejní orgán záznam sepíše po provedení potřebných neodkladných a neopakovatelných úkonů. K objasnění a prověření skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, opatřuje policejní orgán potřebné podklady a nezbytná vysvětlení a zajišťuje stopy trestného činu. V rámci toho je oprávněn, kromě úkonů uvedených v této hlavě, zejména
+>
+> - a) vyžadovat vysvětlení od fyzických a právnických osob a státních orgánů,
+>
+> - b) vyžadovat odborné vyjádření od příslušných orgánů, a je-li toho pro posouzení věci třeba, též znalecké posudky,
+>
+> - c) obstarávat potřebné podklady, zejména spisy a jiné písemné materiály,
+>
+> - d) provádět ohledání věci a místa činu,
+>
+> - e) vyžadovat za podmínek uvedených v § 114 provedení zkoušky krve nebo jiného podobného úkonu, včetně odběru potřebného biologického materiálu,
+>
+> - f) pořizovat zvukové a obrazové záznamy osob, za podmínek stanovených v § 114 snímat daktyloskopické otisky, provádět osobou téhož pohlaví nebo lékařem prohlídku těla a jeho zevní měření, jestliže je to nutné ke zjištění totožnosti osoby nebo ke zjištění a zachycení stop nebo následků činu,
+>
+> - g) za podmínek stanovených v § 76 zadržet podezřelou osobu,
+>
+> - h) za podmínek stanovených v § 78 až 81 činit rozhodnutí a opatření v těchto ustanoveních naznačená,
+>
+> - i) způsobem uvedeným v hlavě čtvrté provádět neodkladné nebo neopakovatelné úkony, pokud podle tohoto zákona jejich provedení nepatří do výlučné pravomoci jiného orgánu činného v trestním řízení.
+>
+> (4) Jednotlivé úkony trestního řízení k objasnění a prověření skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, mohou na základě dožádání provést i jiné policejní orgány.
+>
+> (5) Při podání vysvětlení má každý právo na právní pomoc advokáta. Je-li vysvětlení požadováno od nezletilého, je třeba o úkonu předem vyrozumět jeho zákonného zástupce nebo opatrovníka; to neplatí, jestliže provedení úkonu nelze odložit a vyrozumění zákonného zástupce nebo opatrovníka nelze zajistit.
+>
+> (6) O obsahu vysvětlení, která nemají povahu neodkladného nebo neopakovatelného úkonu, se sepíše úřední záznam. Je-li úřední záznam podepsán osobou podávající vysvětlení, bude jí na žádost poskytnuta jeho kopie. Úřední záznam slouží státnímu zástupci a obviněnému ke zvážení návrhu, aby osoba, která takové vysvětlení podala, byla vyslechnuta jako svědek, a soudu k úvaze, zda takový důkaz provede. Úřední záznam lze v řízení před soudem užít jako důkaz pouze za podmínek stanovených tímto zákonem. Je-li ten, kdo podal vysvětlení, později vyslýchán jako svědek nebo jako obviněný, nemůže mu být záznam přečten, nebo jinak konstatován jeho obsah.
+>
+> (7) Policejní orgán je oprávněn vyzvat osobu, aby se dostavila k podání vysvětlení ve stanovené době na určené místo; v řízení o zločinu je osoba povinna výzvě vyhovět ihned. Jestliže se osoba, která byla řádně vyzvána k podání vysvětlení, bez dostatečné omluvy nedostaví, může být předvedena. Na to a na jiné následky nedostavení (§ 66) musí být taková osoba upozorněna.
+>
+> (8) Vysvětlení podle odstavce 3 nesmí být požadováno od toho, kdo by jím porušil státem výslovně uloženou nebo uznanou povinnost mlčenlivosti, ledaže by byl této povinnosti zproštěn příslušným orgánem nebo tím, v jehož zájmu tuto povinnost má. Osoba podávající vysvětlení, s výjimkou podezřelého, je povinna vypovídat pravdu a nic nezamlčet; vysvětlení může odepřít, pokud by jím způsobila nebezpečí trestního stíhání sobě nebo osobám uvedeným v § 100 odst. 2; o tom je třeba osobu, od níž je požadováno vysvětlení, předem poučit. Nasvědčují-li zjištěné okolnosti tomu, že osobě podávající vysvětlení bude třeba jako svědkovi poskytnout ochranu, je třeba při sepisování úředního záznamu postupovat podle § 55 odst. 2.
+>
+> (9) Má-li výpověď osoby povahu neodkladného nebo neopakovatelného úkonu, policejní orgán ji vyslechne jako svědka za podmínek uvedených v § 158a. Jako svědka vyslechne i osobu mladší osmnácti let a osobu, o jejíž schopnosti správně a úplně vnímat, zapamatovat si nebo reprodukovat jsou s ohledem na její psychický stav pochybnosti. Jestliže lze předpokládat, že další prověřování trestního oznámení nebo jiného podnětu k trestnímu stíhání bude trvat delší dobu, zejména proto, že nebyla zjištěna osoba, u níž je dostatečně odůvodněn závěr, že trestný čin spáchala, a v důsledku toho nelze zahájit trestní stíhání a hrozí ztráta důkazní hodnoty výpovědi, je možno vyslechnout jako svědka i osobu, jejíž výpověď má podle odůvodněného předpokladu rozhodující význam pro zahájení trestního stíhání, nasvědčují-li zjištěné skutečnosti tomu, že by mohl být na takovou osobu pro její výpověď vyvíjen nátlak, anebo hrozí z jiného důvodu, že bude ovlivněna její výpověď. Pokud výslechy těchto osob nebyly po zahájení trestního stíhání provedeny znovu podle § 164 odst. 4, lze protokoly o jejich výslechu v hlavním líčení číst nebo obrazové a zvukové záznamy pořízené o jejich výslechu provedeném prostřednictvím videokonferenčního zařízení přehrát pouze podle § 211 odst. 1, odst. 2 písm. a), odst. 3 písm. b), c); jinak lze pouze předestřít protokoly o jejich výslechu podle § 212.
+>
+> (10) Kdo se dostaví na výzvu k podání vysvětlení, má nárok na náhradu nutných výdajů podle zvláštního právního předpisu upravujícího cestovní náhrady a prokázaného ušlého výdělku za stejných podmínek jako svědek. Nárok nemá ten, kdo byl vyzván k dostavení se pro své protiprávní jednání.
+>
+> (11) Provádí-li opatření nebo úkony podle předchozích odstavců jiný policejní orgán než útvar Policie České republiky, vyrozumí o předmětu šetření neprodleně útvar Policie České republiky, který by jinak byl příslušný k řízení. Vznikne-li mezi útvarem Policie České republiky a jiným policejním orgánem spor o příslušnost, předloží věc k posouzení státnímu zástupci. Jeho stanovisko je závazné.
+>
+> (12) Je-li při prověřování skutečností nasvědčujících tomu, že byl spáchán trestný čin, zjištěno, že příslušnou k řízení je Generální inspekce bezpečnostních sborů, policejní orgán ji o předmětu šetření neprodleně vyrozumí a věc jí předá. Do doby, než Generální inspekce bezpečnostních sborů věc převezme, je policejní orgán oprávněn provádět pouze neodkladné a neopakovatelné úkony. Vznikne-li mezi policejním orgánem a Generální inspekcí bezpečnostních sborů spor o příslušnost, policejní orgán věc předloží k posouzení příslušnému státnímu zástupci. Jeho stanovisko je závazné. Ustanovení odstavce 11 se nepoužije.
+
+</details>
+
 
 **Odst. 1 — povinnost policejního orgánu:**
 
@@ -133,6 +220,15 @@ Pokud má výpověď **povahu neodkladného/neopakovatelného úkonu** → výsl
 **Odst. 11–12 — kompetenční konflikty**: jiný policejní orgán než útvar PČR vyrozumí příslušný útvar PČR. Spory řeší **SZ** (závazné stanovisko). Speciální režim pro **GIBS** — vyrozumění + předání věci.
 
 ### § 158a — Neodkladný/neopakovatelný úkon za účasti soudce
+<details>
+<summary>📜 <strong>Citace § 158a (úplné znění)</strong></summary>
+
+> #### § 158a
+>
+> Je-li při prověřování skutečností nasvědčujících tomu, že byl spáchán trestný čin, a zjišťování jeho pachatele třeba provést neodkladný nebo neopakovatelný úkon spočívající ve výslechu svědka nebo v rekognici, provede se na návrh státního zástupce takový úkon za účasti soudce; soudce v takovém případě odpovídá za zákonnost provedení úkonu a k tomu cíli může do průběhu úkonu zasahovat. Soudci však nepřísluší přezkoumávat závěr státního zástupce o tom, že úkon je podle zákona neodkladný nebo neopakovatelný.
+
+</details>
+
 
 **Klíčové ustanovení.** Pokud je třeba před zahájením TS provést **neodkladný/neopakovatelný úkon**, kterým je:
 - **výslech svědka**, nebo

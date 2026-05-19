@@ -6,6 +6,15 @@
 ---
 
 ## § 363 — Oprávněné osoby k podání žádosti
+<details>
+<summary>📜 <strong>Citace § 363 (úplné znění)</strong></summary>
+
+> #### § 363
+>
+> O zahlazení odsouzení rozhoduje samosoudce na žádost odsouzeného nebo na návrh zájmového sdružení uvedeného v § 3 odst. 1, a nejde-li o případ upravený v § 69 odst. 3 tr. zák., též na žádost osob, které by mohly ve prospěch odsouzeného podat odvolání.
+
+</details>
+
 
 O zahlazení rozhoduje **samosoudce** na:
 - **žádost odsouzeného**;
@@ -17,6 +26,17 @@ O zahlazení rozhoduje **samosoudce** na:
 ---
 
 ## § 364 — Příslušnost soudu
+<details>
+<summary>📜 <strong>Citace § 364 (úplné znění)</strong></summary>
+
+> #### § 364
+>
+> (1) O zahlazení odsouzení rozhoduje samosoudce okresního soudu, v jehož obvodu odsouzený v době podání návrhu má nebo naposledy měl bydliště.
+>
+> (2) Proti rozhodnutí o zahlazení odsouzení je přípustná stížnost, jež má odkladný účinek.
+
+</details>
+
 
 **Odst. 1**: **Samosoudce OS**, v jehož obvodu odsouzený v době podání návrhu **má nebo naposledy měl bydliště**.
 
@@ -27,6 +47,21 @@ O zahlazení rozhoduje **samosoudce** na:
 ---
 
 ## § 364a — Speciální příslušnost u cizozemských a mezinárodních odsouzení
+<details>
+<summary>📜 <strong>Citace § 364a (úplné znění)</strong></summary>
+
+> #### § 364a
+>
+> Samosoudce okresního soudu uvedeného v § 364 odst. 1 též rozhoduje o
+>
+> - a) zahlazení odsouzení cizozemským soudem, mezinárodním trestním soudem, mezinárodním trestním tribunálem anebo obdobným mezinárodním soudním orgánem s působností v trestních věcech, které je zaznamenáno v rejstříku trestů na základě uznání rozhodnutí cizozemského soudu nebo na základě rozhodnutí Nejvyššího soudu podle zvláštního právního předpisu,
+>
+> - b) zahlazení odsouzení zaznamenaných v rejstříku trestů na základě Smlouvy mezi vládou České republiky a vládou Slovenské republiky o výměně údajů z informačních fondů obsažených v rejstříku trestů;
+>
+> účinky v cizině může mít takové rozhodnutí pouze tehdy, stanoví-li tak mezinárodní smlouva.
+
+</details>
+
 
 Samosoudce OS podle § 364 odst. 1 rozhoduje také o zahlazení:
 - a) odsouzení **cizozemským soudem**, **mezinárodním trestním soudem** (MTS / ICC), **mezinárodním trestním tribunálem** (Haag, Arusha) — zaznamenané v Rejstříku trestů ČR na základě **uznání** rozhodnutí cizozemského soudu nebo **rozhodnutí NS** dle zvláštního zákona (ZMJS);
@@ -40,6 +75,17 @@ Samosoudce OS podle § 364 odst. 1 rozhoduje také o zahlazení:
 ---
 
 ## § 365 — Důsledky a opakování žádosti
+<details>
+<summary>📜 <strong>Citace § 365 (úplné znění)</strong></summary>
+
+> #### § 365
+>
+> (1) Jakmile rozhodnutí o zahlazení odsouzení nabylo právní moci, vyrozumí samosoudce odsouzeného, navrhovatele a Ministerstvo spravedlnosti; zahlazené odsouzení nesmí být vykazováno ve výpisu z rejstříku trestů.
+>
+> (2) Byla-li žádost o zahlazení odsouzení zamítnuta, může být znovu podána teprve po uplynutí jednoho roku, ledaže by byla zamítnuta jen proto, že dosud neuplynula doba zákonem stanovená pro zahlazení. Žádost přesto podanou zamítne samosoudce bez šetření.
+
+</details>
+
 
 **Odst. 1 — vyrozumění**:
 

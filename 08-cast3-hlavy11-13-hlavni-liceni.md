@@ -11,6 +11,21 @@
 # Hlava XI — Základní ustanovení (§ 180 – § 184)
 
 ## § 180 — Obžalovací zásada a postavení SZ
+<details>
+<summary>📜 <strong>Citace § 180 (úplné znění)</strong></summary>
+
+> #### § 180
+>
+> (1) Trestní stíhání před soudem se koná jen na podkladě obžaloby nebo návrhu na potrestání, které podává a před soudem zastupuje státní zástupce, nebo na podkladě návrhu na schválení dohody o vině a trestu, který podává státní zástupce. V řízení před okresním soudem se státní zástupce může nechat zastoupit právním čekatelem, nejde-li o řízení o schválení dohody o vině a trestu.
+>
+> (2) Při podání a zastupování obžaloby se státní zástupce řídí zákonem a vnitřním přesvědčením založeným na uvážení všech okolností případu. V řízení před soudem vystupuje tak, aby byly objasněny všechny podstatné skutečnosti rozhodné z hlediska podané obžaloby. Za tímto účelem opatřuje z vlastní iniciativy nebo na žádost předsedy senátu i další důkazy, které nebyly dosud opatřeny či provedeny.
+>
+> (3) Při dokazování v hlavním líčení a ve veřejném zasedání státní zástupce navrhuje provedení důkazů, které nebyly navrženy již v obžalobě a potřeba je provést vznikla v průběhu řízení před soudem; zpravidla provádí se souhlasem nebo na výzvu předsedy senátu důkazy (§ 203, § 215 odst. 2), které podporují obžalobu. Obhájce nebo obviněný, který nemá obhájce, má právo ve stejném rozsahu se souhlasem předsedy senátu provádět důkazy (§ 215 odst. 2) ve prospěch obhajoby. Spočívá-li provedení těchto důkazů některou ze stran ve výslechu svědka nebo znalce, provede jeho zákonné poučení před započetím výslechu předseda senátu nebo jiný pověřený člen senátu.
+>
+> (4) V hlavním líčení, ve veřejném zasedání nebo při jiném úkonu soudu prováděném za přítomnosti stran, může každá ze stran vznášet kdykoliv v jeho průběhu námitky proti způsobu provádění úkonu.
+
+</details>
+
 
 **Odst. 1 — *nemo iudex sine actore*:**
 
@@ -38,6 +53,19 @@ V HL a VZ:
 **Odst. 4**: **Námitky stran** proti způsobu provádění úkonu lze vznášet **kdykoli v jeho průběhu**.
 
 ## § 181 — Předběžný přezkum + lhůty pro nařízení HL
+<details>
+<summary>📜 <strong>Citace § 181 (úplné znění)</strong></summary>
+
+> #### § 181
+>
+> (1) Podanou obžalobu je třeba u soudu nejprve přezkoumat z toho hlediska, zda pro další řízení poskytuje spolehlivý podklad, zejména prověřit, zda je dána příslušnost soudu k projednání věci (§ 16 až 22), zda v přípravném řízení nedošlo k závažným procesním vadám, které nelze napravit v řízení před soudem, a zda byly v přípravném řízení objasněny základní skutečnosti, bez kterých není možno hlavní líčení provést a v něm rozhodnout. K tomu slouží předběžné projednání obžaloby.
+>
+> (2) Po podání obžaloby soud, nevyčkávaje dalších návrhů, postupuje tak, aby řízení bez průtahů směřovalo k rozhodnutí věci, včetně výkonu rozhodnutí.
+>
+> (3) Samosoudce je povinen v řízení před okresním soudem ve lhůtě tří týdnů a předseda senátu v řízení před krajským soudem jako soudem prvního stupně ve lhůtě tří měsíců od podání obžaloby nařídit ve věci hlavní líčení, předběžné projednání obžaloby nebo učinit jiný úkon směřující k rozhodnutí věci, včetně pověření Probační a mediační služby k úkonům směřujícím k rozhodnutí o podmíněném zastavení trestního stíhání nebo o schválení narovnání anebo jinému rozhodnutí věci mimo hlavní líčení. Nemůže-li tak ze závažných důvodů učinit, předloží spis předsedovi soudu, který podle povahy věci buď uvedenou lhůtu na nezbytně nutnou dobu prodlouží nebo v souladu s rozvrhem práce soudu učiní jiné vhodné opatření k zajištění plynulosti řízení.
+
+</details>
+
 
 **Odst. 1 — předběžný přezkum obžaloby**:
 
@@ -65,6 +93,15 @@ Musí nařídit:
 **Nemůže-li ze závažných důvodů** → předložení **předsedovi soudu**, který lhůtu prodlouží na nezbytně nutnou dobu nebo provede jiné opatření k zajištění plynulosti.
 
 ## § 182 — Dispozice obžalobou (zpětvzetí SZ)
+<details>
+<summary>📜 <strong>Citace § 182 (úplné znění)</strong></summary>
+
+> #### § 182
+>
+> Státní zástupce může vzít obžalobu zpět až do doby, než se soud prvního stupně odebere k závěrečné poradě nebo samosoudce počne vyhlašovat rozhodnutí ve věci; po zahájení hlavního líčení tak může učinit jen tehdy, pokud obžalovaný netrvá na jeho pokračování. Zpětvzetím obžaloby se věc vrací do přípravného řízení.
+
+</details>
+
 
 > *Státní zástupce může vzít obžalobu zpět až do doby, než se soud prvního stupně odebere k závěrečné poradě nebo samosoudce počne vyhlašovat rozhodnutí ve věci; po zahájení hlavního líčení tak může učinit jen tehdy, pokud obžalovaný netrvá na jeho pokračování.*
 
@@ -75,12 +112,38 @@ Musí nařídit:
 **Zpětvzetí = věc se vrací do přípravného řízení**.
 
 ## § 183 — Pomoc policejního orgánu, konzultant
+<details>
+<summary>📜 <strong>Citace § 183 (úplné znění)</strong></summary>
+
+> #### § 183
+>
+> (1) Kdykoliv v průběhu řízení před soudem může předseda senátu požádat policejní orgán o opatření jednotlivého důkazu, o předvedení osoby nebo za podmínek § 62 odst. 1 o doručení písemnosti. Policejní orgán je povinen mu urychleně vyhovět.
+>
+> (2) V závažných a skutkově složitých věcech vyžadujících znalost speciálního oboru může předseda senátu přibrat konzultanta. Ustanovení § 157 odst. 3 až 5 se použije obdobně.
+
+</details>
+
 
 **Odst. 1**: Předseda senátu může **kdykoli** požádat policejní orgán o opatření **jednotlivého důkazu, předvedení osoby, doručení písemnosti** (§ 62 odst. 1). Policejní orgán **urychleně vyhoví**.
 
 **Odst. 2**: V závažných věcech může předseda senátu přibrat **konzultanta** (§ 157 odst. 3–5 obdobně).
 
 ## § 183a — Výslech mimo HL/VZ
+<details>
+<summary>📜 <strong>Citace § 183a (úplné znění)</strong></summary>
+
+> #### § 183a
+>
+> (1) V řízení před soudem může předseda senátu nebo jiný pověřený člen senátu výjimečně z důležitých důvodů vyslechnout obviněného, svědka, znalce nebo provést jiný důkaz mimo hlavní líčení nebo veřejné zasedání. Státní zástupce i obhájce obviněného, kterého se takový úkon týká, jsou oprávněni se takového úkonu zúčastnit a o jeho konání být včas vyrozuměni, ledaže nelze provedení úkonu odložit a jejich vyrozumění nelze zajistit. Účast obviněného na takovém výslechu může být připuštěna zejména v případech, kdy nemá obhájce, a jde-li o výslech svědka, který má právo odepřít výpověď. Vyrozumění o výslechu svědka nebo o jiném úkonu s takovým svědkem, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, nesmí obsahovat údaje, podle nichž by bylo možné zjistit skutečnou totožnost svědka.
+>
+> (2) Účast osob uvedených v odstavci 1 na úkonu může být zajištěna, zejména jde-li o úkon, na němž se účastní osoba mladší než osmnáct let nebo svědek, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, i prostřednictvím videokonferenčního zařízení.
+>
+> (3) Má-li takový důkaz později sloužit k rozhodnutí v hlavním líčení, veřejném nebo neveřejném zasedání, musí v něm být v souladu se zákonem proveden. Číst protokol o výslechu takového svědka nebo přehrát obrazový a zvukový záznam pořízený o jeho výslechu provedeném prostřednictvím videokonferenčního zařízení je možné v hlavním líčení nebo veřejném zasedání o odvolání pouze za podmínek uvedených v § 211, a jde-li o svědka mladšího než osmnáct let, o okolnostech, jejichž oživování v paměti by vzhledem k věku mohlo nepříznivě ovlivňovat jeho duševní a mravní vývoj, za podmínek uvedených v § 102 odst. 2.
+>
+> (4) Předseda senátu dbá na ochranu svědků a osob jim blízkých, kterým v souvislosti s podáním svědectví hrozí újma na zdraví, smrt nebo jiné vážné nebezpečí, a je-li to třeba i na utajení jejich totožnosti, popřípadě podoby. Pokud je třeba zajistit ochranu těchto osob i po podání svědectví, předseda senátu učiní po ukončení výslechu bezodkladně všechna potřebná opatření. V nezbytných případech požádá o ochranu uvedených osob orgány Policie České republiky. Způsob zvláštní ochrany svědků a osob jim blízkých stanoví zvláštní zákon.
+
+</details>
+
 
 **Odst. 1 — výjimečné důvody**:
 
@@ -102,6 +165,19 @@ Pokud má důkaz později sloužit pro HL, **musí v něm být v souladu se zák
 Předseda senátu **dbá na ochranu svědků** + osob blízkých ohrožených v souvislosti se svědectvím. Vč. **utajení totožnosti a podoby**, požádání **PČR o ochranu**. Zvláštní zákon (z. č. 137/2001 Sb.).
 
 ## § 184 — Objasnění příčin TČ, role PMS
+<details>
+<summary>📜 <strong>Citace § 184 (úplné znění)</strong></summary>
+
+> #### § 184
+>
+> (1) Soud je povinen při projednávání věci zaměřit se také na objasnění příčin, které vedly k trestné činnosti nebo umožnily její spáchání.
+>
+> (2) K objasnění příčin trestného činu a k urovnání sporu mezi obviněným a poškozeným napomáhá ve stadiu řízení před soudem Probační a mediační služba prostřednictvím probačních úředníků.
+>
+> (3) Dovoluje-li to povaha věci a osoba obviněného, vytváří Probační a mediační služba předpoklady pro rozhodnutí soudu mimo hlavní líčení, pro projednání věci v některém ze zvláštních druhů řízení a pro uložení trestů nespojených s odnětím svobody; za tím účelem na základě pověření předsedy senátu Probační a mediační služba vyžaduje a opatřuje potřebné podklady, zejména k osobě obviněného.
+
+</details>
+
 
 **Odst. 1**: Soud se zaměří na **objasnění příčin TČ**.
 
@@ -124,6 +200,19 @@ Na pověření předsedy senátu PMS opatřuje **podklady k osobě obviněného*
 - nápravě **vad** přípravného řízení (vrácení k došetření).
 
 ## § 185 — Obecné ustanovení
+<details>
+<summary>📜 <strong>Citace § 185 (úplné znění)</strong></summary>
+
+> #### § 185
+>
+> ##### Obecné ustanovení
+>
+> (1) Obžalobu u soudu podanou přezkoumá předseda senátu a podle jejího obsahu a podle obsahu spisu posoudí, zda je ji nutno předběžně projednat v zasedání senátu anebo zda může nařídit o ní hlavní líčení.
+>
+> (2) K usnadnění rozhodnutí může vyslechnout obviněného a opatřit potřebná vysvětlení.
+
+</details>
+
 
 **Odst. 1**: Předseda senátu **přezkoumá obžalobu** + spis a rozhodne, zda:
 - **nařídí předběžné projednání** v zasedání senátu;
@@ -134,6 +223,31 @@ Na pověření předsedy senátu PMS opatřuje **podklady k osobě obviněného*
 - opatřit **potřebná vysvětlení**.
 
 ## § 186 — Důvody předběžného projednání (7 taxativně):
+<details>
+<summary>📜 <strong>Citace § 186 (úplné znění)</strong></summary>
+
+> #### § 186
+>
+> ##### Důvody k předběžnému projednání obžaloby
+>
+> Předseda senátu nařídí předběžné projednání obžaloby, má-li za to, že
+>
+> - a) věc patří do příslušnosti jiného soudu,
+>
+> - b) věc má být postoupena podle § 171 odst. 1,
+>
+> - c) jsou tu okolnosti odůvodňující zastavení trestního stíhání podle § 172 odst. 1 nebo jeho přerušení podle § 173 odst. 1, anebo okolnosti odůvodňující podmíněné zastavení trestního stíhání podle § 307,
+>
+> - d) skutek, který je předmětem obžaloby, bude třeba posuzovat podle jiného ustanovení trestního zákona, než podle kterého jej posuzuje obžaloba,
+>
+> - e) přípravné řízení nebylo provedeno podle zákona, neboť v něm byly závažným způsobem porušeny procesní předpisy, zejména ustanovení zajišťující právo obhajoby, a takové porušení procesních předpisů nelze napravit v řízení před soudem,
+>
+> - f) ve věci nejsou v potřebném rozsahu objasněny základní skutkové okolnosti, bez kterých není možné ve věci rozhodnout, nebo
+>
+> - g) vzhledem k okolnostem případu by bylo vhodné sjednání dohody o vině a trestu, zejména navrhl-li takový postup státní zástupce nebo obviněný.
+
+</details>
+
 
 Předseda senátu **nařídí** předběžné projednání, má-li za to, že:
 
@@ -146,6 +260,25 @@ Předseda senátu **nařídí** předběžné projednání, má-li za to, že:
 - **g)** **vhodné by bylo sjednání dohody o vině a trestu** (zejména na návrh SZ nebo obviněného).
 
 ## § 187 — Způsob předběžného projednání
+<details>
+<summary>📜 <strong>Citace § 187 (úplné znění)</strong></summary>
+
+> #### § 187
+>
+> ##### Způsob předběžného projednání obžaloby
+>
+> (1) Předběžné projednání obžaloby se koná v neveřejném zasedání, nejsou-li dány důvody pro konání vazebního zasedání. Považuje-li to předseda senátu pro rozhodnutí soudu za potřebné, nařídí o předběžném projednání obžaloby veřejné zasedání.
+>
+> (2) Při předběžném projednání obžaloby přezkoumá soud vždy celou obžalobu; předseda senátu z tohoto hlediska podá zprávu, přičemž se zaměří na otázky, které je třeba řešit.
+>
+> (3) Soud přezkoumá úplnost důkazního materiálu a opodstatněnost obžaloby na základě spisu.
+>
+> (4) Koná-li se předběžné projednání obžaloby z důvodu uvedeného v § 186 písm. g), soud zjistí stanovisko obviněného a státního zástupce k sjednání dohody o vině a trestu. Vyjádří-li se státní zástupce a obviněný, že mají zájem jednat o dohodě o vině a trestu, soud stanoví státnímu zástupci přiměřenou lhůtu k podání návrhu na schválení takové dohody. Podá-li státní zástupce ve stanovené lhůtě soudu návrh na schválení dohody o vině a trestu, postupuje soud podle § 314o až 314s; v případech, ve kterých se podle § 314o až 314r věc vrací do přípravného řízení, soud jedná na podkladě původní obžaloby. Nepodá-li státní zástupce ve stanovené lhůtě soudu návrh na schválení dohody o vině a trestu, soud nařídí hlavní líčení, neučiní-li některé z rozhodnutí uvedených v § 188.
+>
+> #### Rozhodnutí
+
+</details>
+
 
 **Odst. 1**: Předběžné projednání v **neveřejném zasedání**. Pokud předseda senátu považuje za potřebné → **veřejné zasedání**.
 
@@ -162,6 +295,31 @@ Při důvodu § 186 písm. g):
 - pokud SZ nepodá v lhůtě → soud **nařídí HL** (pokud neučiní jiné rozhodnutí § 188).
 
 ## § 188 — Rozhodnutí po předběžném projednání (6 typů)
+<details>
+<summary>📜 <strong>Citace § 188 (úplné znění)</strong></summary>
+
+> #### § 188
+>
+> (1) Po předběžném projednání obžaloby soud
+>
+> - a) rozhodne o předložení věci k rozhodnutí o příslušnosti soudu, který je nejblíže společně nadřízen jemu a soudu, jenž je podle něj příslušný, má-li za to, že sám není příslušný k jejímu projednání,
+>
+> - b) postoupí věc jinému orgánu, jsou-li tu okolnosti uvedené v § 171 odst. 1,
+>
+> - c) trestní stíhání zastaví, jsou-li tu okolnosti uvedené v § 172 odst. 1,
+>
+> - d) trestní stíhání přeruší, jsou-li tu okolnosti uvedené v § 173 odst. 1,
+>
+> - e) vrátí věc státnímu zástupci k došetření, je-li toho třeba k odstranění závažných procesních vad přípravného řízení, které nelze napravit v řízení před soudem, nebo k objasnění základních skutkových okolností, bez kterých není možné v hlavním líčení ve věci rozhodnout, a v řízení před soudem by takové došetření bylo v porovnání s možnostmi opatřit takový důkaz v přípravném řízení spojeno s výraznými obtížemi nebo by zřejmě bylo na újmu rychlosti řízení, nebo
+>
+> - f) trestní stíhání podmíněně zastaví podle § 307 nebo rozhodne o schválení narovnání podle § 309.
+>
+> (2) Po předběžném projednání obžaloby může soud také zastavit trestní stíhání, jsou-li tu okolnosti uvedené v § 172 odst. 2 písm. a) až c).
+>
+> (3) Proti rozhodnutí podle odstavce 1 písm. b) až f) a podle odstavce 2 mohou státní zástupce i obviněný podat stížnost, jež má, nejde-li o přerušení trestního stíhání, odkladný účinek. Proti rozhodnutí o podmíněném zastavení trestního stíhání a o schválení narovnání může podat stížnost, jež má odkladný účinek, též poškozený.
+
+</details>
+
 
 **Odst. 1 — povinná rozhodnutí:**
 
@@ -177,16 +335,47 @@ Při důvodu § 186 písm. g):
 **Odst. 3 — stížnost**: pro b)–f) + odst. 2 — SZ + obviněný (poškozený u podmíněného zastavení / narovnání). **Odkladný účinek** (vyjma přerušení).
 
 ## § 189 — Omezení rozhodnutí o příslušnosti
+<details>
+<summary>📜 <strong>Citace § 189 (úplné znění)</strong></summary>
+
+> #### § 189
+>
+> Rozhodnout o předložení věci k rozhodnutí o příslušnosti soudu podle § 188 odst. 1 písm. a) nemůže soud, jemuž byla věc přikázána podle § 24 nebo § 25 nadřízeným soudem, ledaže by se skutkový podklad pro posouzení příslušnosti mezitím podstatně změnil.
+
+</details>
+
 
 Soud, jemuž byla věc přikázána (§ 24, § 25) nadřízeným soudem, **nemůže** rozhodovat o příslušnosti — ledaže **se skutkový podklad podstatně změnil**.
 
 ## § 190 — Změna právní kvalifikace
+<details>
+<summary>📜 <strong>Citace § 190 (úplné znění)</strong></summary>
+
+> #### § 190
+>
+> (1) Má-li soud za to, že při správném použití zákona je nutno skutek, který je předmětem obžaloby, posoudit podle jiného ustanovení zákona, než podle kterého jej posuzovala obžaloba, vrátí věc státnímu zástupci k došetření (§ 188 odst. 1 písm. e), je-li třeba vzhledem k odchylnému právnímu posouzení věc ještě blíže objasnit.
+>
+> (2) Není-li došetření třeba, upozorní předseda senátu na možnost odchylného právního posouzení skutku osoby, kterým se doručuje opis obžaloby (§ 196 odst. 1).
+
+</details>
+
 
 **Odst. 1**: Pokud by skutek měl být **jinak posuzován** + třeba bližší objasnění → **vrácení SZ k došetření**.
 
 **Odst. 2 — bez došetření**: předseda senátu **upozorní na možnost odchylného právního posouzení** osoby, kterým se doručuje obžaloba (§ 196 odst. 1).
 
 ## § 191 — Náležitosti usnesení o vrácení k došetření
+<details>
+<summary>📜 <strong>Citace § 191 (úplné znění)</strong></summary>
+
+> #### § 191
+>
+> (1) Vrátí-li soud věc státnímu zástupci k došetření, uvede v usnesení, v kterých směrech je třeba přípravné řízení doplnit a které skutečnosti je třeba objasnit, popřípadě které úkony je třeba provést.
+>
+> (2) Jakmile usnesení o vrácení věci státnímu zástupci k došetření nabylo právní moci, vrací se věc do stavu přípravného řízení.
+
+</details>
+
 
 Soud uvede:
 - **v kterých směrech** je třeba doplnit;
@@ -196,10 +385,32 @@ Soud uvede:
 **PM = věc se vrací do stavu přípravného řízení**.
 
 ## § 192 — Vazba při předběžném projednání
+<details>
+<summary>📜 <strong>Citace § 192 (úplné znění)</strong></summary>
+
+> #### § 192
+>
+> Je-li obviněný ve vazbě, rozhodne soud při předběžném projednání obžaloby vždy také o dalším trvání vazby.
+
+</details>
+
 
 Pokud obviněný **ve vazbě** → soud **vždy také** rozhodne o **dalším trvání vazby**.
 
 ## § 195 — Nové předběžné projednání
+<details>
+<summary>📜 <strong>Citace § 195 (úplné znění)</strong></summary>
+
+> #### § 195
+>
+> ##### Nové předběžné projednání obžaloby
+>
+> (1) Rozhodne-li se státní zástupce ve věci, která mu byla vrácena k došetření, opět pro podání obžaloby, přihlédne v ní i k výsledkům provedeného došetření. Obžaloba se za podmínek uvedených v § 186 u soudu znovu předběžně projedná.
+>
+> (2) Za podmínek uvedených v § 186 se obžaloba znovu předběžně projedná také u soudu, jemuž věc byla přikázána nadřízeným soudem po předložení věci podle § 188 odst. 1 písm. a).
+
+</details>
+
 
 Po vrácení k došetření, pokud SZ znovu **podá obžalobu**, dochází k novému **předběžnému projednání** (§ 186). Také po přikázání věci nadřízeným soudem podle § 188 odst. 1 písm. a).
 

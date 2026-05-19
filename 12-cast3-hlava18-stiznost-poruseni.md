@@ -6,6 +6,27 @@
 ---
 
 ## § 266 — Přípustnost a procesní postavení
+<details>
+<summary>📜 <strong>Citace § 266 (úplné znění)</strong></summary>
+
+> #### § 266
+>
+> (1) Proti pravomocnému rozhodnutí soudu nebo státního zástupce, jímž byl porušen zákon nebo které bylo učiněno na podkladě vadného postupu řízení, může ministr spravedlnosti podat u Nejvyššího soudu stížnost pro porušení zákona. Nestanoví-li zákon jinak, není proti rozhodnutí Nejvyššího soudu stížnost pro porušení zákona přípustná.
+>
+> (2) Proti výroku o trestu lze stížnost pro porušení zákona podat jen tehdy, jestliže trest je ve zřejmém nepoměru k povaze a závažnosti trestného činu nebo k poměrům pachatele nebo jestliže uložený druh trestu je v zřejmém rozporu s účelem trestu.
+>
+> (3) Týká-li se rozhodnutí uvedené v odstavci 1 více osob, lze stížnost pro porušení zákona podat také jen proti té části rozhodnutí, která se týká některé z těchto osob.
+>
+> (4) Stížnost pro porušení zákona v neprospěch obviněného proti pravomocnému rozhodnutí soudu nelze podat jen z toho důvodu, že soud postupoval v souladu s § 259 odst. 4, § 264 odst. 2, § 273 nebo § 289 písm. b).
+>
+> (5) Ustanovení odstavce 4 se užije přiměřeně i na rozhodnutí soudu nebo státního zástupce učiněné v souladu s § 150 odst. 1 nebo 3.
+>
+> (6) Ministr spravedlnosti může vzít zpět stížnost pro porušení zákona, kterou podal, a to až do doby, než se soud rozhodující o stížnosti pro porušení zákona odebere k závěrečné poradě. Zpětvzetí stížnosti vezme usnesením na vědomí předseda senátu tohoto soudu.
+>
+> (7) Dospěje-li ministr spravedlnosti na podkladě obsahu spisu k závěru, že by měl být odložen nebo přerušen výkon rozhodnutí anebo by mělo být pozastaveno nakládání s věcmi, které propadly nebo byly zabrány na základě takového rozhodnutí, navrhne Nejvyššímu soudu takový postup spolu s podáním stížnosti pro porušení zákona ve prospěch obviněného.
+
+</details>
+
 
 **Odst. 1 — generální klauzule:**
 
@@ -44,6 +65,17 @@ Pouze excesy, ne rutinní rozdíly v individualizaci trestu.
 ---
 
 ## § 266a — Doplnění odůvodnění a společné řízení
+<details>
+<summary>📜 <strong>Citace § 266a (úplné znění)</strong></summary>
+
+> #### § 266a
+>
+> (1) Podanou stížnost pro porušení zákona, která nebyla odůvodněna, je ministr spravedlnosti povinen odůvodnit do 14 dnů od jejího podání.
+>
+> (2) Stížnost pro porušení zákona a dovolání podané v téže věci projedná Nejvyšší soud ve společném řízení. To nevylučuje postup podle § 23.
+
+</details>
+
 
 **Odst. 1**: Pokud SPZ není odůvodněna při podání → ministr ji **odůvodní do 14 dnů**.
 
@@ -56,6 +88,23 @@ Pouze excesy, ne rutinní rozdíly v individualizaci trestu.
 ---
 
 ## § 267 — Obsah a rozsah přezkumu
+<details>
+<summary>📜 <strong>Citace § 267 (úplné znění)</strong></summary>
+
+> #### § 267
+>
+> (1) Ve stížnosti pro porušení zákona musí být vedle obecných náležitostí (§ 59 odst. 3) podání uvedeno, proti kterému rozhodnutí směřuje, který výrok, v jakém rozsahu i z jakých důvodů napadá a čeho se ministr spravedlnosti domáhá, včetně konkrétního návrhu na rozhodnutí Nejvyššího soudu. Ministr spravedlnosti je povinen ve stížnosti pro porušení zákona uvést, zda ji podává ve prospěch nebo v neprospěch obviněného.
+>
+> (2) Podanou a ve lhůtě uvedené v § 266a odst. 1 též odůvodněnou stížnost pro porušení zákona již nelze v průběhu řízení před Nejvyšším soudem měnit.
+>
+> (3) Nejvyšší soud přezkoumá zákonnost a odůvodněnost těch výroků rozhodnutí, proti nimž byla stížnost pro porušení zákona podána, v rozsahu a z důvodů v ní uvedených, jakož i řízení napadené části rozhodnutí předcházející. K vadám výroků, které nebyly stížností pro porušení zákona napadeny, Nejvyšší soud přihlíží, jen pokud by mohly mít vliv na správnost výroků, proti nimž byla podána stížnost pro porušení zákona.
+>
+> (4) Jestliže ministr spravedlnosti podá důvodně stížnost pro porušení zákona proti výroku o vině, přezkoumá Nejvyšší soud v návaznosti na vytýkané vady vždy i výrok o trestu, jakož i další výroky, které mají ve výroku o vině svůj podklad, bez ohledu na to, zda byla i proti těmto výrokům podána stížnost pro porušení zákona.
+>
+> (5) Byla-li stížností pro porušení zákona napadena část rozhodnutí týkající se jen některé z více osob, o nichž bylo rozhodnuto týmž rozhodnutím, přezkoumá Nejvyšší soud uvedeným způsobem jen tu část rozhodnutí a předcházejícího řízení, která se týká této osoby.
+
+</details>
+
 
 **Odst. 1 — obsah**:
 
@@ -78,6 +127,23 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 ---
 
 ## § 268 — Zamítnutí nebo vyhovění SPZ
+<details>
+<summary>📜 <strong>Citace § 268 (úplné znění)</strong></summary>
+
+> #### § 268
+>
+> (1) Nejvyšší soud zamítne stížnost pro porušení zákona,
+>
+> - a) není-li přípustná,
+>
+> - b) byla-li podána opožděně, nebo
+>
+> - c) není-li důvodná.
+>
+> (2) Shledá-li Nejvyšší soud, že zákon porušen byl, vysloví rozsudkem, že napadeným rozhodnutím, popřípadě jeho částí (§ 266 odst. 3) nebo v řízení, jež takovému rozhodnutí předcházelo, byl porušen zákon.
+
+</details>
+
 
 **Odst. 1 — zamítnutí**:
 - a) **není přípustná**;
@@ -93,6 +159,17 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 ---
 
 ## § 269 — Dopady akademického výroku
+<details>
+<summary>📜 <strong>Citace § 269 (úplné znění)</strong></summary>
+
+> #### § 269
+>
+> (1) Výrok podle § 268 odst. 2 se nedotýká právní moci rozhodnutí, o něž jde.
+>
+> (2) Byl-li však porušen zákon v neprospěch obviněného, zruší Nejvyšší soud zároveň s výrokem uvedeným v § 268 odst. 2 napadené rozhodnutí nebo jeho část, popřípadě též vadné řízení mu předcházející. Je-li nezákonný jen některý výrok napadeného rozhodnutí a lze-li jej oddělit od ostatních, zruší Nejvyšší soud jen tento výrok. Zruší-li však, byť i jen zčásti, výrok o vině, zruší vždy zároveň celý výrok o trestu, jakož i další výroky, které mají ve výroku o vině svůj podklad. Zruší také další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Ustanovení § 261 se užije přiměřeně.
+
+</details>
+
 
 **Odst. 1**:
 
@@ -115,6 +192,21 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 ## §§ 270 – 273 — Po zrušení
 
 ### § 270 — Přikázání věci
+<details>
+<summary>📜 <strong>Citace § 270 (úplné znění)</strong></summary>
+
+> #### § 270
+>
+> (1) Je-li po zrušení napadeného rozhodnutí nebo některého jeho výroku nutno učinit ve věci rozhodnutí nové, přikáže Nejvyšší soud zpravidla orgánu, o jehož rozhodnutí jde, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+>
+> (2) Záleží-li porušení zákona jen v tom, že v napadeném rozhodnutí některý výrok chybí nebo je neúplný, může Nejvyšší soud, aniž rozhodnutí zruší, přikázat orgánu, o jehož rozhodnutí jde, aby o chybějícím výroku rozhodl nebo neúplný výrok doplnil.
+>
+> (3) Přikazuje-li Nejvyšší soud věc podle odstavce 1 nebo 2 k novému projednání a rozhodnutí, může zároveň nařídit, aby ji soud projednal a rozhodl v jiném složení senátu nebo jiným samosoudcem. Z důležitých důvodů může také věc přikázat k projednání a rozhodnutí jinému soudu nebo jinému státnímu zástupci.
+>
+> (4) Orgán, jemuž byla věc přikázána, je vázán právním názorem, který vyslovil ve věci Nejvyšší soud, a je povinen provést procesní úkony, jejichž provedení Nejvyšší soud nařídil.
+
+</details>
+
 
 **Odst. 1**: Pokud je třeba **nové rozhodnutí** → NS **přikáže** orgánu, o jehož rozhodnutí jde.
 
@@ -125,6 +217,23 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 **Odst. 4 — vázanost právním názorem NS**.
 
 ### § 271 — Vlastní rozhodnutí NS rozsudkem
+<details>
+<summary>📜 <strong>Citace § 271 (úplné znění)</strong></summary>
+
+> #### § 271
+>
+> (1) Nejvyšší soud může při zrušení napadeného rozhodnutí také sám hned rozhodnout ve věci, je-li možno rozhodnutí učinit na podkladě skutkového stavu, který byl v napadeném rozhodnutí správně zjištěn. Nejvyšší soud nemůže však sám
+>
+> - a) uznat obviněného vinným skutkem, pro nějž byl napadeným rozsudkem obžaloby zproštěn nebo pro nějž bylo trestní stíhání zastaveno,
+>
+> - b) uznat obviněného vinným těžším trestným činem, než jakým mohl být uznán vinným napadeným rozsudkem,
+>
+> - c) uložit obviněnému trest odnětí svobody nad dvacet až do třiceti let nebo trest odnětí svobody na doživotí.
+>
+> (2) Zruší-li Nejvyšší soud rozsudek toliko ve výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení, užije přiměřeně § 265.
+
+</details>
+
 
 **Odst. 1 — limity** analogicky § 265m:
 
@@ -136,6 +245,15 @@ NS **NEMŮŽE** sám:
 **Odst. 2 — adheze**: zrušení jen adhezního výroku → § 265 přiměřeně (odkaz na civilní řízení).
 
 ### § 273 — Zákaz reformationis in peius v SPZ
+<details>
+<summary>📜 <strong>Citace § 273 (úplné znění)</strong></summary>
+
+> #### § 273
+>
+> Jestliže nejvyšší soud vyslovil, že zákon byl porušen v neprospěch obviněného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch. Jde-li o jiné rozhodnutí, platí ustanovení § 150 přiměřeně.
+
+</details>
+
 
 > *Jestliže nejvyšší soud vyslovil, že zákon byl porušen v neprospěch obviněného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch.*
 
@@ -144,6 +262,29 @@ NS **NEMŮŽE** sám:
 ---
 
 ## § 274 — Řízení o SPZ u NS
+<details>
+<summary>📜 <strong>Citace § 274 (úplné znění)</strong></summary>
+
+> #### § 274
+>
+> (1) O stížnosti pro porušení zákona rozhoduje Nejvyšší soud ve veřejném zasedání za účasti státního zástupce činného u Nejvyššího státního zastupitelství nebo v případě, kdy byl ve věci činný v posledním stupni evropský pověřený žalobce nebo evropský žalobce, za účasti evropského pověřeného žalobce, evropského žalobce nebo evropského nejvyššího žalobce. Považuje-li to ministr spravedlnosti nebo předseda senátu za potřebné, účastní se veřejného zasedání též pověřený zástupce ministra spravedlnosti.
+>
+> (2) V neveřejném zasedání může Nejvyšší soud učinit rozhodnutí podle § 268 odst. 1.
+>
+> (3) Pokud Nejvyšší soud stížnosti pro porušení zákona vyhoví, může v neveřejném zasedání rozhodnout též rozsudkem podle § 268 odst. 2, jestliže
+>
+> - a) napadené rozhodnutí zruší podle § 269 odst. 2 a přikáže věc k novému projednání a rozhodnutí podle § 270 odst. 1,
+>
+> - b) přikáže věc k novému projednání a rozhodnutí podle § 270 odst. 2,
+>
+> - c) rozhodne, že byl porušen zákon ve prospěch obviněného.
+>
+> (4) V neveřejném zasedání může Nejvyšší soud rozhodnout i v jiných případech než uvedených v odstavcích 2 a 3, pokud s tím obviněný nebo jiné osoby, které mohou být rozhodnutím o stížnosti pro porušení zákona přímo dotčeny, a osoby uvedené v odstavci 1 souhlasí.
+>
+> (5) Pokud rozhoduje Nejvyšší soud v neveřejném zasedání podle odstavců 2 až 4, zašle předseda senátu před rozhodnutím stížnost pro porušení zákona obviněnému, jiným osobám, které mohou být rozhodnutím o stížnosti pro porušení zákona přímo dotčeny, Nejvyššímu státnímu zastupitelství nebo v případě, kdy byl ve věci činný v posledním stupni evropský pověřený žalobce, evropský žalobce nebo evropský nejvyšší žalobce, Úřadu evropského veřejného žalobce a stanoví jim lhůtu k možnému vyjádření.
+
+</details>
+
 
 **Odst. 1 — typ zasedání**:
 
@@ -165,12 +306,38 @@ NS může v NZ rozhodnout rozsudkem § 268 odst. 2, pokud:
 ---
 
 ## § 274a — Vyhlášení rozsudku v NZ
+<details>
+<summary>📜 <strong>Citace § 274a (úplné znění)</strong></summary>
+
+> #### § 274a
+>
+> (1) V neveřejném zasedání se rozsudek Nejvyššího soudu vyhlásí vyvěšením jeho písemného vyhotovení na úřední desce Nejvyššího soudu po dobu 15 dnů, a to jeho zjednodušeného vyhotovení obsahujícího plné znění výroku a nosné důvody rozsudku, anebo jeho plného písemného vyhotovení.
+>
+> (2) Předseda senátu může rozhodnout též o zveřejnění usnesení Nejvyššího soudu na úřední desce Nejvyššího soudu; odstavec 1 se použije obdobně.
+
+</details>
+
 
 V NZ se rozsudek NS vyhlásí **vyvěšením písemného vyhotovení na úřední desce NS po dobu 15 dnů** (zjednodušené vyhotovení nebo plné) — analogicky § 265r odst. 8.
 
 ---
 
 ## § 275 — Speciální procesní pravidla
+<details>
+<summary>📜 <strong>Citace § 275 (úplné znění)</strong></summary>
+
+> #### § 275
+>
+> (1) Byl-li zákon porušen v neprospěch obviněného, nepřekáží jeho smrt provedení řízení na podkladě stížnosti pro porušení zákona; trestní stíhání nelze tu zastavit proto, že obviněný zemřel. Byl-li zákon porušen jen v neprospěch obviněného, doba od právní moci napadeného rozhodnutí do rozhodnutí o stížnosti pro porušení zákona se do promlčecí doby nezapočítává.
+>
+> (2) Nelze-li vyrozumění o veřejném zasedání doručit osobě, která rozhodnutím o stížnosti pro porušení zákona může být přímo dotčena, stačí o konání veřejného zasedání vyrozumět jejího obhájce, popřípadě zmocněnce. Nemá-li tato osoba obhájce, popřípadě zmocněnce, je třeba jí ho k tomu účelu ustanovit. Ustanovení § 39 se tu užije obdobně.
+>
+> (3) Vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud ke stížnosti pro porušení zákona výrok o tomto trestu zruší, rozhodne zároveň o vazbě. Ustanovení o vazebním zasedání (§ 73d až 73g) se v řízení o stížnosti pro porušení zákona neužijí.
+>
+> (4) Před rozhodnutím o stížnosti pro porušení zákona může Nejvyšší soud odložit nebo přerušit výkon rozhodnutí, proti němuž byla podána stížnost pro porušení zákona, anebo nařídit pozastavení nakládání s věcmi, které propadly nebo byly zabrány na základě takového rozhodnutí. Pokud tak učiní, provede všechna potřebná opatření k tomu, aby byl výkon rozhodnutí neprodleně odložen nebo přerušen anebo bylo pozastaveno nakládání s propadlými nebo zabranými věcmi. Navrhl-li odložení nebo přerušení výkonu rozhodnutí ministr spravedlnosti, Nejvyšší soud rozhodne o takovém návrhu usnesením nejpozději do čtrnácti dnů po obdržení spisu.
+
+</details>
+
 
 **Odst. 1 — smrt a promlčení**:
 
@@ -186,6 +353,15 @@ V NZ se rozsudek NS vyhlásí **vyvěšením písemného vyhotovení na úředn�
 ---
 
 ## § 276 — Šetření NS
+<details>
+<summary>📜 <strong>Citace § 276 (úplné znění)</strong></summary>
+
+> #### § 276
+>
+> Je-li pro rozhodnutí o stížnosti pro porušení zákona třeba objasnit nějakou okolnost, provede potřebné šetření předseda senátu Nejvyššího soudu anebo na jeho žádost některý jiný orgán činný v trestním řízení, popřípadě i policejní orgán. Pro takové šetření platí ustanovení hlavy páté. Ve zvlášť naléhavých případech lze k zajištění důkazního materiálu použít na podkladě usnesení senátu i prostředků uvedených v hlavě čtvrté.
+
+</details>
+
 
 Pokud je třeba objasnit okolnost → šetření předsedy senátu NS (nebo na jeho žádost OČTŘ / policejní orgán). Aplikace Hlavy V. Ve zvlášť naléhavých případech i Hlava IV **na podkladě usnesení senátu**.
 

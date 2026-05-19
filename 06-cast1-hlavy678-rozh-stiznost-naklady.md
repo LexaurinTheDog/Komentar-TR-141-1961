@@ -11,6 +11,275 @@
 # Hlava VI — Rozhodnutí (§ 119 – § 140)
 
 ## § 119 — Způsob rozhodování
+<details>
+<summary>📜 <strong>Citace § 119 (úplné znění)</strong></summary>
+
+> #### § 119
+>
+> ##### Způsob rozhodování
+>
+> (1) Soud rozhoduje rozsudkem, kde to zákon výslovně stanoví; v ostatních případech rozhoduje, jestliže zákon nestanoví něco jiného, usnesením.
+>
+> (2) Státní zástupce a policejní orgán rozhodují, jestliže zákon nestanoví něco jiného, usnesením.
+>
+> #### Oddíl první
+>
+> ##### Rozsudek
+>
+> ##### Obsah rozsudku
+>
+> ##### § 120
+>
+> (1) Rozsudek po úvodních slovech „Jménem republiky“ musí obsahovat
+>
+> - a) označení soudu, o jehož rozsudek jde, i jména a příjmení soudců, kteří se na rozhodnutí zúčastnili,
+>
+> - b) den a místo vyhlášení rozsudku,
+>
+> - c) výrok rozsudku s uvedením zákonných ustanovení, jichž bylo použito,
+>
+> - d) odůvodnění, pokud zákon nestanoví něco jiného, a
+>
+> - e) poučení o opravném prostředku.
+>
+> (2) Obžalovaný musí být v rozsudku označen údajem svého jména a příjmení, dne a místa narození, svého zaměstnání a bydliště, popřípadě jinými údaji potřebnými k tomu, aby nemohl být zaměněn s jinou osobou. V rozsudku se uvede též údaj o jeho státní příslušnosti, není-li obžalovaný státním příslušníkem pouze České republiky, nebo informace, že je osobou bez státní příslušnosti nebo že se jeho státní příslušnost nepodařilo zjistit. Jde-li o příslušníka ozbrojených sil nebo ozbrojeného sboru, uvede se i hodnost obžalovaného a útvar, jehož je příslušníkem.
+>
+> (3) Výrok, jímž se obžalovaný uznává vinným, nebo jímž se obžaloby zprošťuje, musí přesně označovat trestný čin, jehož se výrok týká, a to nejen zákonným pojmenováním a uvedením příslušného zákonného ustanovení, nýbrž i uvedením, zda jde o zločin nebo přečin, a místa, času a způsobu spáchání, popřípadě i uvedením jiných skutečností, jichž je třeba k tomu, aby skutek nemohl být zaměněn s jiným, jakož i uvedením všech zákonných znaků včetně těch, které odůvodňují určitou trestní sazbu.
+>
+> (4) Schvaluje-li soud dohodu o vině a trestu, je součástí rozsudku také výrok o schválení dohody o vině a trestu.
+>
+> ##### § 121
+>
+> Do rozsudku, jímž se rozhoduje otázka viny, pojme soud také výrok
+>
+> - a) o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení, jestliže byl nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení včas uplatněn (§ 43 odst. 3),
+>
+> - b) o ochranném opatření, jestliže o něm bylo v hlavním líčení nebo ve veřejném zasedání konaném o odvolání rozhodnuto.
+>
+> ##### § 122
+>
+> (1) Odsuzující rozsudek musí obsahovat výrok o trestu s uvedením zákonných ustanovení, podle nichž byl trest vyměřen, nebo podle nichž bylo od potrestání upuštěno, a jde-li o podmíněné upuštění od potrestání s dohledem, též výrok o stanovení zkušební doby a jejím trvání. Byl-li nad pachatelem vysloven dohled, musí být z výroku rozsudku zřejmé, zda dohled má být vykonáván v rozsahu stanoveném trestním zákonem nebo zda jsou vedle něj pachateli ukládána další přiměřená omezení nebo povinnosti. Byl-li uložen trest, jehož výkon lze podmíněně odložit, musí rozsudek obsahovat i výrok o tom, zda byl podmíněný odklad povolen, popřípadě na jaké podmínky je vázán. Byl-li uložen nepodmíněný trest odnětí svobody, musí rozsudek obsahovat výrok o způsobu výkonu tohoto trestu. Je-li odsouzený pachatelem trestného činu spáchaného ve prospěch organizované zločinecké skupiny, je nutno výrok o tom rovněž pojmout do rozsudku.
+>
+> (2) Ve výroku zprošťujícího rozsudku musí být uvedeno, o který z důvodů uvedených v § 226 se zproštění obžaloby opírá.
+>
+> ##### § 123
+>
+> Soud, který rozhoduje znovu ve věci, v níž dřívější rozsudek byl na podkladě odvolání, stížnosti pro porušení zákona nebo návrhu na obnovu zrušen jen částečně, pojme do nového rozsudku pouze ty výroky, stran nichž věc znovu rozhoduje. Na souvislost těchto výroků s výroky, v nichž zůstal dřívější rozsudek nedotčen, přitom poukáže.
+>
+> ##### § 124
+>
+> V rozsudku, jímž ukládá souhrnný trest, musí soud označit ty dřívější rozsudky, z nichž nový rozsudek zrušuje výrok o trestu a nahrazuje jej výrokem o trestu souhrnném. Ukládá-li se v rozsudku společný trest za pokračování v trestném činu, musí soud označit ty dřívější rozsudky, v nichž zrušuje výrok o vině, o pokračujícím trestném činu a o trestných činech spáchaných s ním v jednočinném souběhu, celý výrok o trestu, jakož i další výroky, které mají v uvedeném výroku o vině svůj podklad, a nahrazuje je novými výroky, včetně výroku o společném trestu za pokračování v trestném činu.
+>
+> ##### § 125
+>
+> (1) Pokud rozsudek obsahuje odůvodnění, soud v něm stručně vyloží, které skutečnosti vzal za prokázané a o které důkazy svá skutková zjištění opřel a jakými úvahami se řídil při hodnocení provedených důkazů, zejména pokud si vzájemně odporují. Z odůvodnění musí být patrno, jak se soud vypořádal s obhajobou, proč nevyhověl návrhům na provedení dalších důkazů a jakými právními úvahami se řídil, když posuzoval prokázané skutečnosti podle příslušných ustanovení zákona v otázce viny a trestu. Při odůvodnění uloženého trestu uvede jakými úvahami byl veden při ukládání trestu, jak posoudil povahu a závažnost trestného činu z hlediska významu konkrétního chráněného zájmu, který byl činem dotčen, způsobu provedení činu a jeho následků, okolností, za kterých byl čin spáchán, osoby pachatele, míry jeho zavinění a jeho pohnutky, záměru nebo cíle, jakož i polehčujících a přitěžujících okolností, doby, která uplynula od spáchání trestného činu, případné změny situace a délky trestního řízení, trvalo-li nepřiměřeně dlouhou dobu, při zvážení složitosti věci, postupu orgánů činných v trestním řízení, významu řízení pro pachatele a jeho chování, kterým přispěl k průtahům v řízení; uvede též, jak přihlédl k osobním, rodinným, majetkovým a jiným poměrům pachatele, k jeho dosavadnímu způsobu života, k chování pachatele po činu, zejména k jeho případné snaze nahradit škodu či jiné škodlivé následky činu, a pokud byl označen jako spolupracující obviněný též k tomu, jak významným způsobem přispěl k objasnění zločinu spáchaného členy organizované skupiny, ve spojení s organizovanou skupinou nebo ve prospěch organizované zločinecké skupiny. Jestliže byly do rozsudku pojaty další výroky, je třeba je rovněž odůvodnit. Ukládá-li soud nepodmíněný trest za trestný čin uvedený v § 55 odst. 2 trestního zákoníku, vyloží, jakými úvahami byl veden při tomto rozhodnutí a proč nebylo možno uložit trest přímo nespojený s odnětím svobody.
+>
+> (2) V poučení o odvolání, které musí být obsaženo v každém rozsudku soudu prvního stupně, se uvede lhůta, ve které musí být podáno (§ 248 odst. 1), označení soudu, ke kterému má být odvolání podáno (§ 251), označení soudu, který o podaném odvolání bude rozhodovat (§ 252), rozsah, v kterém mohou rozsudek napadat oprávněné osoby (§ 246), a vymezení nutného obsahu odvolání (§ 249).
+>
+> (3) V poučení o dovolání, které musí být obsaženo v každém rozhodnutí soudu ve věci samé učiněném v druhém stupni, se uvedou oprávněné osoby, včetně nutnosti, aby dovolání obviněného bylo podáno prostřednictvím obhájce (§ 265d), lhůta k podání dovolání, označení soudu, ke kterému má být dovolání podáno (§ 265e), označení soudu, který o podaném dovolání bude rozhodovat, a vymezení nutného obsahu dovolání (§ 265f).
+>
+> (4) Odsuzující rozsudek musí obsahovat též poučení poškozeného o možnosti žádat o uspokojení nároku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem podle zákona o použití peněžních prostředků z majetkových trestních sankcí, je-li tímto rozsudkem ukládána sankce, která je majetkovou trestní sankcí podle zákona o použití peněžních prostředků z majetkových trestních sankcí (dále jen „majetková trestní sankce“).
+>
+> ##### Porada a hlasování o rozsudku
+>
+> ##### § 126
+>
+> Při poradě o rozsudku, jímž se rozhoduje o vině a trestu, posoudí soud zejména,
+>
+> - a) zda se stal skutek, pro který je obžalovaný stíhán,
+>
+> - b) zda tento skutek má všechny znaky některého trestného činu,
+>
+> - c) zda tento skutek spáchal obžalovaný,
+>
+> - d) zda je obžalovaný za tento skutek trestně odpovědný,
+>
+> - e) zda trestnost skutku nezanikla,
+>
+> - f) zda a jaký trest má být obžalovanému uložen,
+>
+> - g) zda a v jakém rozsahu má být obžalovanému uložena povinnost nahradit poškozenému škodu nebo nemajetkovou újmu v penězích nebo vydat bezdůvodné obohacení,
+>
+> - h) zda a jaké ochranné opatření má být uloženo.
+>
+> ##### § 127
+>
+> (1) Poradě a hlasování nesmí být kromě soudců a přísedících zúčastnivších se jednání, jež rozsudku bezprostředně předcházelo, a zapisovatele přítomen nikdo jiný. O obsahu porady je nutno zachovat mlčenlivost.
+>
+> (2) Při hlasování rozhoduje většina hlasů. Nelze-li většiny dosáhnout, připočítávají se hlasy obžalovanému nejméně příznivé k hlasům po nich příznivějším tak dlouho, až se dosáhne většiny. Je-li sporné, které mínění je obžalovanému příznivější, rozhodne se o tom hlasováním.
+>
+> (3) Každý člen senátu musí hlasovat, i když byl v některé předchozí otázce přehlasován. Při hlasování o trestu se však mohou hlasování zdržet ti, kdo hlasovali pro zproštění obžaloby; jejich hlasy se přičítají k hlasu pro obžalovaného nejpříznivějšímu.
+>
+> (4) Přísedící hlasují před soudci. Přísedící a soudci mladší hlasují před staršími. Předseda senátu hlasuje naposledy.
+>
+> (5) O hlasování se sepíše zvláštní protokol (§ 58).
+>
+> ##### § 128
+>
+> ###### Vyhlášení rozsudku
+>
+> (1) Rozsudek je nutno vždy vyhlásit; vyhlašuje jej předseda senátu.
+>
+> (2) Vyhlašují se úvodní slova „Jménem republiky“, plné znění výroku, aspoň podstatná část odůvodnění a poučení o opravném prostředku. Vyhlášení musí být v naprosté shodě s obsahem rozsudku, tak jak byl odhlasován.
+>
+> (3) Pokud je popis skutku rozsáhlý, obsahuje řadu technických údajů nebo ústní vyhlášení plného výroku, jímž se obviněný uznává vinným nebo jímž se obžaloby zprošťuje, není z jiných obdobných důvodů vhodné, předseda senátu vyhlásí výrok tak, že uvede podstatné skutkové okolnosti a označení trestného činu, jehož se výrok o vině týká, a to jeho zákonným pojmenováním a uvedením příslušného zákonného ustanovení, včetně skutečnosti, zda jde o zločin nebo přečin; ve zbytku odkáže na písemné znění výroku rozsudku, jež bezprostředně po vyhlášení předá stranám. Považuje-li to za vhodné, může předseda senátu písemné znění výroku rozsudku také promítnout nebo jinak zpřístupnit veřejnosti.
+>
+> (4) Rozsudek se vyhlásí zpravidla ihned po skončení jednání, které rozsudku předcházelo. Není-li to možné pro rozsáhlost nebo odbornou náročnost věci, lze za účelem vyhlášení rozsudku odročit jednání ve vazebních věcech na dobu nejdéle 5 dnů a v ostatních věcech nejdéle na dobu 10 dnů.
+>
+> ##### § 129
+>
+> ###### Vyhotovení rozsudku
+>
+> (1) Každý rozsudek je nutno vyhotovit písemně. Vyhotovení rozsudku musí být ve shodě s obsahem rozsudku, tak jak byl vyhlášen. Pokud byl rozsudek vyhlášen způsobem uvedeným v § 128 odst. 3, vyhotovení rozsudku musí být ve shodě s obsahem rozsudku tak, jak byl ústně vyhlášen a s písemným zněním výroku rozsudku, které bylo předáno stranám. Tím není dotčena možnost opravy vyhotovení rozsudku.
+>
+> (2) Jestliže se po vyhlášení rozsudku nebo v soudem stanovené lhůtě po vyhlášení rozsudku státní zástupce a obžalovaný vzdali odvolání a prohlásili, že netrvají na vyhotovení odůvodnění, a obžalovaný zároveň prohlásil, že si nepřeje, aby v jeho prospěch podaly odvolání jiné oprávněné osoby, může soud vyhotovit zjednodušený rozsudek, který neobsahuje odůvodnění. Pokud oprávněné osoby mohou podat odvolání ve prospěch obžalovaného i proti jeho vůli, lze zjednodušený rozsudek vyhotovit pouze v případě, že se vzdají odvolání. Týká-li se rozsudek více obžalovaných, je třeba odůvodnit jeho výroky v částech, které se vztahují k osobě obžalovaného, u něhož nebyly splněny podmínky pro vyhotovení zjednodušeného rozsudku. Mají-li právo podat odvolání i poškozený nebo zúčastněná osoba a nevzdali-li se tohoto práva, je rovněž třeba odůvodnit ty výroky, proti kterým mohou podat odvolání.
+>
+> (3) Jestliže nebyl rozsudek písemně vyhotoven již v poradě, předseda senátu nebo jím pověřený soudce, který byl členem senátu, jej vyhotoví a předá k doručení
+>
+> - a) v řízení před okresními soudy a krajskými soudy jako soudy druhého stupně ve vazebních věcech do pěti pracovních dnů a v ostatních věcech do deseti pracovních dnů,
+>
+> - b) v řízení před krajskými soudy jako soudy prvního stupně, vrchními soudy a před Nejvyšším soudem ve vazebních věcech do deseti pracovních dnů a v ostatních věcech do dvaceti pracovních dnů.
+>
+> Výjimky z těchto lhůt povoluje na žádost předsedy senátu nebo soudce vyhotovujícího rozsudek ze závažných důvodů, zejména s ohledem na rozsáhlost a složitost věci, v jednotlivých věcech předseda soudu. Prodlouží-li lhůtu o více jak dalších dvacet pracovních dnů, písemně zdůvodní, proč nebylo možné stanovit lhůtu kratší. Jinak postupuje podle odstavce 4.
+>
+> (4) Nemůže-li předseda senátu ani jiný jeho člen vyhlášený rozsudek písemně vyhotovit pro překážku delšího trvání, vyhotoví jej na příkaz předsedy soudu jiný soudce. Jde-li o samosoudce, vyhotoví rozsudek soudce určený předsedou soudu.
+>
+> (5) Vyhotovení rozsudku podpíše předseda senátu a ten, kdo je vypracoval. Nemůže-li předseda senátu podepsat vyhotovení rozsudku pro překážku delšího trvání, podpíše je za něho jiný člen senátu; důvod toho se na vyhotovení rozsudku poznamená.
+>
+> ##### § 130
+>
+> ###### Doručení rozsudku
+>
+> (1) Opis rozsudku soud doručí obžalovanému, státnímu zástupci a zúčastněné osobě. Poškozenému soud opis rozsudku doručí, pokud v trestním řízení uplatnil nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení, anebo pokud rozsudkem byla uložena majetková trestní sankce a poškozený je jinou osobou než stát a je znám. Rozsudek se těmto osobám doručí, i když byly přítomny při jeho vyhlášení.
+>
+> (2) Má-li obžalovaný obhájce nebo opatrovníka, doručí se opis rozsudku též jim.
+>
+> (3) Mají-li zúčastněná osoba nebo poškozený zákonného zástupce nebo opatrovníka, doručí se opis rozsudku jen zákonnému zástupci nebo opatrovníku; mají-li zmocněnce, doručí se jen zmocněnci.
+>
+> ##### § 131
+>
+> ###### Oprava vyhotovení a opisu rozsudku
+>
+> (1) Předseda senátu může zvláštním usnesením kdykoli opravit chyby v psaní a počtech a jiné zřejmé nesprávnosti, k nimž došlo ve vyhotovení rozsudku a jeho opisech. Opravu může nařídit i soud vyššího stupně.
+>
+> (2) Opis usnesení o opravě se doručí všem osobám, jimž byl doručen opis rozsudku.
+>
+> (3) Proti rozhodnutí o opravě podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+>
+> (4) Po právní moci usnesení o opravě se oprava provede jak ve vyhotovení rozsudku, tak i v opisech, které se od osob, jimž byly v listinné podobě doručeny, vyžádají za tím účelem zpět.
+>
+> ##### § 133
+>
+> ###### Účinky opravy
+>
+> Jestliže se oprava vyhotovení rozsudku nebo oprava opisu rozsudku podstatně dotkla obsahu některého z výroků rozsudku, běží státnímu zástupci a osobě opraveným výrokem přímo dotčené lhůta k odvolání od doručení opisu usnesení o opravě, a byla-li proti usnesení o opravě podána stížnost, od doručení rozhodnutí o stížnosti. O tom je třeba osobu výrokem přímo dotčenou poučit.
+>
+> #### Oddíl druhý
+>
+> ##### Usnesení
+>
+> ##### § 134
+>
+> ###### Obsah usnesení
+>
+> (1) Usnesení musí obsahovat
+>
+> - a) označení orgánu, o jehož rozhodnutí jde,
+>
+> - b) den a místo rozhodnutí,
+>
+> - c) výrok usnesení s uvedením zákonných ustanovení, jichž bylo použito,
+>
+> - d) odůvodnění, pokud zákon nestanoví něco jiného, a
+>
+> - e) poučení o opravném prostředku.
+>
+> (2) V odůvodnění je třeba, jestliže to přichází podle povahy věci v úvahu, zejména uvést skutečnosti, které byly vzaty za prokázané, důkazy, o něž se skutková zjištění opírají, úvahy, jimiž se rozhodující orgán řídil při hodnocení provedených důkazů, jakož i právní úvahy, na jejichž podkladě posuzoval prokázané skutečnosti podle příslušných ustanovení zákona.
+>
+> (3) Usnesení musí obsahovat též poučení poškozeného o možnosti žádat o uspokojení nároku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem podle zákona o použití peněžních prostředků z majetkových trestních sankcí, je-li tímto usnesením ukládána majetková trestní sankce.
+>
+> ##### § 135
+>
+> ###### Vyhlášení usnesení
+>
+> Vyhlásit je nutno jen ta usnesení, která byla učiněna při úkonu prováděném za účasti osoby, které se usnesení dotýká, jakož i usnesení, která byla učiněna v hlavním líčení, veřejném zasedání nebo neveřejném zasedání.
+>
+> ##### § 136
+>
+> ###### Vyhotovení usnesení
+>
+> (1) Není třeba vyhotovovat usnesení, jimiž se jen upravuje průběh řízení nebo způsob provedení důkazů anebo jimiž se nařizuje nebo připravuje jednání soudu.
+>
+> (2) Rovněž není třeba vyhotovovat usnesení, která jsou zapsána v plném svém znění v protokole o úkonu, ledaže by bylo nutno opis takového usnesení některé osobě doručovat. Má-li být doručeno v takovém případě pouze státnímu zástupci, lze mu doručit opis protokolu.
+>
+> (3) Jestliže se po vyhlášení usnesení nebo ve lhůtě stanovené orgánem činným v trestním řízení po vyhlášení usnesení osoby oprávněné podat stížnost podle § 142 odst. 1 vzdaly stížnosti a prohlásily, že netrvají na písemném odůvodnění, může orgán činný v trestním řízení vyhotovit zjednodušené usnesení, které neobsahuje odůvodnění; v případě usnesení vyhotovovaného ve vykonávacím řízení tak může soud prvního stupně učinit i tehdy, není-li proti takovému usnesení přípustná stížnost. Mají-li právo podat stížnost ve prospěch obviněného další osoby, lze zjednodušené usnesení vyhotovit pouze v případě, že obviněný prohlásí, že si nepřeje, aby tyto osoby stížnost v jeho prospěch podaly; pokud tak tyto osoby mohou učinit i proti jeho vůli, musí se stížnosti vzdát.
+>
+> ##### § 137
+>
+> ###### Oznamování usnesení
+>
+> (1) Usnesení je třeba oznámit osobě, které se přímo dotýká, jakož i osobě, která k němu dala svým návrhem podnět; usnesení soudu se oznámí též státnímu zástupci. Oznámení se děje buď vyhlášením usnesení v přítomnosti toho, jemuž je třeba usnesení oznámit, anebo doručením opisu usnesení. Opis usnesení, kterým byla uložena majetková trestní sankce, se doručí též poškozenému, jde-li o jinou osobu než stát a je-li znám.
+>
+> (2) Má-li osoba, jíž je třeba usnesení oznámit, obhájce, popřípadě zmocněnce, stačí, že usnesení bylo vyhlášeno buď oné osobě anebo jejímu obhájci, popřípadě zmocněnci; oznamuje-li se usnesení doručením opisu, doručí se jen obhájci, popřípadě zmocněnci. Jde-li o osobu, která není plně svéprávná nebo jejíž svéprávnost je omezena a která obhájce, popřípadě zmocněnce nemá, oznámí se usnesení jejímu zákonnému zástupci nebo opatrovníku.
+>
+> (3) Oznamuje-li se však obviněnému, jehož svéprávnost je omezena, usnesení, proti němuž má stížnost, je třeba je oznámit jak jemu, tak i jeho obhájci a jeho opatrovníku. Je-li obviněný ve vazbě, ve výkonu trestu odnětí svobody nebo na pozorování ve zdravotním ústavu, je třeba takové usnesení oznámit jak obviněnému, tak i jeho obhájci i tehdy, je-li obviněný osobou, jejíž svéprávnost není omezena.
+>
+> (4) Usnesení, jímž bylo rozhodnuto o opravném prostředku, se státnímu zástupci, osobě, které se rozhodnutí přímo dotýká, a osobě, která svým návrhem dala k usnesení podnět, vždy v opise doručí.
+>
+> ##### § 138
+>
+> ###### Použití ustanovení o rozsudku
+>
+> Jestliže tento oddíl neobsahuje ustanovení zvláštní, užije se na usnesení přiměřeně ustanovení oddílu prvého této hlavy o rozsudku.
+>
+> #### Oddíl třetí
+>
+> ##### Právní moc a vykonatelnost rozhodnutí
+>
+> ##### § 139
+>
+> ###### Právní moc a vykonatelnost rozsudku
+>
+> (1) Rozsudek je pravomocný, a nestanoví-li tento zákon něco jiného, i vykonatelný,
+>
+> - a) jestliže zákon proti němu odvolání nepřipouští,
+>
+> - b) jestliže zákon sice proti němu připouští odvolání, avšak
+>
+>   - aa) odvolání ve lhůtě podáno nebylo,
+>
+>   - bb) oprávněné osoby se odvolání výslovně vzdaly nebo je výslovně vzaly zpět, nebo
+>
+>   - cc) podané odvolání bylo zamítnuto.
+>
+> (2) Odvolání podané jen poškozeným a odvolání podané jen zúčastněnou osobou nebrání tomu, aby ostatní části rozsudku nabyly právní moci a byly vykonány. Stejně tak odvolání týkající se jen některého z více obžalovaných nebrání tomu, aby rozsudek u ostatních obžalovaných nabyl právní moci a byl vykonán.
+>
+> (3) Jestliže byla lhůta k podání odvolání zmeškána, avšak byla podána oprávněnou osobou žádost o navrácení lhůty, nelze rozsudek vykonat až do pravomocného rozhodnutí o této žádosti.
+>
+> ##### § 140
+>
+> ###### Právní moc a vykonatelnost usnesení
+>
+> (1) Usnesení je pravomocné a vykonatelné,
+>
+> - a) jestliže zákon proti němu stížnost nepřipouští,
+>
+> - b) jestliže zákon sice proti němu připouští stížnost, avšak
+>
+>   - aa) stížnost ve lhůtě podána nebyla,
+>
+>   - bb) oprávněné osoby se stížnosti výslovně vzdaly nebo ji výslovně vzaly zpět, nebo
+>
+>   - cc) podaná stížnost byla zamítnuta.
+>
+> (2) Usnesení je vykonatelné, i když dosud nenabylo právní moci, jestliže zákon proti němu sice připouští stížnost, avšak nepřiznává jí odkladný účinek.
+>
+> (3) Stížnost, která se týká jen některé z více osob nebo jen některé z více věcí, o nichž bylo rozhodnuto týmž usnesením, nebrání ani v případě, že má odkladný účinek, tomu, aby usnesení nabylo právní moci a bylo vykonáno v ostatních částech, lze-li je oddělit.
+>
+> (4) Jestliže byla lhůta k podání stížnosti mající odkladný účinek zmeškána, avšak byla podána oprávněnou osobou žádost o navrácení lhůty, nelze usnesení vykonat až do pravomocného rozhodnutí o této žádosti.
+
+</details>
+
 
 **Odst. 1**: Soud rozhoduje:
 - **rozsudkem** — kde to zákon **výslovně stanoví** (§ 120 a násl.; typicky o vině a trestu, schválení dohody o vině a trestu);
@@ -340,6 +609,23 @@ Stejně **odvolání týkající se jen některého spoluobžalovaného** nebrá
 **Stížnost** je **řádný opravný prostředek proti usnesení** (analogická k odvolání proti rozsudku). Lhůta 3 dnů, nedevolutivní v některých případech (orgán, proti jehož usnesení směřuje, může sám vyhovět).
 
 ## § 141 — Přípustnost a účinek
+<details>
+<summary>📜 <strong>Citace § 141 (úplné znění)</strong></summary>
+
+> #### § 141
+>
+> ##### Přípustnost a účinek
+>
+> (1) Opravným prostředkem proti usnesení je stížnost.
+>
+> (2) Stížností lze napadnout každé usnesení policejního orgánu. Usnesení soudu a státního zástupce lze stížností napadnout jen v těch případech, kde to zákon výslovně připouští a jestliže rozhodují ve věci v prvním stupni.
+>
+> (3) Proti usnesení nejvyššího státního zástupce lze podat stížnost pouze tehdy, jestliže podle zákona o stížnosti přísluší rozhodnout soudu. O stížnosti v těchto případech rozhoduje Nejvyšší soud. O stížnosti proti usnesení státního zástupce Nejvyššího státního zastupitelství rozhoduje nejvyšší státní zástupce.
+>
+> (4) Stížnost má odkladný účinek, jen kde to zákon výslovně stanoví.
+
+</details>
+
 
 **Odst. 1**: Stížnost = OP proti usnesení.
 
@@ -354,6 +640,19 @@ Stejně **odvolání týkající se jen některého spoluobžalovaného** nebrá
 **Odst. 4 — odkladný účinek**: jen kde zákon výslovně stanoví (např. § 74 odst. 2 — propadnutí kauce, propuštění z vazby SZ; § 47 odst. 2 — zrušení zajištění).
 
 ## § 142 — Oprávněné osoby
+<details>
+<summary>📜 <strong>Citace § 142 (úplné znění)</strong></summary>
+
+> #### § 142
+>
+> ##### Oprávněné osoby
+>
+> (1) Nestanoví-li zákon něco jiného, může stížnost podat osoba, které se usnesení přímo dotýká nebo která k usnesení dala podnět svým návrhem, k němuž ji zákon opravňuje; proti usnesení soudu může podat stížnost též státní zástupce, a to i ve prospěch obviněného. Podal-li návrh podle věty první probační úředník, právo podat stížnost mu nepřísluší.
+>
+> (2) Proti usnesení o vazbě, o ochranném léčení a o zabezpečovací detenci mohou podat stížnost ve prospěch obviněného též osoby, které by mohly podat v jeho prospěch odvolání.
+
+</details>
+
 
 **Odst. 1**: Stížnost může podat:
 - osoba, **které se usnesení přímo dotýká**;
@@ -366,6 +665,19 @@ Stejně **odvolání týkající se jen některého spoluobžalovaného** nebrá
 - mohou podat stížnost i **osoby, které by mohly podat odvolání** v jeho prospěch (rodina, druh — viz § 247).
 
 ## § 143 — Lhůta a místo
+<details>
+<summary>📜 <strong>Citace § 143 (úplné znění)</strong></summary>
+
+> #### § 143
+>
+> ##### Lhůta a místo k podání
+>
+> (1) Stížnost se podává u orgánu, proti jehož usnesení stížnost směřuje, a to do tří dnů od oznámení usnesení (§ 137); jestliže se usnesení oznamuje jak obviněnému, tak i jeho opatrovníku nebo obhájci, běží lhůta od toho oznámení, které bylo provedeno nejpozději.
+>
+> (2) Osobám, které podle ustanovení § 142 odst. 2 mohou podat stížnost ve prospěch obviněného, končí lhůta k podání stížnosti týmž dnem jako obviněnému; státnímu zástupci však běží lhůta vždy samostatně.
+
+</details>
+
 
 **Odst. 1**: **3 dny** od oznámení usnesení. Podává se **u orgánu, proti jehož usnesení směřuje**.
 
@@ -374,6 +686,23 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 **Odst. 2**: Osobám, které mohou podat stížnost ve prospěch obviněného → lhůta **končí týmž dnem jako obviněnému**. **SZ** má vždy lhůtu **samostatně**.
 
 ## § 144 — Vzdání se a zpětvzetí stížnosti
+<details>
+<summary>📜 <strong>Citace § 144 (úplné znění)</strong></summary>
+
+> #### § 144
+>
+> ##### Vzdání se a zpětvzetí stížnosti
+>
+> (1) Oprávněná osoba se může stížnosti výslovně vzdát.
+>
+> (2) Oprávněná osoba může podanou stížnost vzít výslovně zpět, dokud o ní nebylo rozhodnuto. Stížnost státního zástupce může vzít zpět i státní zástupce nadřízený nebo, jde-li o stížnost evropského pověřeného žalobce nebo evropského žalobce, příslušný orgán Úřadu evropského veřejného žalobce.
+>
+> (3) Stížnost podaná ve prospěch obviněného jinou oprávněnou osobou nebo za obviněného obhájcem nebo opatrovníkem může být vzata zpět jen s výslovným souhlasem obviněného. Státní zástupce však může vzít takovou stížnost zpět i bez souhlasu obviněného. V tomto případě běží obviněnému nová lhůta k podání stížnosti od vyrozumění, že stížnost byla vzata zpět.
+>
+> (4) Zpětvzetí stížnosti vezme, není-li překážek, usnesením na vědomí orgán povolaný k rozhodnutí o stížnosti, a nebyla-li věc dosud tomuto orgánu předložena, orgán, proti jehož rozhodnutí stížnost směřuje; v řízení před soudem činí toto rozhodnutí předseda senátu.
+
+</details>
+
 
 **Odst. 1**: Vzdání se **výslovně**.
 
@@ -386,6 +715,23 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 **Odst. 4**: Zpětvzetí bere na vědomí orgán **k rozhodnutí povolaný** (nebo orgán, proti němuž stížnost směřuje, pokud věc nepředložena).
 
 ## § 145 — Stížnostní důvody
+<details>
+<summary>📜 <strong>Citace § 145 (úplné znění)</strong></summary>
+
+> #### § 145
+>
+> ##### Stížnostní důvody
+>
+> (1) Usnesení lze napadnout
+>
+> - a) pro nesprávnost některého jeho výroku, nebo
+>
+> - b) pro porušení ustanovení o řízení, které usnesení předcházelo, jestliže toto porušení mohlo způsobit nesprávnost některého výroku usnesení.
+>
+> (2) Stížnost lze opřít o nové skutečnosti a důkazy.
+
+</details>
+
 
 **Odst. 1 — důvody:**
 - a) **nesprávnost výroku**;
@@ -394,6 +740,29 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 **Odst. 2 — nova ad recurrum**: stížnost lze opřít o **nové skutečnosti a důkazy** (na rozdíl od dovolání — tam se nepřipouští).
 
 ## § 146 — Řízení před orgánem, proti jehož usnesení směřuje (autoremedura)
+<details>
+<summary>📜 <strong>Citace § 146 (úplné znění)</strong></summary>
+
+> #### § 146
+>
+> ##### Řízení před orgánem, proti jehož usnesení stížnost směřuje
+>
+> (1) Orgán, proti jehož usnesení stížnost směřuje, může jí sám vyhovět, nedotkne-li se změna původního usnesení práv jiné strany trestního řízení. Jde-li o usnesení policejního orgánu, které bylo vydáno s předchozím souhlasem státního zástupce nebo na jeho pokyn, může policejní orgán sám stížnosti vyhovět jen s předchozím souhlasem státního zástupce.
+>
+> (2) Jestliže lhůta k podání stížnosti již všem oprávněným osobám uplynula a stížnosti nebylo vyhověno podle odstavce 1, předloží věc k rozhodnutí
+>
+> - a) policejní orgán státnímu zástupci, který vykonává nad přípravným řízením dozor, a jde-li o stížnost proti usnesení, k němuž tento státní zástupce dal souhlas nebo pokyn, jeho prostřednictvím nadřízenému státnímu zástupci nebo, je-li takovým státním zástupcem evropský pověřený žalobce nebo evropský žalobce, jeho prostřednictvím příslušnému orgánu Úřadu evropského veřejného žalobce,
+>
+> - b) státní zástupce nadřízenému státnímu zástupci nebo soudu,
+>
+> - c) evropský pověřený žalobce nebo evropský žalobce příslušnému orgánu Úřadu evropského veřejného žalobce nebo soudu,
+>
+> - d) samosoudce okresního soudu nadřízenému krajskému soudu, předseda senátu krajského soudu nadřízenému vrchnímu soudu a předseda senátu vrchního soudu Nejvyššímu soudu; přitom doručí, je-li to potřebné, opis stížnosti státnímu zástupci a osobě, která by mohla být rozhodnutím o stížnosti přímo dotčena,
+>
+> - e) státní zástupce Nejvyššího státního zastupitelství nejvyššímu státnímu zástupci.
+
+</details>
+
 
 **Odst. 1 — autoremedura**:
 > *Orgán, proti jehož usnesení stížnost směřuje, může jí sám vyhovět, nedotkne-li se změna původního usnesení práv jiné strany trestního řízení.*
@@ -417,6 +786,45 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dotčena.
 
 ## § 146a — Rozhodování soudu o stížnosti proti SZ / policejnímu orgánu
+<details>
+<summary>📜 <strong>Citace § 146a (úplné znění)</strong></summary>
+
+> #### § 146a
+>
+> ##### Rozhodování soudu o stížnosti proti rozhodnutím státního zástupce nebo policejního orgánu
+>
+> (1) O stížnosti proti rozhodnutí, kterým státní zástupce
+>
+> - a) rozhodl o vazbě, nejde-li o rozhodnutí o propuštění obviněného z vazby bez přijetí některého opatření nahrazujícího vazbu,
+>
+> - b) rozhodl o žádosti o zrušení omezení spočívajícího v zákazu vycestování do zahraničí, o uložení předběžného opatření (§ 88m odst. 2), o tom, že se nepovolí setkání obviněného s poškozeným, osobou mu blízkou nebo jinou osobou (§ 88d odst. 2), nebo o žádosti o zrušení předběžného opatření (§ 88n odst. 3),
+>
+> - c) zajistil věc, o níž nasvědčují zjištěné skutečnosti tomu, že je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce, rozhodl o omezení takového zajištění nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - d) zajistil náhradní hodnotu, rozhodl o omezení zajištění náhradní hodnoty, nepovolil provedení úkonu týkajícího se zajištěné náhradní hodnoty, nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - e) změnil důvod zajištění věci,
+>
+> - f) zajistil majetek pro účely zajištění nároku poškozeného nebo rozhodl o omezení zajištění, nepovolil provedení úkonu týkajícího se zajištěného majetku, anebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - g) zajistil majetek obviněného pro účely výkonu peněžitého trestu nebo trestu propadnutí majetku, rozhodl o omezení zajištění, nepovolil provedení úkonu týkajícího se zajištěného majetku, anebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - h) zajistil majetek pro účely výkonu zabrání části majetku, rozhodl o omezení takového zajištění, nepovolil provedení úkonu týkajícího se zajištěného majetku, anebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - i) rozhodl o uložení pořádkové pokuty (§ 66 odst. 1),
+>
+> - j) rozhodl o zničení věci ohrožující bezpečnost lidí nebo majetku (§ 81b odst. 1), nebo
+>
+> - k) rozhodl o nesplnění podmínek podle § 159c odst. 1,
+>
+> rozhoduje zpravidla do pěti dnů po uplynutí lhůty k podání stížnosti všem oprávněným osobám soud, v jehož obvodu je činný státní zástupce, který napadené rozhodnutí vydal; vydal-li napadené rozhodnutí evropský žalobce, rozhoduje soud, v jehož obvodu by byl činný evropský pověřený žalobce, který by byl jinak příslušný k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení.
+>
+> (2) O stížnosti proti rozhodnutí policejního orgánu, kterým rozhodl o uložení pořádkové pokuty, změnil důvod zajištění věci, zajistil věc, o níž nasvědčují zjištěné skutečnosti tomu, že je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce, rozhodl o omezení takového zajištění nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění, zajistil náhradní hodnotu, rozhodl o omezení zajištění náhradní hodnoty nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění, rozhoduje ve lhůtě uvedené v odstavci 1 soud, v jehož obvodu je činný státní zástupce, který ve věci vykonává dozor nad zachováváním zákonnosti v přípravném řízení; vykonává-li dozor nad zachováváním zákonnosti v přípravném řízení evropský žalobce, rozhoduje soud, v jehož obvodu by byl činný evropský pověřený žalobce, který by byl jinak příslušný k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení. Věc předkládá soudu k rozhodnutí státní zástupce.
+>
+> #### Rozhodnutí nadřízeného orgánu
+
+</details>
+
 
 **Klíčové ustanovení o devolučně-soudním přezkumu** — některá rozhodnutí SZ/policejního orgánu přezkoumává **soud** (ne nadřízený SZ).
 
@@ -442,6 +850,21 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 ## §§ 147 – 150 — Rozhodnutí nadřízeného orgánu
 
 ### § 147 — Rozsah přezkumu
+<details>
+<summary>📜 <strong>Citace § 147 (úplné znění)</strong></summary>
+
+> #### § 147
+>
+> (1) Při rozhodování o stížnosti přezkoumá nadřízený orgán
+>
+> - a) správnost všech výroků napadeného usnesení, proti nimž může stěžovatel podat stížnost, a
+>
+> - b) řízení předcházející napadenému usnesení.
+>
+> (2) Týká-li se stížnost jen některé z více osob nebo jen některé z více věcí, o nichž bylo rozhodnuto týmž usnesením, přezkoumá nadřízený orgán jen správnost výroků týkajících se této osoby nebo této věci a řízení předcházející přezkoumávané části usnesení.
+
+</details>
+
 
 **Odst. 1 — taxativní přezkum nadřízeného orgánu:**
 - a) **správnost všech výroků** (proti nimž může stěžovatel podat stížnost);
@@ -450,6 +873,23 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 **Odst. 2 — částečný přezkum**: pokud stížnost jen o části → přezkum **jen této části**.
 
 ### § 148 — Zamítnutí stížnosti
+<details>
+<summary>📜 <strong>Citace § 148 (úplné znění)</strong></summary>
+
+> #### § 148
+>
+> (1) Nadřízený orgán zamítne stížnost
+>
+> - a) není-li přípustná,
+>
+> - b) byla-li podána opožděně, osobou neoprávněnou, osobou, která se jí výslovně vzdala nebo která znovu podala stížnost, kterou již předtím výslovně vzala zpět, nebo
+>
+> - c) není-li důvodná.
+>
+> (2) Jako opožděná nemůže být zamítnuta stížnost, kterou oprávněná osoba podala opožděně jen proto, že se řídila nesprávným poučením, které jí bylo dáno při oznámení usnesení.
+
+</details>
+
 
 **Odst. 1 — důvody zamítnutí:**
 - a) **není přípustná**;
@@ -459,6 +899,29 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 **Odst. 2 — záchrana před zamítnutím pro opožděnost**: nelze zamítnout, pokud opožděnost vznikla **kvůli nesprávnému poučení** při oznámení usnesení.
 
 ### § 149 — Vyhovění stížnosti
+<details>
+<summary>📜 <strong>Citace § 149 (úplné znění)</strong></summary>
+
+> #### § 149
+>
+> (1) Nezamítne-li nadřízený orgán stížnost, zruší napadené usnesení, a je-li podle povahy věci potřeba nového rozhodnutí, buď
+>
+> - a) rozhodne sám ve věci, nebo
+>
+> - b) uloží orgánu, proti jehož rozhodnutí stížnost směřuje, aby o věci znovu jednal a rozhodl.
+>
+> (2) Soud rozhodující o stížnosti proti usnesení o zastavení trestního stíhání může též, je-li to pro náležité objasnění věci potřebné, při zrušení napadeného usnesení vrátit věc státnímu zástupci k došetření, a to i v tom případě, že trestní stíhání bylo zastaveno až po nařízení hlavního líčení (§ 223 a 231). Ustanovení § 191 platí i tu.
+>
+> (3) Je-li vadná jen část napadeného usnesení a lze-li ji oddělit od ostatních anebo týká-li se stížnost jen části usnesení (§ 147 odst. 2), omezí nadřízený orgán své rozhodnutí podle odstavce 1 jen na onu část.
+>
+> (4) Záleží-li vada v tom, že v napadeném usnesení některý výrok chybí nebo je neúplný, může nadřízený orgán, aniž vysloví zrušení napadeného usnesení, buď sám je doplnit, anebo uložit orgánu, proti jehož rozhodnutí stížnost směřuje, aby o chybějícím výroku rozhodl nebo neúplný výrok doplnil.
+>
+> (5) Soud rozhodující o stížnosti může, pokládá-li to za nutné, nařídit, aby věc byla znovu v prvním stupni projednána a bylo o ní rozhodnuto v jiném složení senátu nebo jiným samosoudcem anebo jiným soudem téhož druhu a téhož stupně v jeho obvodu.
+>
+> (6) Orgán, jemuž byla věc vrácena k novému projednání a rozhodnutí, je při novém rozhodování vázán právním názorem, který ve věci vyslovil orgán nadřízený, a je povinen provést úkony, jejichž provedení tento orgán nařídil.
+
+</details>
+
 
 **Odst. 1**: Pokud nadřízený nezamítne → **zruší usnesení** a buď:
 - a) **rozhodne sám**, nebo
@@ -477,6 +940,19 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 **Odst. 6 — vázanost právním názorem**: orgán, kterému byla věc vrácena, je **vázán právním názorem** nadřízeného + **musí provést nařízené úkony**.
 
 ### § 150 — Zákaz reformationis in peius
+<details>
+<summary>📜 <strong>Citace § 150 (úplné znění)</strong></summary>
+
+> #### § 150
+>
+> (1) Orgán rozhodující o stížnosti nemůže z jejího podnětu změnit usnesení v neprospěch osoby, která stížnost podala nebo v jejíž prospěch byla stížnost podána.
+>
+> (2) Změní-li nadřízený orgán usnesení ve prospěch obviněného z důvodů, který prospívá také některému spoluobviněnému, změní usnesení také ve prospěch tohoto spoluobviněného.
+>
+> (3) Ustanovení odstavce 1 platí přiměřeně i pro orgán, jemuž byla věc přikázána k novému projednání a rozhodnutí.
+
+</details>
+
 
 **Odst. 1 — *prohibitio reformationis in peius* u stížnosti:**
 
@@ -493,6 +969,27 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 # Hlava VIII — Náklady trestního řízení (§ 151 – § 156)
 
 ## § 151 — Náklady nesené státem
+<details>
+<summary>📜 <strong>Citace § 151 (úplné znění)</strong></summary>
+
+> #### § 151
+>
+> ##### Náklady trestního řízení, jež nese stát
+>
+> (1) Náklady nutné k provedení trestního řízení včetně řízení vykonávacího nese stát; nenese však vlastní náklady obviněného, zúčastněné osoby a poškozeného, ani vydání způsobená zvolením obhájce a zmocněnce. Stát však nese náklady na nutnou obhajobu, které obviněnému vznikly v důsledku podání stížnosti pro porušení zákona.
+>
+> (2) Obhájce, který byl obviněnému ustanoven, má vůči státu nárok na odměnu, náhradu hotových výdajů a náhradu za promeškaný čas podle právního předpisu upravujícího odměny a náhrady advokátů za poskytování právních služeb. Nárok je třeba uplatnit do 1 roku ode dne, kdy se obhájce dozvěděl, že povinnost obhajovat skončila, jinak nárok zaniká. Je-li obhájce plátcem daně z přidané hodnoty, jeho nárok se zvyšuje o částku odpovídající této dani, kterou je povinen z odměny za zastupování, z náhrady hotových výdajů a náhrady za promeškaný čas odvést podle zákona upravujícího daň z přidané hodnoty. Ustanovení věty třetí se použije i v případě, kdy obhájce je společníkem právnické osoby zřízené podle zákona upravujícího výkon advokacie a plátcem daně je tato právnická osoba, a v případě, kdy je právním zástupcem advokát, který je zaměstnancem jiného advokáta nebo právnické osoby zřízené za účelem výkonu advokacie podle zákona upravujícího výkon advokacie, a plátcem daně je tento zaměstnavatel advokáta.
+>
+> (3) O výši odměny, náhrady hotových výdajů a náhrady za promeškaný čas rozhodne na návrh obhájce orgán činný v trestním řízení, který vedl řízení v době, kdy obhájci povinnost obhajovat skončila, a to bez zbytečného odkladu, nejpozději do dvou měsíců od podání návrhu. V řízení před soudem rozhodne předseda senátu soudu prvního stupně. Na návrh obhájce může orgán činný v trestním řízení přijmout opatření, aby obhájci byla poskytnuta ještě před skončením trestního stíhání přiměřená záloha na odměnu, náhradu hotových výdajů a náhradu za promeškaný čas, jestliže je to odůvodněno dobou trvání trestního stíhání nebo jinými závažnými důvody.
+>
+> (4) Proti rozhodnutí podle odstavce 3 je přípustná stížnost, jež má odkladný účinek.
+>
+> (5) Odměnu, náhradu hotových výdajů a náhradu za promeškaný čas je třeba uhradit bez zbytečného odkladu po jejich přiznání, nejpozději do 30 dnů.
+>
+> (6) Ustanovení odstavců 2 až 5 se přiměřeně užijí na rozhodování o výši odměny, náhrady hotových výdajů a náhrady za promeškaný čas zvoleného obhájce obviněným, který má nárok na bezplatnou obhajobu nebo obhajobu za sníženou odměnu, a zvoleného nebo ustanoveného zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu.
+
+</details>
+
 
 **Odst. 1 — generální pravidlo**:
 
@@ -532,6 +1029,19 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 **Odst. 6**: Přiměřená aplikace na **zvoleného obhájce při bezplatné obhajobě** a **zmocněnce poškozeného s nárokem na bezplatnou pomoc**.
 
 ## § 151a — Stát platí znalecký posudek stranou
+<details>
+<summary>📜 <strong>Citace § 151a (úplné znění)</strong></summary>
+
+> #### § 151a
+>
+> (1) Obviněný, který má nárok na bezplatnou obhajobu nebo na obhajobu za sníženou odměnu, a poškozený, který má nárok na ustanovení zmocněnce, mohou žádat, aby předseda senátu a v přípravném řízení státní zástupce rozhodl o tom, že stát ponese náklady na znalecký posudek, který obviněný nebo poškozený vyžádá. Žádosti nelze vyhovět, jestliže takový důkaz není pro objasnění věci zřejmě potřebný nebo stejný úkon k prokázání téže skutečnosti již vyžádal orgán činný v trestním řízení.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost.
+>
+> #### Povinnost k náhradě nákladů trestního řízení
+
+</details>
+
 
 **Odst. 1**: Obviněný s nárokem na bezplatnou obhajobu / poškozený s nárokem na zmocněnce mohou žádat o **státní úhradu znaleckého posudku, který vyžádá strana**.
 
@@ -544,6 +1054,33 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 **Účel: rovnost zbraní** mezi stranami — chudší obviněný / poškozený nemá horší pozici než stát.
 
 ## § 152 — Povinnost odsouzeného k náhradě nákladů státu
+<details>
+<summary>📜 <strong>Citace § 152 (úplné znění)</strong></summary>
+
+> #### § 152
+>
+> (1) Byl-li obžalovaný pravomocně uznán vinným, je povinen nahradit státu
+>
+> - a) náklady výkonu vazby,
+>
+> - b) náklady, které stát vynaložil na úhradu odměny, náhradu hotových výdajů a náhradu za promeškaný čas ustanovenému obhájci, pokud nemá nárok na obhajobu bezplatnou,
+>
+> - c) náklady spojené s využitím elektronického kontrolního systému,
+>
+> - d) náklady výkonu trestu odnětí svobody,
+>
+> - e) náklady spojené s výkonem trestu domácího vězení a
+>
+> - f) paušální částkou ostatní náklady, jež nese stát.
+>
+> (2) Denní sazbu připadající na náklady spojené s využitím elektronického kontrolního systému a náklady spojené s výkonem trestu domácího vězení a způsob úhrady těchto nákladů stanoví Ministerstvo spravedlnosti obecně závazným právním předpisem.
+>
+> (3) Paušální částku uvedenou v odstavci 1 písm. f) stanoví obecně závazným právním předpisem ministerstvo spravedlnosti.
+>
+> (4) Úhradu nákladů výkonu vazby upravuje zákon o výkonu vazby. Úhradu nákladů výkonu trestu odnětí svobody upravuje zákon o výkonu trestu odnětí svobody.
+
+</details>
+
 
 **Odst. 1**: Pravomocně odsouzený nahradí státu:
 - a) **náklady výkonu vazby**;
@@ -560,6 +1097,17 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 **Odst. 4**: Úhrada vazby → zákon o výkonu vazby (z. č. 293/1993 Sb.). Úhrada VTOS → zákon o výkonu trestu odnětí svobody (z. č. 169/1999 Sb.).
 
 ## § 153 — Náklady bezvýsledných mimořádných OP
+<details>
+<summary>📜 <strong>Citace § 153 (úplné znění)</strong></summary>
+
+> #### § 153
+>
+> (1) Kdo podal zcela bezvýsledně dovolání nebo návrh na obnovu řízení, je povinen státu nahradit náklady řízení o tomto návrhu, a to paušální částkou, kterou stanoví ministerstvo spravedlnosti obecně závazným právním předpisem. Dále je povinen nahradit státu náklady vynaložené na odměnu, náhradu hotových výdajů a náhradu za promeškaný čas obhájci, pokud byl v souvislosti s takovým návrhem ustanoven, ledaže obviněný má nárok na obhajobu bezplatnou nebo na obhajobu za sníženou odměnu.
+>
+> (2) Povinnost k náhradě podle odstavce 1 nepostihuje státního zástupce a orgán pověřený péčí o mládež.
+
+</details>
+
 
 **Odst. 1**: Kdo podal **zcela bezvýsledně dovolání / návrh na obnovu řízení** → nahradí státu:
 - **paušální částku** (vyhláška MS);
@@ -572,6 +1120,21 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 **Účel**: motivace k uvážlivému využití mimořádných OP — bezvýsledné podání má pro odsouzeného **finanční riziko**.
 
 ## § 154 — Náklady poškozeného
+<details>
+<summary>📜 <strong>Citace § 154 (úplné znění)</strong></summary>
+
+> #### § 154
+>
+> ##### Povinnost k náhradě nákladů spojených s účastí poškozeného v trestním řízení
+>
+> (1) Byl-li poškozenému alespoň zčásti přiznán nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení, je odsouzený, jemuž byla povinnost k náhradě škody nebo nemajetkové újmy v penězích nebo k vydání bezdůvodného obohacení uložena, povinen nahradit poškozenému též náklady potřebné k účelnému uplatnění tohoto nároku v trestním řízení, včetně nákladů vzniklých přibráním zmocněnce.
+>
+> (2) Soud i v případě, že poškozenému nebyl přiznán nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení ani zčásti, rozhodne na návrh poškozeného o tom, že se odsouzenému ukládá povinnost uhradit poškozenému zcela nebo zčásti náklady související s účastí poškozeného v trestním řízení (§ 155 odst. 4), nebrání-li tomu povaha věci a okolnosti případu, zejména spoluzavinění poškozeného. Z důvodů zvláštního zřetele hodných náhradu přiměřeně sníží; přitom vezme v úvahu zejména povahu trestného činu, osobní a majetkové poměry poškozeného a odsouzeného. Snížení nelze provést, jde-li o úmyslný trestný čin.
+>
+> (3) Odsouzený je povinen nahradit státu náklady vzniklé přibráním zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu, nebrání-li tomu povaha věci a okolnosti případu, zejména spoluzavinění poškozeného. Jde-li o nedbalostní trestný čin, soud z důvodů zvláštního zřetele hodných náhradu přiměřeně sníží; přitom vezme v úvahu zejména povahu trestného činu a osobní a majetkové poměry odsouzeného.
+
+</details>
+
 
 **Odst. 1 — náklady při přiznaném adhezním nároku**:
 Pokud byl poškozenému **alespoň zčásti přiznán** adhezní nárok → **odsouzený nahradí poškozenému** náklady **účelně vynaložené k uplatnění nároku** vč. **zmocněnce**.
@@ -584,6 +1147,17 @@ I když nepřiznán → soud **na návrh poškozeného** rozhodne o náhradě n�
 **Odst. 3 — bezplatný zmocněnec**: odsouzený nahradí státu **náklady zmocněnce s nárokem na bezplatnou pomoc**. Snížení u **nedbalostních TČ**.
 
 ## § 154a — Zánik povinnosti
+<details>
+<summary>📜 <strong>Citace § 154a (úplné znění)</strong></summary>
+
+> #### § 154a
+>
+> Povinnost uhradit náklady uvedené v § 152 odst. 1, nejde-li o náklady výkonu trestu odnětí svobody, § 153 odst. 1 a § 154 odst. 3 zaniká, jestliže o ní soud nerozhodl ve lhůtě tří let ode dne, kdy tak mohl poprvé učinit.
+>
+> #### Rozhodování o povinnosti k náhradě nákladů trestního řízení a o jejich výši
+
+</details>
+
 
 Povinnost uhradit náklady § 152 odst. 1 (vyjma VTOS), § 153, § 154 odst. 3 **zaniká**, jestliže o ní soud nerozhodl ve **lhůtě 3 let** ode dne, kdy tak mohl poprvé učinit.
 
