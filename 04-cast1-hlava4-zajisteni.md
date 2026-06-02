@@ -422,7 +422,7 @@ Vydává **předseda senátu, SZ nebo policejní orgán**. Adresát musí věc p
 **Odst. 2**: Povinnost se **nevztahuje** na listinu / nosič obsahující informace s **zákazem výslechu** (§ 99) — vyjma zproštění mlčenlivosti.
 
 **Odst. 3 — sebeobviňování:**
-> *Nikoho nelze nutit, aby předložil nebo vydal věc, jež v době, kdy je požádáno o její předložení nebo vydání, může sloužit jako důkaz proti němu nebo proti jeho osobě blízké…*
+> *Nikoho nelze nutit, aby předložil nebo vydal věc, jež v době, kdy je požádáno o její předložení nebo vydání, může sloužit jako důkaz proti němu nebo proti jeho osobě blízké; tím nejsou dotčena ustanovení o odnětí věci, domovní prohlídce, prohlídce jiných prostor a pozemků a osobní prohlídce.*
 
 **Nemo tenetur** ve věcech předmětných. **Nejsou dotčena** ustanovení o **odnětí věci** a **prohlídkách**.
 

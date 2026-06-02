@@ -288,7 +288,7 @@ Transpozice **směrnice 2016/1919/EU** o právní pomoci.
 
 **Odst. 5 — poučovací povinnost:**
 
-> *Všechny orgány činné v trestním řízení jsou povinny vždy poučit obviněného o jeho právech, a to se zaměřením na probíhající stadium trestního řízení…*
+> *Všechny orgány činné v trestním řízení jsou povinny vždy poučit obviněného o jeho právech, a to se zaměřením na probíhající stadium trestního řízení, a poskytnout mu plnou možnost jejich uplatnění. Obviněného, který byl zadržen či zatčen, je třeba poučit též o právu na naléhavou lékařskou pomoc, o maximální lhůtě, po kterou může být omezen na svobodě, než bude odevzdán soudu, a o právu nechat vyrozumět konzulární úřad a rodinného příslušníka nebo jinou fyzickou osobu, u nichž uvede údaje potřebné k vyrozumění.*
 
 **Klíčové prvky poučení u zadrženého/zatčeného:**
 - právo na **naléhavou lékařskou pomoc**;
@@ -546,7 +546,7 @@ Pokud ZÚ nemá plnou svéprávnost. Pokud je nebezpečí z prodlení, neprodlen
 
 **Odst. 3 — adhezní řízení:**
 
-> *Poškozený je oprávněn také navrhnout, aby soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit v penězích škodu nebo nemajetkovou újmu, jež byla poškozenému trestným činem způsobena, nebo vydat bezdůvodné obohacení…*
+> *Poškozený je oprávněn také navrhnout, aby soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit v penězích škodu nebo nemajetkovou újmu, jež byla poškozenému trestným činem způsobena, nebo vydat bezdůvodné obohacení, které obžalovaný na jeho úkor trestným činem získal. Návrh je třeba učinit nejpozději u hlavního líčení před zahájením dokazování (§ 206 odst. 2); je-li sjednána dohoda o vině a trestu, je třeba návrh učinit nejpozději při prvním jednání o takové dohodě (§ 175a odst. 2). Z návrhu musí být patrno, z jakých důvodů a v jaké výši se nárok na náhradu škody nebo nemajetkové újmy uplatňuje nebo z jakých důvodů a v jakém rozsahu se uplatňuje nárok na vydání bezdůvodného obohacení. Důvod a výši škody, nemajetkové újmy nebo bezdůvodného obohacení je poškozený povinen doložit. O těchto právech a povinnostech musí být poškozený poučen. Nebyl-li by pro rozhodnutí o nároku poškozeného dostatečný podklad a nebrání-li tomu důležité důvody, zejména potřeba vyhlášení rozsudku nebo vydání trestního příkazu bez zbytečných průtahů, soud poškozenému sdělí, jakým způsobem může podklady doplnit, a poskytne mu k tomu přiměřenou lhůtu, kterou mu zároveň určí.*
 
 **Lhůta pro uplatnění návrhu**:
 - **HL**: nejpozději před zahájením **dokazování** (§ 206 odst. 2);

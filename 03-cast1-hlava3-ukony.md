@@ -372,7 +372,7 @@ NS, VS a KS mohou i ve svém obvodu úkony provést **dožádáním OS** (popř.
 
 **Klíčová ochrana osobních údajů poškozených a svědků** (vložené pravidlo z transpozice směrnice 2012/29/EU):
 
-> *Jsou-li při prováděném úkonu zjištěny údaje o bydlišti a doručovací adrese, o místě výkonu zaměstnání či povolání nebo podnikání poškozeného, svědka, zákonného zástupce, opatrovníka, zmocněnce nebo důvěrníka, pak se na žádost těchto osob do protokolu neuvádějí, není-li to nezbytné pro dosažení účelu trestního řízení, ale vedou se tak, aby se s nimi mohli seznamovat pouze orgány činné v trestním řízení a úředníci Probační a mediační služby činní v dané věci…*
+> *Jsou-li při prováděném úkonu zjištěny údaje o bydlišti a doručovací adrese, o místě výkonu zaměstnání či povolání nebo podnikání poškozeného, svědka, zákonného zástupce, opatrovníka, zmocněnce nebo důvěrníka, pak se na žádost těchto osob do protokolu neuvádějí, není-li to nezbytné pro dosažení účelu trestního řízení, ale vedou se tak, aby se s nimi mohli seznamovat pouze orgány činné v trestním řízení a úředníci Probační a mediační služby činní v dané věci; to platí také pro údaje o osobních, rodinných a majetkových poměrech poškozeného a svědka; je-li to nezbytné pro řádné uplatnění práva na obhajobu osoby, proti níž se trestní řízení vede, sdělí se této osobě potřebné údaje; o sdělení údaje a jeho důvodech se učiní záznam do protokolu a bez zbytečného odkladu se o tom informuje osoba, o jejíž údaj jde,*
 
 **Vedení údajů odděleně od spisu** — chrání svědka před pomstou a obviněného (vyloučení záměrného poškozování svědka jeho rodinou pachatele).
 
@@ -384,7 +384,7 @@ NS, VS a KS mohou i ve svém obvodu úkony provést **dožádáním OS** (popř.
 
 **Odst. 2 — utajení totožnosti a podoby svědka** (klíčové ustanovení o ochraně svědka):
 
-> *Nasvědčují-li zjištěné okolnosti tomu, že svědku nebo osobě jemu blízké v souvislosti s podáním svědectví zřejmě hrozí újma na zdraví nebo jiné vážné nebezpečí porušení jejich základních práv, a nelze-li ochranu svědka spolehlivě zajistit jiným způsobem, orgán činný v trestním řízení učiní opatření k utajení totožnosti i podoby svědka…*
+> *Nasvědčují-li zjištěné okolnosti tomu, že svědku nebo osobě jemu blízké v souvislosti s podáním svědectví zřejmě hrozí újma na zdraví nebo jiné vážné nebezpečí porušení jejich základních práv, a nelze-li ochranu svědka spolehlivě zajistit jiným způsobem, orgán činný v trestním řízení učiní opatření k utajení totožnosti i podoby svědka; jméno a příjmení a jeho další osobní údaje se do protokolu nezapisují, ale vedou se odděleně od trestního spisu a mohou se s nimi seznamovat jen orgány činné v trestním řízení v dané věci.*
 
 **Předpoklady utajení**:
 1. **Hrozba újmy na zdraví** nebo **jiné vážné nebezpečí porušení základních práv** svědka nebo osoby jemu blízké.
@@ -592,7 +592,7 @@ Lhůta je zachována, jestliže podání bylo ve lhůtě:
 
 **Odst. 1 — kdo a kdy:**
 
-> *Zmešká-li obviněný nebo jeho obhájce z důležitých důvodů lhůtu k podání opravného prostředku, povolí mu… orgán, jemuž přísluší o opravném prostředku rozhodovat, navrácení lhůty.*
+> *Zmešká-li obviněný nebo jeho obhájce z důležitých důvodů lhůtu k podání opravného prostředku, povolí mu, nestanoví-li zákon jinak, orgán, jemuž přísluší o opravném prostředku rozhodovat, navrácení lhůty. O navrácení lhůty je třeba požádat do tří dnů od pominutí překážky. Nebyl-li opravný prostředek ještě podán, je třeba jej se žádostí spojit. Jde-li o odvolání proti rozsudku, je možno odvolání odůvodnit ještě ve lhůtě osmi dnů od doručení usnesení o povolení navrácení lhůty.*
 
 **Předpoklady:**
 - **subjekt:** obviněný nebo obhájce (nikoli SZ, nikoli poškozený — pro ně navrácení neexistuje);
@@ -670,7 +670,7 @@ Pokud adresát nebyl zastižen, písemnost **se uloží** a adresát se **vyrozu
 
 **Odst. 4 — fikce doručení (10 dnů):**
 
-> *Nevyzvedne-li si adresát písemnost do deseti dnů od uložení, považuje se poslední den této lhůty za den doručení, i když se adresát o uložení nedověděl, ačkoliv se v místě doručení zdržuje, nebo uvedenou adresu označil pro účely doručování…*
+> *Nevyzvedne-li si adresát písemnost do deseti dnů od uložení, považuje se poslední den této lhůty za den doručení, i když se adresát o uložení nedověděl, ačkoliv se v místě doručení zdržuje, nebo uvedenou adresu označil pro účely doručování, anebo jde o adresu uvedenou v § 63 odst. 3. Doručující orgán po marném uplynutí této lhůty vhodí písemnost do domovní nebo jiné adresátem užívané schránky, ledaže odesílatel vhození písemnosti do schránky vyloučí. Není-li takové schránky, písemnost se vrátí odesílateli a vyvěsí se o tom sdělení na úřední desce.*
 
 **Klíčové ustanovení fikce doručení.** Aplikuje se i pokud:
 - se adresát o uložení nedověděl, ALE **zdržuje se v místě**;

@@ -526,7 +526,7 @@ Jinak vyslechne poškozeného a svědky **jen** pokud hrozí ovlivnění výpov�
 
 **Odst. 2 — obhájce od zahájení TS**:
 
-> *Obhájce je již od zahájení trestního stíhání oprávněn být přítomen při vyšetřovacích úkonech, jejichž výsledek může být použit jako důkaz v řízení před soudem…*
+> *Obhájce je již od zahájení trestního stíhání oprávněn být přítomen při vyšetřovacích úkonech, jejichž výsledek může být použit jako důkaz v řízení před soudem, ledaže nelze provedení úkonu odložit a vyrozumění o něm zajistit. Může obviněnému i jiným vyslýchaným klást otázky, avšak teprve tehdy, až orgán výslech skončí a udělí mu k tomu slovo. Námitky proti způsobu provádění úkonu může vznášet kdykoliv v jeho průběhu. Účastní-li se obhájce výslechu svědka, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, je policejní orgán povinen přijmout opatření, která znemožňují obhájci zjistit skutečnou totožnost svědka.*
 
 Otázky **až po skončení výslechu** (s udělením slova). Námitky kdykoli.
 

@@ -433,7 +433,15 @@ Po vrácení k došetření, pokud SZ znovu **podá obžalobu**, dochází k nov
 
 **Odst. 2 — výzva obžalovanému** se opisem:
 
-> *Předseda senátu spolu s doručením opisu obžaloby upozorní obžalovaného, že má právo se v jím stanovené lhůtě vyjádřit ke skutečnostem uvedeným v obžalobě, zejména…*
+> *Předseda senátu spolu s doručením opisu obžaloby upozorní obžalovaného, že má právo se v jím stanovené lhůtě vyjádřit ke skutečnostem uvedeným v obžalobě, zejména,*
+>
+> *a) zda se cítí být nevinen nebo vinen spácháním skutku anebo některého ze skutků uvedených v obžalobě a z jakých důvodů,*
+>
+> *b) zda má zájem uzavřít se státním zástupcem dohodu o vině a trestu nebo zda chce v hlavním líčení prohlásit svou vinu,*
+>
+> *c) zda souhlasí s popisem skutku a jeho právní kvalifikací a s navrženým trestem, případně ochranným opatřením, a*
+>
+> *d) které skutečnosti považuje za nesporné.*
 
 Obžalovaný se může vyjádřit zejména k:
 - **a) vině/nevině** spácháním skutku + důvody;
