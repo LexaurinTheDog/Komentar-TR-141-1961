@@ -489,7 +489,6 @@
 
 </details>
 
-
 Subsidiární aplikace obecných ustanovení.
 
 ---
@@ -774,6 +773,11 @@ Na návrh osoby podle § 88 odst. 8, 9 (odposlech) nebo § 88a odst. 2 (metadata
 ### § 314m — Porušení zákona
 
 Pokud byl příkaz vydán / proveden v rozporu se zákonem → **usnesení o porušení zákona**. Proti rozhodnutí **OP nepřípustný**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4286/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E01EAE3DE0CA88C2C1257DB60036BA47?openDocument) — 4. 12. 2014, kat. A
+  > „Splnění požadavku změny či zrušení rozhodnutí pro nezákonnost ve smyslu § 8 odst. 1 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) nelze obecně nahradit předběžným posouzením rozhodnutí jako nezákonného v odškodňovacím řízení ani v případě prvostupňových rozhodnutí, proti nimž není přípustný opravný prostředek"
 
 ### § 314n — Zákon nebyl porušen
 

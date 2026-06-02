@@ -233,6 +233,11 @@ Pokud byl obviněný **odsouzen k nepodmíněnému trestu nebo peněžitému tre
 
 Pokud více poškozených → **poměrné uspokojení**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4274/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B49785B60D599B8C1257E4A0046968E?openDocument) — 15. 4. 2015, kat. A
+  > „Za podmínek ustanovení § 7 a násl. zákona č. 82/1998 Sb. stát zásadně odpovídá i za škodu představovanou náklady, které obviněný vynaložil v souvislosti s podáním návrhu na peněžitou záruku (§ 73a tr. ř.), zajištěním finančních prostředků na peněžitou záruku a složením peněžité záruky, lze-li vynaložené náklady považovat za adekvátní"
+
 ### § 73aa — Trvání opatření nahrazujícího vazbu
 
 > *Opatření nahrazující vazbu může trvat jen po dobu nezbytně nutnou, po kterou trvají důvody vazby a je ho zapotřebí k jejímu nahrazení. Celková doba trvání opatření nahrazujícího vazbu, nestanoví-li zákon jinak, nesmí překročit jedenapůlnásobek doby stanovené pro trvání vazby.*
@@ -242,6 +247,11 @@ Pokud více poškozených → **poměrné uspokojení**.
 - zločin: max. **3 roky**;
 - ZZZ: max. **4,5 roku**;
 - ZZZ s výjimečným trestem: max. **6 let**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4274/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B49785B60D599B8C1257E4A0046968E?openDocument) — 15. 4. 2015, kat. A
+  > „Za podmínek ustanovení § 7 a násl. zákona č. 82/1998 Sb. stát zásadně odpovídá i za škodu představovanou náklady, které obviněný vynaložil v souvislosti s podáním návrhu na peněžitou záruku (§ 73a tr. ř.), zajištěním finančních prostředků na peněžitou záruku a složením peněžité záruky, lze-li vynaložené náklady považovat za adekvátní"
 
 ### § 73b — Orgány rozhodující o vazbě
 
@@ -479,6 +489,11 @@ Pokud nelze zajistit nástroj/výnos/předmět sankce → **náhradní hodnota**
 
 Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné věci → zajištění se přesouvá na peníze, věc se uvolňuje.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3310/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37CFBD975DA5DD84C1257EB40046EE2F?openDocument) — 24. 6. 2015, kat. A
+  > „Odpovědnost státu za škodu z rozhodnutí o zajištění peněžních prostředků na účtu u banky (§ 79a odst. 1 trestního řádu) ve smyslu § 8 odst. 1 zákona č. 82/1998 Sb. nezakládá bez dalšího skutečnost, že trestní řízení, v němž bylo rozhodnutí o zajištění peněžních prostředků na účtu u banky vydáno, posléze neskončilo odsuzujícím rozsudkem. Nedojde-li k vydání odsuzujícího rozsudku, nelze z toho bez dalšího dovozovat nesprávnost postupu orgánů činných v trestním řízení ani nezákonnost rozhodnutí vydaných po zahájení trestního stíhání"
+
 ### §§ 80–81b — Vrácení, vydání a další nakládání
 
 **§ 80** — **vrácení věci**:
@@ -497,6 +512,11 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 **§ 81b — speciální nakládání:**
 - **nebezpečné věci** (drogy, jedy, jaderný materiál, radioaktivní látky) → **zničení v průběhu TŘ** po odběru vzorku;
 - **chráněné druhy / CITES exempláře / kožešiny tuleňů** → **předání ČIŽP**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2018/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA7AEEB3751235AEC1258AC3001B7E4F?openDocument) — 15. 11. 2023, kat. A
+  > „Nemovitou věc nelze uložit do soudní úschovy ani podle § 81a trestního řádu za užití § 80 odst. 1 věty třetí trestního řádu"
 
 ---
 
@@ -589,6 +609,11 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 ### § 85a — Strpění úkonu
 
 Osoba je povinna **strpět** úkon. Při neumožnění lze **překonat odpor** po předchozí marné výzvě. Záznam do protokolu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1965/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A973D50EAF33A43BC125896C001D97F4?openDocument) — 13. 12. 2022, kat. A
+  > „Překonání odporu osoby či jí vytvořené překážky bez předchozí výzvy k dobrovolnému zpřístupnění domovních prostor při provádění domovní prohlídky ve smyslu § 85a odst. 2 trestního řádu, může představovat nesprávný úřední postup podle § 13 odst. 1 zákona č. 82/1998 Sb. O nesprávný úřední postup však nejde, jsou-li dány důvodné obavy, že by výzva k dobrovolnému zpřístupnění domovních prostor mohla znamenat ohrožení života či zdraví domovní prohlídku konajících osob nebo že by tím mohlo dojít ke zmaření účelu domovní prohlídky"
 
 ### § 85b — Domovní prohlídka v advokátní kanceláři
 

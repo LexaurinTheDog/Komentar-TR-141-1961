@@ -36,7 +36,6 @@
 
 </details>
 
-
 **Odst. 1**: SZ a policejní orgán **organizují svou činnost** tak, aby účinně přispívali k **včasnosti a důvodnosti** TS. **Imperativ rychlosti a kvality**.
 
 **Odst. 2 — pravomoci SZ vůči policejnímu orgánu:**
@@ -72,7 +71,6 @@ Klíč: **konzultant ≠ znalec**. Konzultant je odborný **rádce** OČTŘ (nap
 > (2) Žádost o odstranění průtahů v řízení nebo závad v postupu státního zástupce vyřizuje státní zástupce bezprostředně vyššího státního zastupitelství.
 
 </details>
-
 
 **Odst. 1**: Obviněný a poškozený mohou **kdykoli v průběhu přípravného řízení** žádat SZ o:
 - **odstranění průtahů**;
@@ -137,7 +135,6 @@ Klíč: **konzultant ≠ znalec**. Konzultant je odborný **rádce** OČTŘ (nap
 > (12) Je-li při prověřování skutečností nasvědčujících tomu, že byl spáchán trestný čin, zjištěno, že příslušnou k řízení je Generální inspekce bezpečnostních sborů, policejní orgán ji o předmětu šetření neprodleně vyrozumí a věc jí předá. Do doby, než Generální inspekce bezpečnostních sborů věc převezme, je policejní orgán oprávněn provádět pouze neodkladné a neopakovatelné úkony. Vznikne-li mezi policejním orgánem a Generální inspekcí bezpečnostních sborů spor o příslušnost, policejní orgán věc předloží k posouzení příslušnému státnímu zástupci. Jeho stanovisko je závazné. Ustanovení odstavce 11 se nepoužije.
 
 </details>
-
 
 **Odst. 1 — povinnost policejního orgánu:**
 
@@ -228,7 +225,6 @@ Pokud má výpověď **povahu neodkladného/neopakovatelného úkonu** → výsl
 > Je-li při prověřování skutečností nasvědčujících tomu, že byl spáchán trestný čin, a zjišťování jeho pachatele třeba provést neodkladný nebo neopakovatelný úkon spočívající ve výslechu svědka nebo v rekognici, provede se na návrh státního zástupce takový úkon za účasti soudce; soudce v takovém případě odpovídá za zákonnost provedení úkonu a k tomu cíli může do průběhu úkonu zasahovat. Soudci však nepřísluší přezkoumávat závěr státního zástupce o tom, že úkon je podle zákona neodkladný nebo neopakovatelný.
 
 </details>
-
 
 **Klíčové ustanovení.** Pokud je třeba před zahájením TS provést **neodkladný/neopakovatelný úkon**, kterým je:
 - **výslech svědka**, nebo
@@ -445,6 +441,11 @@ V protokolu **zdůvodnit**, proč úkon byl považován za neodkladný/neopakova
 **Odst. 6 — změna právní kvalifikace**: policejní orgán **upozorní obviněného** + záznam do protokolu (ne nové usnesení).
 
 **Odst. 7**: **Stížnost** obviněného proti usnesení o zahájení TS.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### Oddíl 2 — Vyšetřování
 

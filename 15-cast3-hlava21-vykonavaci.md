@@ -70,6 +70,11 @@ Specifický institut **vnitřní progresie** v rámci věznice s ostrahou (§ 56
 
 **Lhůta**: max. **3 měsíce** v součtu (jen ve výjimečných případech delší).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
+
 ### § 328 — Odklad u vojáků
 
 Speciální režim pro **vojáky v činné službě** — koordinace s vojenskou disciplinární mocí.

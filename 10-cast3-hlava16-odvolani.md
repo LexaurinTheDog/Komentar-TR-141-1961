@@ -21,7 +21,6 @@
 
 </details>
 
-
 **Odst. 1 — generální pravidlo:**
 
 > *Opravným prostředkem proti rozsudku soudu prvního stupně je odvolání.*
@@ -42,9 +41,19 @@
 
 **Klíč: napadené rozhodnutí není pravomocné, dokud o odvolání nebylo rozhodnuto** (§ 139 odst. 1 písm. b/aa/bb/cc). **Nepodmíněný trest** se nevykonává; **vazba** trvá podle pravidel § 72.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+
 ---
 
 ## §§ 246, 247 — Oprávněné osoby a rozsah napadnutí
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — 24. 4. 2013, kat. A
+  > „Osoby oprávněné zvolit obviněnému obhájce (§ 37 odst. 1 tr. ř.) nejsou účastníky trestního řízení samy o sobě, ale stávají se jimi až v okamžiku, kdy toto právo využijí. Vznikne-li jim v souvislosti s tím škoda nebo nemajetková újma, za niž odpovídá stát, je třeba je považovat za účastníky řízení ve smyslu § 7 odst. 1 zákona č. 82/1998 Sb. k náhradě takové škody nebo nemajetkové újmy aktivně legitimované"
 
 ### § 246 — Kdo může odvolat (4 kategorie)
 <details>
@@ -65,7 +74,6 @@
 > (2) Osoba oprávněná napadat rozsudek pro nesprávnost některého jeho výroku může jej napadat také proto, že takový výrok učiněn nebyl, jakož i pro porušení ustanovení o řízení předcházejícím rozsudku, jestliže toto porušení mohlo způsobit, že výrok je nesprávný nebo že chybí.
 
 </details>
-
 
 **a) SZ — pro nesprávnost kteréhokoli výroku.**
 
@@ -101,7 +109,6 @@ Osoba oprávněná napadat výrok může jej napadat také:
 
 </details>
 
-
 **Odst. 1 — v neprospěch obžalovaného**:
 
 > *V neprospěch obžalovaného může rozsudek napadnout odvoláním jen státní zástupce…*
@@ -118,6 +125,11 @@ Osoba oprávněná napadat výrok může jej napadat také:
 - u omezené svéprávnosti **i proti vůli obžalovaného** — **opatrovník** a **obhájce**.
 
 **Analogicky § 142 odst. 2** u stížnosti — rodinný okruh hájí zájem obviněného.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — 24. 4. 2013, kat. A
+  > „Osoby oprávněné zvolit obviněnému obhájce (§ 37 odst. 1 tr. ř.) nejsou účastníky trestního řízení samy o sobě, ale stávají se jimi až v okamžiku, kdy toto právo využijí. Vznikne-li jim v souvislosti s tím škoda nebo nemajetková újma, za niž odpovídá stát, je třeba je považovat za účastníky řízení ve smyslu § 7 odst. 1 zákona č. 82/1998 Sb. k náhradě takové škody nebo nemajetkové újmy aktivně legitimované"
 
 ---
 
@@ -136,7 +148,6 @@ Osoba oprávněná napadat výrok může jej napadat také:
 > (3) Jiným osobám uvedeným v § 247 odst. 2, s výjimkou státního zástupce, končí lhůta týmž dnem jako obžalovanému.
 
 </details>
-
 
 **Odst. 1**:
 > *Odvolání se podává u soudu, proti jehož rozsudku směřuje, a to do osmi dnů od doručení opisu rozsudku.*
@@ -168,7 +179,6 @@ Pokud se rozsudek doručuje **i obhájci a opatrovníku**, lhůta běží od **n
 > (3) Odvolání lze opřít o nové skutečnosti a důkazy.
 
 </details>
-
 
 **Odst. 1 — náležitosti**:
 
@@ -211,7 +221,6 @@ V **lhůtě k odvolání** (nebo v další lhůtě stanovené předsedou senátu
 
 </details>
 
-
 **Odst. 1 — vzdání se**: po vyhlášení rozsudku, **výslovně**. Klíčové pro **zjednodušený rozsudek** (§ 129 odst. 2) a **právní moc**.
 
 **Odst. 2 — zpětvzetí**: **kdykoli do závěrečné porady odvolacího soudu**. SZ může vzít zpět **i nadřízený SZ** (vč. EPPO).
@@ -241,7 +250,6 @@ Odvolání **ve prospěch obžalovaného** podané jinou osobou / obhájcem / op
 > (3) Jakmile uplynuly lhůty k podání odvolání a lhůty k odstranění vad odvolání u všech oprávněných osob, předseda senátu doručí stejnopis odvolání a jejich odůvodnění ostatním stranám a nevyčkávaje jejich vyjádření předloží spisy odvolacímu soudu.
 
 </details>
-
 
 **Odst. 1 — odstraňování vad odvolání SZ / obhájce / zmocněnce**:
 
@@ -275,7 +283,6 @@ Po uplynutí lhůt → předseda senátu **doručí stejnopis odvolání + odův
 
 </details>
 
-
 > *O odvolání proti rozsudku okresního soudu rozhoduje nadřízený krajský soud a o odvolání proti rozsudku vojenského obvodového soudu rozhoduje nadřízený vyšší vojenský soud. O odvolání proti rozsudku krajského nebo vyššího vojenského soudu jako soudu prvního stupně rozhoduje nadřízený vrchní soud.*
 
 **Hierarchie**:
@@ -303,7 +310,6 @@ Po uplynutí lhůt → předseda senátu **doručí stejnopis odvolání + odův
 > (4) Odmítnout odvolání podle odstavce 3 nelze, jestliže nebyla oprávněná osoba řádně poučena podle § 249 odst. 1 nebo nebyla oprávněné osobě, která nemá obhájce nebo zmocněnce, poskytnuta pomoc při odstranění vad odvolání (§ 251 odst. 2).
 
 </details>
-
 
 **Odst. 1 — zamítnutí** (procesní vady):
 - **opožděné** (nedodržení 8denní lhůty);
@@ -333,7 +339,6 @@ Po uplynutí lhůt → předseda senátu **doručí stejnopis odvolání + odův
 > (4) Byla-li odvoláním napadena část rozsudku týkající se jen některé z více osob, o nichž bylo rozhodnuto týmž rozsudkem, přezkoumá odvolací soud uvedeným způsobem jen tu část rozsudku a předcházejícího řízení, která se týká této osoby.
 
 </details>
-
 
 **Odst. 1 — vázanost vytýkanými vadami:**
 
@@ -365,7 +370,6 @@ Po uplynutí lhůt → předseda senátu **doručí stejnopis odvolání + odův
 
 </details>
 
-
 **Odst. 1**: Pokud po vyhlášení rozsudku I. stupně nastala okolnost **§ 173 odst. 1 písm. b)–f)** (těžká choroba, duševní porucha, dočasné vynětí, přestupek, vydání do ciziny) nebo **§ 9a** (předběžná otázka SDEU) → **přerušení**.
 
 **Odst. 2 — předložení ÚS**: pokud má odvolací soud za to, že **zákon v rozporu s ústavním pořádkem** → ÚS (čl. 95 odst. 2 Ústavy).
@@ -379,7 +383,6 @@ Po uplynutí lhůt → předseda senátu **doručí stejnopis odvolání + odův
 > Odvolací soud odvolání zamítne, shledá-li, že není důvodné.
 
 </details>
-
 
 > *Odvolací soud odvolání zamítne, shledá-li, že není důvodné.*
 
@@ -408,7 +411,6 @@ Po uplynutí lhůt → předseda senátu **doručí stejnopis odvolání + odův
 > (3) V odvolacím řízení, v kterém bylo zastaveno trestní stíhání z některého důvodu uvedeného v odstavci 2, se však pokračuje, prohlásí-li obviněný do tří dnů od doby, kdy mu bylo usnesení o zastavení trestního stíhání oznámeno, že na projednání věci trvá. O tom je třeba obviněného poučit.
 
 </details>
-
 
 Odvolací soud napadený rozsudek **zruší** + v rozsahu zrušení rozhodne:
 - **a) předložení o příslušnosti** nadřízenému společnému soudu (analogicky § 222 odst. 1);
@@ -447,7 +449,6 @@ Odvolací soud napadený rozsudek **zruší** + v rozsahu zrušení rozhodne:
 
 </details>
 
-
 Odvolací soud **zruší rozsudek** pro:
 
 - **a) podstatné vady řízení** předcházejícího rozsudku — zejména **porušení ustanovení o objasnění věci / práva obhajoby**, pokud měly vliv na správnost / zákonnost;
@@ -485,7 +486,6 @@ Odvolací soud **zruší rozsudek** pro:
 > - b) uznat obžalovaného vinným těžším trestným činem, než jakým ho mohl v napadeném rozsudku uznat vinným soud prvního stupně (§ 225 odst. 2).
 
 </details>
-
 
 **Odst. 1 — vrácení I. stupni**:
 
@@ -529,7 +529,6 @@ Odvolací soud **NEMŮŽE** sám:
 
 </details>
 
-
 Pokud po zrušení **nelze pokračovat pro neodstranitelné procesní vady** a není důvod k jinému rozhodnutí → **vrácení SZ k došetření** (§ 191, § 264 odst. 2 obdobně).
 
 ### § 261 — Beneficium cohaesionis
@@ -542,10 +541,14 @@ Pokud po zrušení **nelze pokračovat pro neodstranitelné procesní vady** a n
 
 </details>
 
-
 > *Prospívá-li důvod, z něhož rozhodl odvolací soud ve prospěch některého obžalovaného, také dalšímu spoluobžalovanému nebo zúčastněné osobě, rozhodne odvolací soud vždy též v jejich prospěch.*
 
 **Klíčové procesní pravidlo** — *beneficium cohaesionis* — pokud důvod prospívá i spoluobžalovanému, který **neodvolal**, **automaticky se vztahuje i na něho**. Stejně i ve vztahu mezi obžalovaným a ZÚ.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 262 — Změna složení senátu
 <details>
@@ -556,7 +559,6 @@ Pokud po zrušení **nelze pokračovat pro neodstranitelné procesní vady** a n
 > Rozhodne-li odvolací soud, že se věc vrací k novému projednání a rozhodnutí soudu prvního stupně, může zároveň nařídit, aby byla projednána a rozhodnuta v jiném složení senátu nebo jiným samosoudcem. Z důležitého důvodu může také nařídit, aby ji projednal a rozhodl jiný soud téhož druhu a téhož stupně v jeho obvodě.
 
 </details>
-
 
 > *Rozhodne-li odvolací soud, že se věc vrací k novému projednání a rozhodnutí soudu prvního stupně, může zároveň nařídit, aby byla projednána a rozhodnuta v jiném složení senátu nebo jiným samosoudcem.*
 
@@ -591,7 +593,6 @@ Pokud po zrušení **nelze pokračovat pro neodstranitelné procesní vady** a n
 > (7) Z hlediska změny nebo doplnění skutkových zjištění odvolací soud může přihlížet jen k důkazům, které byly provedeny ve veřejném zasedání před odvolacím soudem; tyto důkazy hodnotí v návaznosti na důkazy provedené soudem prvního stupně v hlavním líčení. Odvolací soud je vázán hodnocením těchto důkazů soudem prvního stupně s výjimkou těch důkazů, které odvolací soud sám ve veřejném zasedání znovu provedl.
 
 </details>
-
 
 **Odst. 1 — typ zasedání**:
 - **veřejné zasedání** generálně;
@@ -636,7 +637,6 @@ Po přednesení návrhů → **důkazy potřebné pro rozhodnutí o odvolání**
 
 </details>
 
-
 **Odst. 1 — vázanost právním názorem**:
 
 Soud, jemuž věc vrácena, je **vázán právním názorem** odvolacího soudu + **musí provést nařízené úkony**.
@@ -658,7 +658,6 @@ Soud, jemuž věc vrácena, je **vázán právním názorem** odvolacího soudu 
 > Zruší-li odvolací soud napadený rozsudek toliko ve výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení a nerozhodne-li sám ve věci, odkáže poškozeného na řízení ve věcech občanskoprávních, popřípadě na řízení před jiným příslušným orgánem.
 
 </details>
-
 
 Pokud byl zrušen **jen adhezní výrok** a odvolací soud sám nerozhodne → **odkaz poškozeného na civilní řízení**.
 

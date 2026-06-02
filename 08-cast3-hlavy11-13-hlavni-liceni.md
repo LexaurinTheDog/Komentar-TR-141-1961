@@ -26,7 +26,6 @@
 
 </details>
 
-
 **Odst. 1 — *nemo iudex sine actore*:**
 
 > *Trestní stíhání před soudem se koná jen na podkladě obžaloby nebo návrhu na potrestání, které podává a před soudem zastupuje státní zástupce, nebo na podkladě návrhu na schválení dohody o vině a trestu, který podává státní zástupce.*
@@ -66,7 +65,6 @@ V HL a VZ:
 
 </details>
 
-
 **Odst. 1 — předběžný přezkum obžaloby**:
 
 Soud nejprve **přezkoumá obžalobu** z hlediska:
@@ -102,7 +100,6 @@ Musí nařídit:
 
 </details>
 
-
 > *Státní zástupce může vzít obžalobu zpět až do doby, než se soud prvního stupně odebere k závěrečné poradě nebo samosoudce počne vyhlašovat rozhodnutí ve věci; po zahájení hlavního líčení tak může učinit jen tehdy, pokud obžalovaný netrvá na jeho pokračování.*
 
 **Klíčový limit**:
@@ -123,7 +120,6 @@ Musí nařídit:
 
 </details>
 
-
 **Odst. 1**: Předseda senátu může **kdykoli** požádat policejní orgán o opatření **jednotlivého důkazu, předvedení osoby, doručení písemnosti** (§ 62 odst. 1). Policejní orgán **urychleně vyhoví**.
 
 **Odst. 2**: V závažných věcech může předseda senátu přibrat **konzultanta** (§ 157 odst. 3–5 obdobně).
@@ -143,7 +139,6 @@ Musí nařídit:
 > (4) Předseda senátu dbá na ochranu svědků a osob jim blízkých, kterým v souvislosti s podáním svědectví hrozí újma na zdraví, smrt nebo jiné vážné nebezpečí, a je-li to třeba i na utajení jejich totožnosti, popřípadě podoby. Pokud je třeba zajistit ochranu těchto osob i po podání svědectví, předseda senátu učiní po ukončení výslechu bezodkladně všechna potřebná opatření. V nezbytných případech požádá o ochranu uvedených osob orgány Policie České republiky. Způsob zvláštní ochrany svědků a osob jim blízkých stanoví zvláštní zákon.
 
 </details>
-
 
 **Odst. 1 — výjimečné důvody**:
 
@@ -177,7 +172,6 @@ Předseda senátu **dbá na ochranu svědků** + osob blízkých ohrožených v 
 > (3) Dovoluje-li to povaha věci a osoba obviněného, vytváří Probační a mediační služba předpoklady pro rozhodnutí soudu mimo hlavní líčení, pro projednání věci v některém ze zvláštních druhů řízení a pro uložení trestů nespojených s odnětím svobody; za tím účelem na základě pověření předsedy senátu Probační a mediační služba vyžaduje a opatřuje potřebné podklady, zejména k osobě obviněného.
 
 </details>
-
 
 **Odst. 1**: Soud se zaměří na **objasnění příčin TČ**.
 
@@ -213,7 +207,6 @@ Na pověření předsedy senátu PMS opatřuje **podklady k osobě obviněného*
 
 </details>
 
-
 **Odst. 1**: Předseda senátu **přezkoumá obžalobu** + spis a rozhodne, zda:
 - **nařídí předběžné projednání** v zasedání senátu;
 - nebo přímo **nařídí HL**.
@@ -248,7 +241,6 @@ Na pověření předsedy senátu PMS opatřuje **podklady k osobě obviněného*
 
 </details>
 
-
 Předseda senátu **nařídí** předběžné projednání, má-li za to, že:
 
 - **a)** věc patří do **příslušnosti jiného soudu**;
@@ -278,7 +270,6 @@ Předseda senátu **nařídí** předběžné projednání, má-li za to, že:
 > #### Rozhodnutí
 
 </details>
-
 
 **Odst. 1**: Předběžné projednání v **neveřejném zasedání**. Pokud předseda senátu považuje za potřebné → **veřejné zasedání**.
 
@@ -320,7 +311,6 @@ Při důvodu § 186 písm. g):
 
 </details>
 
-
 **Odst. 1 — povinná rozhodnutí:**
 
 - **a)** **předložení o příslušnosti** (nadřízenému společnému soudu) — má-li soud za to, že **není příslušný**;
@@ -344,7 +334,6 @@ Při důvodu § 186 písm. g):
 
 </details>
 
-
 Soud, jemuž byla věc přikázána (§ 24, § 25) nadřízeným soudem, **nemůže** rozhodovat o příslušnosti — ledaže **se skutkový podklad podstatně změnil**.
 
 ## § 190 — Změna právní kvalifikace
@@ -358,7 +347,6 @@ Soud, jemuž byla věc přikázána (§ 24, § 25) nadřízeným soudem, **nemů
 > (2) Není-li došetření třeba, upozorní předseda senátu na možnost odchylného právního posouzení skutku osoby, kterým se doručuje opis obžaloby (§ 196 odst. 1).
 
 </details>
-
 
 **Odst. 1**: Pokud by skutek měl být **jinak posuzován** + třeba bližší objasnění → **vrácení SZ k došetření**.
 
@@ -375,7 +363,6 @@ Soud, jemuž byla věc přikázána (§ 24, § 25) nadřízeným soudem, **nemů
 > (2) Jakmile usnesení o vrácení věci státnímu zástupci k došetření nabylo právní moci, vrací se věc do stavu přípravného řízení.
 
 </details>
-
 
 Soud uvede:
 - **v kterých směrech** je třeba doplnit;
@@ -394,7 +381,6 @@ Soud uvede:
 
 </details>
 
-
 Pokud obviněný **ve vazbě** → soud **vždy také** rozhodne o **dalším trvání vazby**.
 
 ## § 195 — Nové předběžné projednání
@@ -410,7 +396,6 @@ Pokud obviněný **ve vazbě** → soud **vždy také** rozhodne o **dalším tr
 > (2) Za podmínek uvedených v § 186 se obžaloba znovu předběžně projedná také u soudu, jemuž věc byla přikázána nadřízeným soudem po předložení věci podle § 188 odst. 1 písm. a).
 
 </details>
-
 
 Po vrácení k došetření, pokud SZ znovu **podá obžalobu**, dochází k novému **předběžnému projednání** (§ 186). Také po přikázání věci nadřízeným soudem podle § 188 odst. 1 písm. a).
 
@@ -915,6 +900,11 @@ Pokud odsouzení za TČ s **majetkovou škodou / nemajetkovou újmou / bezdůvod
 **Odst. 2**: Pokud nárok **zčásti přiznán** → **zbytek na civilní řízení**.
 
 **Odst. 3 — při zproštění**: **vždy odkaz na civilní řízení**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1689/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40300D82C7FB142EC125816B0031394C?openDocument) — 25. 5. 2017, kat. A
+  > „Jestliže soud v trestním (adhezním) řízení nepřizná zcela uplatněný nárok na náhradu škody z jakéhokoliv důvodu, například s poukazem na spoluzavinění poškozeného, a se zbytkem nároku odkáže poškozeného (pozůstalé uplatňující nárok na odškodnění za usmrcení osoby blízké) na řízení ve věcech občanskoprávních, nejde v tomto rozsahu o věc pravomocně rozsouzenou a lze ji v občanskoprávním řízení znovu projednat, aniž by soud v občanskoprávním řízení byl vázán závěrem trestního soudu o spoluzavinění poškozeného"
 
 ### § 230 — Ochranné opatření
 

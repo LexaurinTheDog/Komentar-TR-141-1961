@@ -280,7 +280,6 @@
 
 </details>
 
-
 **Odst. 1**: Soud rozhoduje:
 - **rozsudkem** — kde to zákon **výslovně stanoví** (§ 120 a násl.; typicky o vině a trestu, schválení dohody o vině a trestu);
 - **usnesením** — v ostatních případech (procesní rozhodnutí — vazba, zastavení TS, postoupení, příkazy).
@@ -626,7 +625,6 @@ Stejně **odvolání týkající se jen některého spoluobžalovaného** nebrá
 
 </details>
 
-
 **Odst. 1**: Stížnost = OP proti usnesení.
 
 **Odst. 2 — koho lze napadnout:**
@@ -653,7 +651,6 @@ Stejně **odvolání týkající se jen některého spoluobžalovaného** nebrá
 
 </details>
 
-
 **Odst. 1**: Stížnost může podat:
 - osoba, **které se usnesení přímo dotýká**;
 - osoba, **která dala podnět svým návrhem**;
@@ -678,7 +675,6 @@ Stejně **odvolání týkající se jen některého spoluobžalovaného** nebrá
 
 </details>
 
-
 **Odst. 1**: **3 dny** od oznámení usnesení. Podává se **u orgánu, proti jehož usnesení směřuje**.
 
 Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **od nejpozdějšího oznámení**.
@@ -702,7 +698,6 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 > (4) Zpětvzetí stížnosti vezme, není-li překážek, usnesením na vědomí orgán povolaný k rozhodnutí o stížnosti, a nebyla-li věc dosud tomuto orgánu předložena, orgán, proti jehož rozhodnutí stížnost směřuje; v řízení před soudem činí toto rozhodnutí předseda senátu.
 
 </details>
-
 
 **Odst. 1**: Vzdání se **výslovně**.
 
@@ -731,7 +726,6 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 > (2) Stížnost lze opřít o nové skutečnosti a důkazy.
 
 </details>
-
 
 **Odst. 1 — důvody:**
 - a) **nesprávnost výroku**;
@@ -762,7 +756,6 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 > - e) státní zástupce Nejvyššího státního zastupitelství nejvyššímu státnímu zástupci.
 
 </details>
-
 
 **Odst. 1 — autoremedura**:
 > *Orgán, proti jehož usnesení stížnost směřuje, může jí sám vyhovět, nedotkne-li se změna původního usnesení práv jiné strany trestního řízení.*
@@ -825,7 +818,6 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 
 </details>
 
-
 **Klíčové ustanovení o devolučně-soudním přezkumu** — některá rozhodnutí SZ/policejního orgánu přezkoumává **soud** (ne nadřízený SZ).
 
 **Odst. 1 — soud přezkoumává stížnost proti rozhodnutí SZ o:**
@@ -865,7 +857,6 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 
 </details>
 
-
 **Odst. 1 — taxativní přezkum nadřízeného orgánu:**
 - a) **správnost všech výroků** (proti nimž může stěžovatel podat stížnost);
 - b) **řízení předcházející** napadenému usnesení.
@@ -889,7 +880,6 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 > (2) Jako opožděná nemůže být zamítnuta stížnost, kterou oprávněná osoba podala opožděně jen proto, že se řídila nesprávným poučením, které jí bylo dáno při oznámení usnesení.
 
 </details>
-
 
 **Odst. 1 — důvody zamítnutí:**
 - a) **není přípustná**;
@@ -922,7 +912,6 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 
 </details>
 
-
 **Odst. 1**: Pokud nadřízený nezamítne → **zruší usnesení** a buď:
 - a) **rozhodne sám**, nebo
 - b) **uloží orgánu, proti jehož rozhodnutí stížnost směřuje, aby znovu rozhodl**.
@@ -952,7 +941,6 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 > (3) Ustanovení odstavce 1 platí přiměřeně i pro orgán, jemuž byla věc přikázána k novému projednání a rozhodnutí.
 
 </details>
-
 
 **Odst. 1 — *prohibitio reformationis in peius* u stížnosti:**
 
@@ -989,7 +977,6 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 > (6) Ustanovení odstavců 2 až 5 se přiměřeně užijí na rozhodování o výši odměny, náhrady hotových výdajů a náhrady za promeškaný čas zvoleného obhájce obviněným, který má nárok na bezplatnou obhajobu nebo obhajobu za sníženou odměnu, a zvoleného nebo ustanoveného zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu.
 
 </details>
-
 
 **Odst. 1 — generální pravidlo**:
 
@@ -1042,7 +1029,6 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 
 </details>
 
-
 **Odst. 1**: Obviněný s nárokem na bezplatnou obhajobu / poškozený s nárokem na zmocněnce mohou žádat o **státní úhradu znaleckého posudku, který vyžádá strana**.
 
 **Negativní podmínky**:
@@ -1081,7 +1067,6 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 
 </details>
 
-
 **Odst. 1**: Pravomocně odsouzený nahradí státu:
 - a) **náklady výkonu vazby**;
 - b) **náklady odměny + výdajů + času** ustanoveného obhájce (vyjma bezplatné obhajoby);
@@ -1107,7 +1092,6 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 > (2) Povinnost k náhradě podle odstavce 1 nepostihuje státního zástupce a orgán pověřený péčí o mládež.
 
 </details>
-
 
 **Odst. 1**: Kdo podal **zcela bezvýsledně dovolání / návrh na obnovu řízení** → nahradí státu:
 - **paušální částku** (vyhláška MS);
@@ -1135,7 +1119,6 @@ Podle **advokátního tarifu** (vyhláška č. 177/1996 Sb.).
 
 </details>
 
-
 **Odst. 1 — náklady při přiznaném adhezním nároku**:
 Pokud byl poškozenému **alespoň zčásti přiznán** adhezní nárok → **odsouzený nahradí poškozenému** náklady **účelně vynaložené k uplatnění nároku** vč. **zmocněnce**.
 
@@ -1157,7 +1140,6 @@ I když nepřiznán → soud **na návrh poškozeného** rozhodne o náhradě n�
 > #### Rozhodování o povinnosti k náhradě nákladů trestního řízení a o jejich výši
 
 </details>
-
 
 Povinnost uhradit náklady § 152 odst. 1 (vyjma VTOS), § 153, § 154 odst. 3 **zaniká**, jestliže o ní soud nerozhodl ve **lhůtě 3 let** ode dne, kdy tak mohl poprvé učinit.
 

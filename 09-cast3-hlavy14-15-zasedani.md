@@ -34,7 +34,6 @@
 
 </details>
 
-
 > *Ve veřejném zasedání rozhoduje soud v případech, ve kterých to zákon výslovně stanoví nebo ve kterých to považuje předseda senátu z důležitého důvodu za potřebné.*
 
 **Dva druhy důvodů pro VZ**:
@@ -54,7 +53,6 @@
 > (2) Den veřejného zasedání stanoví předseda senátu tak, aby osobě, která k veřejnému zasedání dala svým návrhem podnět, osobě, která může být přímo dotčena rozhodnutím, obhájci nebo zmocněnci těchto osob, jakož i státnímu zástupci zbývala od doručení předvolání k veřejnému zasedání nebo od vyrozumění o něm alespoň pětidenní lhůta k přípravě. Zkrácení této lhůty je možné jen se souhlasem toho, v jehož zájmu je lhůta dána. U ostatních osob, které se k veřejnému zasedání předvolávají nebo o něm vyrozumívají, je třeba zachovat zpravidla třídenní lhůtu.
 
 </details>
-
 
 **Odst. 1 — okruh osob:**
 
@@ -90,7 +88,6 @@
 
 </details>
 
-
 **Odst. 1 — povinná přítomnost**:
 - **samosoudce / všichni členové senátu**;
 - **zapisovatel**.
@@ -116,7 +113,6 @@
 > (3) Po provedení důkazů udělí předseda senátu slovo ke konečným návrhům. Je-li osobou, která může být přímo dotčena rozhodnutím, obviněný, má právo mluvit poslední.
 
 </details>
-
 
 **Odst. 1 — struktura**:
 1. **Zpráva o stavu věci** předsedy senátu (nebo určeného člena);
@@ -145,7 +141,6 @@ Pokud se ve VZ provádí dokazování → **přiměřená aplikace § 207 a nás
 
 </details>
 
-
 > *Rozhodnutí soudu se vždy vyhlásí veřejně.*
 
 I když z důvodů § 200 (utajované informace, mravnost) byla **vyloučena veřejnost** během VZ, **vyhlášení rozhodnutí je vždy veřejné** (čl. 6 odst. 1 EÚLP).
@@ -161,7 +156,6 @@ I když z důvodů § 200 (utajované informace, mravnost) byla **vyloučena ve�
 > Při svém rozhodnutí smí soud přihlížet jen ke skutečnostem, které byly probrány ve veřejném zasedání, a opírat se o důkazy, které byly ve veřejném zasedání provedeny.
 
 </details>
-
 
 > *Při svém rozhodnutí smí soud přihlížet jen ke skutečnostem, které byly probrány ve veřejném zasedání, a opírat se o důkazy, které byly ve veřejném zasedání provedeny.*
 
@@ -181,7 +175,6 @@ I když z důvodů § 200 (utajované informace, mravnost) byla **vyloučena ve�
 
 </details>
 
-
 Pro **veřejnost, řízení, počátek a odročení VZ** → přiměřená aplikace ustanovení o HL (§ 199–205, § 219).
 
 Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejnosti** (§ 200) ze stejných důvodů jako u HL.
@@ -197,7 +190,6 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 > (2) Proti rozhodnutí o ochranném opatření je přípustná stížnost, jež má odkladný účinek.
 
 </details>
-
 
 **Odst. 1 — výslovný návrh SZ**: pokud soud **nevyhradil** rozhodnutí o OO podle § 230 odst. 2 → uložení OO ve VZ jen **na návrh SZ**.
 
@@ -218,7 +210,6 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 > (4) Obdobně podle odstavců 1 až 3 se postupuje i v řízení o zabrání části majetku.
 
 </details>
-
 
 **Odst. 1 — situace**:
 - nelze spolehlivě zjistit vlastníka věci k zabrání;
@@ -247,7 +238,6 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 > V neveřejném zasedání rozhoduje soud tam, kde není zákonem předepsáno, že se rozhoduje v hlavním líčení, veřejném zasedání nebo vazebním zasedání.
 
 </details>
-
 
 > *V neveřejném zasedání rozhoduje soud tam, kde není zákonem předepsáno, že se rozhoduje v hlavním líčení, veřejném zasedání nebo vazebním zasedání.*
 
@@ -280,7 +270,6 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 
 </details>
 
-
 **Odst. 1 — povinná přítomnost**:
 - **všichni členové senátu** (stálá);
 - **zapisovatel**.
@@ -303,7 +292,6 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 
 </details>
 
-
 > *Je-li třeba při neveřejném zasedání provést důkazy, děje se tak přečtením protokolů a jiných písemností.*
 
 **Klíčové procesní pravidlo**: v NZ se **nikdo nevyslýchá** (neexistuje **kontradiktornost a ústnost**). Důkazy se provádí **jen** přečtením písemných dokumentů.
@@ -319,7 +307,6 @@ To zásadně omezuje typy věcí řešitelné v NZ — pokud je nutné dokazová
 > Rozhodnutí se vždy vyhlásí.
 
 </details>
-
 
 > *Rozhodnutí se vždy vyhlásí.*
 

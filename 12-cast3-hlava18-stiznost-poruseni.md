@@ -27,7 +27,6 @@
 
 </details>
 
-
 **Odst. 1 — generální klauzule:**
 
 > *Proti pravomocnému rozhodnutí soudu nebo státního zástupce, jímž byl porušen zákon nebo které bylo učiněno na podkladě vadného postupu řízení, může ministr spravedlnosti podat u Nejvyššího soudu stížnost pro porušení zákona.*
@@ -76,7 +75,6 @@ Pouze excesy, ne rutinní rozdíly v individualizaci trestu.
 
 </details>
 
-
 **Odst. 1**: Pokud SPZ není odůvodněna při podání → ministr ji **odůvodní do 14 dnů**.
 
 **Odst. 2 — kombinace s dovoláním v téže věci**:
@@ -104,7 +102,6 @@ Pouze excesy, ne rutinní rozdíly v individualizaci trestu.
 > (5) Byla-li stížností pro porušení zákona napadena část rozhodnutí týkající se jen některé z více osob, o nichž bylo rozhodnuto týmž rozhodnutím, přezkoumá Nejvyšší soud uvedeným způsobem jen tu část rozhodnutí a předcházejícího řízení, která se týká této osoby.
 
 </details>
-
 
 **Odst. 1 — obsah**:
 
@@ -144,7 +141,6 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 
 </details>
 
-
 **Odst. 1 — zamítnutí**:
 - a) **není přípustná**;
 - b) **opožděně** (formálně lhůta není, ale jiná procesní povinnost);
@@ -169,7 +165,6 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 > (2) Byl-li však porušen zákon v neprospěch obviněného, zruší Nejvyšší soud zároveň s výrokem uvedeným v § 268 odst. 2 napadené rozhodnutí nebo jeho část, popřípadě též vadné řízení mu předcházející. Je-li nezákonný jen některý výrok napadeného rozhodnutí a lze-li jej oddělit od ostatních, zruší Nejvyšší soud jen tento výrok. Zruší-li však, byť i jen zčásti, výrok o vině, zruší vždy zároveň celý výrok o trestu, jakož i další výroky, které mají ve výroku o vině svůj podklad. Zruší také další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Ustanovení § 261 se užije přiměřeně.
 
 </details>
-
 
 **Odst. 1**:
 
@@ -207,7 +202,6 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 
 </details>
 
-
 **Odst. 1**: Pokud je třeba **nové rozhodnutí** → NS **přikáže** orgánu, o jehož rozhodnutí jde.
 
 **Odst. 2 — chybějící výrok**: bez zrušení **přikáže** doplnit.
@@ -234,7 +228,6 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 
 </details>
 
-
 **Odst. 1 — limity** analogicky § 265m:
 
 NS **NEMŮŽE** sám:
@@ -253,7 +246,6 @@ NS **NEMŮŽE** sám:
 > Jestliže nejvyšší soud vyslovil, že zákon byl porušen v neprospěch obviněného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch. Jde-li o jiné rozhodnutí, platí ustanovení § 150 přiměřeně.
 
 </details>
-
 
 > *Jestliže nejvyšší soud vyslovil, že zákon byl porušen v neprospěch obviněného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch.*
 
@@ -284,7 +276,6 @@ NS **NEMŮŽE** sám:
 > (5) Pokud rozhoduje Nejvyšší soud v neveřejném zasedání podle odstavců 2 až 4, zašle předseda senátu před rozhodnutím stížnost pro porušení zákona obviněnému, jiným osobám, které mohou být rozhodnutím o stížnosti pro porušení zákona přímo dotčeny, Nejvyššímu státnímu zastupitelství nebo v případě, kdy byl ve věci činný v posledním stupni evropský pověřený žalobce, evropský žalobce nebo evropský nejvyšší žalobce, Úřadu evropského veřejného žalobce a stanoví jim lhůtu k možnému vyjádření.
 
 </details>
-
 
 **Odst. 1 — typ zasedání**:
 
@@ -317,7 +308,6 @@ NS může v NZ rozhodnout rozsudkem § 268 odst. 2, pokud:
 
 </details>
 
-
 V NZ se rozsudek NS vyhlásí **vyvěšením písemného vyhotovení na úřední desce NS po dobu 15 dnů** (zjednodušené vyhotovení nebo plné) — analogicky § 265r odst. 8.
 
 ---
@@ -337,7 +327,6 @@ V NZ se rozsudek NS vyhlásí **vyvěšením písemného vyhotovení na úředn�
 > (4) Před rozhodnutím o stížnosti pro porušení zákona může Nejvyšší soud odložit nebo přerušit výkon rozhodnutí, proti němuž byla podána stížnost pro porušení zákona, anebo nařídit pozastavení nakládání s věcmi, které propadly nebo byly zabrány na základě takového rozhodnutí. Pokud tak učiní, provede všechna potřebná opatření k tomu, aby byl výkon rozhodnutí neprodleně odložen nebo přerušen anebo bylo pozastaveno nakládání s propadlými nebo zabranými věcmi. Navrhl-li odložení nebo přerušení výkonu rozhodnutí ministr spravedlnosti, Nejvyšší soud rozhodne o takovém návrhu usnesením nejpozději do čtrnácti dnů po obdržení spisu.
 
 </details>
-
 
 **Odst. 1 — smrt a promlčení**:
 
@@ -361,7 +350,6 @@ V NZ se rozsudek NS vyhlásí **vyvěšením písemného vyhotovení na úředn�
 > Je-li pro rozhodnutí o stížnosti pro porušení zákona třeba objasnit nějakou okolnost, provede potřebné šetření předseda senátu Nejvyššího soudu anebo na jeho žádost některý jiný orgán činný v trestním řízení, popřípadě i policejní orgán. Pro takové šetření platí ustanovení hlavy páté. Ve zvlášť naléhavých případech lze k zajištění důkazního materiálu použít na podkladě usnesení senátu i prostředků uvedených v hlavě čtvrté.
 
 </details>
-
 
 Pokud je třeba objasnit okolnost → šetření předsedy senátu NS (nebo na jeho žádost OČTŘ / policejní orgán). Aplikace Hlavy V. Ve zvlášť naléhavých případech i Hlava IV **na podkladě usnesení senátu**.
 

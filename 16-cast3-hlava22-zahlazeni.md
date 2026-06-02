@@ -15,7 +15,6 @@
 
 </details>
 
-
 O zahlazení rozhoduje **samosoudce** na:
 - **žádost odsouzeného**;
 - **návrh zájmového sdružení** (§ 3 odst. 1);
@@ -36,7 +35,6 @@ O zahlazení rozhoduje **samosoudce** na:
 > (2) Proti rozhodnutí o zahlazení odsouzení je přípustná stížnost, jež má odkladný účinek.
 
 </details>
-
 
 **Odst. 1**: **Samosoudce OS**, v jehož obvodu odsouzený v době podání návrhu **má nebo naposledy měl bydliště**.
 
@@ -62,7 +60,6 @@ O zahlazení rozhoduje **samosoudce** na:
 
 </details>
 
-
 Samosoudce OS podle § 364 odst. 1 rozhoduje také o zahlazení:
 - a) odsouzení **cizozemským soudem**, **mezinárodním trestním soudem** (MTS / ICC), **mezinárodním trestním tribunálem** (Haag, Arusha) — zaznamenané v Rejstříku trestů ČR na základě **uznání** rozhodnutí cizozemského soudu nebo **rozhodnutí NS** dle zvláštního zákona (ZMJS);
 - b) odsouzení zaznamenaných v RT na základě **Smlouvy mezi ČR a SR o výměně údajů**.
@@ -85,7 +82,6 @@ Samosoudce OS podle § 364 odst. 1 rozhoduje také o zahlazení:
 > (2) Byla-li žádost o zahlazení odsouzení zamítnuta, může být znovu podána teprve po uplynutí jednoho roku, ledaže by byla zamítnuta jen proto, že dosud neuplynula doba zákonem stanovená pro zahlazení. Žádost přesto podanou zamítne samosoudce bez šetření.
 
 </details>
-
 
 **Odst. 1 — vyrozumění**:
 

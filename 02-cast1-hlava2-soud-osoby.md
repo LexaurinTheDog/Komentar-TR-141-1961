@@ -417,6 +417,11 @@ Pokud je dolní/horní hranice trestu odnětí svobody přesahuje **5 let**, mus
 
 **Odst. 3 — více obhájců**: Pokud má obviněný více obhájců a neoznámí, který je pověřen přijímat písemnosti, určí jej OČTŘ.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — 24. 4. 2013, kat. A
+  > „Osoby oprávněné zvolit obviněnému obhájce (§ 37 odst. 1 tr. ř.) nejsou účastníky trestního řízení samy o sobě, ale stávají se jimi až v okamžiku, kdy toto právo využijí. Vznikne-li jim v souvislosti s tím škoda nebo nemajetková újma, za niž odpovídá stát, je třeba je považovat za účastníky řízení ve smyslu § 7 odst. 1 zákona č. 82/1998 Sb. k náhradě takové škody nebo nemajetkové újmy aktivně legitimované"
+
 ### § 37a — Vyloučení obhájce z obhajoby
 
 **Odst. 1 — důvody:**
@@ -568,6 +573,11 @@ Pokud ZÚ nemá plnou svéprávnost. Pokud je nebezpečí z prodlení, neprodlen
 **Odst. 5 — vzdání se práv:**
 Poškozený se může výslovným prohlášením OČTŘ **vzdát procesních práv**. Klíčové: některé povinnosti OČTŘ vůči poškozenému (zpravování, doručování) tím odpadnou. Vzdání se však **nezahrnuje** zánik adhezního nároku — ten je hmotněprávní povahy.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2826/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/74987C9D1750FD6CC1258264004760B4?openDocument) — 23. 1. 2018, kat. A
+  > „I. Odkázal-li soud v trestním řízení žalobkyni s nárokem na náhradu škody (samostatným výrokem) na řízení ve věcech občanskoprávních (§ 229 odst. 1 trestního řádu), je třeba v občanském soudním řízení (ve smyslu § 135 odst. 2 věty druhé o. s. ř.) vycházet z toho, že žalobkyně v souladu s § 43 odst. 3 trestního řádu řádně navrhla, aby trestní soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit škodu. II. Jsou-li negativní dopady napadeného rozhodnutí do poměrů účastníka řízení (dovolatele) odstraněny tím, že dovolací soud (bez zbytečného odkladu) napadené rozhodnutí zruší, stává se návrh na odklad vykonatelnosti rozhodnutí bezpředmětným (obsoletním)"
+
 ### § 44 — Omezení a společný zmocněnec
 
 **Odst. 1**: Oprávnění poškozeného **nemůže vykonávat ten, kdo je v TŘ stíhán jako spoluobviněný** — vyloučení dvojí role.
@@ -641,6 +651,11 @@ S **upozorněním na následky** nevyhovění výzvě (§ 66 — pořádkové op
 S majetkem lze v rámci **výkonu rozhodnutí, dražby, exekuce, insolvenčního řízení** nakládat **jen s předchozím souhlasem** soudce / SZ. **Pohledávky civilního exekučního řízení** se přednostně uspokojí z majetku **nedotčeného zajištěním**.
 
 **Odst. 7**: Poškozený musí být vyrozuměn **vždy** s upozorněním na důvody zrušení (§ 48 odst. 1).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 14/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F06294B947D7DB5C125822F002AD3A6?openDocument) — 30. 11. 2017, kat. A
+  > „Podle ustanovení § 173 odst. 1 věty třetí insolvenčního zákona ve znění účinném od 1. srpna 2013 může věřitel přihlásit vykonatelnou pohledávku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem po uplynutí propadné přihlašovací lhůty určené rozhodnutím o úpadku dlužníka jen tehdy, jestliže zajištění majetku náležejícího do majetkové podstaty dlužníka provedené v trestním řízení vzniklo podle trestního řádu nejdříve v době od 1. srpna 2013 to platí bez zřetele k tomu, zda insolvenční řízení bylo zahájeno před nebo po uvedeném datu"
 
 ### § 47a — Náhrada zajištění peněžitou jistotou
 

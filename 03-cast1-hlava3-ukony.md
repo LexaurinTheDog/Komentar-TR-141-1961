@@ -19,7 +19,6 @@
 
 </details>
 
-
 > *Při provádění úkonů trestního řízení se musí jednat s osobami na úkonu zúčastněnými tak, jak to vyžaduje význam a výchovný účel trestního řízení; vždy je nutno šetřit jejich osobnosti a jejich ústavou zaručených práv.*
 
 **Klíčová interpretační norma** — kombinuje:
@@ -303,7 +302,6 @@ Praktické vyústění:
 > (4) Proti rozhodnutí podle odstavců 1 až 3 je přípustná stížnost, jež má odkladný účinek.
 
 </details>
-
 
 > *Je-li to potřebné pro ochranu práv osob, zejména s ohledem na jejich věk nebo zdravotní stav, nebo vyžadují-li to bezpečnostní anebo jiné závažné důvody, lze při provádění úkonů trestního řízení využívat technické zařízení pro přenos obrazu a zvuku (dále jen „videokonferenční zařízení"), umožňuje-li to povaha těchto úkonů a je-li to technicky možné.*
 

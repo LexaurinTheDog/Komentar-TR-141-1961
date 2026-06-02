@@ -39,7 +39,6 @@
 
 </details>
 
-
 **Odst. 1 — generální klauzule:**
 
 > *Dovoláním lze napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští.*
@@ -110,7 +109,6 @@ Nelze podat **jen z toho důvodu**, že soud postupoval v souladu s **§ 259 ods
 
 </details>
 
-
 **Klíčové ustanovení.** Na rozdíl od odvolání (§ 254 — širší přezkum) je dovolání **vázáno taxativním katalogem důvodů**.
 
 **Odst. 1 — důvody dovolání:**
@@ -157,7 +155,6 @@ Klíčové: u **nejtěžšího trestu** je dovolání přípustné **bez nutnost
 
 </details>
 
-
 > *O dovolání rozhoduje Nejvyšší soud.*
 
 NS **Brno**, trestní kolegium. Senáty po **3 soudcích**; **velký senát trestního kolegia** (9 soudců) pro sjednocování judikatury (§ 20 z. č. 6/2002 Sb.).
@@ -183,7 +180,6 @@ NS **Brno**, trestní kolegium. Senáty po **3 soudcích**; **velký senát tres
 > (2) Obviněný může dovolání podat pouze prostřednictvím obhájce. Podání obviněného, které nebylo učiněno prostřednictvím obhájce, se nepovažuje za dovolání, byť bylo takto označeno; o tom musí být obviněný poučen (§ 125 odst. 3). Nejvyšší soud o takovém podání nerozhoduje, ale zašle ho v závislosti na jeho obsahu buď příslušnému soudu jako návrh na povolení obnovy řízení nebo ministru spravedlnosti jako podnět ke stížnosti pro porušení zákona, popřípadě ho vrátí obviněnému s poučením, že dovolání může podat pouze prostřednictvím obhájce. Obdobně postupuje u podání osob, které by mohly podat v jeho prospěch odvolání. Je-li obviněný omezen ve svéprávnosti, může i proti vůli obviněného za něho v jeho prospěch dovolání podat též jeho opatrovník a jeho obhájce.
 
 </details>
-
 
 **Odst. 1 — kdo může dovolání podat:**
 
@@ -237,7 +233,6 @@ Obdobně postupuje u osob, které by mohly podat odvolání ve prospěch.
 
 </details>
 
-
 **Odst. 1**:
 > *Dovolání se podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje.*
 
@@ -274,7 +269,6 @@ Klíčové: **na rozdíl od řádných OP** (§ 61 — restitutio in integrum) *
 
 </details>
 
-
 **Odst. 1 — náležitosti** vedle obecných (§ 59 odst. 3):
 - **proti kterému rozhodnutí**;
 - **který výrok, v jakém rozsahu, z jakých důvodů** napadá;
@@ -305,7 +299,6 @@ NSZ a EPPO uvede **ve prospěch / v neprospěch**.
 
 </details>
 
-
 **Odst. 1 — zpětvzetí** kdykoli **do závěrečné porady NS**.
 
 **Speciální ochrana obviněného**:
@@ -335,7 +328,6 @@ Pokud **NSZ / EPPO** vzal zpět dovolání **jen ve prospěch obviněného** + o
 > #### Rozhodnutí dovolacího soudu
 
 </details>
-
 
 **Odst. 1 — odstraňování vad**:
 
@@ -384,7 +376,6 @@ Pokud má předseda senátu za to, že by měl být **odložen / přerušen výk
 
 </details>
 
-
 **Klíčový filtr**. NS **odmítne** dovolání:
 
 - **a)** **není přípustné** (§ 265a);
@@ -416,7 +407,6 @@ Pokud má předseda senátu za to, že by měl být **odložen / přerušen výk
 
 </details>
 
-
 NS dovolání **zamítne**, shledá-li, že **není důvodné**.
 
 ### § 265k — Zrušení rozhodnutí
@@ -430,7 +420,6 @@ NS dovolání **zamítne**, shledá-li, že **není důvodné**.
 > (2) Jestliže je vadná jen část napadeného rozhodnutí a lze ji oddělit od ostatních, zruší Nejvyšší soud rozhodnutí jen v této části; zruší-li však, byť i jen zčásti výrok o vině, zruší vždy zároveň celý výrok o trestu, jakož i další výroky, které mají ve výroku o vině svůj podklad. Současně zruší také další rozhodnutí na zrušené rozhodnutí nebo jeho zrušenou část obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Ustanovení § 261 se užije přiměřeně.
 
 </details>
-
 
 **Odst. 1**: NS, shledá-li dovolání důvodné, **zruší napadené rozhodnutí** nebo jeho část, **popřípadě i vadné řízení** mu předcházející.
 
@@ -455,7 +444,6 @@ NS dovolání **zamítne**, shledá-li, že **není důvodné**.
 > (4) Vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě. Ustanovení o vazebním zasedání (§ 73d až 73g) se v tomto případě neužijí.
 
 </details>
-
 
 **Odst. 1**: NS **přikáže soudu, o jehož rozhodnutí jde**, znovu projednat a rozhodnout.
 
@@ -485,7 +473,6 @@ Pokud se na obviněném vykonává trest odnětí svobody a NS výrok o trestu z
 
 </details>
 
-
 **Odst. 1 — limity**:
 
 NS může sám rozhodnout rozsudkem. **NEMŮŽE** však sám:
@@ -507,7 +494,6 @@ NS může sám rozhodnout rozsudkem. **NEMŮŽE** však sám:
 
 </details>
 
-
 > *Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný.*
 
 **Klíč**: rozhodnutí NS o dovolání je **konečné** — výjimkou je **obnova řízení** (§ 277), **stížnost pro porušení zákona** (§ 266 — jen pro ministra spravedlnosti) a **ústavní stížnost** (mimo TŘ — z. č. 182/1993 Sb. o ÚS).
@@ -527,7 +513,6 @@ NS může sám rozhodnout rozsudkem. **NEMŮŽE** však sám:
 > (2) Je-li pro rozhodnutí o dovolání třeba objasnit nějakou okolnost, provede potřebné šetření předseda senátu Nejvyššího soudu, anebo na jeho žádost některý jiný orgán činný v trestním řízení, který je povinen mu bez zbytečného odkladu vyhovět. Pro takové šetření platí ustanovení hlavy páté. Ve zvlášť naléhavých případech lze k zajištění důkazního materiálu použít i prostředků uvedených v hlavě čtvrté. Zajistit osobu obviněného vydáním příkazu k zatčení a vzetím do vazby lze však jen tehdy, navrhne-li to nejvyšší státní zástupce nebo příslušný orgán Úřadu evropského veřejného žalobce v dovolání podaném v neprospěch obviněného a považuje-li to Nejvyšší soud za nezbytné vzhledem k závažnosti trestného činu a naléhavosti vazebních důvodů.
 
 </details>
-
 
 **Odst. 1 — odložení / přerušení výkonu rozhodnutí**:
 
@@ -558,7 +543,6 @@ Pokud je třeba objasnit okolnost → šetření NS (nebo jiný OČTŘ na žádo
 > (3) Bylo-li podáno dovolání pouze ve prospěch obviněného, nepřekáží jeho smrt provedení řízení na podkladě dovolání; trestní stíhání tu nelze zastavit proto, že obviněný zemřel.
 
 </details>
-
 
 **Odst. 1**:
 
@@ -603,7 +587,6 @@ Pokud je třeba objasnit okolnost → šetření NS (nebo jiný OČTŘ na žádo
 > (9) Předseda senátu může rozhodnout též o zveřejnění usnesení Nejvyššího soudu na úřední desce Nejvyššího soudu; odstavec 8 se použije obdobně.
 
 </details>
-
 
 **Odst. 1 — typ zasedání**:
 - **VZ generálně**;
@@ -654,7 +637,6 @@ V NZ se rozsudek NS vyhlásí **vyvěšením písemného vyhotovení** na úřed
 > (2) Bylo-li napadené rozhodnutí zrušeno jen v důsledku dovolání podaného ve prospěch obviněného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch.
 
 </details>
-
 
 **Odst. 1 — vázanost právním názorem NS**:
 

@@ -451,7 +451,6 @@
 
 </details>
 
-
 **Klíčové ustanovení o předmětu a prostředcích dokazování.**
 
 ### Odst. 1 — předmět dokazování (taxativně):
@@ -718,6 +717,11 @@ Klíčové **antiretraumatizační** pravidlo. V řízení o TČ:
 V HL lze **přečíst protokol** nebo **přehrát záznam z videokonference** **i bez podmínek § 211 odst. 1, 2** (rozšířená přípustnost čtení). Klíč: ochrana před opakovanou traumatizací při HL.
 
 **Odst. 3**: Otázky **jen přes OČTŘ** (analogicky § 101b).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — 10. 4. 2025, kat. A
+  > „Nesprávný úřední postup, jenž vyústil v opakovaný výslech nezletilé jako zvlášť zranitelné oběti, může spočívat i v tom, že skutečnosti, které mohly být zjištěny při výslechu jediném (nebo při již uskutečněném předchozím výslechu), zjištěny nebyly, a proto bylo nutno je zjišťovat při výslechu dalším"
 
 ### § 102a — Utajený agent jako svědek
 

@@ -19,7 +19,6 @@
 
 </details>
 
-
 > *Účelem trestního řádu je upravit postup orgánů činných v trestním řízení tak, aby trestné činy byly náležitě zjištěny a jejich pachatelé podle zákona spravedlivě potrestáni…* (odst. 1)
 
 ### Smysl a účel
@@ -83,8 +82,12 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 </details>
 
-
 § 2 je **interpretační páteří celého trestního řádu**. Každý z 16 odstavců formuluje jednu vůdčí zásadu. V tomto výkladu projdeme každou samostatně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 1 — Zásada zákonnosti
 <details>
@@ -130,7 +133,6 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 </details>
 
-
 > *Nikdo nemůže být stíhán jinak než ze zákonných důvodů a způsobem, který stanoví tento zákon.*
 
 **Ústavní kotva:** čl. 8 odst. 2 LZPS — „Nikdo nesmí být stíhán nebo zbaven svobody jinak než z důvodů a způsobem, který stanoví zákon."
@@ -140,6 +142,11 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 - **Procesní zákonnost** — postup OČTŘ pouze v souladu s TŘ.
 
 **Důsledek:** procesní vada získání důkazu (nezákonný odposlech, prohlídka bez příkazu) může vést k **neúčinnosti důkazu**. ÚS přitom rozlišuje vady **podstatné** (vedoucí k vyloučení důkazu) a **nepodstatné** (formální drobnosti, které nezasahují do podstaty práva). Doktrína „**plody otráveného stromu**" je v ČR aplikována **relativně mírně** ve srovnání s USA — neúčinnost důkazu se obvykle týká jen přímo dotčeného důkazu, nikoli automaticky všech navazujících.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 2 — Presumpce neviny
 <details>
@@ -185,7 +192,6 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 </details>
 
-
 > *Dokud pravomocným odsuzujícím rozsudkem soudu není vina vyslovena, nelze na toho, proti němuž se vede trestní řízení, hledět, jako by byl vinen.*
 
 **Ústavní kotva:** čl. 40 odst. 2 LZPS, čl. 6 odst. 2 EÚLP, směrnice 2016/343/EU.
@@ -201,6 +207,11 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 - nezakazuje **uvedení obviněného jako podezřelého** v mediálním zpravodajství, ale zakazuje prezentovat ho jako pachatele.
 
 **ESLP** k presumpci neviny: rozsudky **Allenet de Ribemont proti Francii** (1995), **Karaman proti Německu** (2014) — i prohlášení státního činitele o vině obviněného před vyhlášením rozsudku může porušit čl. 6 odst. 2 EÚLP.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 3 — Zásada legality (povinnosti stíhání)
 <details>
@@ -246,7 +257,6 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 </details>
 
-
 > *Státní zástupce je povinen stíhat všechny trestné činy, o nichž se dozví…*
 
 **Princip legality** (povinnosti stíhání) — protiklad **principu oportunity** (volné úvahy zda stíhat). ČR má **modifikovaný princip legality**: státní zástupce **musí** stíhat, ale TŘ umožňuje **odklony** a **zastavení TS v omezených případech**:
@@ -258,6 +268,11 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 - § 311 (odložení podání návrhu na potrestání ve zkráceném přípravném řízení).
 
 Výjimky z legality: **přímo použitelný předpis EU** (např. nařízení o EPPO, kde EPPO disponuje vlastním prostorem oportunity — čl. 27 nařízení 2017/1939) a **vyhlášená mezinárodní smlouva**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 4 — Zásada oficiality a zásada urychlení
 <details>
@@ -303,7 +318,6 @@ Výjimky z legality: **přímo použitelný předpis EU** (např. nařízení o 
 
 </details>
 
-
 > *Jestliže tento zákon nestanoví něco jiného, postupují orgány činné v trestním řízení z úřední povinnosti. Trestní věci musí projednávat urychleně bez zbytečných průtahů…*
 
 **Oficialita** = OČTŘ konají bez nutnosti zvláštního podnětu, nikoli na návrh strany. Výjimky:
@@ -320,6 +334,11 @@ Klíčová judikatura ESLP: **Pizzetti proti Itálii**, **Frydlender proti Franc
 Druhá věta odst. 4 — *Trestní věci projednávají s plným šetřením práv a svobod…* — formuluje **zásadu proporcionality zásahů**: do práv osob lze zasahovat jen v odůvodněných případech, na základě zákona a v nezbytné míře pro zajištění účelu trestního řízení. Trojstupňový test proporcionality (vhodnost — potřebnost — přiměřenost v užším smyslu).
 
 Třetí věta — *K obsahu petic… nepřihlížejí* — vyjadřuje **nezávislost OČTŘ** na vnějších tlacích (média, lobby, peticionáři).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 5 — Zásada vyhledávací a důkazní břemeno
 <details>
@@ -365,7 +384,6 @@ Třetí věta — *K obsahu petic… nepřihlížejí* — vyjadřuje **nezávis
 
 </details>
 
-
 > *Orgány činné v trestním řízení… za součinnosti stran tak, aby byl zjištěn skutkový stav věci, o němž nejsou důvodné pochybnosti…*
 
 Klíčové ustanovení obsahující **čtyři dílčí zásady**:
@@ -376,6 +394,11 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 4. **Doplňovací povinnost soudu** — soud sám doplní dokazování v rozsahu nezbytném pro své rozhodnutí. Soud je **aktivní subjekt poznání**, nikoli pasivní arbitr (rozdíl od ryzího kontradiktorního modelu USA/UK).
 
 **Důležité napětí:** doznání obviněného **nezbavuje** OČTŘ povinnosti přezkoumat všechny podstatné okolnosti. Doznání samo není dostatečné — musí být **podpořeno dalšími důkazy** (zákaz odsouzení jen na základě doznání). Doznání bez podpůrných důkazů zakládá důvodné pochybnosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 6 — Zásada volného hodnocení důkazů
 <details>
@@ -421,7 +444,6 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 </details>
 
-
 > *Orgány činné v trestním řízení hodnotí důkazy podle svého vnitřního přesvědčení založeného na pečlivém uvážení všech okolností případu jednotlivě i v jejich souhrnu.*
 
 **Odmítnutí formálních důkazních pravidel** (žádné taxativní seznamy „důkazů povinných"). Volné hodnocení je však **vázáno**:
@@ -430,6 +452,11 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 - na **odůvodnění** (v rozsudku musí soud popsat, proč některé důkazy přijal a jiné nikoli — § 125).
 
 **Klíčový test ÚS:** rozhodnutí o vině obstojí, pokud **z provedených důkazů** plyne závěr **nevzbuzující rozumné pochybnosti**. Pokud lze z důkazů dospět rovnocenně k více závěrům, musí se v duchu *in dubio pro reo* zvolit závěr příznivý pro obviněného.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 7 — Spolupráce se zájmovými sdruženími
 <details>
@@ -475,10 +502,14 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 </details>
 
-
 > *Všechny orgány činné v trestním řízení spolupracují se zájmovými sdruženími občanů…*
 
 **Reziduum socialistického trestního práva** (původní role „pracovních kolektivů"). Praktický dopad dnes minimální — využití při **podmíněném propuštění**, **podmíněném zastavení** (záruka, § 6 TŘ), **udělení milosti**, **zahlazení**. Definice „zájmového sdružení" — § 3 (odborové, zaměstnavatelské, církve, charitativní PO, vyjma politických stran a hnutí).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 8 — Zásada obžalovací (akusatorní)
 <details>
@@ -524,7 +555,6 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 </details>
 
-
 > *Trestní stíhání před soudy je možné jen na základě obžaloby, návrhu na potrestání nebo návrhu na schválení dohody o vině a trestu… Veřejnou žalobu v řízení před soudem zastupuje státní zástupce.*
 
 **Akusatorní princip** — soud nemůže iniciovat trestní stíhání z vlastní vůle; stát (státní zástupce) je výhradním nositelem veřejné žaloby. Forma obvinění:
@@ -534,6 +564,13 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 3. **Návrh na schválení dohody o vině a trestu** (§ 175a a § 314o–s) — výsledek dohody.
 
 **Ústavní kotva:** čl. 80 Ústavy ČR (státní zastupitelství zastupuje veřejnou žalobu v trestním řízení).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
 
 ### § 2 odst. 9 — Obsazení soudu
 <details>
@@ -579,7 +616,6 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 </details>
 
-
 > *V trestním řízení před soudem rozhoduje senát nebo samosoudce; předseda senátu rozhoduje sám jen tam, kde to zákon výslovně stanoví.*
 
 Klíč pro **organizaci soudu**:
@@ -588,6 +624,11 @@ Klíč pro **organizaci soudu**:
 - **Předseda senátu** — rozhoduje sám jen v procesních věcech (např. § 53 odst. 1 — dožádání, § 60 — lhůty).
 
 V přípravném řízení rozhoduje **soudce** (nikoli senát) — § 26 (např. příkaz k odposlechu, vazba).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 10 — Zásada veřejnosti
 <details>
@@ -633,7 +674,6 @@ V přípravném řízení rozhoduje **soudce** (nikoli senát) — § 26 (např.
 
 </details>
 
-
 > *Trestní věci se před soudem projednávají veřejně tak, aby se občané mohli projednávání zúčastnit a jednání sledovat.*
 
 **Ústavní kotva:** čl. 38 odst. 2 LZPS, čl. 6 odst. 1 EÚLP („Rozsudek musí být vyhlášen veřejně…").
@@ -641,6 +681,11 @@ V přípravném řízení rozhoduje **soudce** (nikoli senát) — § 26 (např.
 **Vyloučení veřejnosti** — taxativně § 200 odst. 1 (mravnost, veřejný pořádek, bezpečnost státu, utajované informace, ochrana svědka, ochrana mladistvého). Z vyhlášení rozsudku se vylučovat veřejnost **nemůže** (čl. 6 odst. 1 EÚLP, výjimka jen pro mravnost, nezletilé apod.).
 
 Zaznamenávání obrazu/zvuku během HL — § 6 odst. 3 zákona o soudech a soudcích — jen se souhlasem předsedy senátu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 11 — Zásada ústnosti
 <details>
@@ -686,7 +731,6 @@ Zaznamenávání obrazu/zvuku během HL — § 6 odst. 3 zákona o soudech a sou
 
 </details>
 
-
 > *Jednání před soudy je ústní; důkaz výpověďmi svědků, znalců a obviněného se provádí zpravidla tak, že se tyto osoby vyslýchají.*
 
 **Ústnost** — důkaz se provádí přímo, ne pouze čtením písemných záznamů. Klíč pro **kontradiktorní konfrontaci** — strana má právo klást otázky vyslýchanému (§ 215 odst. 4, § 263 odst. 5).
@@ -694,6 +738,11 @@ Zaznamenávání obrazu/zvuku během HL — § 6 odst. 3 zákona o soudech a sou
 Výjimky:
 - čtení protokolu o výpovědi (§ 207 obviněného, § 211 svědka) — jen v případech, kdy svědek **zemřel**, je **nepřítomen**, **odepírá výpověď** apod.;
 - v souvislosti se Salduz/Strážce ESLP — čtení nesmí být **rozhodujícím nebo jediným důkazem**, nebyl-li obviněný v dřívější fázi schopen tohoto svědka konfrontovat.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 12 — Zásada bezprostřednosti
 <details>
@@ -739,10 +788,14 @@ Výjimky:
 
 </details>
 
-
 > *Při rozhodování v hlavním líčení… smí soud přihlédnout jen k těm důkazům, které byly při tomto jednání provedeny.*
 
 **Klíč k modelu hlavního líčení**: soud rozhoduje **jen** na základě důkazů provedených před ním v HL. Důkazy z přípravného řízení musí být v HL **znovu provedeny** (s výjimkami § 211 — čtení protokolů). Bezprostřednost garantuje, že soudce sám hodnotí důkazy „z první ruky" (vlastní pozorování chování svědka).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 13 — Právo na obhajobu (poučovací povinnost)
 <details>
@@ -788,7 +841,6 @@ Výjimky:
 
 </details>
 
-
 > *Ten, proti němuž se trestní řízení vede, musí být v každém období řízení vhodným způsobem a srozumitelně poučen o právech umožňujících mu plné uplatnění obhajoby…*
 
 **Ústavní kotva:** čl. 40 odst. 3 LZPS, čl. 6 odst. 3 EÚLP, směrnice 2012/13/EU (právo na informace).
@@ -796,6 +848,11 @@ Výjimky:
 **Poučovací povinnost** je **opakující** se — nejen jednorázové poučení, ale aktualizace v každé fázi (zahájení TS, výslech, postavení před soud, vyhlášení rozsudku, odvolání). Vada poučení je **podstatnou procesní vadou** — důkaz získaný z nepoučeného výslechu obviněného je **neúčinný**.
 
 **Letter of rights** (transpozice směrnice 2012/13/EU) — písemné poučení obsahující taxativní katalog práv (právo mlčet, právo na obhájce, právo informovat třetí osobu, právo nahlédnout do spisu, právo na lékařskou prohlídku, právo na tlumočníka).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 14 — Jazyková práva
 <details>
@@ -841,7 +898,6 @@ Výjimky:
 
 </details>
 
-
 > *Orgány činné v trestním řízení vedou řízení a vyhotovují svá rozhodnutí v českém jazyce. Každý, kdo prohlásí, že neovládá český jazyk, je oprávněn používat před orgány činnými v trestním řízení svého mateřského jazyka…*
 
 **Ústavní kotva:** čl. 37 odst. 4 LZPS, čl. 6 odst. 3 písm. e) EÚLP, směrnice 2010/64/EU.
@@ -852,6 +908,11 @@ Výjimky:
 3. Právo na **písemný překlad** podstatných dokumentů (§ 28 odst. 2–4) — obžaloba, rozsudek, příkaz/usnesení o vazbě.
 
 ESLP **Diallo proti Švédsku** (2010), **Hermi proti Itálii** (2006) — kvalita tlumočení; právo se týká i osob, které „částečně" rozumí češtině, ale ne dostatečně k uplatnění obhajoby.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 15 — Ochrana poškozeného
 <details>
@@ -897,10 +958,14 @@ ESLP **Diallo proti Švédsku** (2010), **Hermi proti Itálii** (2006) — kvali
 
 </details>
 
-
 > *Orgány činné v trestním řízení jsou povinny v každém období řízení umožnit poškozenému plné uplatnění jeho práv…*
 
 Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–51a TŘ + samostatný **zákon o obětech trestných činů č. 45/2013 Sb.** (zvlášť zranitelné oběti, právo na ochranu, právo na odbornou pomoc, právo na peněžitou pomoc).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ### § 2 odst. 16 — Restorativní prvky
 <details>
@@ -946,7 +1011,6 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
 
 </details>
 
-
 > *Orgány činné v trestním řízení dbají… na to, aby byly ve vhodných případech vytvářeny podmínky pro dobrovolnou a aktivní účast poškozeného a obviněného při řešení následků trestného činu a napravení vztahů zasažených trestným činem.*
 
 **Restorativní justice** — uznání cíle **obnovy narušených vztahů**, nikoli jen represe. Praktické nástroje:
@@ -954,6 +1018,11 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
 - **narovnání** (§ 309),
 - **podmíněné zastavení s povinností nahradit škodu** (§ 307),
 - **dohoda o vině a trestu** s povinností nahradit škodu/újmu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 ---
 
@@ -968,7 +1037,6 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
 > (2) Zájmová sdružení občanů mohou spolupůsobit při výchově osob, u nichž soud rozhodl o podmíněném upuštění od potrestání s dohledem, nebo jejichž trestní stíhání bylo podmíněně zastaveno, u podmíněně odsouzených, podmíněně odsouzených k trestu odnětí svobody s dohledem a podmíněně propuštěných; pomáhají také vytvářet podmínky, aby odsouzený žil po vykonání trestu řádným životem.
 
 </details>
-
 
 Definice „zájmového sdružení": odborové, zaměstnavatelské, církve, charitativní PO — **vyjma politických stran a hnutí**. Spolupůsobí při výchově osob, u nichž bylo TS podmíněně zastaveno, nebo u podmíněně odsouzených / podmíněně propuštěných.
 
@@ -1000,7 +1068,6 @@ Definice „zájmového sdružení": odborové, zaměstnavatelské, církve, cha
 
 </details>
 
-
 Zájmové sdružení může **nabídnout převzetí záruky** za:
 - a) chování obviněného, jehož TS bylo podmíněně zastaveno;
 - b) převýchovu odsouzeného při podmíněném upuštění od potrestání;
@@ -1023,7 +1090,6 @@ V praxi tato úprava ustupuje **dohledu probačního úředníka** (§ 49–51) 
 > (2) Orgány činné v trestním řízení ve vhodných případech spolupracují s Probační a mediační službou, které mohou předávat informace pro plnění úkolů v rámci její působnosti.
 
 </details>
-
 
 Tři roviny:
 1. OČTŘ si **navzájem pomáhají** při plnění úkolů.
@@ -1059,7 +1125,6 @@ PMS plní úlohy v přípravném řízení (zprávy o sociálním zázemí obvin
 
 </details>
 
-
 **Klíčový nástroj** pro zajištění majetku a hledání skrytého majetku. Předseda senátu, v přípravném řízení **státní zástupce nebo policejní orgán**, může vyzvat osobu, jejíž majetek je zjišťován, **nebo osobu jí blízkou**, aby ve stanovené lhůtě zaslala prohlášení o majetku.
 
 **Náležitosti prohlášení** (odst. 2 — taxativně):
@@ -1092,7 +1157,6 @@ Tento institut získal na významu po **novele 333/2020 Sb.** v souvislosti s **
 > (5) Orgán, který vydal příkaz podle odstavce 1 nebo 2, jej neprodleně doručí osobě, vůči které směřuje.
 
 </details>
-
 
 Transpozice **Budapešťské úmluvy o kyberkriminalitě** (Convention on Cybercrime, čl. 16 a 17 — *expedited preservation*).
 
@@ -1136,8 +1200,12 @@ Příkaz vydává předseda senátu, v přípravném řízení státní zástupc
 
 </details>
 
-
 **Klíčové ustanovení o povinné součinnosti** všech subjektů v trestním řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
 
 ### Odst. 1 — Obecná povinnost
 
@@ -1199,7 +1267,6 @@ Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o vše
 
 </details>
 
-
 **Odst. 1** — Při poskytování informací OČTŘ dbají, aby:
 - neohrozily objasnění skutečností důležitých pro TŘ;
 - nezveřejnily o osobách zúčastněných údaje **přímo nesouvisející s trestnou činností**;
@@ -1226,7 +1293,6 @@ Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o vše
 > (4) Pravomocný rozsudek nesmí být zveřejněn ve veřejných sdělovacích prostředcích s uvedením jména, popřípadě jmen, příjmení a bydliště poškozeného uvedeného v odstavci 2. Předseda senátu může s přihlédnutím k osobě poškozeného a povaze a charakteru spáchaného trestného činu rozhodnout o dalších omezeních spojených se zveřejněním pravomocného odsuzujícího rozsudku za účelem přiměřené ochrany zájmů takového poškozeného.
 
 </details>
-
 
 **Odst. 1** — Osoby, kterým byly informace poskytnuty OČTŘ pro účely TŘ, je nesmějí dále poskytovat, není-li to nutné.
 
@@ -1256,7 +1322,6 @@ Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o vše
 
 </details>
 
-
 **Bez souhlasu** dotčené osoby nesmí být zveřejněny informace o:
 - **odposlechu** dle § 88;
 - **metadatech** dle § 88a;
@@ -1278,7 +1343,6 @@ Výjimka: pokud byly použity jako důkaz v řízení před soudem.
 
 </details>
 
-
 **Tři typy výjimek**:
 1. **Pátrání po osobách, dosažení účelu TŘ**, nebo umožňuje-li to TŘ (např. pátrací leták);
 2. **Převažující veřejný zájem** — váží se práva na soukromí; zvláště u osob mladších 18 let;
@@ -1299,7 +1363,6 @@ Výjimka: pokud byly použity jako důkaz v řízení před soudem.
 > (2) Orgány činné v trestním řízení nejsou oprávněny řešit samostatně předběžné otázky týkající se osobního stavu, o nichž se rozhoduje v řízení ve věcech občanskoprávních. Jestliže rozhodnutí o takové otázce nebylo ještě vydáno, vyčkají jeho vydání.
 
 </details>
-
 
 **Předběžné otázky** — otázky jiných právních odvětví, na nichž závisí rozhodnutí v trestní věci (typické: vlastnictví věci u krádeže, platnost smlouvy u podvodu, daňová povinnost u zkrácení daně).
 
@@ -1331,7 +1394,6 @@ Výjimka: pokud byly použity jako důkaz v řízení před soudem.
 
 </details>
 
-
 Implementace **čl. 267 SFEU** (řízení o předběžné otázce).
 
 Pokud trestní soud (lze i v přípravném řízení? — sporné, ÚS v Pl. ÚS 36/15 dovodil, že nikoli) řeší otázku **výlučně v pravomoci Soudního dvora EU**, podá žádost SDEU a **přeruší trestní řízení** (§ 173 v přípravném, § 224 v hlavním líčení — analogicky).
@@ -1355,7 +1417,6 @@ Předběžná otázka je typická pro výklad nařízení EPPO, směrnic v oblas
 > (2) Vznikne-li pochybnost o tom, zda nebo do jaké míry je někdo vyňat z pravomoci orgánů činných v trestním řízení podle tohoto zákona, rozhodne o tom na návrh dotčené osoby, státního zástupce nebo soudu Nejvyšší soud.
 
 </details>
-
 
 **Imunity a privilegia** podle zákona nebo MS:
 
@@ -1433,7 +1494,6 @@ Předběžná otázka je typická pro výklad nařízení EPPO, směrnic v oblas
 > (5) Ustanovení odstavců 2 a 3 se přiměřeně užijí i na rozhodnutí mezinárodního trestního soudu, mezinárodního trestního tribunálu, popřípadě obdobného mezinárodního soudního orgánu s působností v trestních věcech, které splňují alespoň jednu z podmínek uvedených v § 145 odst. 1 písm. a) zákona o mezinárodní justiční spolupráci ve věcech trestních, nejde-li o rozhodnutí vydané z důvodu nedostatku jeho působnosti nebo z důvodu nedostatečné závažnosti činu anebo nebezpečnosti pachatele.
 
 </details>
-
 
 **Klíčový taxativní katalog důvodů nepřípustnosti TS.** Pokud důvod existuje:
 - TS **nelze zahájit**;
@@ -1518,7 +1578,6 @@ V některých případech (milost a–b, l) může obviněný do **3 dnů** od o
 
 </details>
 
-
 Dva specifické důvody, kdy státní zástupce ukončil zkrácené přípravné řízení odklonem:
 - a) **Schválení narovnání ve zkráceném přípravném řízení** + odložení věci;
 - b) **Podmíněné odložení návrhu na potrestání** + osvědčení podezřelého.
@@ -1592,7 +1651,6 @@ Odst. 2 — totéž pro **nestíhání podezřelého** podle § 159d odst. 1 (st
 > (13) Skutkem podle tohoto zákona se rozumí též dílčí útok pokračujícího trestného činu, není-li výslovně stanoveno jinak.
 
 </details>
-
 
 **Klíčové výkladové ustanovení** — definuje pojmy užívané v celém zákoně. Bez znalosti § 12 nelze správně aplikovat řadu jiných ustanovení.
 

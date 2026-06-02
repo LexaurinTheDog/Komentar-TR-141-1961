@@ -45,6 +45,11 @@ Národní shromáždění Československé socialistické republiky se usneslo n
 
 #### § 2
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+
 ##### Základní zásady trestního řízení
 
 (1) Nikdo nemůže být stíhán jinak než ze zákonných důvodů a způsobem, který stanoví tento zákon.
@@ -162,6 +167,11 @@ Za státem uznanou povinnost mlčenlivosti se podle tohoto zákona nepovažuje t
 (6) Ustanovením odstavců 1 a 5 není dotčena povinnost zachovávat mlčenlivost uložená na základě vyhlášené mezinárodní smlouvy, kterou je Česká republika vázána.
 
 (7) Každý je povinen zachovávat mlčenlivost o všem, co se dozvěděl v souvislosti se součinností požadovanou podle odstavců 1 až 3; povinností mlčenlivosti není vázán pro účely řízení před soudem nebo jiným orgánem, a to v rozsahu nezbytném pro ochranu jeho práv nebo pro výkon jeho povinností. O této povinnosti a o následcích spojených s jejím porušením musí být poučen.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
 
 #### Poskytování informací o trestním řízení a osobách na něm zúčastněných
 
@@ -653,6 +663,11 @@ Toho, kdo je podezřelý ze spáchání trestného činu, lze považovat za obvi
 
 ##### § 37
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — 24. 4. 2013, kat. A
+  > „Osoby oprávněné zvolit obviněnému obhájce (§ 37 odst. 1 tr. ř.) nejsou účastníky trestního řízení samy o sobě, ale stávají se jimi až v okamžiku, kdy toto právo využijí. Vznikne-li jim v souvislosti s tím škoda nebo nemajetková újma, za niž odpovídá stát, je třeba je považovat za účastníky řízení ve smyslu § 7 odst. 1 zákona č. 82/1998 Sb. k náhradě takové škody nebo nemajetkové újmy aktivně legitimované"
+
 ###### Zvolený obhájce
 
 (1) Neužije-li obviněný práva zvolit si obhájce a nezvolí-li mu ho ani jeho opatrovník, může mu ho zvolit jeho příbuzný v pokolení přímém, jeho sourozenec, osvojitel, osvojenec, manžel, partner, druh, jakož i zúčastněná osoba. Je-li obviněný omezen ve svéprávnosti, mohou tak učinit tyto osoby i proti jeho vůli.
@@ -755,6 +770,11 @@ Ustanovený obhájce je povinen obhajobu převzít. Z důležitých důvodů mů
 
 (5) Poškozený se může rovněž výslovným prohlášením sděleným orgánu činnému v trestním řízení vzdát procesních práv, které mu tento zákon jako poškozenému přiznává.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2826/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/74987C9D1750FD6CC1258264004760B4?openDocument) — 23. 1. 2018, kat. A
+  > „I. Odkázal-li soud v trestním řízení žalobkyni s nárokem na náhradu škody (samostatným výrokem) na řízení ve věcech občanskoprávních (§ 229 odst. 1 trestního řádu), je třeba v občanském soudním řízení (ve smyslu § 135 odst. 2 věty druhé o. s. ř.) vycházet z toho, že žalobkyně v souladu s § 43 odst. 3 trestního řádu řádně navrhla, aby trestní soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit škodu. II. Jsou-li negativní dopady napadeného rozhodnutí do poměrů účastníka řízení (dovolatele) odstraněny tím, že dovolací soud (bez zbytečného odkladu) napadené rozhodnutí zruší, stává se návrh na odklad vykonatelnosti rozhodnutí bezpředmětným (obsoletním)"
+
 ##### § 44
 
 (1) Oprávnění poškozeného nemůže vykonávat ten, kdo je v trestním řízení stíhán jako spoluobviněný.
@@ -798,6 +818,11 @@ Orgány činné v trestním řízení jsou povinny poškozeného o jeho právech
 (7) Poškozený musí být o zajištění jeho nároku vždy vyrozuměn s upozorněním na důvody, pro něž se zajištění podle § 48 odst. 1 zruší.
 
 (8) Výkon rozhodnutí o zajištění nároku poškozeného a postup při správě zajištěného majetku stanoví zvláštní právní předpis. Při vrácení, vydání a jiném nakládání se zajištěnou věcí, která byla vydána nebo odňata, se postupuje přiměřeně podle ustanovení o vrácení, vydání a jiném nakládání s věcí důležitou pro trestní řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 14/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F06294B947D7DB5C125822F002AD3A6?openDocument) — 30. 11. 2017, kat. A
+  > „Podle ustanovení § 173 odst. 1 věty třetí insolvenčního zákona ve znění účinném od 1. srpna 2013 může věřitel přihlásit vykonatelnou pohledávku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem po uplynutí propadné přihlašovací lhůty určené rozhodnutím o úpadku dlužníka jen tehdy, jestliže zajištění majetku náležejícího do majetkové podstaty dlužníka provedené v trestním řízení vzniklo podle trestního řádu nejdříve v době od 1. srpna 2013 to platí bez zřetele k tomu, zda insolvenční řízení bylo zahájeno před nebo po uvedeném datu"
 
 ##### § 47a
 
@@ -1355,6 +1380,11 @@ Byl-li soudem vyhlášen rozsudek, kterým byl obviněný odsouzen pro zvlášť
 
 ##### § 73a
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4274/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B49785B60D599B8C1257E4A0046968E?openDocument) — 15. 4. 2015, kat. A
+  > „Za podmínek ustanovení § 7 a násl. zákona č. 82/1998 Sb. stát zásadně odpovídá i za škodu představovanou náklady, které obviněný vynaložil v souvislosti s podáním návrhu na peněžitou záruku (§ 73a tr. ř.), zajištěním finančních prostředků na peněžitou záruku a složením peněžité záruky, lze-li vynaložené náklady považovat za adekvátní"
+
 ###### Peněžitá záruka
 
 (1) Je-li dán důvod vazby uvedený v § 67 písm. a) nebo c), může orgán rozhodující o vazbě ponechat obviněného na svobodě nebo ho propustit na svobodu též tehdy, jestliže přijme složenou peněžitou záruku, jejíž výši určil. Je-li však obviněný stíhán pro trestný čin vraždy (§ 140 trestního zákoníku), těžkého ublížení na zdraví (§ 145 trestního zákoníku), mučení a jiného nelidského a krutého zacházení podle § 149 odst. 3, 4 trestního zákoníku, obchodování s lidmi (§ 168 trestního zákoníku), loupeže podle § 173 odst. 4 trestního zákoníku, braní rukojmí podle § 174 odst. 3, 4 trestního zákoníku, znásilnění podle § 185 odst. 3, 4 trestního zákoníku, sexuálního útoku podle § 185a odst. 3, 4 trestního zákoníku, sexuálního nátlaku podle § 186 odst. 5, 6 trestního zákoníku, pohlavního zneužití podle § 187 odst. 2, 3 trestního zákoníku, obecného ohrožení podle § 272 odst. 2, 3 trestního zákoníku, vývoje, výroby a držení zakázaných bojových prostředků (§ 280 trestního zákoníku), neoprávněné výroby a jiného nakládání s omamnými nebo psychotropními látkami, s rostlinami nebo houbami je obsahujícími nebo s jedy podle § 283 odst. 3, 4 trestního zákoníku, získání kontroly nad vzdušným dopravním prostředkem, civilním plavidlem a pevnou plošinou (§ 290 trestního zákoníku), zavlečení vzdušného dopravního prostředku do ciziny podle § 292 odst. 2, 3 trestního zákoníku, vlastizrady (§ 309 trestního zákoníku), rozvracení republiky (§ 310 trestního zákoníku), teroristického útoku (§ 311 trestního zákoníku), teroru (§ 312 trestního zákoníku), sabotáže (§ 314 trestního zákoníku), vyzvědačství (§ 316 trestního zákoníku), spolupráce s nepřítelem (§ 319 trestního zákoníku), válečné zrady (§ 320 trestního zákoníku), genocidia (§ 400 trestního zákoníku), útoku proti lidskosti (§ 401 trestního zákoníku), apartheidu a diskriminace skupiny lidí (§ 402 trestního zákoníku), agrese (§ 405a trestního zákoníku), přípravy útočné války (§ 406 trestního zákoníku), styků ohrožujících mír (§ 409 trestního zákoníku), použití zakázaného bojového prostředku a nedovoleného vedení boje (§ 411 trestního zákoníku), válečné krutosti (§ 412 trestního zákoníku), perzekuce obyvatelstva (§ 413 trestního zákoníku), plenění v prostoru válečných operací (§ 414 trestního zákoníku), zneužití mezinárodně uznávaných a státních znaků (§ 415 trestního zákoníku), nebo zneužití vlajky a příměří (§ 416 trestního zákoníku), a je-li dán důvod vazby uvedený v § 67 písm. c), nelze peněžitou záruku přijmout. Se souhlasem obviněného může peněžitou záruku složit i jiná osoba, musí však být před jejím přijetím seznámena s podstatou obvinění a se skutečnostmi, v nichž je shledáván důvod vazby.
@@ -1388,6 +1418,11 @@ Byl-li soudem vyhlášen rozsudek, kterým byl obviněný odsouzen pro zvlášť
 (9) Na důvody, pro které peněžitá záruka může připadnout státu, být použita na zaplacení peněžitého trestu, nákladů trestního řízení nebo k uhrazení pohledávky poškozeného, musí být obviněný a osoba, která peněžitou záruku složila, předem upozorněni.
 
 ##### § 73aa
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4274/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B49785B60D599B8C1257E4A0046968E?openDocument) — 15. 4. 2015, kat. A
+  > „Za podmínek ustanovení § 7 a násl. zákona č. 82/1998 Sb. stát zásadně odpovídá i za škodu představovanou náklady, které obviněný vynaložil v souvislosti s podáním návrhu na peněžitou záruku (§ 73a tr. ř.), zajištěním finančních prostředků na peněžitou záruku a složením peněžité záruky, lze-li vynaložené náklady považovat za adekvátní"
 
 ###### Trvání opatření nahrazujícího vazbu
 
@@ -1865,6 +1900,11 @@ Vykonat domovní prohlídku nebo osobní prohlídku nebo prohlídku jiných pros
 
 (2) Neumožní-li osoba, vůči níž směřuje úkon uvedený v odstavci 1, provedení takového úkonu, jsou orgány provádějící úkon oprávněny po předchozí marné výzvě překonat odpor takové osoby nebo jí vytvořenou překážku. O tom učiní záznam do protokolu (§ 85 odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1965/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A973D50EAF33A43BC125896C001D97F4?openDocument) — 13. 12. 2022, kat. A
+  > „Překonání odporu osoby či jí vytvořené překážky bez předchozí výzvy k dobrovolnému zpřístupnění domovních prostor při provádění domovní prohlídky ve smyslu § 85a odst. 2 trestního řádu, může představovat nesprávný úřední postup podle § 13 odst. 1 zákona č. 82/1998 Sb. O nesprávný úřední postup však nejde, jsou-li dány důvodné obavy, že by výzva k dobrovolnému zpřístupnění domovních prostor mohla znamenat ohrožení života či zdraví domovní prohlídku konajících osob nebo že by tím mohlo dojít ke zmaření účelu domovní prohlídky"
+
 ##### § 85b
 
 (1) Při provádění domovní prohlídky nebo prohlídky jiných prostor, v nichž advokát vykonává advokacii, pokud se zde mohou nacházet listiny, které obsahují skutečnosti, na něž se vztahuje povinnost mlčenlivosti advokáta, je orgán provádějící úkon povinen vyžádat si součinnost České advokátní komory (dále jen „Komora“); orgán provádějící úkon je oprávněn seznámit se s obsahem těchto listin pouze za přítomnosti a se souhlasem zástupce Komory, kterého ustanoví předseda Komory z řad jejích zaměstnanců nebo z řad advokátů. Stanovisko zástupce Komory je třeba uvést v protokolu podle § 85 odst. 3.
@@ -2270,6 +2310,11 @@ Je-li v řízení o trestném činu proti lidské důstojnosti v sexuální obla
 (2) V dalším řízení má být taková osoba vyslechnuta znovu jen v nutných případech. V řízení před soudem je možno na podkladě rozhodnutí soudu provést důkaz přečtením protokolu nebo přehráním obrazového a zvukového záznamu pořízeného o výslechu provedeném prostřednictvím videokonferenčního zařízení i bez podmínek uvedených v § 211 odst. 1 a 2. Osoba, která byla k výslechu přibrána, se podle potřeby vyslechne k správnosti a úplnosti zápisu, k způsobu, jímž byl výslech prováděn, jakož i k způsobu, jímž vyslýchaná osoba vypovídala.
 
 (3) Osobě mladší než 18 let lze klást otázky jen prostřednictvím orgánu činného v trestním řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — 10. 4. 2025, kat. A
+  > „Nesprávný úřední postup, jenž vyústil v opakovaný výslech nezletilé jako zvlášť zranitelné oběti, může spočívat i v tom, že skutečnosti, které mohly být zjištěny při výslechu jediném (nebo při již uskutečněném předchozím výslechu), zjištěny nebyly, a proto bylo nutno je zjišťovat při výslechu dalším"
 
 ##### § 102a
 
@@ -3397,6 +3442,11 @@ Objeví-li se důvod pro použití operativně pátracích prostředků až po z
 
 (7) Proti usnesení o zahájení trestního stíhání může obviněný podat stížnost.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+
 #### Oddíl druhý
 
 ##### Vyšetřování
@@ -4503,6 +4553,11 @@ Jestliže trestní stíhání bylo zastaveno v důsledku udělení milosti, amne
 
 (3) Jestliže soud obžalovaného obžaloby zprostí, odkáže poškozeného s jeho nárokem na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení vždy na řízení ve věcech občanskoprávních, popřípadě na řízení před jiným příslušným orgánem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1689/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40300D82C7FB142EC125816B0031394C?openDocument) — 25. 5. 2017, kat. A
+  > „Jestliže soud v trestním (adhezním) řízení nepřizná zcela uplatněný nárok na náhradu škody z jakéhokoliv důvodu, například s poukazem na spoluzavinění poškozeného, a se zbytkem nároku odkáže poškozeného (pozůstalé uplatňující nárok na odškodnění za usmrcení osoby blízké) na řízení ve věcech občanskoprávních, nejde v tomto rozsahu o věc pravomocně rozsouzenou a lze ji v občanskoprávním řízení znovu projednat, aniž by soud v občanskoprávním řízení byl vázán závěrem trestního soudu o spoluzavinění poškozeného"
+
 ##### § 230
 
 (1) Shledal-li soud u obžalovaného důvod k uložení ochranného opatření, může je uložit i bez návrhu státního zástupce.
@@ -4621,6 +4676,11 @@ Rozhodnutí se vždy vyhlásí.
 
 #### § 245
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+
 ##### Přípustnost a účinek
 
 (1) Opravným prostředkem proti rozsudku soudu prvního stupně je odvolání. Proti rozsudku, kterým soud schválil dohodu o vině a trestu, lze podat odvolání pouze v případě, že takový rozsudek není v souladu s dohodou o vině a trestu, jejíž schválení státní zástupce soudu navrhl. Proti rozsudku, kterým soud schválil dohodu o vině a trestu, může poškozený, který uplatnil nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, podat odvolání pro nesprávnost výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení, ledaže v dohodě o vině a trestu souhlasil s rozsahem a způsobem náhrady škody nebo nemajetkové újmy nebo vydáním bezdůvodného obohacení a tato dohoda byla soudem schválena v podobě, s níž souhlasil.
@@ -4648,6 +4708,11 @@ Rozhodnutí se vždy vyhlásí.
 (1) V neprospěch obžalovaného může rozsudek napadnout odvoláním jen státní zástupce; toliko pokud jde o povinnost k náhradě škody nebo nemajetkové újmy v penězích nebo k vydání bezdůvodného obohacení, má toto právo též poškozený, který uplatnil nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení.
 
 (2) Ve prospěch obžalovaného mohou rozsudek odvoláním napadnout kromě obžalovaného a státního zástupce i příbuzní obžalovaného v pokolení přímém, jeho sourozenci, osvojitel, osvojenec, manžel, partner a druh. Státní zástupce může tak učinit i proti vůli obžalovaného. Je-li obžalovaný omezen ve svéprávnosti, může i proti vůli obžalovaného za něho v jeho prospěch odvolání podat též jeho opatrovník a jeho obhájce.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — 24. 4. 2013, kat. A
+  > „Osoby oprávněné zvolit obviněnému obhájce (§ 37 odst. 1 tr. ř.) nejsou účastníky trestního řízení samy o sobě, ale stávají se jimi až v okamžiku, kdy toto právo využijí. Vznikne-li jim v souvislosti s tím škoda nebo nemajetková újma, za niž odpovídá stát, je třeba je považovat za účastníky řízení ve smyslu § 7 odst. 1 zákona č. 82/1998 Sb. k náhradě takové škody nebo nemajetkové újmy aktivně legitimované"
 
 #### § 248
 
@@ -4794,6 +4859,11 @@ Nelze-li po zrušení rozsudku pokračovat v řízení před soudem pro neodstra
 #### § 261
 
 Prospívá-li důvod, z něhož rozhodl odvolací soud ve prospěch některého obžalovaného, také dalšímu spoluobžalovanému nebo zúčastněné osobě, rozhodne odvolací soud vždy též v jejich prospěch. Stejně rozhodne ve prospěch obžalovaného, kterému prospívá důvod, z něhož rozhodl ve prospěch zúčastněné osoby.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
+  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
 
 #### § 262
 
@@ -5697,6 +5767,11 @@ Jestliže nález Ústavního soudu zrušil rozsudek, jen pokud jde o některý z
 
 (2) Proti tomuto rozhodnutí není přípustný opravný prostředek.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4286/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E01EAE3DE0CA88C2C1257DB60036BA47?openDocument) — 4. 12. 2014, kat. A
+  > „Splnění požadavku změny či zrušení rozhodnutí pro nezákonnost ve smyslu § 8 odst. 1 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) nelze obecně nahradit předběžným posouzením rozhodnutí jako nezákonného v odškodňovacím řízení ani v případě prvostupňových rozhodnutí, proti nimž není přípustný opravný prostředek"
+
 ##### § 314n
 
 (1) Shledá-li Nejvyšší soud, že příkaz k odposlechu a záznamu telekomunikačního provozu byl vydán a jeho provedení bylo v souladu s podmínkami § 88 odst. 1 nebo příkaz k zjištění údajů o telekomunikačním provozu byl vydán a jeho provedení bylo v souladu s podmínkami § 88a odst. 1, vysloví usnesením, že zákon nebyl porušen.
@@ -5922,6 +5997,11 @@ Byla-li věc vrácena do přípravného řízení podle § 314o odst. 3 nebo 5, 
 (5) Je-li obava, že odsouzený uprchne, zneužívá-li povoleného přerušení nebo odpadl-li důvod, pro který byl výkon trestu odnětí svobody přerušen, samosoudce přerušení výkonu trestu odvolá. Odvolat přerušení výkonu trestu odnětí svobody podle odstavce 3 může samosoudce i tehdy, nevede-li odsouzená po dobu tohoto přerušení řádný život nebo poruší-li omezení či povinnosti uložené jí podle odstavce 3.
 
 (6) Proti rozhodnutí podle odstavců 1 až 3 je přípustná stížnost, jež má, nejedná-li se o stížnost pouze proti výroku o vyslovení dohledu a o uložení přiměřených omezení a přiměřených povinností podle odstavce 3, odkladný účinek.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
 
 ##### § 327
 

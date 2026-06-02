@@ -19,7 +19,6 @@
 
 </details>
 
-
 > *Skončilo-li trestní stíhání vedené proti určité osobě pravomocným rozsudkem, pravomocným trestním příkazem, pravomocným usnesením o zastavení trestního stíhání, pravomocným usnesením o podmíněném zastavení trestního stíhání, pravomocným usnesením o schválení narovnání nebo pravomocným usnesením o postoupení věci jinému orgánu, lze v trestním stíhání téže osoby pro týž skutek pokračovat, pokud nebylo takové rozhodnutí zrušeno v jiném předepsaném řízení, jen byla-li povolena obnova trestního řízení.*
 
 **Klíčové konstatování**: po skončení TS pravomocným rozhodnutím je **pokračování v TS pro týž skutek vyloučeno** (*res iudicata*) — výjimky:
@@ -54,7 +53,6 @@
 > (5) Obnova řízení, které skončilo odsuzujícím rozsudkem nebo trestním příkazem, jímž byl uznán vinným spolupracující obviněný, se v neprospěch obviněného povolí též tehdy, pokud spolupracující obviněný v dalším řízení proti osobám, jimž je kladen za vinu zločin, který se spolupracující obviněný zavázal objasnit, poruší svůj závazek podle § 178a odst. 1.
 
 </details>
-
 
 ### Odst. 1 — obnova řízení skončeného rozsudkem / trestním příkazem
 
@@ -123,7 +121,6 @@ Analogicky odst. 2 pro **rozhodnutí SZ** o zastavení TS / postoupení / podmí
 
 </details>
 
-
 **Taxativní katalog vyloučení**:
 - **a) trestnost činu zanikla**;
 - **b) uplynula lhůta v délce jedné poloviny promlčecí doby** TČ;
@@ -155,7 +152,6 @@ Promlčecí doby (§ 34 TZ): 30 let (doživotí / 30 let trestů), 15, 10, 5, 3 
 > (5) Doví-li se soud nebo jiný státní orgán o okolnosti, která by mohla odůvodnit návrh na povolení obnovy, je povinen oznámit ji státnímu zástupci. Jestliže jde o okolnost, která by mohla odůvodnit návrh na povolení obnovy ve prospěch obviněného, je státní zástupce povinen zpravit o ní neprodleně obviněného, anebo není-li to možné, jinou osobu oprávněnou k podání návrhu, pokud takový návrh nepodá sám.
 
 </details>
-
 
 **Odst. 1**: Obnova jen **na návrh oprávněné osoby**.
 
@@ -195,7 +191,6 @@ Zpětvzetí **nebrání pozdějšímu opětovnému návrhu**.
 
 </details>
 
-
 **Odst. 1**: O obnově řízení skončeného **usnesením SZ** rozhoduje **soud, který by byl příslušný rozhodovat o obžalobě**.
 
 **Odst. 2**: O obnově řízení skončeného **pravomocným rozsudkem / trestním příkazem / usnesením soudu** rozhoduje **soud, který ve věci rozhodl v I. stupni**.
@@ -217,7 +212,6 @@ Zpětvzetí **nebrání pozdějšímu opětovnému návrhu**.
 > (3) Byl-li podán návrh na povolení obnovy řízení ve prospěch obviněného, může soud vzhledem k povaze skutečností a důkazů, jež nově vyšly najevo, odložit nebo přerušit výkon trestu pravomocně uloženého v původním řízení.
 
 </details>
-
 
 **Odst. 1**: Pro prověření důvodnosti návrhu → **šetření** předsedy senátu (nebo na jeho žádost jiného OČTŘ / policejního orgánu). Aplikace Hlavy V.
 
@@ -247,7 +241,6 @@ Zpětvzetí **nebrání pozdějšímu opětovnému návrhu**.
 
 </details>
 
-
 Návrh se zamítne:
 - a) **osoba neoprávněná**;
 - b) směřuje proti rozhodnutí / výroku, **stran něhož obnova není přípustná** (typicky proti rozhodnutí NS, proti výroku o nákladech);
@@ -269,7 +262,6 @@ Návrh se zamítne:
 > (3) Jestliže soud povolí obnovu toliko ve výroku o přiznaném nároku poškozeného na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení, odkáže poškozeného při zrušení tohoto výroku na řízení ve věcech občanskoprávních, popřípadě na řízení před jiným příslušným orgánem.
 
 </details>
-
 
 **Odst. 1 — zrušení napadeného rozhodnutí**:
 
@@ -295,7 +287,6 @@ Pokud soud povolí obnovu řízení skončeného usnesením soudu / v otázce vi
 
 </details>
 
-
 > *Jestliže soud povolí obnovu ve prospěch obviněného z důvodů, které prospívají také některému spoluobviněnému nebo zúčastněné osobě, povolí zároveň obnovu též v jejich prospěch.*
 
 Analogie § 261 / § 265k odst. 2 / § 269 odst. 2.
@@ -317,7 +308,6 @@ Analogie § 261 / § 265k odst. 2 / § 269 odst. 2.
 > #### Řízení po povolení obnovy
 
 </details>
-
 
 **Odst. 1**: O návrhu rozhoduje soud ve **VZ**.
 
@@ -341,7 +331,6 @@ Analogie § 261 / § 265k odst. 2 / § 269 odst. 2.
 
 </details>
 
-
 Pokud se vykonává trest a soud zruší výrok o trestu → **bezprostřední rozhodnutí o vazbě**.
 
 ### § 288 — Pokračování řízení po obnově
@@ -357,7 +346,6 @@ Pokud se vykonává trest a soud zruší výrok o trestu → **bezprostřední r
 > (3) Jestliže byla povolena obnova, jen pokud jde o některý z trestných činů, za něž byl pravomocně uložen úhrnný nebo souhrnný trest, a soud vrátil věc státnímu zástupci k došetření, stanoví po právní moci usnesení povolujícího obnovu ve veřejném zasedání rozsudkem přiměřený trest za zbývající trestné činy.
 
 </details>
-
 
 **Odst. 1 — pokračování přípravného řízení**: pokud byla povolena obnova řízení skončeného rozsudkem schvalujícím **dohodu o vině a trestu** nebo usnesením SZ → **pokračování v přípravném řízení**.
 
@@ -380,7 +368,6 @@ Pokud se vykonává trest a soud zruší výrok o trestu → **bezprostřední r
 > - c) nepřekáží jeho smrt provedení dalšího řízení a trestní stíhání nelze zastavit proto, že obviněný zemřel.
 
 </details>
-
 
 Tři klíčová pravidla:
 
