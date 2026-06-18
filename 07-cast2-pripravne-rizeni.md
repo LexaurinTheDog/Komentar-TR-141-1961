@@ -236,6 +236,11 @@ Pokud má výpověď **povahu neodkladného/neopakovatelného úkonu** → výsl
 
 **Účel**: zajistit, aby **kritické důkazní úkony** prováděné před formálním zahájením TS (kdy obviněný ještě nemá obhájce) měly **soudní pojistku** — předjímá kontradiktornost.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2779/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2779-07_1) — usnesení, 19. 6. 2008
+  > „… soudce sice odpovídá za zákonnost provedení úkonu, nepřísluší mu však přezkoumávat závěr státního zástupce o tom, že úkon je podle zákona neodkladný nebo neopakovatelný"
+
 ### §§ 158b – 158f — Operativně pátrací prostředky
 
 **Klíčové ustanovení** o sofistikovaných pátracích metodách.
@@ -444,8 +449,8 @@ V protokolu **zdůvodnit**, proč úkon byl považován za neodkladný/neopakova
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [I.ÚS 1553/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1553-11_1) — nález, 30. 1. 2013
+  > „… z § 160 trestního řádu na jedné straně plyne, že trestní stíhání lze zahájit až tehdy, nasvědčují-li prověřováním zjištěné a odůvodněné skutečnosti tomu, že byl spáchán trestný čin, a je-li dostatečně odůvodněn závěr, že jej spáchala určitá osoba, na straně druhé však, pokud již tato situace nastane, má tak být učiněno neprodleně. Nelze tak považovat za správný postup orgánů činných v trestním řízení … že ačkoliv jsou podmínky pro zahájení trestního stíhání zjevně naplněny, orgány činné v trestním řízení toto zahájení co nejvíce odkládají …"
 
 ### Oddíl 2 — Vyšetřování
 
@@ -650,6 +655,11 @@ Vyjma EPPO.
 
 **Vázanost právním názorem** nižšího SZ po zrušení.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 655/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-655-11_1) — nález, 30. 8. 2011
+  > „Podle § 174a odst. 1 TŘ nejvyšší státní zástupce může do tří měsíců od právní moci rušit nezákonná usnesení nižších státních zástupců o zastavení trestního stíhání nebo o postoupení věci. … [jde o] mimořádné kasační oprávnění umožňující rušit nezákonná usnesení nižších státních zástupců (§ 174a odst. 1 TŘ) …, [při němž státní zastupitelství] vždy musí respektovat všechna zákonná procesní ustanovení vykládaná ústavně konformně"
+
 #### § 175 — Výhradní pravomoci SZ
 
 **Pouze SZ** je oprávněn:
@@ -711,6 +721,11 @@ Vyjma EPPO.
 **Odst. 7 — opis dohody** obviněnému + obhájci + poškozenému s nárokem. Pokud k dohodě nedojde → záznam + **k prohlášení viny v dalším řízení se nepřihlíží** (chrání obviněného před zneužitím jeho ústupků).
 
 **Odst. 8 — vyloučení**: **nelze sjednat dohodu v řízení proti uprchlému**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 A 45/2023 - 315](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/725662) — 20. 9. 2024
+  > „Podmínkou sjednání této dohody je totiž to, že „výsledky vyšetřování dostatečně prokazují závěr, že se skutek stal, že tento skutek je trestným činem a že jej spáchal obviněný“ [§ 175a odst. 1 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád)]. Trestní soud pak nemůže dohodu o vině a trestu schválit, „je-li nesprávná nebo nepřiměřená z hlediska souladu se zjištěným skutkovým stavem“ (§ 314r odst. 2 trestního řádu)"
 
 #### § 175b — Podání návrhu na schválení dohody
 

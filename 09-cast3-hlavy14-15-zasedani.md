@@ -258,6 +258,13 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 
 § 241 — zrušen.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1681/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1681-13_1) — usnesení, 11. 7. 2013
+  > „Jako obiter dictum Ústavní soud poukazuje na znění ustanovení § 240 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů (dále jen "trestní řád"), jež stanovuje, že soud rozhoduje v neveřejném zasedání všude tam, kde zákon nepředepisuje konání veřejného zasedání nebo hlavního líčení. … Z toho lze dovodit zákonodárcův úmysl neukládat soudům rozhodujícím o stížnosti proti rozhodnutí dle ustanovení § 331 trestního řádu povinnost rozhodovat ve veřejném zasedání"
+- *ÚS* [IV.ÚS 3735/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3735-10_1) — usnesení, 11. 1. 2011
+  > „Jak správně nastínil sám stěžovatel, tr. ř. stanoví procesní situace, v nichž lze rozhodnout bez nařízení veřejného zasedání. Z trestního řádu přitom nevyplývá, že by soud takto musel postupovat vždy. Obecným soudům v podstatě nic nebrání v tom, aby věc, kterou lze teoreticky rozhodnout v režimu neveřejného zasedání, projednaly veřejně"
+
 ## § 242 — Přítomnost při NZ
 <details>
 <summary>📜 <strong>Citace § 242 (úplné znění)</strong></summary>
@@ -281,6 +288,13 @@ Tj. **VZ je v zásadě veřejné** (§ 199), s možností **vyloučení veřejno
 > *Jiné osoby jsou z účasti na neveřejném zasedání vyloučeny.*
 
 **Žádná veřejnost, žádné strany.** **NZ je interní proces soudu**. Jediné výjimky jsou ty, které zákon výslovně připustí.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 45/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-45-04) — nález, 22. 3. 2005
+  > „Tomu, aby obviněný mohl být před rozhodnutím soudu o stížnosti proti rozhodnutí státního zástupce o ponechání obviněného ve vazbě naznačeným způsobem slyšen jako procesní strana, brání v platné právní úpravě podle trestního řádu právě ustanovení § 242 odst. 2 trestního řádu, které účast obviněného (i kohokoliv jiného) při neveřejném zasedání vylučuje. … Slyšení stran před rozhodnutím soudu je podstatným znakem kontradiktornosti řízení"
+- *ÚS* [I.ÚS 586/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-586-04) — nález, 25. 8. 2005
+  > „Uvedeným nálezem bylo zrušeno ustanovení § 242 odst. 2 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), a Ústavní soud zároveň výrokem II. nálezu vyslovil, že podle čl. 5 odst. 4 Úmluvy je nutné slyšení obviněného soudem předtím, než je rozhodováno o jeho stížnosti proti usnesení státního zástupce o dalším trvání vazby"
 
 ## § 243 — Dokazování v NZ
 <details>

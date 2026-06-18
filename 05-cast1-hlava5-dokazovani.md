@@ -560,6 +560,11 @@ Nelze-li totožnost ihned zjistit → **připojit důkazy** zabraňující zám�
 - **sugestivní** = navádějící (formulace, která naznačuje odpověď);
 - **smyšlené premisy** (předpokládá fakta, která nejsou prokázána).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Azs 195/2005 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/242609) — 7. 6. 2006
+  > „Takový způsob kladení otázek je ovšem např. v trestním řízení zakázán ze zákona [viz. § 92 odst. 3 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů], a to proto, že zkresluje možnost správného závěru o pravdivosti výpovědi, resp. je způsobilý vnutit vyslýchanému určitou odpověď. Důkaz takto provedený je pak posuzován jako neúčinný. Principielně jsou pak sugestivní, (resp. kapciózní) otázky nepřípustné v jakémkoli právním procesu, správní řízení nevyjímaje"
+
 ### § 93 — Pomocné prostředky při výslechu
 
 **Odst. 1 — písemné poznámky**: obviněný může nahlížet do poznámek; vyslýchajícímu na požádání **předložit k nahlédnutí**. Zaznamenat v protokole.
@@ -633,6 +638,11 @@ Svědek **nesmí** být vyslýchán, pokud by porušil **státem uloženou / uzn
 Zákaz **se nevztahuje** na výpověď o TČ, k jehož **oznámení** má svědek povinnost dle TZ (§ 367 — nepřekažení, § 368 — neoznámení). Tj. mlčenlivost **nezachraňuje** před oznamovací povinností u nejzávažnějších TČ.
 
 **Také se nevztahuje** na utajované informace stupně **Důvěrné / Vyhrazené** (nejnižší stupně).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1375/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1375-11_1) — nález, 11. 9. 2012
+  > „Legislativním záměrem dané právní úpravy, tak jak vyplývá z důvodové zprávy, ovšem v žádném případě nebylo omezení ochrany novinářského zdroje. Šlo toliko o omezení nutnosti požadovat pro trestní řízení zproštění zákonem uložené povinnosti mlčenlivosti tam, kde není pochyb, že se s utajovanou skutečností, resp. informací mohou vzhledem k jejímu významu seznamovat i osoby činné v trestním řízení. To lze považovat za přiměřené, smysluplné a ústavně souladné, na rozdíl od státním zastupitelstvím a obecným soudem proklamovaného paušálního vyzdvižení ochrany utajovaných skutečností"
 
 ### § 100 — Právo odepřít výpověď
 
@@ -720,7 +730,7 @@ V HL lze **přečíst protokol** nebo **přehrát záznam z videokonference** **
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — 10. 4. 2025, kat. A
+- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — kat. A, 10. 4. 2025
   > „Nesprávný úřední postup, jenž vyústil v opakovaný výslech nezletilé jako zvlášť zranitelné oběti, může spočívat i v tom, že skutečnosti, které mohly být zjištěny při výslechu jediném (nebo při již uskutečněném předchozím výslechu), zjištěny nebyly, a proto bylo nutno je zjišťovat při výslechu dalším"
 
 ### § 102a — Utajený agent jako svědek
@@ -1057,6 +1067,11 @@ Pokud **neprovádí lékař** → **osoba téhož pohlaví** (respekt k důstojn
 - způsob překonání **přiměřený intenzitě odporu**.
 
 **Odst. 5 — poučovací povinnost** o důsledcích nevyhovění + možnosti překonání odporu.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS-st. 30/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=St-30-10_1) — stanovisko pléna, 30. 11. 2010
+  > „Na úkony dle § 114 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, spočívající v sejmutí pachové stopy, odebrání vzorku vlasů a bukálního stěru, jejichž cílem je získání objektivně existujících důkazů pro forenzní vyšetření a které nevyžadují aktivní jednání obviněného či podezřelého, ale toliko strpění jejich provedení, nelze pohlížet jako na úkony, jimiž by byl obviněný či podezřelý donucován k ústavně nepřípustnému sebeobviňování. K zajištění součinnosti obviněného či podezřelého při opatřování těchto důkazů je tudíž možno užít zákonných donucovacích prostředků"
 
 ### § 115 — Prohlídka a pitva mrtvoly, exhumace
 

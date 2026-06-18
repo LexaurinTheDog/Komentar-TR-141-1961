@@ -86,8 +86,10 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 1 — Zásada zákonnosti
 <details>
@@ -145,8 +147,10 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 2 — Presumpce neviny
 <details>
@@ -210,8 +214,10 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 3 — Zásada legality (povinnosti stíhání)
 <details>
@@ -271,8 +277,10 @@ Výjimky z legality: **přímo použitelný předpis EU** (např. nařízení o 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 4 — Zásada oficiality a zásada urychlení
 <details>
@@ -337,8 +345,10 @@ Třetí věta — *K obsahu petic… nepřihlížejí* — vyjadřuje **nezávis
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 5 — Zásada vyhledávací a důkazní břemeno
 <details>
@@ -397,8 +407,10 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 6 — Zásada volného hodnocení důkazů
 <details>
@@ -455,8 +467,10 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 7 — Spolupráce se zájmovými sdruženími
 <details>
@@ -508,8 +522,10 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 8 — Zásada obžalovací (akusatorní)
 <details>
@@ -567,10 +583,10 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
-- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
-  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 9 — Obsazení soudu
 <details>
@@ -627,8 +643,12 @@ V přípravném řízení rozhoduje **soudce** (nikoli senát) — § 26 (např.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+- *ÚS* [II.ÚS 413/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-413-04) — nález, 3. 3. 2005
+  > „Rozhodnutí v tomto směru přitom lze učinit pouze v řízení občanskoprávním, a z povahy věci je vyloučeno, aby bylo o této věci rozhodnuto orgány činnými v trestním řízení jako o předběžné otázce podle § 9 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů. … Otázka, zda, kdy a za jakých okolností je bývalý nájemce povinen vyklidit byt, je výsostně věcí občanskoprávní, a není nutné ani vhodné, aby do uplynutí lhůty stanovené rozhodnutím civilního soudu k vyklizení bytu ve věci zasahovaly orgány činné v trestním řízení"
 
 ### § 2 odst. 10 — Zásada veřejnosti
 <details>
@@ -684,8 +704,10 @@ Zaznamenávání obrazu/zvuku během HL — § 6 odst. 3 zákona o soudech a sou
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 11 — Zásada ústnosti
 <details>
@@ -741,8 +763,10 @@ Výjimky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 12 — Zásada bezprostřednosti
 <details>
@@ -794,8 +818,10 @@ Výjimky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 13 — Právo na obhajobu (poučovací povinnost)
 <details>
@@ -851,8 +877,10 @@ Výjimky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 14 — Jazyková práva
 <details>
@@ -911,8 +939,10 @@ ESLP **Diallo proti Švédsku** (2010), **Hermi proti Itálii** (2006) — kvali
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 15 — Ochrana poškozeného
 <details>
@@ -964,8 +994,10 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ### § 2 odst. 16 — Restorativní prvky
 <details>
@@ -1021,8 +1053,10 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4389/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0119D739991824AC1257EF3002B45B9?openDocument) — 27. 8. 2015, kat. A
-  > „Nepodal-li poškozený odvolání proti odsuzujícímu rozsudku, který byl v jeho prospěch zrušen v důsledku odvolání podaného jiným obžalovaným, jde zásadně o případ zvláštního zřetele hodný ve smyslu 8 odst. 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů)"
+- *ÚS* [II.ÚS 658/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-658-14_1) — nález, 14. 10. 2014
+  > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
+- *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
+  > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
 ---
 
@@ -1373,6 +1407,11 @@ Výjimka: pokud byly použity jako důkaz v řízení před soudem.
 **Třetí pravidlo** (odst. 2): Pokud se předběžná otázka týká **osobního stavu** (otázky občanskoprávní — manželství, otcovství, právní svéprávnost) a rozhodnutí ještě nebylo vydáno, OČTŘ **vyčkají jeho vydání**.
 
 **Praktický dopad** — TZ § 240 (zkrácení daně): pravomocné rozhodnutí finančního úřadu o vyměření daně je pro trestní soud **závazné v rozsahu existence daňové povinnosti**, ale **nezávazné** ohledně otázky **úmyslu / zavinění** (= viny).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 413/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-413-04) — nález, 3. 3. 2005
+  > „Rozhodnutí v tomto směru přitom lze učinit pouze v řízení občanskoprávním, a z povahy věci je vyloučeno, aby bylo o této věci rozhodnuto orgány činnými v trestním řízení jako o předběžné otázce podle § 9 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů. … Otázka, zda, kdy a za jakých okolností je bývalý nájemce povinen vyklidit byt, je výsostně věcí občanskoprávní, a není nutné ani vhodné, aby do uplynutí lhůty stanovené rozhodnutím civilního soudu k vyklizení bytu ve věci zasahovaly orgány činné v trestním řízení"
 
 ---
 

@@ -22,6 +22,11 @@ O zahlazení rozhoduje **samosoudce** na:
 
 **Účel**: zahlazení slouží k **resocializaci** — odsouzený získá **fikci neodsouzení** (§ 106 TZ), výpis z RT už neukazuje odsouzení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Azs 325/2019 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/698779) — 24. 3. 2022
+  > „Není-li … takové zvláštní pravidlo ohledně konkrétního trestu stanoveno, je třeba vycházet z obecného ustanovení o zahlazení odsouzení. Dle § 363 zákona č. 141/1961 Sb., trestního řádu, je nutné o zahlazení odsouzení požádat. Nenastává tedy přímo ze zákona, jako v případě osvědčení u podmíněného odsouzení"
+
 ---
 
 ## § 364 — Příslušnost soudu

@@ -37,6 +37,11 @@ Obviněný smí být vzat do vazby, **jestliže z jeho jednání nebo dalších 
 
 Test **proporcionality**: vazba je *ultima ratio*. Soud musí výslovně odůvodnit, **proč nestačí mírnější opatření** (peněžitá záruka, záruka, dohled, slib, předběžné opatření, elektronický monitoring).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 1/94](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-1-94) — nález, 26. 4. 1994
+  > „Koluzní vazba dle § 67 písm. b) tr. ř. pak rovněž dostatečným způsobem chrání základní právo na svobodu obviněného, protože jejím důvodem je nejenom důvodné podezření ze spáchání tr. činu, ale také důvodné podezření z jiné činnosti, která maří trestní stíhání (tzv. koluzní jednání), tak jako je tomu u skrývání nebo vyhýbání se trestnímu řízení (§ 67 písm. a) tr. ř.). … Není totiž výkonem práva na osobní svobodu, když někdo ovlivňuje svědky či spoluobviněné, resp. když koluzně jedná"
+
 ### § 68 — Předpoklady a omezení vazby
 
 **Odst. 1**: Do vazby lze vzít **jen osobu, proti níž bylo zahájeno TS** (§ 160). Rozhodnutí musí být odůvodněno **skutkovými okolnostmi** (ne jen procesními).
@@ -61,6 +66,11 @@ Bariéra **se neuplatní**, pokud obviněný:
 **Odst. 4 — ochrana poškozeného:**
 
 Sazbová bariéra se **neuplatní** pro úmyslné TČ při důvodu vazby § 67 písm. c) (předstižná), pokud vzhledem k povaze TČ je nezbytná **účinná ochrana poškozeného** (zejména život, zdraví). **Klíčové pro domácí násilí, stalking, sexuální útoky.**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 198/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-198-04) — nález, 20. 5. 2004
+  > „Zákonné důvody, pro něž může být kdokoliv postupem orgánů státu omezen na osobní svobodě, je nutné vždy vykládat restriktivně. Pouze zákonem, a nikoliv jeho výkladem, lze rozšířit důvody pro omezení osobní svobody. To je odůvodněno jednak přednostní a nezastupitelnou hodnotou práva každého na osobní svobodu"
 
 ### § 69 — Příkaz k zatčení
 
@@ -310,11 +320,21 @@ Nekoná se, i když obviněný žádal, pokud:
 
 **Odst. 3**: Nadřízený soud při zrušení rozhodnutí — věc vrátí **jen z důvodu závažných vad**. Obviněný **neprodleně propuštěn**.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 6/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-6-10_1) — nález, 20. 4. 2010
+  > „Obviněný bude vždy po vydání zprošťujícího rozsudku neprodleně propuštěn na svobodu. Stížnost státního zástupce proti rozhodnutí o propuštění obviněného z vazby na svobodu po vydání zprošťujícího rozsudku nemá odkladný účinek. … Odkladný účinek stížnosti státního zástupce nastoluje stav, kdy je od jednotlivce vyžadována větší oběť, než je možno od osoby, jíž svědčí presumpce neviny – zde potvrzené soudem, rozumně požadovat"
+
 ### § 74a — Omezení obviněného ve VTOS
 
 Pokud je TS vedeno proti obviněnému **ve výkonu trestu odnětí svobody** a existuje důvod vazby: rozhodnutí o **omezeních** (analogických vazebním) **soudem / soudcem**. Omezení **nesmí být závažnější** než ve vazbě.
 
 Princip: nelze duplikovat zbavení svobody, ale lze přidat **vazební omezení** (kontakt s vnějškem, korespondence) v rozsahu nezbytném.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1884/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1884-13_1) — nález, 13. 3. 2014
+  > „Ústavní soud … neshledává žádný racionální a legitimní důvod, pro který by mohl považovat za přijatelné, aby v soudních řízeních podle § 74a trestního řádu, jejichž předmět může svými důsledky představovat významný zásah do osobní svobody jednotlivce, docházelo oproti „standardnímu" vazebnímu řízení ke krácení procesních záruk spravedlnosti soudního rozhodování"
 
 ---
 
@@ -491,8 +511,10 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 3310/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37CFBD975DA5DD84C1257EB40046EE2F?openDocument) — 24. 6. 2015, kat. A
+- *NS* [30 Cdo 3310/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37CFBD975DA5DD84C1257EB40046EE2F?openDocument) — kat. A, 24. 6. 2015
   > „Odpovědnost státu za škodu z rozhodnutí o zajištění peněžních prostředků na účtu u banky (§ 79a odst. 1 trestního řádu) ve smyslu § 8 odst. 1 zákona č. 82/1998 Sb. nezakládá bez dalšího skutečnost, že trestní řízení, v němž bylo rozhodnutí o zajištění peněžních prostředků na účtu u banky vydáno, posléze neskončilo odsuzujícím rozsudkem. Nedojde-li k vydání odsuzujícího rozsudku, nelze z toho bez dalšího dovozovat nesprávnost postupu orgánů činných v trestním řízení ani nezákonnost rozhodnutí vydaných po zahájení trestního stíhání"
+- *ÚS* [II.ÚS 2823/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2823-13_1) — nález, 25. 11. 2014
+  > „§ 79a a násl. trestního řádu představuje institut mající za úkol zajistit dosažení účelu trestního řízení, a to za cenu dočasného omezení vlastnického práva dotčené osoby. Při jeho uplatnění nedochází k odejmutí daných prostředků majiteli, ale pouze k omezení dispozičního práva s nimi tak, aby nemohlo dojít k jejich zneužití. Omezení vlastnického práva dotčené osoby představuje při zachování v zákoně specifikovaných podmínek legitimní zásah, přiměřený cíli sledovanému právní úpravou"
 
 ### §§ 80–81b — Vrácení, vydání a další nakládání
 
@@ -515,7 +537,7 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 2018/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA7AEEB3751235AEC1258AC3001B7E4F?openDocument) — 15. 11. 2023, kat. A
+- *NS* [29 Cdo 2018/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA7AEEB3751235AEC1258AC3001B7E4F?openDocument) — kat. A, 15. 11. 2023
   > „Nemovitou věc nelze uložit do soudní úschovy ani podle § 81a trestního řádu za užití § 80 odst. 1 věty třetí trestního řádu"
 
 ---
@@ -555,6 +577,11 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 **Odst. 2 — bez příkazu**: pokud **vydání nelze předem dosáhnout** a věc nesnese odkladu. Policejní orgán musí **bezodkladně dodatečně vyžádat souhlas** (v přípravném řízení přes SZ). **Pokud souhlas neudělen → výsledek nelze použít jako důkaz** (důkaz neúčinný).
 
 **Odst. 3 — bez příkazu při souhlasu uživatele**: písemné prohlášení + vyrozumění předsedy senátu / SZ.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 3/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-3-09_1) — nález, 8. 6. 2010
+  > „[Požadavky vyplývající z ústavního pořádku České republiky vyžadují], aby o vydání příkazu k prohlídce jiných prostor a pozemků rozhodoval nezávislý a nestranný orgán. Za takový … nelze považovat státního zástupce, a tím méně policejní orgán. Nelze totiž opomíjet skutečnost, že státní zástupci plní v kontradiktorním řízení funkce orgánu veřejné žaloby"
 
 ### § 83b — Příkaz k osobní prohlídce
 
@@ -612,7 +639,7 @@ Osoba je povinna **strpět** úkon. Při neumožnění lze **překonat odpor** p
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 1965/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A973D50EAF33A43BC125896C001D97F4?openDocument) — 13. 12. 2022, kat. A
+- *NS* [30 Cdo 1965/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A973D50EAF33A43BC125896C001D97F4?openDocument) — kat. A, 13. 12. 2022
   > „Překonání odporu osoby či jí vytvořené překážky bez předchozí výzvy k dobrovolnému zpřístupnění domovních prostor při provádění domovní prohlídky ve smyslu § 85a odst. 2 trestního řádu, může představovat nesprávný úřední postup podle § 13 odst. 1 zákona č. 82/1998 Sb. O nesprávný úřední postup však nejde, jsou-li dány důvodné obavy, že by výzva k dobrovolnému zpřístupnění domovních prostor mohla znamenat ohrožení života či zdraví domovní prohlídku konajících osob nebo že by tím mohlo dojít ke zmaření účelu domovní prohlídky"
 
 ### § 85b — Domovní prohlídka v advokátní kanceláři
@@ -767,6 +794,11 @@ Po pravomocném skončení věci → **informace osobě** o odposlechu (pokud zn
 **Odst. 11 — návrh na přezkum NS:**
 Dotčená osoba do **30 dnů** od obdržení informace → návrh na přezkum příkazu **k Nejvyššímu soudu** (§ 314l a násl.).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 1556/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1556-07_1) — nález, 3. 8. 2010
+  > „Ústavní soud … již dospěl k závěru, že právo na ochranu tajemství zpráv podávaných telefonem, plynoucí z čl. 13 Listiny základních práv a svobod, jako ústavně zaručené právo svou povahou a významem spadá mezi základní lidská práva a svobody, neboť spolu se svobodou osobní a dalšími ústavně zaručenými základními právy dotváří osobnostní sféru jedince, jehož individuální integritu jako zcela nezbytnou podmínku důstojné existence jedince a rozvoje lidského života vůbec je nutno respektovat a důsledně chránit"
+
 ### § 88a — Údaje o telekomunikačním provozu (metadata)
 
 **Méně závažný zásah** než odposlech (jen metadata — kdo, kdy, kde, kolik dlouho komu volal; nikoli obsah).
@@ -778,6 +810,11 @@ Dotčená osoba do **30 dnů** od obdržení informace → návrh na přezkum p�
 **Vydává** předseda senátu / soudce na návrh SZ. **Souhlas uživatele** umožňuje obejít příkaz.
 
 **Klíč po judikatuře ESLP**: **Big Brother Watch v. UK** (2021), **Centrum för rättvisa v. Švédsku** (2021) — masivní data retention musí mít jasné záruky.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 24/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-11_1) — nález, 20. 12. 2011
+  > „[Napadené ustanovení] není v souladu se základním právem na ochranu tajemství zpráv podávaných telefonem, telegrafem nebo jiným podobným zařízením ve smyslu čl. 13 Listiny …, neboť pro případ nařízení sdělení údajů o telekomunikačním provozu za účelem objasnění skutečností důležitých pro trestní řízení neobsahuje dostatečné garance práv uživatelů služeb elektronických komunikací, jež by byly srovnatelné s těmi, které pro případ nařízení odposlechu a záznamu telekomunikačního provozu předpokládá § 88 trestního řádu"
 
 ---
 

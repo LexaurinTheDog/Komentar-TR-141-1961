@@ -40,6 +40,11 @@ Po PM **předseda senátu vykonává trest** (resp. zařizuje). Vazba je započ�
 - **dodání k výkonu**, pokud se odsouzený nedostaví;
 - **propustky a kontrola** ze strany Policie ČR.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [25 A 196/2020 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/671019) — 28. 4. 2021
+  > „O umístění odsouzeného do konkrétní věznice je poprvé rozhodováno spolu s nástupem do výkonu trestu odnětí svobody, neboť označení věznice, ve které má odsouzený vykonat trest, je obligatorní náležitostí výzvy zasílané odsouzeným k nástupu výkonu trestu podle § 321 odst. 1 zákona č. 141/1961 Sb., trestního řádu, přičemž věznice se určuje podle přílohy č. 6 kancelářského řádu, obecně je to tzv. spádová věznice, která je nejblíže místu pobytu odsouzeného"
+
 ### §§ 322 – 323 — Odklad výkonu trestu
 
 **Obligatorní odklad**:
@@ -61,6 +66,11 @@ Z věznice s **vyšším do nižšího stupně** ostrahy a naopak — rozhodnut�
 
 Specifický institut **vnitřní progresie** v rámci věznice s ostrahou (§ 56 odst. 1 písm. c TZ).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [16 A 22/2024 - 156](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743305) — 11. 6. 2025
+  > „Předně, rozhodnutí ředitele věznice o umístění do některého z oddělení podle stupně zabezpečení záleží na výsledku provedeného vyhodnocení míry vnějších a vnitřních rizik (§ 12b ZVTOS ve spojení s § 6a řádu VTOS), a takové rozhodnutí, je-li jeho výsledkem umístění do oddělení se středním nebo vysokým stupněm zabezpečení, je přezkoumatelné v trestním řízení soudním dle § 324a zákona č. 141/1961 Sb., o trestním řízení soudním, ve znění pozdějších předpisů (dále jen „trestní řád“) na základě návrhu odsouzeného ve smyslu § 12b odst. 3 ZVTOS"
+
 ### §§ 325 – 327 — Přerušení výkonu trestu
 
 **Důvody**:
@@ -72,8 +82,10 @@ Specifický institut **vnitřní progresie** v rámci věznice s ostrahou (§ 56
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
-  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — kat. A, 17. 12. 2014
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.)"
+- *NSS* [59 A 9/2025 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769326) — 14. 1. 2026
+  > „Smyslem přerušení výkonu trestu dle § 56 ZVTOS je za odměnu [na rozdíl od přerušení výkonu trestu postupem dle § 325 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád)] dočasně vyjmout odsouzeného z režimu výkonu trestu, postavit jej krátkodobě mimo tento režim, a tím v konečném důsledku snad i přispět k jeho nápravě"
 
 ### § 328 — Odklad u vojáků
 
@@ -109,6 +121,11 @@ Speciální režim pro **vojáky v činné službě** — koordinace s vojenskou
 **§ 333**: Při propuštění **dohled probačního úředníka** + případná omezení / povinnosti.
 
 **§ 333a**: Záznam o propuštění.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 3967/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3967-13_1) — usnesení, 22. 5. 2014
+  > „Je věcí obecných soudů, aby zkoumaly a posoudily, zda podmínky pro aplikaci institutu podmíněného propuštění z výkonu trestu odnětí svobody jsou dány, a aby své úvahy v tomto směru zákonem stanoveným postupem odůvodnily. … Za prvé je nutné splnění podmínky formální spočívající ve vykonání předepsané části trestu … Dále pak musejí být naplněna kritéria materiální, totiž (podmínka druhá) polepšení odsouzeného, potvrzené jeho současným chováním a plněním jemu uložených povinností …, a (podmínka třetí) existence takových skutečností, z nichž by bylo možné důvodně usoudit, že odsouzený po předčasném propuštění na svobodu povede řádný život. Všechny tři podmínky je nutné splnit kumulativně"
 
 ### § 334 — Započítání vazby a trestu
 

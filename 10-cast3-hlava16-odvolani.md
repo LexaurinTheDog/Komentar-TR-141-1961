@@ -461,6 +461,11 @@ Odvolací soud **zruší rozsudek** pro:
 
 **Odst. 2 — částečné zrušení** je možné, lze-li oddělit. **Klíčové pravidlo**: pokud se zruší **byť jen zčásti výrok o vině**, **vždy se zruší i celý výrok o trestu** + další výroky závislé na vině.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 445/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-445-06_1) — nález, 28. 8. 2008
+  > „Odvolací řízení podle trestního řádu je založeno výrazně na principu apelačním s prvky kasace. Pokud tedy odvolací soud dospěje k závěru, že je nutné z důvodů uvedených v § 258 odst. 1 tr. ř. zrušit napadené rozhodnutí, zpravidla přímo sám ve věci meritorně rozhodne a věc nevrací soudu prvního stupně, jestliže však nejde o doplňování skutkového stavu, které by si vyžadovalo rozsáhlé a obtížně proveditelné dokazování, jímž by odvolací soud nahrazoval činnost soudu prvního stupně (§ 259 odst. 1 tr. ř.)"
+
 ### § 259 — Po zrušení (vrácení nebo vlastní rozhodnutí)
 <details>
 <summary>📜 <strong>Citace § 259 (úplné znění)</strong></summary>
@@ -519,6 +524,11 @@ Odvolací soud **NEMŮŽE** sám:
 
 (Změnu na těžší TČ musí provést soud I. stupně po vrácení.)
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 256/2020 - 17](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656934) — 20. 11. 2020
+  > „Pro úplnost Nejvyšší správní soud uvádí, že stěžovatelkou zmíněný zákaz reformationis in peius (tedy změny k horšímu na základě podaného opravného prostředku) není obecnou zásadou, nýbrž jde o pravidlo vlastní trestnímu řízení, které se však uplatní pouze tam, kde to zákon výslovně stanoví [viz například § 150 odst. 1, § 259 odst. 4, § 264 odst. 2 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád)]"
+
 ### § 260 — Vrácení SZ k došetření
 <details>
 <summary>📜 <strong>Citace § 260 (úplné znění)</strong></summary>
@@ -565,6 +575,13 @@ Pokud po zrušení **nelze pokračovat pro neodstranitelné procesní vady** a n
 **Klíč pro nestranný proces**: pokud po opakovaném zrušení odvolací soud zjistí, že **původní soud má fixní názor**, může nařídit projednání v jiném složení / jiným samosoudcem.
 
 **Z důležitého důvodu** lze nařídit projednání **jiným soudem téhož druhu a stupně v obvodu**.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 3780/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3780-13_1) — nález, 11. 11. 2014
+  > „Z konstantní rozhodovací praxe Ústavního soudu však vyplývá, že při rozhodování, zda má být postupováno podle § 262 trestního řádu, musí být brán zřetel na to, že institut zákonného soudce je důležitým prvkem právní jistoty, jejíž prolomení je nutno chápat jako postup nestandardní a zcela výjimečný, ale v odůvodněných případech dovolený"
+- *ÚS* [I.ÚS 3642/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3642-14_1) — usnesení, 9. 12. 2014
+  > „V článku 38 odst. 1 Listiny základních práv a svobod … je vyjádřeno základní právo na zákonného soudce … Vzhledem k tomu, že zákon stanovuje příslušnost soudce, je zřejmé, že i případná výjimka, je-li vymezena v zákoně, tuto příslušnost určuje zákonným způsobem. Tak činí i ustanovení § 262 zákona č. 141/1961 Sb., trestní řád, ve znění pozdějších předpisů …, jestliže při rozhodování o odvolání umožňuje společně s vrácením věci nalézacímu soudu nařídit (výjimečně) její projednání v jiném složení senátu, anebo jiným samosoudcem"
 
 ### § 263 — Řízení u odvolacího soudu
 <details>
@@ -646,6 +663,11 @@ Soud, jemuž věc vrácena, je **vázán právním názorem** odvolacího soudu 
 > *Byl-li napadený rozsudek zrušen jen v důsledku odvolání podaného ve prospěch obžalovaného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch.*
 
 **Identický princip s § 259 odst. 4** — zákaz zhoršení **při novém projednání** po vrácení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 256/2020 - 17](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656934) — 20. 11. 2020
+  > „Pro úplnost Nejvyšší správní soud uvádí, že stěžovatelkou zmíněný zákaz reformationis in peius (tedy změny k horšímu na základě podaného opravného prostředku) není obecnou zásadou, nýbrž jde o pravidlo vlastní trestnímu řízení, které se však uplatní pouze tam, kde to zákon výslovně stanoví [viz například § 150 odst. 1, § 259 odst. 4, § 264 odst. 2 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád)]"
 
 ### § 265 — Důsledky zrušení adhezního výroku
 <details>

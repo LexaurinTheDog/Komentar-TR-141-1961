@@ -778,6 +778,11 @@ Pokud se usnesení oznamuje obviněnému + obhájci/opatrovníkovi → lhůta **
 
 Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dotčena.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3-04) — nález, 24. 3. 2005
+  > „Stávající znění § 146 odst. 2 tr. ř. z hlediska existence účinných procesních záruk či prostředků nápravy trpí ústavním deficitem, jehož podstata spočívá v absenci takové právní úpravy, jež by splňovala požadavky čl. 6 odst. 1 Úmluvy ve vztahu k osobám, kterým byla pořádková pokuta podle § 66 tr. ř. uložena v přípravném řízení policejním orgánem nebo státním zástupcem"
+
 ## § 146a — Rozhodování soudu o stížnosti proti SZ / policejnímu orgánu
 <details>
 <summary>📜 <strong>Citace § 146a (úplné znění)</strong></summary>
@@ -951,6 +956,11 @@ Při předkládání **opis stížnosti** SZ + osobě, která by mohla být dot�
 **Odst. 2 — beneficium cohaesionis**: pokud se změna ve prospěch obviněného opírá o důvod **prospívající i spoluobviněnému** → **změna i pro spoluobviněného**.
 
 **Odst. 3**: Stejný režim pro orgán, kterému byla věc vrácena k novému projednání.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 618/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-618-08_1) — nález, 28. 4. 2009
+  > „Vzhledem k zásadě beneficium cohaesionis, jejíž podstatou je změna rozhodnutí i ve prospěch té osoby, která opravný prostředek nepodala, jestliže jí prospívá důvod, pro který bylo změněno rozhodnutí ve prospěch osoby, která opravný prostředek podala, …"
 
 ---
 
@@ -1128,6 +1138,11 @@ I když nepřiznán → soud **na návrh poškozeného** rozhodne o náhradě n�
 **Snížení** ze zvláštních důvodů — povaha TČ, poměry. **Nelze snížit u úmyslných TČ.**
 
 **Odst. 3 — bezplatný zmocněnec**: odsouzený nahradí státu **náklady zmocněnce s nárokem na bezplatnou pomoc**. Snížení u **nedbalostních TČ**.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1397/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1397-14_1) — nález, 19. 2. 2015
+  > „Právě z důvodu zvláštního postavení poškozeného je dle Ústavního soudu v ustanovení § 154 odst. 2 trestního řádu zakotvena zásada oprávněnosti náhrady poškozeným vynaložených nákladů, která může ustoupit do pozadí jen z důvodu existence výjimečných skutkových okolností. Z ústavněprávního hlediska jde o přímé naplnění ústavního imperativu ochrany majetku, resp. legitimního očekávání v jeho ochranu či náhradu …"
 
 ## § 154a — Zánik povinnosti
 <details>

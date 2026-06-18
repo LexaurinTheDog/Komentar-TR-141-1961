@@ -561,6 +561,11 @@ Pokud řízení proti uprchlému **skončilo PM odsuzujícím rozsudkem** + dův
 
 **Odst. 4 — *Zákaz reformationis in peius*** v novém řízení.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 669/03](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-669-03) — nález, 31. 3. 2004
+  > „Z výše uvedeného tedy vyplývá, že v trestním řádu nově zakotvené ustanovení upravující možnost uprchlého podat návrh na zrušení předchozího pravomocného rozhodnutí, které bylo učiněno v jeho nepřítomnosti, má funkci opravného prostředku sui generis, i když to zákon výslovně neuvádí. Nicméně vzhledem k zásadám spravedlivého procesu je nezbytné dát přednost interpretaci co nejvíce souladné s ústavním pořádkem republiky a pokud obecné soudy odmítly ve věci rozhodnout s poukazem na nemožnost použít analogii, formalisticky aplikovaly ustanovení trestního řádu, a omezily tak právo stěžovatele garantovaného čl. 36 odst. 1 Listiny"
+
 ---
 
 ## Oddíl 3 — Podmíněné zastavení trestního stíhání (§§ 307 – 308a)
@@ -745,6 +750,11 @@ Po doručení nálezu ÚS, kterým bylo zrušeno rozhodnutí OČTŘ:
 - **vázanost právním názorem ÚS**;
 - nařízené úkony.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 438/2019 - 164](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746300) — 22. 10. 2025
+  > „Přestože zákon č. 182/1993 Sb., o Ústavním soudu, ani ostatní procesní předpisy, výslovně nestanoví (s výjimkou § 314h odst. 1 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád)), že jsou soudy v následném řízení vázány právním názorem vysloveným Ústavním soudem ve zrušujícím rozhodnutí, tato skutečnost, vyplývající již z čl. 89 odst. 2 Ústavy, není, zejména pokud jde o precedenční účinky nálezů Ústavního soudu v totožné věci, jakkoli zpochybňována"
+
 ### § 314i — Pravidla po zrušení **jen ve prospěch obviněného**:
 - a) **suspenze promlčecí doby** od PM původního rozhodnutí do doručení nálezu;
 - b) **zákaz reformationis in peius**;
@@ -846,6 +856,11 @@ Předseda senátu **přezkoumá návrh**:
 **Odst. 4 — schválení**: **odsuzující rozsudek** s výrokem o schválení dohody + výrokem o vině a trestu **v souladu s dohodou**. Adheze podle dohody pokud poškozený souhlasí, jinak **§ 228 / § 229**.
 
 **Odst. 5 — okolnosti během VZ**: pokud vyjdou najevo důvody pro postoupení, zastavení, přerušení, podmíněné zastavení, narovnání → soud o nich rozhodne.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 168/2025 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747365) — 27. 11. 2025
+  > „Podle § 314r odst. 4 trestního řádu soud schvaluje dohodu o vině a trestu odsuzujícím rozsudkem. Tento rozsudek musí obsahovat výrok o vině a trestu, tedy náležitosti shodné s rozsudkem vydaným po hlavním líčení, a navíc také výrok o schválení dohody (§ 120 odst. 4 trestního řádu)"
 
 ### § 314s — Důsledky neschválení
 

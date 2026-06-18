@@ -49,6 +49,11 @@ V případech delegovaných prezidentem koná řízení a zamítá bezdůvodnou 
 
 Rozhoduje **soud, který rozhodl v I. stupni** (u VTOS soud místa výkonu). Stížnost s odkladným účinkem.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 820/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-820-14_1) — usnesení, 12. 8. 2014
+  > „z ustanovení § 368 zákona č. 141/1961 Sb., trestního řádu, ve znění pozdějších předpisů, je zřejmé, že rozhodnutím o amnestii soud pouze vyslovuje, zda a do jaké míry je osoba, jíž byl pravomocně uložen trest, účastna amnestie. Výrok o vině ani o trestu se takovým soudním rozhodnutím neruší"
+
 #### § 369 — Podmíněné udělení milosti
 
 Pokud byl trest prominut **pod podmínkami** → **dohled soudu I. stupně** + přiměřená aplikace § 329 (spolupráce se zájmovými sdruženími).

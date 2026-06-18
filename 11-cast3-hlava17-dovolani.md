@@ -346,6 +346,11 @@ Pokud má předseda senátu za to, že by měl být **odložen / přerušen výk
 
 ## §§ 265i – 265m — Rozhodnutí dovolacího soudu
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 407/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-407-13_1) — nález, 7. 10. 2013
+  > „Není vskutku smyslem, aby orgán provádějící řízení o opravném prostředku perfekcionalisticky přezkoumával veškerá možná a tvrzená pochybení, ale je naopak správné, aby se zaměřoval na pochybení nejzávažnější, jejichž přezkum by mohl vést k takovému výsledku, že by se situace obviněného ve věci podstatně změnila. […] posouzení, zda může být zásadně ovlivněno postavení obviněného, nelze zúžit, s ohledem na význam samotného výroku o tom, že spáchal určitý trestný čin, jen na problematiku jemu stanoveného trestu"
+
 ### § 265i — Odmítnutí dovolání (6 důvodů)
 <details>
 <summary>📜 <strong>Citace § 265i (úplné znění)</strong></summary>
@@ -396,6 +401,11 @@ Pokud má předseda senátu za to, že by měl být **odložen / přerušen výk
 **Odst. 4 — automatický přezkum trestu**: analogicky § 254 odst. 3 (odvolání).
 
 **Odst. 5**: U více osob — jen ta část týkající se osoby.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 407/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-407-13_1) — nález, 7. 10. 2013
+  > „Není vskutku smyslem, aby orgán provádějící řízení o opravném prostředku perfekcionalisticky přezkoumával veškerá možná a tvrzená pochybení, ale je naopak správné, aby se zaměřoval na pochybení nejzávažnější, jejichž přezkum by mohl vést k takovému výsledku, že by se situace obviněného ve věci podstatně změnila. […] posouzení, zda může být zásadně ovlivněno postavení obviněného, nelze zúžit, s ohledem na význam samotného výroku o tom, že spáchal určitý trestný čin, jen na problematiku jemu stanoveného trestu"
 
 ### § 265j — Zamítnutí pro nedůvodnost
 <details>

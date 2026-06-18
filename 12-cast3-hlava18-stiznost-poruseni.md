@@ -61,6 +61,11 @@ Pouze excesy, ne rutinní rozdíly v individualizaci trestu.
 
 **Odst. 7 — návrh na odklad výkonu**: pokud má ministr za to → návrh NS spolu s podáním SPZ **ve prospěch obviněného**.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3270/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3270-09_1) — usnesení, 4. 1. 2010
+  > „V ustanovení § 266 odst. 1 zákona č. 141/1961 Sb., trestního řádu, ve znění pozdějších předpisů, je stanoveno, že k podání stížnosti pro porušení zákona je oprávněn ministr (ministryně) spravedlnosti. Proto není možno považovat podnět ke stížnosti pro porušení zákona za opravný prostředek, který zákon k ochraně práva připouští"
+
 ---
 
 ## § 266a — Doplnění odůvodnění a společné řízení
@@ -120,6 +125,11 @@ NS přezkoumá **napadené výroky** v rozsahu a z důvodů SPZ + řízení pře
 **Odst. 4 — automatický přezkum trestu** při napadnutí viny (analogicky § 254 odst. 3).
 
 **Odst. 5**: U více osob — jen ta část.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 42/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-42-02_1) — nález, 26. 3. 2003
+  > „Pro demokratický právní stát, jímž Česká republika má být podle normativního příkazu plynoucího z čl. 1 odst. 1 Ústavy, je nepřijatelné, aby Nejvyšší soud vykládal § 267 odst. 3 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, tak, že přezkumem zákonnosti napadeného rozhodnutí se rozumí výklad aplikovaného "starého práva" v souladu s někdejší dobovou judikaturou. Ze stejného důvodu také není možné, aby při úvahách o tom, zda stížností pro porušení zákona napadené původní rozhodnutí je zákonné, nebral v úvahu a nevážil základní práva a principy českého ústavního pořádku, do nichž bylo napadeným rozhodnutím zasaženo"
 
 ---
 

@@ -651,6 +651,11 @@ Po návratu **obžalovaný seznámen** s obsahem výpovědi + může klást otá
 
 **Odst. 2**: U utajeného svědka v HL soud **i bez návrhu** ověří jeho věrohodnost.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 4/94](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-94) — nález, 12. 10. 1994
+  > „Smyslem práva na veřejné projednání věci, ve spojení s právem vyjádřit se ke všem prováděným důkazům, je poskytnout obžalovanému v trestním procesu možnost verifikace důkazů, směřujících vůči němu, a to před tváří veřejnosti. Tato verifikace v případě svědecké výpovědi obsahuje dva komponenty: prvním je prověření pravdivosti skutkových tvrzení, druhým je potom možnost prověření věrohodnosti svědka. Instituce anonymních svědků tudíž omezuje možnost obžalovaného verifikovat pravdivost vůči němu směřující svědecké výpovědi, protože vylučuje možnost vyjádřit se k osobě svědka a k jeho věrohodnosti"
+
 ### § 210 — Znalecký posudek v HL
 
 Znalec, který písemně neopožil → **diktování posudku** do protokolu nebo **psaní samotného**.
@@ -701,6 +706,11 @@ Lze číst, pokud:
 > *Protokol o výpovědi, který byl předestřen, nemůže být podkladem výroku o vině obviněného, a to ani ve spojení s jinými ve věci provedenými důkazy.*
 
 **Klíčové**: protokol není důkazem viny — **slouží jen k posouzení věrohodnosti** výpovědi v HL.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 44/03](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-44-03) — nález, 5. 4. 2005
+  > „Existence napadeného ustanovení je … projevem jedné ze základních zásad trestního řízení souvisejících se samotným účelem trestního řízení v demokratickém právním státě … Smyslem zkoumaného institutu je proto umožnit co nejvíce se přiblížit stavu věci z hlediska reality, tedy tomu, „co se skutečně stalo“ … Podstatné je, že předestřený protokol nemůže být sám o sobě (a to ani ve spojení s jinými důkazy) podkladem výroku o vině obviněného, a není tedy procesně použitelným důkazem; je totiž určen jen k posouzení věrohodnosti výpovědi svědka nebo spoluobviněného uskutečněné však nyní v hlavním líčení, již za řádné účasti obhajoby"
 
 ### § 212a — VIS prohlášení v HL
 
@@ -852,6 +862,11 @@ Soud rozhodne i v HL, pokud okolnosti **§ 307 / § 309**. Stížnost SZ + obža
 
 **Odst. 5 — předložení ÚS**: pokud má za to, že zákon **v rozporu s ústavním pořádkem** → předložení ÚS (čl. 95 odst. 2 Ústavy).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 5/2000](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-2000_1) — nález, 20. 2. 2001
+  > „Za těchto okolností bylo povinností obvodního soudu postupovat podle § 224 odst. 5 zákona č. 141/1961 Sb., o trestním řízení soudním, ve znění pozdějších předpisů, … trestní stíhání přerušit a věc předložit Ústavnímu soudu, neboť sám soud měl dojít k závěru, že použití uvedeného ustanovení trestního zákona, které je rozhodné pro rozhodování o vině a trestu, je v rozporu s …"
+
 ### § 225 — Rozsudek
 
 **Odst. 1**: Pokud věc není vrácena / postoupena / zastavena / přerušena → **rozsudek**:
@@ -903,7 +918,7 @@ Pokud odsouzení za TČ s **majetkovou škodou / nemajetkovou újmou / bezdůvod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 1689/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40300D82C7FB142EC125816B0031394C?openDocument) — 25. 5. 2017, kat. A
+- *NS* [25 Cdo 1689/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40300D82C7FB142EC125816B0031394C?openDocument) — kat. A, 25. 5. 2017
   > „Jestliže soud v trestním (adhezním) řízení nepřizná zcela uplatněný nárok na náhradu škody z jakéhokoliv důvodu, například s poukazem na spoluzavinění poškozeného, a se zbytkem nároku odkáže poškozeného (pozůstalé uplatňující nárok na odškodnění za usmrcení osoby blízké) na řízení ve věcech občanskoprávních, nejde v tomto rozsahu o věc pravomocně rozsouzenou a lze ji v občanskoprávním řízení znovu projednat, aniž by soud v občanskoprávním řízení byl vázán závěrem trestního soudu o spoluzavinění poškozeného"
 
 ### § 230 — Ochranné opatření

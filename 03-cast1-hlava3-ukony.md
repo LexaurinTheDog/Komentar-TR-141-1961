@@ -606,6 +606,11 @@ Lhůta je zachována, jestliže podání bylo ve lhůtě:
 
 **Odst. 3**: Přiměřená aplikace, ukáže-li se, že lhůta **vůbec nebyla zmeškána** (omyl orgánu při výpočtu).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 509/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-509-05) — usnesení, 5. 4. 2006
+  > „Jedná se v něm o taxativní výčet okruhu osob, jimž lze povolit navrácení lhůty a doslovným výkladem nelze dospět k jinému závěru, než že tento institut je poskytnut ex lege výlučně osobě obviněné nebo jeho obhájci. Aplikace doslovného výkladu není ani v rozporu se smyslem a účelem daného ustanovení, který spočívá ve vyrovnání faktické nevýhody postavení obviněného v trestním řízení. … zákon dává některá oprávnění výlučně obviněnému, tzv. výhoda pro obhajobu, které ostatní procesní strany nemají. Jako typický příklad lze pak uvést právě institut navrácení lhůty v trestním řádu"
+
 ---
 
 ## Oddíl 5 — Doručování (§ 62 – § 64a)
@@ -750,6 +755,13 @@ Při nahlížení **opatření k zachování tajnosti** utajovaných informací 
 
 Při nahlížení **se nezpřístupní údaje** o adrese, místě výkonu zaměstnání atd. poškozeného/svědka. U **obviněného žádajícího o sdělení** se postupuje **obdobně** podle § 55 odst. 1 písm. c) — vyvažování práva na obhajobu vs. ochrana svědka.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1956/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1956-13_1) — nález, 6. 3. 2014
+  > „Nahlížení do spisu je právním institutem trestního řízení, který se obecně může dotýkat celé řady aspektů právního postavení osoby, které se mohou údaje ve spise uvedené týkat (ochrana osobnosti, osobních údajů, právo na informace shromažďované veřejnou mocí, právo na soudní a jinou právní ochranu, právo na obhajobu). Současně je neoddělitelným prvkem trestního řízení v podmínkách právního státu z hlediska obecných požadavků transparentnosti, veřejnosti a možností hájit svá práva před zásahy do právního postavení"
+- *ÚS* [III.ÚS 1616/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1616-14_1) — usnesení, 26. 6. 2014
+  > „Možnost státního zástupce odepřít "jiným osobám" ve smyslu ustanovení § 65 odst. 1 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), … právo nahlédnout do spisu, nelze vykládat jako ničím neomezenou diskreční pravomoc. Pro její realizaci musí existovat vždy legitimní důvod spravedlivě vyvažující znemožnění snahy těchto osob o prosazení jejich legitimních zájmů, spočívajících např. v obraně proti křivému obvinění či vymožení občanskoprávního nároku souvisejícího s předmětem řízení"
+
 ---
 
 ## Oddíl 7 — Pořádková pokuta (§ 66)
@@ -793,6 +805,11 @@ Kárný orgán **vyrozumí OČTŘ** o výsledku.
 - vynucení účasti svědka (nesvolný svědek bez omluvy + neuposlechnutí předvolání);
 - vynucení součinnosti banky / PO při § 7a, § 7b, § 8;
 - vynucení **prohlášení o majetku** (§ 7a).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [54 Af 4/2019 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/659152) — 30. 4. 2021
+  > „Postupem podle § 66 odst. 1 trestního řádu, tedy uložením pořádkové pokuty, nelze vynucovat na osobě podezřelé či obviněné součinnost při opatřování důkazů proti ní samé, a tedy nutit ji k sebeobviňování v trestním řízení"
 
 ---
 

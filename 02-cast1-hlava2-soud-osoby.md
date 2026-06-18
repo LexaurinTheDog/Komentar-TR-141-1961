@@ -234,6 +234,11 @@ Klasické případy: **příbuzenství** s obviněným / poškozeným, **přáte
 - z přezkumu vyloučen soudce z předchozího řízení;
 - soudce z přezkumu vyloučen z dalšího řízení.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1619/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1619-15_1) — usnesení, 22. 10. 2015
+  > „Podstata stěžovatelovy argumentace míjí ustálený výklad ustanovení § 30 trestního řádu, když požaduje vyloučení rozhodujícího soudce či soudců toliko na základě uplatnění jejich právního názoru. I kdyby snad soudci pochybili způsobem, který popisuje ústavní stížnost, není to důvodem pro jejich vyloučení z dané trestní věci, nýbrž nanejvýš pro zásah soudů vyšších stupňů vůči jejich postupu či rozhodnutím"
+
 ### § 31 — Rozhodování o vyloučení
 
 **Odst. 1**: Rozhoduje **sám OČTŘ**, jehož se důvod týká, i bez návrhu. U senátu rozhoduje senát; u soudce NS rozhoduje **jiný senát NS**.
@@ -309,6 +314,11 @@ Transpozice **směrnice 2012/13/EU** o právu na informace. Letter of rights má
 - právo informovat třetí osobu / konzulární úřad,
 - právo na tlumočníka a překlad,
 - maximální lhůta zbavení svobody.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 7/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-09_1) — nález, 4. 5. 2010
+  > „Ústavně zaručené právo na obhajobu spolu s presumpcí neviny (čl. 40 odst. 2 Listiny) jsou základními podmínkami spravedlivého trestního procesu, a tyto ústavní záruky se promítají i do trestního řádu, který je ve shodě s Ústavou budován na zásadě priority volby obhájce (§ 33 odst. 1, § 37 odst. 2 trestního řádu), kterou je obviněný oprávněn uplatnit v kterémkoli stadiu neskončeného řízení (§ 37 odst. 2 trestního řádu). Pokud by pak byly v trestním řízení provedeny důkazy, se kterými by nebyli obhájce a obviněný seznámeni, nemohlo by k nim být pro porušení fair procesu přihlíženo"
 
 ### § 34 — Opatrovník obviněného
 
@@ -419,8 +429,10 @@ Pokud je dolní/horní hranice trestu odnětí svobody přesahuje **5 let**, mus
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — 24. 4. 2013, kat. A
+- *NS* [30 Cdo 2396/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91CD2883C611EAA0C1257B6A0029511D?openDocument) — kat. A, 24. 4. 2013
   > „Osoby oprávněné zvolit obviněnému obhájce (§ 37 odst. 1 tr. ř.) nejsou účastníky trestního řízení samy o sobě, ale stávají se jimi až v okamžiku, kdy toto právo využijí. Vznikne-li jim v souvislosti s tím škoda nebo nemajetková újma, za niž odpovídá stát, je třeba je považovat za účastníky řízení ve smyslu § 7 odst. 1 zákona č. 82/1998 Sb. k náhradě takové škody nebo nemajetkové újmy aktivně legitimované"
+- *ÚS* [Pl.ÚS 7/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-09_1) — nález, 4. 5. 2010
+  > „Ústavně zaručené právo na obhajobu spolu s presumpcí neviny (čl. 40 odst. 2 Listiny) jsou základními podmínkami spravedlivého trestního procesu, a tyto ústavní záruky se promítají i do trestního řádu, který je ve shodě s Ústavou budován na zásadě priority volby obhájce (§ 33 odst. 1, § 37 odst. 2 trestního řádu), kterou je obviněný oprávněn uplatnit v kterémkoli stadiu neskončeného řízení (§ 37 odst. 2 trestního řádu)"
 
 ### § 37a — Vyloučení obhájce z obhajoby
 
@@ -455,11 +467,21 @@ V Praze: sídlo advokáta = hlavní město Praha (pro všechny obvodní soudy).
 
 **Odst. 5 — spojení věcí**: Pokud byly věci spojeny a obviněnému byli ustanoveni různí obhájci, **zruší se ustanovení později ustanovených**. Pokud byli ustanoveni současně, zruší se ti v méně závažných věcech.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 129/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-129-09_1) — usnesení, 17. 2. 2009
+  > „Zápisem do seznamu advokátů, podle § 39 odst. 3 zákona č. 141/1961 Sb., o trestním řízení soudním, ve znění pozdějších předpisů, dává advokát najevo, že souhlasí s podmínkami výkonu této činnosti, včetně podmínek finančního ohodnocení. Nevýhoda ve formě nižšího finančního ohodnocení je dostatečně kompenzována výhodou ve formě pravidelného přísunu práce a jistoty zaplacené odměny"
+
 #### § 40 — Povinnost převzít obhajobu
 
 > *Ustanovený obhájce je povinen obhajobu převzít.*
 
 Ze závažných důvodů lze obhájce **zprostit** povinnosti na jeho žádost nebo na žádost obviněného a ustanovit jiného. Důležité důvody: vzájemný konflikt s klientem (ne každá nespokojenost), zdravotní důvody, dlouhodobá nemoc, profesní zatížení.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 2596/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2596-11_1) — usnesení, 10. 4. 2012
+  > „Je možno ustanoveného obhájce na jeho žádost nebo na žádost obviněného zprostit povinnosti obhajování a místo něj ustanovit jiného obhájce jen z důležitých důvodů (§ 40 zákona č. 141/1961 Sb., o trestním řízení soudním, ve znění pozdějších předpisů). Je na posouzení předsedy senátu, zda jsou ve věci dány důvody k tomu, aby byl ustanovený obhájce povinnosti obhajování zproštěn. Sdělení obviněného může být pouze podnětem k jeho rozhodnutí a ve vztahu k ustanovenému obhájci nemá samo o sobě žádné…"
 
 #### § 40a — Zproštění ustanoveného obhájce
 
@@ -494,6 +516,11 @@ Zaniká při skončení trestního stíhání. **Výjimečně i poté:**
 **Odst. 6 — právo na kopie protokolu:**
 Obhájce má právo si **předem** vyžádat kopii / průpis protokolu o každém úkonu. OČTŘ jsou **povinny vyhovět** (odmítnutí jen z technických důvodů). **Náklady hradí obhájce vůči státu.**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 410/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-410-04) — usnesení, 10. 10. 2004
+  > „Na druhé straně z práva svobodné volby obhájce a jisté autonomnosti jeho postavení v řízení ovšem současně vyplývá obhájcova povinnost nejen podřídit výkon obhajoby podmínkám zákona (§ 41 zákona č. 141/1961 Sb., o trestním řízení soudním, ve znění pozdějších předpisů, § 16 zák. č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů), ale současně též jeho povinnost dbát při poskytování právní pomoci etických pravidel svého povolání. Žádný procesní předpis nestanoví povinnost orgánů činných v trestním řízení přizpůsobovat režim řízení a jeho průběh představám a požadavkům obhájce"
+
 ---
 
 ## Oddíl 6 — Zúčastněná osoba (§ 42)
@@ -522,6 +549,11 @@ Pokud ZÚ nemá plnou svéprávnost. Pokud je nebezpečí z prodlení, neprodlen
 > *Byla-li zabrána nebo má-li podle návrhu být zabrána věc, která je součástí majetku ve svěřenském fondu nebo v obdobném zařízení anebo v podílovém fondu, má v trestním řízení postavení zúčastněné osoby svěřenský správce, správce zařízení obdobného svěřenskému fondu nebo obhospodařovatel podílového fondu.*
 
 **Klíč pro recovery výnosů z TČ skrytých v korporátních a svěřenských strukturách** — provázáno s § 102 a § 102a TZ.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 191/2021 - 92](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/676015) — 17. 12. 2021
+  > „Přiznání postavení zúčastněné osoby v trestním řízení podle § 42 zákona č. 141/1961 Sb. o trestním řízení soudním (trestní řád), se dotýká osob, jejichž věc či jiná majetková hodnota byla nebo má být zabrána. Ústavní soud dovodil, že zástavní věřitel může být v důsledku nepřipuštění do řízení jako zúčastněná osoba dotčen na vlastnickém právu ve smyslu čl. 1 Dodatkového protokolu č. 1 k Úmluvě"
 
 ---
 
@@ -575,8 +607,10 @@ Poškozený se může výslovným prohlášením OČTŘ **vzdát procesních pr�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 2826/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/74987C9D1750FD6CC1258264004760B4?openDocument) — 23. 1. 2018, kat. A
-  > „I. Odkázal-li soud v trestním řízení žalobkyni s nárokem na náhradu škody (samostatným výrokem) na řízení ve věcech občanskoprávních (§ 229 odst. 1 trestního řádu), je třeba v občanském soudním řízení (ve smyslu § 135 odst. 2 věty druhé o. s. ř.) vycházet z toho, že žalobkyně v souladu s § 43 odst. 3 trestního řádu řádně navrhla, aby trestní soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit škodu. II. Jsou-li negativní dopady napadeného rozhodnutí do poměrů účastníka řízení (dovolatele) odstraněny tím, že dovolací soud (bez zbytečného odkladu) napadené rozhodnutí zruší, stává se návrh na odklad vykonatelnosti rozhodnutí bezpředmětným (obsoletním)"
+- *NS* [27 Cdo 2826/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/74987C9D1750FD6CC1258264004760B4?openDocument) — kat. A, 23. 1. 2018
+  > „Odkázal-li soud v trestním řízení žalobkyni s nárokem na náhradu škody (samostatným výrokem) na řízení ve věcech občanskoprávních (§ 229 odst. 1 trestního řádu), je třeba v občanském soudním řízení (ve smyslu § 135 odst. 2 věty druhé o. s. ř.) vycházet z toho, že žalobkyně v souladu s § 43 odst. 3 trestního řádu řádně navrhla, aby trestní soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit škodu. …"
+- *ÚS* [I.ÚS 105/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-105-07_1) — usnesení, 24. 5. 2007
+  > „Poškozeným v trestním řízení je ten, kdo byl poškozen trestným činem, nikoliv snad ten, koho „poškozuje“ vedení trestního řízení a s tím spojené úkony (srovnej § 43 zákona č. 141/1961 Sb. o trestním řízení soudním)"
 
 ### § 44 — Omezení a společný zmocněnec
 
@@ -590,6 +624,11 @@ Pokud se počet zmocněnců dostane **přes 6** a poškození se nedohodnou, **p
 
 **Odst. 3 — *res iudicata* z občanského řízení:**
 Návrh na adhezní řízení **nelze podat**, pokud o nároku **již rozhodl civilní soud** nebo jiný příslušný orgán — *electa una via, non datur recursus ad alteram*.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 6/2000](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-6-2000_1) — nález, 31. 1. 2001
+  > „Rozdílnost postavení poškozeného v řízení před uvedenými soudy — v tomto směru — nepovažuje Ústavní soud za odůvodněnou a smysluplnou, neboť stejně jako v řízení před krajským soudem může také v řízení před soudem okresním dojít např. k tomu, že se v něm projednávají otázky státního tajemství, jedná se o závažnou, složitou a rozsáhlou trestní věc, kde rozhodování o náhradě škody může přesahovat rámec účelu trestního stíhání nebo kde soud může mít potíže s doručováním s ohledem na velký počet poškozených…"
 
 ### § 45 — Zákonný zástupce / opatrovník / právní nástupce
 
@@ -654,8 +693,8 @@ S majetkem lze v rámci **výkonu rozhodnutí, dražby, exekuce, insolvenčního
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 14/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F06294B947D7DB5C125822F002AD3A6?openDocument) — 30. 11. 2017, kat. A
-  > „Podle ustanovení § 173 odst. 1 věty třetí insolvenčního zákona ve znění účinném od 1. srpna 2013 může věřitel přihlásit vykonatelnou pohledávku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem po uplynutí propadné přihlašovací lhůty určené rozhodnutím o úpadku dlužníka jen tehdy, jestliže zajištění majetku náležejícího do majetkové podstaty dlužníka provedené v trestním řízení vzniklo podle trestního řádu nejdříve v době od 1. srpna 2013 to platí bez zřetele k tomu, zda insolvenční řízení bylo zahájeno před nebo po uvedeném datu"
+- *NS* [29 NSCR 14/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F06294B947D7DB5C125822F002AD3A6?openDocument) — kat. A, 30. 11. 2017
+  > „Podle ustanovení § 173 odst. 1 věty třetí insolvenčního zákona ve znění účinném od 1. srpna 2013 může věřitel přihlásit vykonatelnou pohledávku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem po uplynutí propadné přihlašovací lhůty určené rozhodnutím o úpadku dlužníka jen tehdy, jestliže zajištění majetku náležejícího do majetkové podstaty dlužníka provedené v trestním řízení vzniklo podle trestního řádu nejdříve v době od 1. srpna 2013; to platí bez zřetele k tomu, zda insolvenční řízení bylo zahájeno před nebo po uvedeném datu"
 
 ### § 47a — Náhrada zajištění peněžitou jistotou
 

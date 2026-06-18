@@ -37,6 +37,11 @@ Národní shromáždění Československé socialistické republiky se usneslo n
 
 #### § 1
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 A 43/2017 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/445654) — 28. 11. 2018
+  > „Účelem trestního řízení je podle § 1 odst. 1 zákona č. 141/1961 Sb., trestní řád (dále jen „trestní řád“), stanoveným postupem zjistit, zda se stal skutek, který naplňuje znaky trestného činu"
+
 ##### Účel zákona
 
 (1) Účelem trestního řádu je upravit postup orgánů činných v trestním řízení tak, aby trestné činy byly náležitě zjištěny a jejich pachatelé podle zákona spravedlivě potrestáni. Řízení přitom musí působit k upevňování zákonnosti, k předcházení a zamezování trestné činnosti, k výchově občanů v duchu důsledného zachovávání zákonů a pravidel občanského soužití i čestného plnění povinností ke státu a společnosti.
@@ -206,6 +211,11 @@ Nikdo nesmí bez souhlasu osoby, které se takové informace týkají, zveřejni
 (3) Informace, na které se vztahuje zákaz zveřejnění podle § 8a až 8c, lze také zveřejnit, pokud osoba, jíž se zákaz zveřejnění týká, zemřela nebo byla prohlášena za mrtvou a není-li žádné osoby oprávněné udělit souhlas se zveřejněním podle odstavce 2.
 
 #### § 9
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 413/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-413-04) — nález, 3. 3. 2005
+  > „Rozhodnutí v tomto směru přitom lze učinit pouze v řízení občanskoprávním, a z povahy věci je vyloučeno, aby bylo o této věci rozhodnuto orgány činnými v trestním řízení jako o předběžné otázce podle § 9 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů"
 
 ##### Posuzování předběžných otázek
 
@@ -4869,6 +4879,11 @@ Prospívá-li důvod, z něhož rozhodl odvolací soud ve prospěch některého 
 
 Rozhodne-li odvolací soud, že se věc vrací k novému projednání a rozhodnutí soudu prvního stupně, může zároveň nařídit, aby byla projednána a rozhodnuta v jiném složení senátu nebo jiným samosoudcem. Z důležitého důvodu může také nařídit, aby ji projednal a rozhodl jiný soud téhož druhu a téhož stupně v jeho obvodě.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 3780/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3780-13_1) — nález, 11. 11. 2014
+  > „Při rozhodování, zda má být postupováno podle § 262 trestního řádu, musí být brán zřetel na to, že institut zákonného soudce je důležitým prvkem právní jistoty, jejíž prolomení je nutno chápat jako postup nestandardní a zcela výjimečný, ale v odůvodněných případech dovolený […]. Aplikace ustanovení § 262 trestního řádu musí být zdůvodněna vysokou pravděpodobností, že v případě ponechání věci současnému soudci tento soudce nebude schopen ukončit řízení způsobem, jenž by mohl odvolací soud aprobovat […]"
+
 #### § 263
 
 ##### Řízení u odvolacího soudu
@@ -4910,6 +4925,11 @@ Zruší-li odvolací soud napadený rozsudek toliko ve výroku o náhradě škod
 #### DOVOLÁNÍ
 
 #### § 265a
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3403/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3403-14_1) — usnesení, 13. 11. 2014
+  > „Dovolání představuje mimořádný opravný prostředek, který je zásadně přípustný toliko proti rozhodnutí ve věci samé [srov. ustanovení § 265a odst. 1 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů]. Takové omezení nepovažuje Ústavní soud za protiústavní, neboť je věcí zákonodárce, jakým způsobem vymezí podmínky přípustnosti mimořádných opravných prostředků"
 
 ##### Přípustnost dovolání
 
@@ -5165,6 +5185,11 @@ Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prost
 
 (7) Dospěje-li ministr spravedlnosti na podkladě obsahu spisu k závěru, že by měl být odložen nebo přerušen výkon rozhodnutí anebo by mělo být pozastaveno nakládání s věcmi, které propadly nebo byly zabrány na základě takového rozhodnutí, navrhne Nejvyššímu soudu takový postup spolu s podáním stížnosti pro porušení zákona ve prospěch obviněného.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3270/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3270-09_1) — usnesení, 4. 1. 2010
+  > „V ustanovení § 266 odst. 1 zákona č. 141/1961 Sb., trestního řádu, ve znění pozdějších předpisů, je stanoveno, že k podání stížnosti pro porušení zákona je oprávněn ministr (ministryně) spravedlnosti. Proto není možno považovat podnět ke stížnosti pro porušení zákona za opravný prostředek, který zákon k ochraně práva připouští"
+
 #### § 266a
 
 (1) Podanou stížnost pro porušení zákona, která nebyla odůvodněna, je ministr spravedlnosti povinen odůvodnit do 14 dnů od jejího podání.
@@ -5271,6 +5296,11 @@ Je-li pro rozhodnutí o stížnosti pro porušení zákona třeba objasnit něja
 
 #### § 277
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [73 A 22/2022 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715829) — 2. 10. 2023
+  > „Soud však konstatuje, že podle § 277 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), je obnova řízení přípustná pouze proti vyjmenovaným pravomocným rozhodnutím, jimiž se řízení končí. Tvrzení žalobce se tak vylučuje se samotnou povahou obnovy řízení jako mimořádného opravného prostředku"
+
 ##### Obecné ustanovení
 
 Skončilo-li trestní stíhání vedené proti určité osobě pravomocným rozsudkem, pravomocným trestním příkazem, pravomocným usnesením o zastavení trestního stíhání, pravomocným usnesením o podmíněném zastavení trestního stíhání, pravomocným usnesením o schválení narovnání nebo pravomocným usnesením o postoupení věci jinému orgánu, lze v trestním stíhání téže osoby pro týž skutek pokračovat, pokud nebylo takové rozhodnutí zrušeno v jiném předepsaném řízení, jen byla-li povolena obnova trestního řízení. Před povolením obnovy lze k zajištění důkazního materiálu a k zajištění osoby obviněného provádět vyšetřovací úkony jen v mezích ustanovení této hlavy.
@@ -5288,6 +5318,11 @@ Skončilo-li trestní stíhání vedené proti určité osobě pravomocným rozs
 (4) Obnova řízení, které skončilo některým ze způsobů uvedených v předchozích odstavcích, se povolí též tehdy, bude-li pravomocným rozsudkem zjištěno, že policejní orgán, státní zástupce nebo soudce v původním řízení porušil svoje povinnosti jednáním zakládajícím trestný čin.
 
 (5) Obnova řízení, které skončilo odsuzujícím rozsudkem nebo trestním příkazem, jímž byl uznán vinným spolupracující obviněný, se v neprospěch obviněného povolí též tehdy, pokud spolupracující obviněný v dalším řízení proti osobám, jimž je kladen za vinu zločin, který se spolupracující obviněný zavázal objasnit, poruší svůj závazek podle § 178a odst. 1.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 2731/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2731-14_1) — nález, 13. 10. 2015
+  > „I v řízení o povolení obnovy řízení je třeba ctít princip in dubio pro reo a soudce rozhodující o povolení obnovy řízení by měl k posouzení věci přistupovat nepředpojatě, tj. být zásadně otevřený tomu, že předložený důkaz může dosavadní rozhodnutí o vině zvrátit"
 
 #### § 279
 
