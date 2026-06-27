@@ -36,6 +36,42 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 
 § 1 sám o sobě **není přímo aplikovaný**, slouží jako **interpretační vodítko**: při pochybnostech o výkladu jiných ustanovení se přihlíží k tomu, zda interpretace naplňuje cíl spravedlivého zjištění a potrestání **při respektování ústavně zaručených práv**.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Obhájce v dovolání namítá, že trest uložený jeho klientovi neslouží „výchově občanů v duchu zachovávání zákonů" (§ 1 odst. 1 věta druhá), nýbrž jen pomstě poškozeného. Současně státní zástupce v jiné věci argumentuje, že povinnost občana „pomáhat k dosažení účelu trestního řízení" (odst. 2) zakládá vynutitelnou povinnost svědka-novináře vyzradit svůj zdroj. Důkazy: spisový materiál, znění poučení svědka, případně osvědčení o novinářské činnosti.
+
+**2. Právní otázka.** Lze z účelového § 1 dovodit samostatnou hmotně- či procesněprávní povinnost (nebo její mez), nebo jde výlučně o interpretační vodítko bez přímé normativní síly?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 — dvojaký účel (represe + prevence) a deklarace součinnostní povinnosti občanů.
+- *Související ustanovení téhož zákona:* § 2 (zásady, jimiž se účel naplňuje), § 8 (součinnost), § 99–100 (zákaz a odepření výslechu), § 367–368 TZ (oznamovací/překažovací povinnosti).
+- *Související předpisy:* čl. 1 a čl. 90 Ústavy (právní stát, ochrana práv soudy), čl. 17 LZPS (svoboda projevu a ochrana zdroje).
+- *Judikatura:* nosný závěr ÚS — účelová a programová ustanovení nelze vykládat tak, aby zakládala zásah do základních práv nad rámec konkrétní zákonné úpravy; „výchova" se čte jako generální prevence.
+
+**4. Subsumpce.** § 1 sám nezakládá konkrétní oprávnění ani povinnost; je rámcem pro výklad. Povinnost svědčit i její meze plynou z konkrétních ustanovení (§ 97 a násl.), nikoli z odst. 2. Argument o „pomstě" je proti samotné struktuře § 1, který výslovně zahrnuje i represi (spravedlivé potrestání).
+
+**5. Řešení.** Soud námitku obhajoby odmítne jako nepřípadnou — § 1 není přímo aplikovatelné, slouží jen jako výkladová pomůcka; výchovný účinek trestu je legitimním cílem. Povinnost novináře vyzradit zdroj nelze opřít o odst. 2 — meze součinnosti stanoví zvláštní ustanovení a ústavní ochrana zdroje.
+
+**6. Varianty.** (a) Kdyby šlo o výklad sporného ustanovení dvojího významu, lze § 1 použít jako argument pro tu interpretaci, která lépe naplňuje spravedlivé zjištění při respektu k právům. (b) Kdyby občan odmítl podat svědectví bez zákonného důvodu, sankce neplyne z § 1, ale z § 66 (pořádková pokuta).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „výchovná funkce ospravedlňuje exemplární trest":* nelze — § 1 nesmí převážit nad zásadou přiměřenosti trestu (§ 38–39 TZ); neutralizace odkazem na ústavní zákaz nepřiměřených sankcí.
+- *Protiargument „odst. 2 zakládá vynutitelnou povinnost":* meze tvoří právo nevypovídat a zákonem chráněná mlčenlivost; odst. 2 sám sankci nezakládá.
+- *Slabé místo:* reziduální socialistická dikce — vždy nutno argumentovat ústavně konformním výkladem ve světle čl. 1 Ústavy.
+
+### H. Praktický závěr
+
+§ 1 používejte jako interpretační vodítko při pochybnostech o výkladu jiných ustanovení, nikdy jako samostatný právní důvod rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Slouží § 1 v podání jako výkladová opora, nebo (chybně) jako samostatný normativní základ?
+- [ ] Je výklad ústavně konformní (čl. 1, 90 Ústavy)?
+- [ ] Respektuje navržené řešení obě složky účelu — represivní i preventivní?
+- [ ] Není „výchovný" účinek zneužit k nepřiměřené represi?
+
+**Typicky rozhodné důkazy / podklady:** trestní spis, protokol o poučení, znění napadeného rozhodnutí s odůvodněním účelu trestu.
+
 ---
 
 ## § 2 — Základní zásady trestního řízení (16 odstavců)
@@ -90,6 +126,44 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+### F. Kazuistika
+
+**1. Modelová situace.** Krajský soud v rozsudku odůvodní vinu odkazem na „celkový dojem z osobnosti obžalovaného" a na jediný nepřímý důkaz, aniž vypořádá rovnocennou alternativní verzi nabízenou obhajobou. Obžalovaný se brání, že byla porušena soustava základních zásad. Důkazy: protokol o hlavním líčení, odůvodnění rozsudku, důkazní návrhy obhajoby.
+
+**2. Právní otázka.** Které z šestnácti zásad § 2 byly porušeny a zakládá jejich porušení důvod pro zrušení rozsudku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 jako celek — interpretační páteř (zákonnost, presumpce neviny, materiální pravda, volné hodnocení, in dubio pro reo).
+- *Související ustanovení téhož zákona:* § 125 (odůvodnění rozsudku), § 258 (důvody zrušení odvolacím soudem), § 263 odst. 7.
+- *Související předpisy:* čl. 8, 36, 40 LZPS, čl. 6 EÚLP.
+- *Judikatura:* ÚS II.ÚS 658/14 a I.ÚS 1095/15 (citované zde) — při více rovnocenných verzích a volbě verze v neprospěch obviněného dochází k porušení in dubio pro reo a presumpce neviny.
+
+**4. Subsumpce.** Porušen § 2 odst. 5 (neúplné objasnění a nevypořádání verze ve prospěch), odst. 6 (hodnocení nerespektuje logiku a úplnost), ve spojení s odst. 2 (in dubio pro reo). Odůvodnění „celkovým dojmem" není pečlivým uvážením všech okolností.
+
+**5. Řešení.** Odvolací soud rozsudek zruší podle § 258 odst. 1 písm. b), c) pro vady odůvodnění a neúplnost dokazování; věc vrátí k novému projednání s pokynem vypořádat alternativní verzi. Pravděpodobný výsledek: kasace.
+
+**6. Varianty.** (a) Pokud by soud alternativní verzi přesvědčivě a logicky vyvrátil provedenými důkazy, rozsudek obstojí. (b) Pokud by šlo o jediný přímý usvědčující důkaz nezpochybněný obhajobou, in dubio pro reo se neuplatní.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „volné hodnocení dává soudci širokou diskreci":* diskrece není libovůle — je vázána logikou, úplností a odůvodněním; neutralizace odkazem na test ÚS (závěr nevzbuzující rozumné pochybnosti).
+- *Protiargument „zásady jsou jen proklamace":* § 2 je přímo přezkoumatelný a jeho porušení je kasačním důvodem.
+- *Slabé místo:* hranice mezi „rovnocennými verzemi" a „verzí účelově konstruovanou obhajobou" je hodnotící; nutné pečlivé skutkové podložení.
+
+### H. Praktický závěr
+
+§ 2 čtěte jako kontrolní seznam zásad, jejichž porušení zakládá vady řízení; v opravných prostředcích konkrétně označte dotčený odstavec.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je každý usvědčující závěr opřen o provedené důkazy (odst. 6) a řádně odůvodněn (§ 125)?
+- [ ] Byla vypořádána verze svědčící ve prospěch obviněného (odst. 5)?
+- [ ] Nese důkazní břemeno stát (odst. 5 in fine)?
+- [ ] Při pochybnostech rozhodnuto ve prospěch obviněného (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o hlavním líčení, odůvodnění rozsudku, seznam provedených i zamítnutých důkazních návrhů.
+
+---
 
 ### § 2 odst. 1 — Zásada zákonnosti
 <details>
@@ -151,6 +225,44 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Policejní orgán provede domovní prohlídku bez příkazu soudce s odůvodněním „neodkladnosti", aniž ji řádně zdůvodní v protokolu; při ní zajistí zbraň, která je hlavním usvědčujícím důkazem. Obhajoba namítá nezákonnost a neúčinnost důkazu. Důkazy: protokol o prohlídce, absence/obsah příkazu, časová osa úkonů.
+
+**2. Právní otázka.** Jde o podstatnou procesní vadu vedoucí k neúčinnosti důkazu (zbraně), a vztahuje se neúčinnost i na navazující důkazy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 — materiální i procesní zákonnost (stíhání jen ze zákonných důvodů a zákonným způsobem).
+- *Související ustanovení téhož zákona:* § 83a, § 83c (příkaz a neodkladnost prohlídky), § 89 odst. 3 (neúčinnost nezákonných důkazů), § 160 odst. 4 (neodkladné úkony).
+- *Související předpisy:* čl. 8 odst. 2, čl. 12 LZPS (nedotknutelnost obydlí).
+- *Judikatura:* nosný závěr ÚS — vady podstatné vedou k vyloučení důkazu; doktrína „plodů otráveného stromu" se v ČR uplatňuje mírněji (zpravidla jen přímo dotčený důkaz).
+
+**4. Subsumpce.** Chybí-li řádné odůvodnění neodkladnosti, je prohlídka v rozporu s § 2 odst. 1 (procesní zákonnost) a čl. 12 LZPS. Vada je podstatná → zbraň je neúčinným důkazem (§ 89 odst. 3). Navazující důkazy se posuzují individuálně, nikoli automaticky.
+
+**5. Řešení.** Soud ke zbrani jako důkazu nepřihlédne. Obstojí-li vina i bez ní z ostatních (samostatně získaných) důkazů, k odsouzení dojít může; jinak je namístě zproštění. Procesní krok: námitka neúčinnosti při dokazování, případně v odvolání.
+
+**6. Varianty.** (a) Kdyby byla neodkladnost řádně a přezkoumatelně zdůvodněna, prohlídka i důkaz obstojí. (b) Kdyby šlo jen o formální pochybení nezasahující podstatu práva (nepodstatná vada), důkaz zůstane účinný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „materiální pravda převažuje nad procesní vadou":* nelze obětovat zákonnost způsobu získání důkazu; neutralizace odkazem na § 89 odst. 3 a čl. 8 odst. 2 LZPS.
+- *Protiargument „neúčinnost se má vztáhnout na vše navazující":* český model je restriktivní — nutno prokázat příčinný a neoddělitelný vztah.
+- *Slabé místo:* rozlišení podstatné/nepodstatné vady je hodnotící a soudy je vykládají kazuisticky.
+
+#### H. Praktický závěr
+
+Zákonnost zkoumejte ve dvou rovinách — co se stíhá (materiální) a jak se postupuje (procesní); nezákonně získaný důkaz je zpravidla neúčinný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje zákonný podklad (příkaz) pro každý zásahový úkon?
+- [ ] Je u neodkladného/neopakovatelného úkonu řádně zdůvodněna neodkladnost?
+- [ ] Jde o vadu podstatnou, nebo nepodstatnou?
+- [ ] Které navazující důkazy jsou s vadným úkonem neoddělitelně spjaty?
+
+**Typicky rozhodné důkazy / podklady:** příkaz a protokol o úkonu, časová osa, odůvodnění neodkladnosti, řetězec navazujících důkazů.
+
+---
 
 ### § 2 odst. 2 — Presumpce neviny
 <details>
@@ -219,6 +331,44 @@ Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a pod
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Policejní prezident na tiskové konferenci označí dosud neobžalovaného podezřelého za „pachatele rozsáhlého podvodu" a uvede jeho jméno. Média to převezmou. Podezřelý se brání porušením presumpce neviny. Důkazy: záznam/přepis tiskové konference, mediální výstupy, stav řízení (před obžalobou).
+
+**2. Právní otázka.** Porušuje veřejné prohlášení státního činitele o vině před pravomocným odsouzením presumpci neviny podle § 2 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 2 — zákaz hledět na obviněného jako na vinného před pravomocným odsuzujícím rozsudkem (mediální rovina).
+- *Související ustanovení téhož zákona:* § 8a (poskytování informací OČTŘ veřejnosti), § 8b (zákaz dalšího šíření).
+- *Související předpisy:* čl. 40 odst. 2 LZPS, čl. 6 odst. 2 EÚLP, směrnice 2016/343/EU.
+- *Judikatura:* ESLP Allenet de Ribemont proti Francii, Karaman proti Německu — prohlášení veřejného činitele o vině může porušit čl. 6 odst. 2 EÚLP; ÚS II.ÚS 658/14 (důkazní břemeno tíží stát).
+
+**4. Subsumpce.** Označení „pachatele" před obžalobou je prezentací viny, nikoli pouhou informací o podezření → porušení mediální roviny presumpce neviny (odst. 2) i § 8a (zákaz údajů umožňujících ztotožnění v přípravném řízení).
+
+**5. Řešení.** Dotčená osoba se může domáhat ochrany osobnosti (§ 81 a násl. OZ) a náhrady nemajetkové újmy podle zák. č. 82/1998 Sb.; v trestním řízení nelze z výroku dovozovat zaujatost soudu, ale je podkladem stížnosti na postup OČTŘ. OČTŘ smí informovat o podezření, nikoli o vině.
+
+**6. Varianty.** (a) Kdyby činitel uvedl „osoba je podezřelá / stíhaná", k porušení nedojde. (b) Po pravomocném odsuzujícím rozsudku se presumpce neviny vyčerpá a označení „pachatel" je namístě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „veřejnost má právo na informace":* právo na informace nezahrnuje prohlášení o vině; neutralizace rozlišením podezření vs. vina a odkazem na § 8a.
+- *Protiargument „presumpce neviny brání i vazbě":* nebrání — vazba je proporcionálním zajišťovacím opatřením, nikoli sankcí.
+- *Slabé místo:* hranice mezi sdělením o podezření a faktickým označením za pachatele je jazykově citlivá.
+
+#### H. Praktický závěr
+
+Před pravomocným odsouzením komunikujte výhradně v rovině podezření/obvinění; vyhněte se formulacím konstatujícím vinu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nese důkazní břemeno o vině stát?
+- [ ] Neobsahuje veřejné sdělení tvrzení o vině před pravomocným rozsudkem?
+- [ ] Byla při pochybnostech aplikována zásada in dubio pro reo?
+- [ ] Nejsou v přípravném řízení zveřejněny údaje umožňující ztotožnění (§ 8a)?
+
+**Typicky rozhodné důkazy / podklady:** přepis veřejného prohlášení, mediální výstupy, doklad o stadiu řízení, znění poučení.
+
+---
+
 ### § 2 odst. 3 — Zásada legality (povinnosti stíhání)
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -281,6 +431,44 @@ Výjimky z legality: **přímo použitelný předpis EU** (např. nařízení o 
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Státní zástupce má v rukou trestní oznámení o bagatelní krádeži zboží za 200 Kč prvopachatelem, který škodu uhradil a projevil lítost. Zvažuje, zda musí věc stíhat, nebo zda může uplatnit odklon. Důkazy: trestní oznámení, doklad o náhradě škody, opis z rejstříku trestů.
+
+**2. Právní otázka.** Vylučuje princip legality (povinnost stíhat) jakýkoli prostor pro nestíhání, nebo zákon připouští výjimky a odklony?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 3 — modifikovaný princip legality s výhradou zákona, předpisu EU a mezinárodní smlouvy.
+- *Související ustanovení téhož zákona:* § 159a (odložení), § 172 odst. 2 (zastavení pro nepatrnou škodlivost), § 307 (podmíněné zastavení), § 309 (narovnání), § 311.
+- *Související předpisy:* § 12 odst. 2 TZ (subsidiarita trestní represe), nařízení 2017/1939 o EPPO (čl. 27 — oportunita).
+- *Judikatura:* nosný závěr — u bagatelních činů se uplatní subsidiarita trestní represe; nestíhání není porušením legality, je-li opřeno o zákonný důvod.
+
+**4. Subsumpce.** Krádež naplňuje skutkovou podstatu, avšak nízká škoda, náhrada a bezúhonnost zakládají buď nepatrnou společenskou škodlivost (§ 172 odst. 2, § 12 odst. 2 TZ), nebo prostor pro odklon (§ 307/309). Povinnost stíhat se naplní i rozhodnutím o zákonné výjimce.
+
+**5. Řešení.** Státní zástupce primárně zváží odklon (podmíněné zastavení/narovnání) nebo zastavení pro nepatrnou škodlivost; nestíhání musí být odůvodněno konkrétním zákonným ustanovením. Procesní krok: usnesení s řádným odůvodněním přezkoumatelné stížností.
+
+**6. Varianty.** (a) Recidivista s vyšší škodou — odklon zpravidla nevhodný, nastupuje plná povinnost stíhat. (b) Věc v působnosti EPPO (dotace EU) — uplatní se vlastní oportunita podle nařízení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „legalita zakazuje jakékoli nestíhání":* nepřesné — TŘ výslovně připouští odklony a zastavení; neutralizace výčtem § 159a, 172/2, 307, 309.
+- *Protiargument „odklon je beztrestnost":* odklon je podmíněn náhradou škody a osvědčením, není rezignací na ochranu.
+- *Slabé místo:* hranice „nepatrné škodlivosti" je hodnotící; nutné individuální posouzení.
+
+#### H. Praktický závěr
+
+Legalita v ČR je modifikovaná: stíhat se musí, ale zákon dává nástroje odklonu a zastavení; každé nestíhání opřete o konkrétní ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán zákonný důvod pro odložení/zastavení/odklon, nebo platí plná povinnost stíhat?
+- [ ] Byla zvážena subsidiarita trestní represe (§ 12 odst. 2 TZ)?
+- [ ] Nespadá věc do působnosti EPPO či mezinárodní smlouvy?
+- [ ] Je rozhodnutí o nestíhání řádně odůvodněno a přezkoumatelné?
+
+**Typicky rozhodné důkazy / podklady:** trestní oznámení, doklad o náhradě škody, rejstřík trestů, vyjádření poškozeného.
+
+---
 
 ### § 2 odst. 4 — Zásada oficiality a zásada urychlení
 <details>
@@ -350,6 +538,44 @@ Třetí věta — *K obsahu petic… nepřihlížejí* — vyjadřuje **nezávis
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Trestní řízení o hospodářském trestném činu trvá v přípravné fázi sedm let; obviněný je celou dobu omezen zajištěním nemovitostí. Namítá nepřiměřenou délku řízení a žádá kompenzaci. Důkazy: spisový přehled úkonů s daty, doklady o zajištění majetku, doba nečinnosti OČTŘ.
+
+**2. Právní otázka.** Bylo porušeno právo na projednání v přiměřené lhůtě a urychlené projednání věci se zajištěným majetkem podle § 2 odst. 4, a jaké jsou důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 4 — oficialita, urychlení (zvláště u vazby a zajištěného majetku), proporcionalita zásahů, nezávislost na peticích.
+- *Související ustanovení téhož zákona:* § 71 (lhůty u vazby), § 79a a násl. (zajištění majetku), § 159 (lhůty prověřování).
+- *Související předpisy:* čl. 38 odst. 2 LZPS, čl. 6 odst. 1 EÚLP, § 39 odst. 3 TZ (zmírnění trestu), zák. č. 82/1998 Sb. (odškodnění).
+- *Judikatura:* ESLP Kudla proti Polsku (účinný vnitrostátní prostředek), Apicella proti Itálii (výše odškodného), Frydlender proti Francii.
+
+**4. Subsumpce.** Sedmiletá délka s prokazatelnými obdobími nečinnosti při trvajícím zásahu do vlastnictví je porušením požadavku urychlení (odst. 4 věta druhá) a přiměřené lhůty (čl. 6 EÚLP). Zajištění majetku zakládá prioritu, která zde nebyla respektována.
+
+**5. Řešení.** Důsledkem může být mimořádné zmírnění trestu (§ 39 odst. 3 TZ) a/nebo odškodnění podle zák. č. 82/1998 Sb. (po předběžném uplatnění u ministerstva). Procesní kroky: stížnost na průtahy, žádost o přiměřené zadostiučinění; soud při ukládání trestu zohlední délku jako polehčující.
+
+**6. Varianty.** (a) Šlo-li o objektivně mimořádně složitou věc bez nečinnosti OČTŘ, porušení nemusí být shledáno. (b) U vazební věci by stejná nečinnost vedla k propuštění z vazby pro nedodržení účelu a lhůt.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „složitost věci ospravedlňuje délku":* rozhodná je nečinnost a chování orgánů, nikoli jen rozsah; neutralizace doložením prodlev v časové ose.
+- *Protiargument „kompenzaci nahradí samotné konstatování porušení":* u citelných zásahů ESLP vyžaduje účinné (peněžité) zadostiučinění.
+- *Slabé místo:* část průtahů může jít k tíži obhajoby (obstrukce) — nutno odlišit.
+
+#### H. Praktický závěr
+
+Sledujte časovou osu úkonů; u vazby a zajištěného majetku platí zvýšený imperativ urychlení a každý zásah musí projít testem proporcionality.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je délka řízení přiměřená a bez období nečinnosti OČTŘ?
+- [ ] Byla u vazby/zajištěného majetku zachována priorita urychlení?
+- [ ] Prošel každý zásah testem proporcionality (vhodnost–potřebnost–přiměřenost)?
+- [ ] Byla délka zohledněna při trestu (§ 39 odst. 3 TZ), případně uplatněno odškodnění?
+
+**Typicky rozhodné důkazy / podklady:** přehled úkonů s daty, rozhodnutí o zajištění a vazbě, doklady o uplatnění nároku na zadostiučinění.
+
+---
+
 ### § 2 odst. 5 — Zásada vyhledávací a důkazní břemeno
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -412,6 +638,44 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obviněný se v přípravném řízení k činu dozná, policejní orgán však neprovede žádné další ověření (žádný věcný, listinný ani svědecký důkaz). Obžaloba stojí výlučně na doznání. Obviněný u soudu doznání odvolá s tvrzením, že bylo učiněno pod tlakem. Důkazy: protokol o výslechu, absence podpůrných důkazů.
+
+**2. Právní otázka.** Postačuje samotné doznání obviněného k odsouzení, nebo musí být podpořeno dalšími důkazy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 5 — vyhledávací zásada, materiální pravda, důkazní břemeno státu, povinnost přezkoumat všechny okolnosti i přes doznání.
+- *Související ustanovení téhož zákona:* § 89 odst. 2 (důkazní prostředky), § 92 odst. 2 (zákaz donucení k doznání), § 207–208.
+- *Související předpisy:* čl. 37 odst. 1, čl. 40 odst. 4 LZPS (zákaz sebeobviňování).
+- *Judikatura:* ÚS II.ÚS 658/14, I.ÚS 1095/15 (citované) — důkazní břemeno tíží stát; při pochybnostech in dubio pro reo.
+
+**4. Subsumpce.** Doznání podle výslovného textu odst. 5 „nezbavuje OČTŘ povinnosti přezkoumat všechny podstatné okolnosti". Bez podpůrných důkazů a po odvolání doznání vznikají důvodné pochybnosti — skutkový stav není zjištěn v požadované míře.
+
+**5. Řešení.** Soud nesmí odsoudit jen na základě (odvolaného a neověřeného) doznání; je povinen doplnit dokazování (odst. 5 in fine). Neprokáže-li se vina jinými důkazy, následuje zproštění. Procesní krok: doplnění dokazování, prověření okolností doznání.
+
+**6. Varianty.** (a) Je-li doznání podpořeno věcnými stopami a koresponduje s objektivními zjištěními, k odsouzení dojít může. (b) Bylo-li doznání vynuceno, je jako důkaz neúčinné bez ohledu na další obsah.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „doznání je králem důkazů":* odmítnuto — TŘ žádné formální důkazní pravidlo nezná a doznání samo nestačí; neutralizace textem odst. 5.
+- *Protiargument „vyhledávací zásada zbavuje obhajobu aktivity":* nikoli — strany mohou navrhovat a provádět důkazy; stát však nese břemeno viny.
+- *Slabé místo:* posouzení dobrovolnosti doznání je skutkově náročné a často sporné.
+
+#### H. Praktický závěr
+
+Doznání nikdy neberte jako dostatečný a soběstačný důkaz; vždy je ověřte dalšími důkazy a prověřte okolnosti jeho vzniku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doznání podpořeno nezávislými důkazy?
+- [ ] Byly objasněny okolnosti svědčící ve prospěch i v neprospěch (i bez návrhu)?
+- [ ] Nese stát důkazní břemeno o vině?
+- [ ] Není doznání zatíženo donucením (§ 92 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o výslechu, věcné a listinné důkazy korespondující s doznáním, záznam o poučení a podmínkách výslechu.
+
+---
+
 ### § 2 odst. 6 — Zásada volného hodnocení důkazů
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -472,6 +736,44 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud opře vinu o znalecký posudek z oboru daktyloskopie a současně pomine vnitřní rozpor: jiný provedený důkaz (kamerový záznam) obviněného na místě v inkriminované době vylučuje. Odůvodnění rozsudku rozpor nevypořádá. Důkazy: posudek, kamerový záznam, odůvodnění rozsudku.
+
+**2. Právní otázka.** Překročil soud meze volného hodnocení důkazů, pominul-li logický rozpor mezi důkazy a neodůvodnil výběr mezi nimi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 6 — volné hodnocení vázané logikou, úplností a odůvodněním.
+- *Související ustanovení téhož zákona:* § 125 (náležitosti odůvodnění), § 258 odst. 1 písm. b) (vady rozsudku), § 89 odst. 1.
+- *Související předpisy:* čl. 36 odst. 1 LZPS (právo na spravedlivý proces), zákaz svévole.
+- *Judikatura:* nosný test ÚS — závěr o vině obstojí jen, plyne-li z provedených důkazů a nevzbuzuje rozumné pochybnosti; extrémní nesoulad mezi důkazy a závěry je vadou.
+
+**4. Subsumpce.** Volné hodnocení není libovůlí: pominutí rozporu porušuje vázanost logikou a úplností; chybějící vypořádání proč soud jeden důkaz upřednostnil porušuje povinnost odůvodnění (§ 125). Jde o extrémní nesoulad.
+
+**5. Řešení.** Odvolací (či dovolací) soud rozsudek zruší pro vadu odůvodnění a porušení pravidel hodnocení; uloží vypořádat rozpor mezi posudkem a záznamem. Procesní krok: námitka extrémního nesouladu, výslech znalce, prověření autenticity záznamu.
+
+**6. Varianty.** (a) Vypořádá-li soud rozpor přesvědčivě (např. záznam je nepravý / časově nepřesný), rozsudek obstojí. (b) Jsou-li oba důkazy rovnocenné a rozpor neodstranitelný, nastupuje in dubio pro reo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „volné hodnocení je výsadou soudu nepřezkoumatelnou":* přezkum se týká dodržení logiky, úplnosti a odůvodnění, nikoli nahrazení úvahy; neutralizace testem ÚS.
+- *Protiargument „dílčí rozpor nemůže zvrátit jinak ucelený řetězec":* rozhodný je vliv rozporu na nosný závěr o vině.
+- *Slabé místo:* hranice mezi přípustným hodnocením a „extrémním nesouladem" je judikatorně dotvářená.
+
+#### H. Praktický závěr
+
+Hodnocení důkazů musí být logické, úplné a odůvodněné; každý významný rozpor je nutné v rozhodnutí výslovně vypořádat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Plyne závěr o vině z provedených (ne předpokládaných) důkazů?
+- [ ] Jsou všechny významné rozpory v odůvodnění vypořádány?
+- [ ] Je vysvětleno, proč soud některé důkazy přijal a jiné odmítl (§ 125)?
+- [ ] Nejde o extrémní nesoulad mezi důkazy a skutkovými závěry?
+
+**Typicky rozhodné důkazy / podklady:** úplný soubor provedených důkazů, znalecké posudky, odůvodnění rozsudku, protokol o hlavním líčení.
+
+---
+
 ### § 2 odst. 7 — Spolupráce se zájmovými sdruženími
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -526,6 +828,42 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Odsouzený žádá o podmíněné propuštění; jeho zaměstnavatel (zájmové sdružení ve smyslu § 3) nabídne soudu záruku za dovršení nápravy a připojí se k návrhu. Soud zvažuje, jaký význam záruce přiznat. Důkazy: nabídka záruky, zpráva o chování ve výkonu trestu, stanovisko věznice.
+
+**2. Právní otázka.** Jakou roli hraje spolupráce se zájmovými sdruženími a jejich „výchovné působení" v rozhodování OČTŘ dnes?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 7 — spolupráce OČTŘ se zájmovými sdruženími a využití jejich výchovného působení.
+- *Související ustanovení téhož zákona:* § 3 (definice sdružení), § 6 (záruka sdružení), § 88 odst. 1 TZ a § 331 a násl. (podmíněné propuštění).
+- *Související předpisy:* zákon o Probační a mediační službě (role PMS jako moderního nástupce).
+- *Judikatura:* obecně — záruka je fakultativním podpůrným podkladem, soud k ní přihlíží, není jí vázán.
+
+**4. Subsumpce.** Záruka sdružení je relevantní okolností pro úvahu o nápravě, ale jen podpůrnou; samostatně nezakládá nárok na propuštění. Výchovné působení se dnes prakticky překrývá s dohledem PMS.
+
+**5. Řešení.** Soud k záruce přihlédne při hodnocení prognózy nápravy, rozhodne však na základě celkového posouzení (chování ve výkonu, recidiva). Procesní krok: ověření reálnosti a serióznosti nabídnuté záruky.
+
+**6. Varianty.** (a) U podmíněného zastavení (§ 307) může mít aktivní záruka větší praktický význam. (b) Jde-li o politickou stranu/hnutí, nejde o zájmové sdružení ve smyslu § 3 a záruka je vyloučena.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jde o mrtvé reziduum bez významu":* institut je dosud platný a u odklonů a propuštění může reálně přispět; neutralizace odkazem na § 6.
+- *Slabé místo:* praktická marginálnost a malá vymahatelnost „výchovného působení".
+
+#### H. Praktický závěr
+
+Spolupráci se zájmovými sdruženími využijte jako doplňkový nástroj u odklonů a propuštění; rozhodující zůstává komplexní posouzení a dohled PMS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zájmové sdružení ve smyslu § 3 (nikoli politickou stranu/hnutí)?
+- [ ] Je nabídnutá záruka reálná a podložená?
+- [ ] Byla zohledněna jako podpůrný, nikoli rozhodující podklad?
+
+**Typicky rozhodné důkazy / podklady:** písemná nabídka záruky, zpráva o chování, stanovisko věznice nebo PMS.
+
+---
 
 ### § 2 odst. 8 — Zásada obžalovací (akusatorní)
 <details>
@@ -587,6 +925,44 @@ Klíčové ustanovení obsahující **čtyři dílčí zásady**:
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud v hlavním líčení dospěje k závěru, že skutek je závažnější, než vymezila obžaloba, a chtěl by obžalovaného odsoudit i pro další, neobžalovaný dílčí útok, který vyšel najevo při dokazování. Důkazy: obžaloba (vymezení skutku), protokol o hlavním líčení.
+
+**2. Právní otázka.** Smí soud rozhodnout o skutku, pro který nebyla podána obžaloba (návrh na potrestání, dohoda)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 8 — trestní stíhání před soudem jen na základě obžaloby/návrhu/dohody podané státním zástupcem; veřejnou žalobu zastupuje SZ.
+- *Související ustanovení téhož zákona:* § 176–177 (obžaloba), § 179c (návrh na potrestání), § 220 odst. 1 (vázanost soudu skutkem obžaloby), § 314o a násl. (dohoda).
+- *Související předpisy:* čl. 80 Ústavy (SZ zastupuje veřejnou žalobu).
+- *Judikatura:* obecně — soud je vázán skutkem, nikoli právní kvalifikací; pro neobžalovaný skutek rozhodovat nemůže.
+
+**4. Subsumpce.** Akusatorní princip a § 220 odst. 1 brání soudu rozhodnout o skutku, pro nějž nebyla podána obžaloba. Soud může změnit právní kvalifikaci téhož skutku, nikoli rozšířit předmět řízení na nový skutek.
+
+**5. Řešení.** Soud o neobžalovaném dílčím útoku nerozhodne; upozorní státního zástupce, který může podat obžalobu samostatně, případně navrhnout společné řízení (§ 23). Procesní krok: zachování totožnosti skutku, sdělení SZ.
+
+**6. Varianty.** (a) Jde-li jen o jinou právní kvalifikaci téhož skutku, soud po upozornění (§ 190/225) rozhodnout může. (b) Vezme-li SZ obžalobu zpět do zahájení hlavního líčení, soud řízení zastaví.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zásada materiální pravdy opravňuje soud postihnout vše":* materiální pravda nepřebíjí akusatorní princip; neutralizace § 220 odst. 1.
+- *Protiargument „soud může sám zahájit stíhání":* nemůže — výlučným nositelem žaloby je SZ (čl. 80 Ústavy).
+- *Slabé místo:* rozlišení „nová kvalifikace téhož skutku" vs. „nový skutek" je hraniční.
+
+#### H. Praktický závěr
+
+Bez obžaloby (návrhu, dohody) není soudní stíhání; soud je vázán skutkem, smí měnit jen jeho právní posouzení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje obžaloba/návrh/dohoda podaná státním zástupcem pro projednávaný skutek?
+- [ ] Je zachována totožnost skutku s obžalobou (§ 220 odst. 1)?
+- [ ] Jde o změnu kvalifikace, nebo o nový skutek?
+- [ ] Byl obžalovaný upozorněn na možnou změnu právního posouzení?
+
+**Typicky rozhodné důkazy / podklady:** obžaloba a její skutková věta, protokol o hlavním líčení, případný návrh na společné řízení.
+
+---
 
 ### § 2 odst. 9 — Obsazení soudu
 <details>
@@ -650,6 +1026,44 @@ V přípravném řízení rozhoduje **soudce** (nikoli senát) — § 26 (např.
 - *ÚS* [II.ÚS 413/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-413-04) — nález, 3. 3. 2005
   > „Rozhodnutí v tomto směru přitom lze učinit pouze v řízení občanskoprávním, a z povahy věci je vyloučeno, aby bylo o této věci rozhodnuto orgány činnými v trestním řízení jako o předběžné otázce podle § 9 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů. … Otázka, zda, kdy a za jakých okolností je bývalý nájemce povinen vyklidit byt, je výsostně věcí občanskoprávní, a není nutné ani vhodné, aby do uplynutí lhůty stanovené rozhodnutím civilního soudu k vyklizení bytu ve věci zasahovaly orgány činné v trestním řízení"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** O zvlášť závažném zločinu vraždy rozhodne v prvním stupni u okresního soudu samosoudce (nikoli senát krajského soudu). Obhajoba namítá nesprávné obsazení soudu a porušení práva na zákonného soudce. Důkazy: rozvrh práce, protokol o složení soudu, právní kvalifikace skutku.
+
+**2. Právní otázka.** Bylo dodrženo zákonné obsazení soudu (senát vs. samosoudce, věcná příslušnost) a jaký je následek jeho porušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 9 — senát/samosoudce/předseda senátu; v přípravném řízení rozhoduje soudce.
+- *Související ustanovení téhož zákona:* § 16, § 17 (věcná příslušnost), § 314a (samosoudce), § 31 odst. 2; § 64 ZSVM.
+- *Související předpisy:* čl. 38 odst. 1 LZPS (právo na zákonného soudce), zákon o soudech a soudcích (rozvrh práce).
+- *Judikatura:* nosný závěr ÚS — porušení pravidel obsazení soudu a zákonného soudce je podstatnou vadou zakládající zrušení rozhodnutí.
+
+**4. Subsumpce.** Zvlášť závažný zločin vraždy náleží v prvním stupni krajskému soudu rozhodujícímu v senátu (§ 17, § 14 odst. 2). Rozhodne-li samosoudce okresního soudu, je soud nesprávně obsazen a věcně nepříslušný → podstatná vada.
+
+**5. Řešení.** Nadřízený soud rozhodnutí zruší pro nesprávné obsazení (čl. 38 odst. 1 LZPS) a věcnou nepříslušnost a věc postoupí příslušnému krajskému soudu. Procesní krok: námitka nepříslušnosti, přezkum rozvrhu práce.
+
+**6. Varianty.** (a) U běžného přečinu náležejícího okresnímu soudu rozhoduje samosoudce zcela správně. (b) V přípravném řízení o vazbě rozhoduje soudce (ne senát) — opačný postup by byl vadou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „složení soudu je vnitřní věcí soudu":* obsazení je součástí práva na zákonného soudce a je přezkoumatelné; neutralizace čl. 38 odst. 1 LZPS.
+- *Protiargument „vada obsazení je zhojitelná souhlasem stran":* nikoli u věcné nepříslušnosti a kogentních pravidel obsazení.
+- *Slabé místo:* správné určení příslušnosti závisí na přesné právní kvalifikaci, která se může v řízení vyvíjet.
+
+#### H. Praktický závěr
+
+Vždy ověřte, zda věc patří senátu či samosoudci a kterému soudu; chybné obsazení je samostatným kasačním důvodem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpovídá obsazení (senát/samosoudce) povaze věci a stupni?
+- [ ] Je dodržena věcná příslušnost (§ 16–17)?
+- [ ] Rozhoduje v přípravném řízení soudce (nikoli senát)?
+- [ ] Souhlasí složení s rozvrhem práce (zákonný soudce)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh práce, protokol o složení soudu, právní kvalifikace skutku v obžalobě.
+
+---
+
 ### § 2 odst. 10 — Zásada veřejnosti
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -708,6 +1122,44 @@ Zaznamenávání obrazu/zvuku během HL — § 6 odst. 3 zákona o soudech a sou
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V citlivé věci o sexuálním zneužití nezletilé soud vyloučí veřejnost po celou dobu hlavního líčení včetně vyhlášení rozsudku. Novinář namítá porušení zásady veřejnosti. Důkazy: usnesení o vyloučení veřejnosti, předmět řízení, věk poškozené.
+
+**2. Právní otázka.** Lze vyloučit veřejnost i z vyhlášení rozsudku a za jakých podmínek je vyloučení veřejnosti přípustné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 10 — veřejnost hlavního líčení; vyloučení jen v zákonem stanovených případech.
+- *Související ustanovení téhož zákona:* § 200 odst. 1 (důvody vyloučení), § 201 (přístup důvěrníků), § 8b (ochrana totožnosti poškozeného).
+- *Související předpisy:* čl. 38 odst. 2 LZPS, čl. 6 odst. 1 EÚLP (veřejné vyhlášení rozsudku).
+- *Judikatura:* nosný závěr — vyloučení veřejnosti z vlastního vyhlášení rozsudku je možné jen výjimečně (mravnost, ochrana mladistvých); jinak musí být výrok vyhlášen veřejně.
+
+**4. Subsumpce.** Ochrana nezletilé oběti sexuálního činu je legitimním důvodem vyloučení veřejnosti z dokazování (§ 200 odst. 1). U vyhlášení rozsudku je však pravidlem veřejnost; plošné vyloučení i z vyhlášení je nepřípustné, lze nanejvýš anonymizovat údaje o poškozené.
+
+**5. Řešení.** Soud vyloučí veřejnost z líčení, ale rozsudek vyhlásí veřejně s ochranou totožnosti poškozené (§ 8b). Procesní krok: odůvodněné usnesení podle § 200, anonymizace.
+
+**6. Varianty.** (a) Při utajovaných informacích lze veřejnost vyloučit šíře, stále však s veřejným vyhlášením výroku. (b) U dospělé oběti bez dalších důvodů by plošné vyloučení neobstálo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ochrana oběti vyžaduje úplnou neveřejnost":* dosáhne se anonymizací a vyloučením z dokazování, ne tajným vyhlášením; neutralizace čl. 6 odst. 1 EÚLP.
+- *Protiargument „veřejnost lze omezit kdykoli z důvodu pořádku":* jen taxativně dle § 200 odst. 1.
+- *Slabé místo:* napětí mezi svobodou tisku a ochranou oběti — nutné proporcionální řešení.
+
+#### H. Praktický závěr
+
+Veřejnost je pravidlem; vyloučení musí mít zákonný důvod (§ 200) a samotný výrok rozsudku se zásadně vyhlašuje veřejně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vyloučení veřejnosti opřeno o konkrétní důvod § 200 odst. 1?
+- [ ] Je výrok rozsudku vyhlášen veřejně?
+- [ ] Je chráněna totožnost zranitelného poškozeného (§ 8b)?
+- [ ] Byl umožněn přístup důvěrníků (§ 201)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení o vyloučení veřejnosti, předmět řízení, doklad o věku/zranitelnosti poškozeného.
+
+---
 
 ### § 2 odst. 11 — Zásada ústnosti
 <details>
@@ -768,6 +1220,44 @@ Výjimky:
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Klíčový svědek vypovídal v přípravném řízení bez přítomnosti obhájce obviněného; u soudu odepře výpověď. Soud přečte protokol z přípravného řízení (§ 211) a opře o něj odsouzení jako o rozhodující důkaz. Důkazy: protokol o výslechu svědka, doklad o (ne)účasti obhájce, ostatní důkazy.
+
+**2. Právní otázka.** Lze přečtenou výpověď svědka, kterého obhajoba nemohla konfrontovat, použít jako rozhodující nebo jediný usvědčující důkaz?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 11 — ústnost a kontradiktorní výslech.
+- *Související ustanovení téhož zákona:* § 211 (čtení protokolů), § 215 odst. 4 (právo klást otázky), § 263 odst. 5.
+- *Související předpisy:* čl. 6 odst. 3 písm. d) EÚLP (právo vyslýchat svědky).
+- *Judikatura:* ESLP (linie Al-Khawaja a Tahery, Schatschaschwili) — čtená výpověď nesmí být jediným či rozhodujícím důkazem, neměla-li obhajoba možnost svědka konfrontovat, bez dostatečných vyvažujících záruk.
+
+**4. Subsumpce.** Nemohla-li obhajoba svědka v žádné fázi konfrontovat a jeho čtená výpověď je rozhodující, je porušeno právo na obhajobu i zásada ústnosti/kontradiktornosti; bez vyvažujících záruk důkaz neobstojí jako nosný.
+
+**5. Řešení.** Soud nesmí opřít odsouzení výlučně/rozhodujícím způsobem o tuto výpověď; musí buď zajistit konfrontaci, nebo doplnit jiné důkazy. Procesní krok: námitka porušení čl. 6 odst. 3 písm. d), posouzení vyvažujících záruk.
+
+**6. Varianty.** (a) Byl-li svědek vyslechnut jako neodkladný úkon za účasti soudce a obhájce, čtení je přípustné a plnohodnotné. (b) Existují-li další samostatné usvědčující důkazy, čtená výpověď může být doplňkem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „protokol z přípravného řízení je plnohodnotný důkaz":* jen za podmínek § 211 a při zachování práva na konfrontaci; neutralizace judikaturou ESLP.
+- *Protiargument „svědek odepřel, jiná cesta není":* je třeba hledat vyvažující záruky a nestavět na výpovědi jako jediné.
+- *Slabé místo:* posouzení „rozhodujícího" charakteru důkazu a dostatečnosti záruk je hodnotící.
+
+#### H. Praktický závěr
+
+Důkaz se zásadně provádí výslechem; čtení protokolu je výjimkou a nesmí nahradit chybějící konfrontaci, jde-li o nosný důkaz.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl naplněn některý ze zákonných důvodů čtení (§ 211)?
+- [ ] Měla obhajoba v některé fázi možnost svědka vyslýchat?
+- [ ] Není čtená výpověď jediným či rozhodujícím důkazem?
+- [ ] Existují vyvažující procesní záruky?
+
+**Typicky rozhodné důkazy / podklady:** protokol o výslechu svědka, záznam o účasti obhájce, ostatní usvědčující důkazy.
+
+---
+
 ### § 2 odst. 12 — Zásada bezprostřednosti
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -822,6 +1312,44 @@ Výjimky:
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Samosoudce rozhodne ve veřejném zasedání o vině s odkazem na listinné důkazy, které ve veřejném zasedání nebyly přečteny ani jinak provedeny — pouze jsou založeny ve spise. Obhajoba namítá porušení bezprostřednosti. Důkazy: protokol o veřejném zasedání, spisový obsah, odůvodnění rozhodnutí.
+
+**2. Právní otázka.** Smí soud přihlédnout k důkazům, které při jednání nebyly provedeny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 12 — soud přihlíží jen k důkazům provedeným při daném jednání.
+- *Související ustanovení téhož zákona:* § 220 odst. 2 (soud smí přihlédnout jen k provedeným důkazům), § 213 (provedení listinných důkazů), § 211.
+- *Související předpisy:* čl. 36 odst. 1, čl. 38 odst. 2 LZPS.
+- *Judikatura:* nosný závěr ÚS — opření rozhodnutí o neprovedený důkaz je porušením bezprostřednosti a práva na spravedlivý proces.
+
+**4. Subsumpce.** Listiny pouze založené ve spise, nikoli provedené při jednání (§ 213), nejsou způsobilým podkladem rozhodnutí; soud porušil § 2 odst. 12 a § 220 odst. 2.
+
+**5. Řešení.** Rozhodnutí je zatíženo podstatnou vadou → zrušení a nové projednání s řádným provedením listin. Procesní krok: námitka, návrh na provedení důkazu, kontrola protokolace.
+
+**6. Varianty.** (a) Byly-li listiny při jednání přečteny/předloženy stranám (§ 213), vada nenastává. (b) Souhlasily-li strany s provedením listin bez čtení postupem podle § 213 odst. 2, je podklad způsobilý.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „důkaz je ve spise, postačí to":* nepostačí — rozhodný je úkon provedení při jednání; neutralizace § 220 odst. 2.
+- *Protiargument „bezprostřednost je formalita":* je zárukou hodnocení „z první ruky" a součástí spravedlivého procesu.
+- *Slabé místo:* hranice mezi „provedením" a „pouhým založením" listiny vyžaduje přesnou protokolaci.
+
+#### H. Praktický závěr
+
+Soud rozhoduje jen o tom, co bylo při jednání skutečně provedeno; každý důkaz musí projít jednáním, nestačí jeho přítomnost ve spise.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly všechny důkazy, o něž se rozhodnutí opírá, provedeny při jednání?
+- [ ] Jsou listinné důkazy provedeny postupem podle § 213?
+- [ ] Odpovídá protokol skutečně provedeným úkonům?
+- [ ] Neopírá se odůvodnění o důkaz pouze založený ve spise?
+
+**Typicky rozhodné důkazy / podklady:** protokol o hlavním líčení/veřejném zasedání, seznam provedených listin, odůvodnění rozhodnutí.
+
+---
 
 ### § 2 odst. 13 — Právo na obhajobu (poučovací povinnost)
 <details>
@@ -881,6 +1409,44 @@ Výjimky:
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Policejní orgán provede první výslech zadrženého jako obviněného, aniž ho poučí o právu nevypovídat a o právu zvolit si obhájce; obviněný se přitom k činu doznal. Doznání tvoří jádro obžaloby. Důkazy: protokol o výslechu, absence poučení, časová osa zadržení.
+
+**2. Právní otázka.** Je výpověď obviněného získaná bez řádného poučení o právu na obhajobu použitelná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 13 — poučovací povinnost a právo na obhajobu v každém stadiu řízení.
+- *Související ustanovení téhož zákona:* § 33 (práva obviněného), § 91–92 (výslech), § 89 odst. 3 (neúčinnost), § 158 odst. 4.
+- *Související předpisy:* čl. 40 odst. 3 LZPS, čl. 6 odst. 3 EÚLP, směrnice 2012/13/EU (Letter of Rights), 2013/48/EU (přístup k obhájci).
+- *Judikatura:* ESLP linie Salduz proti Turecku — bez přístupu k obhájci a poučení v rané fázi je výpověď zpravidla nepoužitelná.
+
+**4. Subsumpce.** Absence poučení o právu mlčet a o právu na obhájce je podstatnou procesní vadou; doznání získané z takového výslechu je neúčinným důkazem (§ 89 odst. 3) a nesmí být podkladem rozhodnutí.
+
+**5. Řešení.** Soud k doznání nepřihlédne; obstojí-li vina z jiných důkazů, lze odsoudit, jinak je namístě zproštění. Procesní krok: námitka neúčinnosti, prověření okolností výslechu, výslech zasahujících policistů.
+
+**6. Varianty.** (a) Bylo-li poučení provedeno a obhájce přizván, výpověď je použitelná. (b) Vada poučení v pozdější fázi se nemusí dotknout dříve řádně získaných důkazů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obviněný práva znal, poučení je formalita":* poučení je podmínkou účinnosti úkonu, znalost se nepresumuje; neutralizace čl. 40 odst. 3 LZPS.
+- *Protiargument „doznání lze zopakovat později":* opakování pod vlivem dřívější vady nemusí vadu zhojit.
+- *Slabé místo:* posouzení dosahu „plodů" prvotní vady je v ČR restriktivní a kazuistické.
+
+#### H. Praktický závěr
+
+Poučovací povinnost je opakující se podmínkou platnosti úkonů; bez řádného poučení o právu mlčet a na obhájce je výpověď neúčinná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl obviněný před výslechem poučen o právu nevypovídat a zvolit si obhájce?
+- [ ] Bylo poučení aktualizováno v každém stadiu řízení?
+- [ ] Bylo předáno písemné poučení (Letter of Rights)?
+- [ ] Které důkazy jsou neúčinné v důsledku absence poučení?
+
+**Typicky rozhodné důkazy / podklady:** protokol o výslechu se záznamem poučení, doklad o přístupu k obhájci, časová osa zadržení a úkonů.
+
+---
 
 ### § 2 odst. 14 — Jazyková práva
 <details>
@@ -944,6 +1510,44 @@ ESLP **Diallo proti Švédsku** (2010), **Hermi proti Itálii** (2006) — kvali
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cizinec ovládající češtinu jen částečně je vyslechnut a poté mu je doručena obžaloba pouze v češtině bez písemného překladu; tlumočník byl přizván jen k výslechu. Obžalovaný namítá porušení jazykových práv. Důkazy: protokoly, doklad o jazykových znalostech, doručená obžaloba.
+
+**2. Právní otázka.** Má obviněný-cizinec právo na bezplatného tlumočníka a na písemný překlad podstatných písemností (obžaloba, rozsudek)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 14 — právo používat mateřský jazyk; jazyk řízení čeština.
+- *Související ustanovení téhož zákona:* § 28 (tlumočník a překlad podstatných písemností), § 29.
+- *Související předpisy:* čl. 37 odst. 4 LZPS, čl. 6 odst. 3 písm. e) EÚLP, směrnice 2010/64/EU.
+- *Judikatura:* ESLP Hermi proti Itálii, Diallo proti Švédsku — právo na tlumočení/překlad se vztahuje i na osoby částečně rozumějící, není-li znalost dostatečná k obhajobě; kvalita tlumočení musí být efektivní.
+
+**4. Subsumpce.** Částečná znalost češtiny nestačí; obviněný má právo na bezplatné tlumočení a písemný překlad obžaloby a rozsudku (§ 28). Doručení obžaloby bez překladu je vadou dotýkající se práva na obhajobu.
+
+**5. Řešení.** Soud zajistí překlad obžaloby (a rozsudku) a běh lhůt naváže na doručení překladu; neúčinné doručení bez překladu nezakládá běh lhůty. Procesní krok: žádost o překlad, námitka vůči běhu lhůt.
+
+**6. Varianty.** (a) Ovládá-li obviněný češtinu dostatečně k obhajobě, právo na překlad nevzniká. (b) Zjevně účelové prohlášení o neznalosti jazyka soud po ověření odmítne.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „úřední jazyk je čeština, překlad není nutný":* jazyk řízení je čeština, to však nevylučuje právo obviněného na tlumočení a překlad; neutralizace § 28 a směrnicí 2010/64/EU.
+- *Protiargument „postačí ústní tlumočení":* u podstatných písemností je vyžadován písemný překlad.
+- *Slabé místo:* posouzení „dostatečné" znalosti jazyka je skutkové a sporné.
+
+#### H. Praktický závěr
+
+Cizinci zajistěte bezplatného tlumočníka a písemný překlad obžaloby a rozsudku; lhůty běží od doručení překladu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prohlásil obviněný, že neovládá český jazyk (nebo to vyplývá z okolností)?
+- [ ] Byl přibrán bezplatný tlumočník (§ 28)?
+- [ ] Byly přeloženy podstatné písemnosti (obžaloba, rozsudek, rozhodnutí o vazbě)?
+- [ ] Navazuje běh lhůt na doručení překladu?
+
+**Typicky rozhodné důkazy / podklady:** protokoly s údaji o tlumočení, doklad o jazykových znalostech, doručené písemnosti a jejich překlady.
+
+---
+
 ### § 2 odst. 15 — Ochrana poškozeného
 <details>
 <summary>📜 <strong>Citace § 2 (úplné znění)</strong></summary>
@@ -998,6 +1602,44 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
   > „Presumpce neviny vždy vyžaduje, aby to byl stát, kdo nese v trestním řízení konkrétní důkazní břemeno, přičemž je to nakonec obecný soud, na němž spočívá odpovědnost za náležité objasnění věci (srov. § 2 odst. 5 in fine tr. řádu). … pokud lze v trestním řízení na základě provedeného dokazování dospět k několika přibližně stejně pravděpodobným skutkovým verzím, a soud se přikloní k verzi, která je pro obviněného nepříznivá, porušuje pri[ncip in dubio pro reo]"
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Oběť domácího násilí (zvlášť zranitelná oběť) se v řízení dožaduje, aby nebyla vyslýchána v přítomnosti obviněného a aby byla zastoupena zmocněncem; soud tyto nároky odmítne s tím, že jde o standardní výslech. Důkazy: spis o povaze činu, posouzení zranitelnosti, žádosti poškozené.
+
+**2. Právní otázka.** Jaká práva má poškozený (zvlášť zranitelná oběť) a je OČTŘ povinen umožnit jejich plné uplatnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 15 — povinnost umožnit poškozenému plné uplatnění práv, poučovací povinnost, ohleduplnost.
+- *Související ustanovení téhož zákona:* § 43–51a (práva poškozeného), § 20 odst. 4, § 102a, § 209 (výslech mimo přítomnost obviněného).
+- *Související předpisy:* zákon č. 45/2013 Sb. o obětech trestných činů, směrnice 2012/29/EU.
+- *Judikatura:* nosný závěr — zvlášť zranitelné oběti mají právo na zvýšenou ochranu při výslechu a na zabránění sekundární viktimizaci.
+
+**4. Subsumpce.** Oběť domácího násilí je zvlášť zranitelnou obětí; má právo na zmocněnce, na zabránění kontaktu s pachatelem a šetrný výslech. Plošné odmítnutí těchto nároků porušuje § 2 odst. 15 a zákon o obětech.
+
+**5. Řešení.** Soud umožní výslech bez přítomnosti obviněného (§ 209), připustí zmocněnce a zajistí oddělené čekání; poučí oběť o jejích právech. Procesní krok: posouzení zranitelnosti, opatření proti druhotné újmě.
+
+**6. Varianty.** (a) U poškozeného, který není zranitelnou obětí a nežádá ochranu, postačí standardní postup. (b) Odepření práv poškozeného může být vadou řízení namítatelnou i poškozeným v rozsahu jeho oprávnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „práva poškozeného nesmí krátit obhajobu":* opatření na ochranu oběti musí být vyvážena právem na konfrontaci; řešením je výslech s technickými prostředky zachovávajícími možnost dotazů.
+- *Protiargument „ohleduplnost je jen proklamace":* je vynutitelnou povinností OČTŘ podle § 2 odst. 15 a zák. č. 45/2013 Sb.
+- *Slabé místo:* posouzení „zvlášť zranitelné oběti" je individuální a vyžaduje podklad.
+
+#### H. Praktický závěr
+
+Poškozenému, zvláště zranitelné oběti, aktivně umožněte uplatnit jeho práva a chraňte ho před druhotnou újmou; o právech ho srozumitelně poučte.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl poškozený poučen o svých právech srozumitelně a včas?
+- [ ] Jde o zvlášť zranitelnou oběť (zák. č. 45/2013 Sb.)?
+- [ ] Byla přijata opatření proti sekundární viktimizaci (§ 209, oddělené čekání)?
+- [ ] Byl umožněn zmocněnec a uplatnění nároku na náhradu újmy?
+
+**Typicky rozhodné důkazy / podklady:** posouzení zranitelnosti, žádosti poškozené, protokol o výslechu, doklady o újmě.
+
+---
 
 ### § 2 odst. 16 — Restorativní prvky
 <details>
@@ -1058,6 +1700,42 @@ Transpozice **směrnice 2012/29/EU** o obětech. Komplexně rozvedeno v § 43–
 - *ÚS* [I.ÚS 1095/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1095-15_1) — nález, 30. 7. 2015
   > „Z principu presumpce neviny plyne pravidlo in dubio pro reo, dle kterého, není-li v důkazním řízení dosaženo praktické jistoty o existenci relevantních skutkových okolností, tj. jsou-li přítomny důvodné pochybnosti ve vztahu ke skutku či osobě pachatele, jež nelze odstranit ani provedením dalšího důkazu, je nutno rozhodnout ve prospěch obviněného"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Mladý prvopachatel způsobil poškozenému škodu na vozidle; oba projeví zájem věc vyřešit dohodou a obnovit narušený vztah. Obhájce navrhuje státnímu zástupci odklon s mediací u Probační a mediační služby. Důkazy: vyjádření obou stran, doklad o náhradě škody, zpráva PMS.
+
+**2. Právní otázka.** Umožňuje § 2 odst. 16 a navazující úprava řešit věc restorativně namísto klasického odsouzení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 16 — vytváření podmínek pro dobrovolnou účast poškozeného a obviněného na řešení následků činu.
+- *Související ustanovení téhož zákona:* § 307 (podmíněné zastavení), § 309 (narovnání), § 314o a násl. (dohoda o vině a trestu).
+- *Související předpisy:* zákon o Probační a mediační službě, § 38–39 TZ (účel a výměra trestu).
+- *Judikatura:* nosný závěr — restorativní nástroje jsou plnohodnotnou alternativou tam, kde naplňují účel řízení a chrání zájmy poškozeného.
+
+**4. Subsumpce.** U méně závažného činu s aktivním přístupem obou stran a náhradou škody jsou splněny předpoklady odklonu (narovnání/podmíněné zastavení); § 2 odst. 16 zavazuje OČTŘ takové podmínky vytvářet.
+
+**5. Řešení.** Státní zástupce/soud zváží narovnání (§ 309) nebo podmíněné zastavení (§ 307) s mediací PMS; podmínkou je náhrada škody a souhlas poškozeného. Procesní krok: zpráva PMS, dohoda o náhradě, rozhodnutí o odklonu.
+
+**6. Varianty.** (a) U zvlášť závažného zločinu restorativní řešení vinu nenahrazuje, může však ovlivnit výši trestu. (b) Odmítne-li poškozený součinnost, odklon vázaný na jeho souhlas není možný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „restorativní justice oslabuje generální prevenci":* u vhodných věcí naopak posiluje nápravu a ochranu oběti; neutralizace odkazem na účel řízení (§ 1) a podmínky odklonu.
+- *Protiargument „jde o beztrestnost":* odklon je podmíněn náhradou škody a osvědčením.
+- *Slabé místo:* dobrovolnost a rovnováha sil stran (zvláště u domácího násilí) musí být zajištěna.
+
+#### H. Praktický závěr
+
+Tam, kde to povaha věci dovolí, aktivně nabídněte restorativní nástroje (mediace, narovnání, podmíněné zastavení) s důrazem na náhradu škody a souhlas poškozeného.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je věc vhodná pro odklon (závažnost, postoj stran)?
+- [ ] Byla zajištěna dobrovolnost účasti obou stran?
+- [ ] Je škoda nahrazena nebo je dohodnut způsob náhrady?
+- [ ] Byla využita Probační a mediační služba?
+
+**Typicky rozhodné důkazy / podklady:** vyjádření stran, dohoda o náhradě škody, zpráva PMS, opis rejstříku trestů.
+
 ---
 
 ## § 3 — Spolupráce se zájmovými sdruženími občanů
@@ -1077,6 +1755,41 @@ Definice „zájmového sdružení": odborové, zaměstnavatelské, církve, cha
 **Praktický dopad:** dnes velmi omezený (reziduum z 60. let). V praxi se uplatňuje hlavně u **podmíněného propuštění**, kdy zájmové sdružení může doprovázet odsouzeného a podporovat jeho reintegraci.
 
 §§ 4 a 5 byly zrušeny (původně se týkaly výchovné funkce „pracovního kolektivu").
+
+### F. Kazuistika
+
+**1. Modelová situace.** Odborová organizace zaměstnavatele nabídne soudu, že bude působit na převýchovu zaměstnance, jehož trestní stíhání bylo podmíněně zastaveno. Vedle toho se o totéž uchází místní pobočka politického hnutí. Soud zvažuje, kdo je „zájmovým sdružením". Důkazy: stanovy subjektů, doklad o registraci, nabídka spolupůsobení.
+
+**2. Právní otázka.** Které subjekty jsou „zájmovým sdružením občanů" podle § 3 a jaký je jejich procesní význam?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 — vymezení zájmových sdružení (odborové, zaměstnavatelské, církve, charitativní PO) s výslovným vyloučením politických stran a hnutí.
+- *Související ustanovení téhož zákona:* § 2 odst. 7, § 6 (záruka), § 64 ZSVM; § 4–5 (zrušeny).
+- *Související předpisy:* zákon o sdružování, zákon o církvích a náboženských společnostech.
+- *Judikatura:* obecně — postavení zájmového sdružení je podmínkou pro nabídku záruky; politické subjekty jsou vyloučeny.
+
+**4. Subsumpce.** Odborová organizace je zájmovým sdružením ve smyslu § 3; politické hnutí je z definice výslovně vyloučeno a jeho nabídku nelze jako záruku zájmového sdružení připustit.
+
+**5. Řešení.** Soud připustí spolupůsobení odborové organizace a odmítne nabídku politického hnutí. Procesní krok: ověření právní povahy subjektu podle jeho statutu.
+
+**6. Varianty.** (a) Charitativní právnická osoba splňuje definici a může spolupůsobit. (b) Neformální skupina bez právní subjektivity zájmovým sdružením není.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „výčet v § 3 je demonstrativní, lze zahrnout i hnutí":* vyloučení politických stran a hnutí je výslovné a kogentní; neutralizace textem § 3.
+- *Slabé místo:* praktická marginálnost institutu (reziduum) — jeho přecenění by bylo chybou.
+
+### H. Praktický závěr
+
+Před připuštěním spolupůsobení ověřte, zda subjekt spadá pod definici § 3; politické strany a hnutí jsou vyloučeny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt zájmovým sdružením podle § 3 (odbory, zaměstnavatelé, církve, charitativní PO)?
+- [ ] Nejde o politickou stranu nebo hnutí (vyloučeno)?
+- [ ] Má subjekt právní subjektivitu?
+- [ ] V jaké fázi (podmíněné zastavení, propuštění) má spolupůsobení smysl?
+
+**Typicky rozhodné důkazy / podklady:** stanovy/statut subjektu, doklad o registraci, písemná nabídka spolupůsobení.
 
 ---
 
@@ -1111,6 +1824,42 @@ Záruka může **nahradit vazbu** (§ 73 — nahrazení vazby). Sdružení, kter
 
 V praxi tato úprava ustupuje **dohledu probačního úředníka** (§ 49–51) a **peněžité záruce** (§ 73a).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Obviněný je ve vazbě pro důvod obavy z pokračování v trestné činnosti; jeho zaměstnavatel (zájmové sdružení) nabídne písemnou záruku za jeho chování a navrhne nahrazení vazby touto zárukou. Důkazy: nabídka záruky, vazební rozhodnutí, posouzení rizik.
+
+**2. Právní otázka.** Může záruka zájmového sdružení nahradit vazbu a jaké povinnosti z přijetí záruky plynou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 — nabídka převzetí záruky za chování obviněného, převýchovu nebo dovršení nápravy odsouzeného.
+- *Související ustanovení téhož zákona:* § 73 (nahrazení vazby zárukou, dohledem, slibem), § 73a (peněžitá záruka), § 49–51 (dohled).
+- *Související předpisy:* § 88 TZ (podmíněné propuštění), zákon o PMS.
+- *Judikatura:* nosný závěr — nahrazení vazby je možné, jen pokud záruka dostatečně eliminuje konkrétní vazební důvod.
+
+**4. Subsumpce.** Záruka podle § 6 patří mezi instituty způsobilé nahradit vazbu (§ 73). U vazby pro obavu z pokračování musí být reálné, že sdružení svým působením riziko sníží; jinak nahrazení nepřichází v úvahu.
+
+**5. Řešení.** Soud posoudí věrohodnost a reálnost záruky; je-li dostatečná k eliminaci vazebního důvodu, vazbu nahradí, jinak ji ponechá, případně doplní dohledem PMS či peněžitou zárukou. Procesní krok: hodnocení rizik, kombinace náhradních opatření.
+
+**6. Varianty.** (a) U vazby útěkové může být záruka méně účinná než peněžitá záruka. (b) Poruší-li obviněný podmínky, sdružení o tom informuje a vazba může být obnovena.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „záruka sdružení automaticky vede k propuštění":* nikoli — rozhodující je, zda eliminuje konkrétní vazební důvod; neutralizace § 73.
+- *Protiargument „institut je překonaný dohledem PMS":* záruku lze kombinovat s dohledem, nevylučují se.
+- *Slabé místo:* vymahatelnost „aktivního působení" sdružení je nízká.
+
+### H. Praktický závěr
+
+Záruku zájmového sdružení zvažte jako jeden z nástrojů nahrazení vazby; její přijetí je účinné jen tehdy, reálně-li snižuje konkrétní vazební riziko, a lze ji kombinovat s dohledem či peněžitou zárukou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je nabídka záruky písemná a reálná?
+- [ ] Eliminuje záruka konkrétní vazební důvod (§ 67)?
+- [ ] Je vhodné kombinovat ji s dohledem (§ 49–51) nebo peněžitou zárukou (§ 73a)?
+- [ ] Je zajištěno informování o porušení podmínek?
+
+**Typicky rozhodné důkazy / podklady:** písemná nabídka záruky, vazební rozhodnutí, posouzení rizik, stanovisko PMS.
+
 ---
 
 ## § 7 — Vzájemná pomoc OČTŘ + spolupráce s PMS
@@ -1130,6 +1879,41 @@ Tři roviny:
 2. **Probační a mediační služba** — OČTŘ s ní spolupracují a předávají jí informace pro plnění úkolů PMS.
 
 PMS plní úlohy v přípravném řízení (zprávy o sociálním zázemí obviněného, mediace) i v řízení před soudem (vstupní pohovor pro zvážení podmíněného odsouzení / OPP). Při výkonu trestu PMS provádí **dohled** (§ 50 TZ + § 49–51 TŘ).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Policejní orgán v přípravném řízení potřebuje pro zvážení podmíněného odsouzení obviněného zprávu o jeho sociálním zázemí a možnostech nápravy; současně poškozený žádá o zprostředkování mediace. Orgán zvažuje zapojení Probační a mediační služby. Důkazy: žádost OČTŘ, souhlasy stran, zpráva PMS.
+
+**2. Právní otázka.** V jakém rozsahu si OČTŘ navzájem pomáhají a jak zapojují Probační a mediační službu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 — vzájemná pomoc OČTŘ a spolupráce s PMS, předávání informací pro plnění jejích úkolů.
+- *Související ustanovení téhož zákona:* § 49–51 (probace, dohled), § 309 (narovnání), § 178a (spolupracující obviněný).
+- *Související předpisy:* zákon č. 257/2000 Sb. o Probační a mediační službě, § 50 TZ.
+- *Judikatura:* obecně — zprávy a mediace PMS jsou legitimním podkladem pro rozhodování o odklonu a trestu.
+
+**4. Subsumpce.** OČTŘ jsou oprávněny i povinny si pomáhat a předat PMS údaje nezbytné pro vypracování zprávy a mediaci; zapojení PMS v přípravném řízení i před soudem je v souladu s § 7.
+
+**5. Řešení.** Orgán vyžádá zprávu PMS a se souhlasem stran zprostředkuje mediaci; výstupy využije pro úvahu o podmíněném odsouzení/odklonu. Procesní krok: zadání PMS, ochrana předávaných osobních údajů (účelové omezení).
+
+**6. Varianty.** (a) Bez souhlasu stran mediace probíhat nemůže, zpráva o zázemí ano. (b) Při výkonu trestu provádí PMS dohled (§ 50 TZ).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „předání údajů PMS zasahuje do ochrany soukromí":* je vázáno účelem plnění úkolů PMS a zákonným zmocněním; neutralizace účelovým omezením.
+- *Slabé místo:* kvalita a včasnost zpráv PMS závisí na kapacitách; nutné dostatečné podklady.
+
+### H. Praktický závěr
+
+Využívejte vzájemnou pomoc OČTŘ a Probační a mediační službu pro zprávy o obviněném i mediaci; předávejte jen údaje nezbytné k účelu a chraňte je.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dožádaná pomoc v mezích úkolů dožadujícího orgánu?
+- [ ] Jsou PMS předány jen údaje nezbytné pro její úkoly?
+- [ ] Je u mediace dán souhlas obviněného i poškozeného?
+- [ ] Je výstup PMS využit pro odklon/trest/dohled?
+
+**Typicky rozhodné důkazy / podklady:** žádost o zprávu/mediaci, souhlasy stran, zpráva PMS, doklad o sociálním zázemí.
 
 ---
 
@@ -1172,6 +1956,42 @@ PMS plní úlohy v přípravném řízení (zprávy o sociálním zázemí obvin
 
 Tento institut získal na významu po **novele 333/2020 Sb.** v souvislosti s **§ 102a TZ** (zabrání části majetku — viz Komentar-TZ-40-2009/06-cast1-hlava5c-ochranna-opatreni.md).
 
+### F. Kazuistika
+
+**1. Modelová situace.** V přípravném řízení o rozsáhlém daňovém úniku státní zástupce vyzve obviněného i jeho manželku (osobu blízkou), aby podali prohlášení o majetku včetně účtů, pohledávek a svěřenských fondů. Obviněný odmítne s odkazem na zákaz sebeobviňování; manželka tvrdí, že ji výzva tížit nemůže. Důkazy: výzva, doklady o majetku, případné svěřenské fondy.
+
+**2. Právní otázka.** Komu lze uložit prohlášení o majetku, jaký je jeho obsah a lze odepřít jeho podání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7a — výzva k prohlášení o majetku adresovaná osobě, jejíž majetek je zjišťován, i osobě blízké; taxativní obsah (odst. 2) včetně svěřenských fondů.
+- *Související ustanovení téhož zákona:* § 92 odst. 1, § 100 (zákaz sebeobviňování, odepření výpovědi), § 78–79 (vydání věci), § 79a a násl. (zajištění).
+- *Související předpisy:* § 102a TZ (zabrání části majetku) ve znění novely č. 333/2020 Sb.
+- *Judikatura:* nosný závěr — povinnost součinnosti nesmí nutit osobu k aktivnímu sebeobviňování; rozsah ochrany se posuzuje analogicky pravidlům o výpovědi.
+
+**4. Subsumpce.** Výzvu lze adresovat obviněnému i osobě blízké (odst. 1). Obsah je taxativní (odst. 2). Právo odepřít plyne analogicky z § 92 odst. 1 a § 100 — nelze nutit k údajům, jež by vedly k sebeobvinění; nesplnění zakládá možnost předvolání k vysvětlení/výpovědi.
+
+**5. Řešení.** Orgán poučí adresáty o obsahu i o právu odepřít; při pochybnostech o pravdivosti či při nesplnění předvolá k výpovědi. Údaje slouží zajištění majetku a případnému zabrání části majetku (§ 102a TZ). Procesní krok: řádná výzva s poučením, ověření prohlášení.
+
+**6. Varianty.** (a) U svěřenského fondu, kde je adresát obmyšleným, je povinnost údaj uvést (písm. e). (b) Vůči osobě blízké nelze vynucovat údaje, jež by ji samu vystavily riziku trestního stíhání.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „prohlášení o majetku obchází zákaz sebeobviňování":* ochrana se uplatní analogicky a orgán o ní poučí; neutralizace odkazem na § 92 odst. 1, § 100.
+- *Protiargument „osoba blízká nemá žádné povinnosti":* § 7a výslovně dopadá i na osobu blízkou, s výhradou práva odepřít.
+- *Slabé místo:* hranice mezi přípustným zjišťováním majetku a nepřípustným donucením je citlivá.
+
+### H. Praktický závěr
+
+Výzvu adresujte oprávněně (i osobě blízké), držte se taxativního obsahu odst. 2 a vždy poučte o právu odepřít; údaje využijte pro zajištění a případné zabrání majetku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výzva adresována oprávněné osobě (vč. osoby blízké)?
+- [ ] Odpovídá požadovaný obsah taxativnímu výčtu odst. 2 (vč. svěřenských fondů)?
+- [ ] Byla osoba poučena o právu odepřít (zákaz sebeobviňování)?
+- [ ] Slouží údaje zajištění majetku / zabrání části majetku (§ 102a TZ)?
+
+**Typicky rozhodné důkazy / podklady:** písemná výzva s poučením, podané prohlášení, výpisy z účtů a katastru, dokumentace svěřenských fondů.
+
 ---
 
 ## § 7b — Uchování dat v počítačovém systému
@@ -1201,6 +2021,42 @@ Dvě varianty příkazu:
 Příkaz vydává předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán (s předchozím souhlasem státního zástupce, pouze pro **policejní orgán bez něj při neodkladnosti**).
 
 **Maximální doba: 90 dnů.** Příkaz se neprodleně doručí adresátovi. Adresát je vázán **mlčenlivostí** o existenci příkazu (typicky ISP, webhostingové společnosti, sociální sítě).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Policejní orgán zjistí, že podezřelý pravděpodobně maže obsah cloudového úložiště u poskytovatele; je třeba urychleně zajistit, aby data nebyla změněna, a zabránit přístupu dalších osob. Hrozí nebezpečí z prodlení. Důkazy: informace o hrozícím výmazu, identifikace poskytovatele, příkaz k uchování.
+
+**2. Právní otázka.** Lze poskytovateli nařídit uchování dat v nezměněné podobě a znemožnění přístupu, kým a na jak dlouho?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7b — příkaz k uchování dat (odst. 1) a ke znemožnění přístupu (odst. 2); max. 90 dnů; mlčenlivost adresáta.
+- *Související ustanovení téhož zákona:* § 8 (součinnost), § 78–79 (vydání/odnětí věci), § 88, § 88a (odposlech, metadata), § 158 odst. 3.
+- *Související předpisy:* Úmluva o počítačové kriminalitě (Budapešťská úmluva, čl. 16–17).
+- *Judikatura:* obecně — uchování dat (preservation) je méně intenzivním zásahem než jejich vydání; musí být časově omezené a účelové.
+
+**4. Subsumpce.** Při nebezpečí z prodlení může příkaz vydat policejní orgán (jinak s předchozím souhlasem státního zástupce); jde o uchování (odst. 1), případně znemožnění přístupu (odst. 2) na dobu nejvýše 90 dnů. Poskytovatel je vázán mlčenlivostí.
+
+**5. Řešení.** Orgán vydá a neprodleně doručí příkaz s vymezením dat a doby; následně zajistí samotné vydání/odnětí dat podle § 78–79. Procesní krok: identifikace dat, doručení příkazu, navazující zajištění důkazu.
+
+**6. Varianty.** (a) Není-li nebezpečí z prodlení, je u policejního orgánu třeba předchozího souhlasu státního zástupce. (b) Po podání obžaloby vydává příkaz předseda senátu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „uchování dat = odposlech, vyžaduje příkaz soudce":* uchování je mírnějším institutem než odposlech (§ 88); neutralizace odlišením preservation a interception.
+- *Protiargument „90denní limit lze libovolně prodlužovat":* jde o maximální dobu opatření; pro další nakládání je třeba samostatného titulu (vydání/odnětí).
+- *Slabé místo:* extrateritorialita dat a vázanost zahraničních poskytovatelů — nutná mezinárodní spolupráce.
+
+### H. Praktický závěr
+
+K rychlému zajištění digitálních důkazů použijte příkaz k uchování (odst. 1), případně znemožnění přístupu (odst. 2); respektujte 90denní limit a navazujícím titulem zajistěte samotná data.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán titul a (ne)existuje nebezpečí z prodlení pro postup bez souhlasu SZ?
+- [ ] Jsou data a doba uchování (max. 90 dnů) v příkazu jasně vymezeny?
+- [ ] Byl příkaz neprodleně doručen a adresát poučen o mlčenlivosti?
+- [ ] Navazuje na uchování řádné zajištění/vydání dat (§ 78–79)?
+
+**Typicky rozhodné důkazy / podklady:** příkaz k uchování, doklad o doručení, identifikace dat a poskytovatele, navazující protokol o zajištění.
 
 ---
 
@@ -1281,11 +2137,85 @@ Mlčenlivost dle MS, jíž je ČR vázána (typicky tajné kanály při mezinár
 
 Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o všem, co se dozvěděla. Mlčenlivost končí pro účely řízení před soudem nebo jiným orgánem. Poučovací povinnost: o povinnosti i o následcích porušení musí být osoba poučena.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Státní zástupce v přípravném řízení o praní peněz potřebuje od banky výpisy z účtů obviněného (bankovní tajemství) a chce nařídit sledování účtu do budoucna. Banka odmítá s odkazem na bankovní tajemství a na smluvní doložku mlčenlivosti vůči klientovi. Důkazy: žádost OČTŘ, podklady o účtech, návrh na sledování účtu.
+
+**2. Právní otázka.** Za jakých podmínek lze prolomit bankovní tajemství a nařídit sledování účtu a obstojí proti tomu smluvní mlčenlivost banky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 — obecná součinnost (odst. 1), prolomení bankovního tajemství (odst. 2), sledování účtu (odst. 3), meze mlčenlivosti (odst. 4–7).
+- *Související ustanovení téhož zákona:* § 79a a násl. (zajištění peněžních prostředků), § 8a (ochrana informací), § 88a.
+- *Související předpisy:* zákon o bankách (bankovní tajemství), zákon č. 253/2008 Sb. (AML), § 367–368 TZ.
+- *Judikatura:* NS 30 Cdo 170/2014 (citováno — meze povinností a odpovědnost státu v souvislosti se součinností); obecně — smluvní mlčenlivost není „státem uznanou" povinností mlčenlivosti.
+
+**4. Subsumpce.** Údaje chráněné bankovním tajemstvím vyžádá v přípravném řízení státní zástupce (odst. 2); sledování účtu nařídí soudce na návrh státního zástupce na dobu 6 měsíců (odst. 3). Smluvní doložka mlčenlivosti se podle závěru odst. 4 nepovažuje za státem uznanou povinnost mlčenlivosti a součinnost neomlouvá.
+
+**5. Řešení.** Banka je povinna údaje poskytnout a sledování umožnit; údaje smí být použity jen pro dané trestní řízení (účelové omezení). Procesní krok: žádost SZ k bankovnímu tajemství, návrh soudci na sledování účtu, poučení o mlčenlivosti o součinnosti (odst. 7).
+
+**6. Varianty.** (a) Údaje krytá advokátní mlčenlivostí (odst. 5) zůstávají chráněny. (b) Po podání obžaloby k bankovnímu tajemství žádá předseda senátu; sledování účtu prodlužuje soudce krajského soudu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „smluvní NDA brání poskytnutí údajů":* odmítnuto výslovně — mlčenlivost z právního úkonu není státem uznaná; neutralizace posledním pododstavcem odst. 4.
+- *Protiargument „policejní orgán si údaje může vyžádat sám":* k bankovnímu tajemství je třeba SZ (přípravné řízení), nikoli policejní orgán bez souhlasu.
+- *Slabé místo:* dodržení účelového omezení a ochrana před zneužitím získaných citlivých dat.
+
+### H. Praktický závěr
+
+Bankovní tajemství prolomí v přípravném řízení SZ, sledování účtu nařizuje soudce; smluvní mlčenlivost součinnost neomlouvá, advokátní mlčenlivost zůstává nedotčena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyžádal údaje kryté bankovním tajemstvím oprávněný orgán (SZ / předseda senátu)?
+- [ ] Je sledování účtu nařízeno soudcem na návrh SZ (lhůta 6 měsíců)?
+- [ ] Nejde o údaje kryté advokátní mlčenlivostí (odst. 5)?
+- [ ] Je dodrženo účelové omezení použití dat a poučení o mlčenlivosti (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** žádost/příkaz OČTŘ, bankovní výpisy, rozhodnutí o sledování účtu, doklad o poučení.
+
 ---
 
 ## §§ 8a–d — Poskytování informací o trestním řízení a osobách na něm zúčastněných
 
 **Komplexní úprava** ochrany informací o trestním řízení — citlivá rovnováha mezi **právem na informace** (čl. 17 LZPS), **svobodou tisku** (čl. 17 LZPS) a **ochranou osobnosti** (čl. 10 LZPS) + **presumpcí neviny**.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Redakce chce zveřejnit reportáž o probíhajícím přípravném řízení, v níž uvede jméno obviněného, fotografii nezletilé poškozené a informace o nařízeném odposlechu. OČTŘ i poškozená se brání. Důkazy: připravovaný materiál, stadium řízení, věk poškozené, doklad o odposlechu.
+
+**2. Právní otázka.** Které informace o trestním řízení a osobách na něm zúčastněných lze zveřejnit a kde jsou absolutní zákazy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* §§ 8a–8d jako systém — vyvážení práva na informace, svobody tisku, presumpce neviny a ochrany osobnosti.
+- *Související ustanovení téhož zákona:* § 8a (informace OČTŘ), § 8b (zákaz šíření, ochrana obětí), § 8c (odposlechy), § 8d (výjimky), § 2 odst. 2.
+- *Související předpisy:* čl. 10, 17 LZPS, § 81 a násl. OZ (ochrana osobnosti), zák. č. 45/2013 Sb.
+- *Judikatura:* ESLP (vyvažování čl. 8 a čl. 10) — u zranitelných obětí a presumpce neviny převažuje ochrana; obecný veřejný zájem nestačí k prolomení absolutních zákazů.
+
+**4. Subsumpce.** V přípravném řízení platí zákaz údajů umožňujících ztotožnění obviněného (§ 8a); totožnost nezletilé poškozené je chráněna absolutně (§ 8b odst. 2); informace o odposlechu nelze bez souhlasu zveřejnit, nebyly-li použity jako důkaz (§ 8c).
+
+**5. Řešení.** Reportáž lze publikovat jen anonymizovaně (bez ztotožnění obviněného v přípravném řízení), bez jakékoli identifikace nezletilé oběti a bez údajů o odposlechu; jinak hrozí odpovědnost za zásah do osobnosti a sankce. Procesní krok: anonymizace, posouzení výjimek § 8d.
+
+**6. Varianty.** (a) Po pravomocném odsouzení a v rozsahu výjimek § 8d lze zveřejnit více (nikoli však totožnost obětí dle § 8b odst. 2). (b) Se souhlasem dotčené osoby (§ 8d) lze publikovat údaje, na něž se jinak vztahuje zákaz.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „svoboda tisku převažuje, jde o věc veřejného zájmu":* veřejný zájem neprolomí absolutní zákazy u zranitelných obětí a presumpci neviny; neutralizace § 8b odst. 2 a § 2 odst. 2.
+- *Protiargument „informace už kolují, zákaz nemá smysl":* zákaz dalšího šíření (§ 8b odst. 1) platí bez ohledu na předchozí únik.
+- *Slabé místo:* hranice mezi přípustnou informací o podezření a nepřípustným ztotožněním je jazykově citlivá.
+
+### H. Praktický závěr
+
+K informování o trestní věci přistupujte selektivně: v přípravném řízení neztotožňujte obviněného, nikdy neidentifikujte chráněné oběti (§ 8b odst. 2) a nezveřejňujte údaje o odposleších (§ 8c); výjimky řeší § 8d.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je řízení v přípravné fázi (širší zákaz ztotožnění)?
+- [ ] Nejde o oběť chráněnou absolutním zákazem (§ 8b odst. 2)?
+- [ ] Neobsahuje materiál údaje o odposlechu/sledování (§ 8c)?
+- [ ] Je dána některá z výjimek § 8d (pátrání, veřejný zájem, souhlas)?
+
+**Typicky rozhodné důkazy / podklady:** připravovaný materiál, doklad o stadiu řízení a věku/postavení poškozeného, podklady o odposlechu, případný souhlas.
+
+---
 
 ### § 8a — Informace OČTŘ veřejnosti
 <details>
@@ -1311,6 +2241,44 @@ Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o vše
 **Odst. 2** — Zvláštní ochrana osob mladších 18 let.
 
 **Odst. 3** — Vyhrazení informování státním zástupcem: v přípravném řízení si může státní zástupce vyhradit právo poskytovat informace; policejní orgán je pak může poskytnout jen s jeho souhlasem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Tiskový mluvčí policie na začátku prověřování poskytne médiím jméno, fotografii a adresu obviněného a podrobnosti, které mohou ohrozit dosud neprovedené úkony. Státní zástupce si přitom dříve vyhradil poskytování informací. Důkazy: tisková zpráva, stadium řízení, výhrada SZ.
+
+**2. Právní otázka.** Smí policejní orgán v přípravném řízení poskytnout údaje umožňující ztotožnění obviněného a informace ohrožující objasnění věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8a — meze informování OČTŘ (ochrana objasnění, presumpce neviny, zákaz ztotožnění v přípravném řízení, výhrada SZ podle odst. 3).
+- *Související ustanovení téhož zákona:* § 8b, § 2 odst. 2, § 8d.
+- *Související předpisy:* čl. 10 LZPS (ochrana osobnosti), § 81 a násl. OZ.
+- *Judikatura:* nosný závěr — předčasné zveřejnění ztotožňujících údajů v přípravném řízení je porušením § 8a a může zasáhnout do osobnostních práv.
+
+**4. Subsumpce.** V přípravném řízení nelze zveřejnit údaje umožňující ztotožnění obviněného a informace ohrožující objasnění (odst. 1). Poskytl-li je policejní orgán bez souhlasu SZ, který si vyhradil informování (odst. 3), porušil § 8a.
+
+**5. Řešení.** Informace měla být poskytnuta nanejvýš anonymizovaně a se souhlasem SZ; dotčená osoba se může bránit ochranou osobnosti a stížností na postup. Procesní krok: respektovat výhradu SZ, anonymizovat, chránit neukončené úkony.
+
+**6. Varianty.** (a) Po skončení přípravného řízení se zákaz ztotožnění zmírňuje. (b) Pro účely pátrání (§ 8d) lze i v přípravném řízení zveřejnit identifikační údaje v nezbytném rozsahu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „veřejnost má právo znát totožnost podezřelého":* v přípravném řízení převažuje zákaz ztotožnění a presumpce neviny; neutralizace odst. 1.
+- *Protiargument „mluvčí informuje samostatně":* po výhradě SZ (odst. 3) jen s jeho souhlasem.
+- *Slabé místo:* tlak na rychlou medializaci vs. ochrana neukončených úkonů.
+
+#### H. Praktický závěr
+
+V přípravném řízení informujte zdrženlivě a anonymizovaně, respektujte výhradu státního zástupce a nezveřejňujte nic, co ohrozí dosud neprovedené úkony.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neohrozí informace objasnění věci?
+- [ ] Neumožňuje sdělení ztotožnění obviněného v přípravném řízení?
+- [ ] Je respektována případná výhrada SZ (odst. 3)?
+- [ ] Je chráněna presumpce neviny a osoby mladší 18 let (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** tisková zpráva, doklad o stadiu řízení, výhrada SZ, přehled dosud neprovedených úkonů.
+
+---
 
 ### § 8b — Zákaz dalšího šíření a ochrana některých kategorií poškozených
 <details>
@@ -1346,6 +2314,44 @@ Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o vše
 
 **Odst. 4** — Pravomocný rozsudek nesmí být zveřejněn s uvedením totožnosti poškozeného z odst. 2 (jméno, příjmení, bydliště).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Internetový deník zveřejní celé jméno a bydliště oběti znásilnění (§ 185 TZ) a posléze i fotografii z hlavního líčení; po pravomocném rozsudku jméno oběti uvede v plném znění rozsudku na webu. Oběť se brání. Důkazy: publikované články, znění rozsudku, kvalifikace činu.
+
+**2. Právní otázka.** Je zveřejnění totožnosti oběti sexuálního trestného činu a obrazových záznamů z líčení přípustné, i po pravomocném rozsudku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8b — zákaz dalšího šíření (odst. 1) a absolutní zákaz zveřejnění totožnosti poškozeného u taxativně vyjmenovaných činů (odst. 2), zákaz záznamů (odst. 3) a uvedení totožnosti v rozsudku (odst. 4).
+- *Související ustanovení téhož zákona:* § 8a, § 8d (výjimky), § 8c.
+- *Související předpisy:* § 185 TZ, čl. 10 LZPS, zák. č. 45/2013 Sb.
+- *Judikatura:* nosný závěr — u obětí sexuálních a dalších vyjmenovaných činů jde o absolutní ochranu totožnosti, kterou nepřebije ani veřejný zájem.
+
+**4. Subsumpce.** Znásilnění spadá pod § 8b odst. 2; zveřejnění jména, bydliště, fotografie i uvedení totožnosti v rozsudku (odst. 4) je zakázáno absolutně, a to i po pravomocném rozsudku. Šíření porušuje i odst. 1 a 3.
+
+**5. Řešení.** Publikace je protiprávní; oběť se může domáhat ochrany osobnosti a náhrady nemajetkové újmy, hrozí i sankce za přestupek/trestný čin. Rozsudek se zveřejňuje anonymizovaně. Procesní krok: výzva k odstranění, žaloba na ochranu osobnosti.
+
+**6. Varianty.** (a) Jen výslovný souhlas oběti (§ 8d) by zveřejnění totožnosti umožnil. (b) U poškozeného, který nespadá do výčtu odst. 2 a není zranitelný, je ochrana slabší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozsudek je veřejný, totožnost lze uvést":* odst. 4 zakazuje uvedení totožnosti oběti z odst. 2 i v rozsudku; neutralizace přímo textem.
+- *Protiargument „po odsouzení už ochrana neplatí":* zákaz je trvalý a na pravomocnosti nezávislý.
+- *Slabé místo:* digitální nevymazatelnost — důraz na prevenci a rychlý zásah.
+
+#### H. Praktický závěr
+
+U obětí činů vyjmenovaných v § 8b odst. 2 nikdy nezveřejňujte jejich totožnost ani záznamy — jde o absolutní, časově neomezený zákaz; rozsudek anonymizujte.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá čin do taxativního výčtu § 8b odst. 2?
+- [ ] Je vyloučeno zveřejnění totožnosti oběti (jméno, bydliště, obraz)?
+- [ ] Je rozsudek anonymizován (odst. 4)?
+- [ ] Není dáno další (zakázané) šíření poskytnutých informací (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** publikované materiály, kvalifikace činu, znění rozsudku, případný souhlas oběti.
+
+---
+
 ### § 8c — Informace o odposleších a sledování
 <details>
 <summary>📜 <strong>Citace § 8c (úplné znění)</strong></summary>
@@ -1362,6 +2368,44 @@ Osoba, která plnila součinnost, je povinna **zachovávat mlčenlivost** o vše
 - **sledování osob a věcí** dle § 158d odst. 2 a 3.
 
 Výjimka: pokud byly použity jako důkaz v řízení před soudem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Týdeník získá a otiskne přepis odposlechu telefonu podnikatele z přípravného řízení; odposlech nebyl (a možná nebude) použit jako důkaz v řízení před soudem a umožňuje ztotožnění dotčené osoby. Ta nedala souhlas. Důkazy: publikovaný přepis, doklad, že odposlech nebyl proveden jako důkaz, absence souhlasu.
+
+**2. Právní otázka.** Lze zveřejnit informace o nařízení/provedení odposlechu a údaje z něj získané, nebyly-li použity jako důkaz před soudem a chybí-li souhlas dotčené osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8c — bez souhlasu dotčené osoby nelze zveřejnit informace o odposlechu (§ 88), metadatech (§ 88a) a sledování (§ 158d odst. 2, 3), umožňují-li ztotožnění a nebyly-li použity jako důkaz před soudem.
+- *Související ustanovení téhož zákona:* § 88, § 88a, § 158d, § 8a, § 8d.
+- *Související předpisy:* čl. 10, 13 LZPS (ochrana soukromí a tajemství zpráv).
+- *Judikatura:* nosný závěr — neveřejné odposlechové informace požívají zvýšené ochrany; jejich publikace bez souhlasu je zásahem do soukromí.
+
+**4. Subsumpce.** Odposlech nebyl použit jako důkaz před soudem, přepis umožňuje ztotožnění a chybí souhlas → zveřejnění je v rozporu s § 8c.
+
+**5. Řešení.** Publikace je protiprávní; dotčená osoba se může bránit ochranou osobnosti a soukromí, hrozí sankce. Procesní krok: výzva k odstranění, žaloba, prošetření úniku ze spisu. Výjimkou je jen použití odposlechu jako důkazu v řízení před soudem.
+
+**6. Varianty.** (a) Byl-li odposlech proveden jako důkaz při hlavním líčení, ochrana podle § 8c se neuplatní. (b) S výslovným souhlasem dotčené osoby je zveřejnění možné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jde o věc veřejného zájmu o podnikateli":* zákonná podmínka je „použití jako důkaz před soudem", nikoli obecný veřejný zájem; neutralizace textem § 8c.
+- *Protiargument „informace unikla, publikace už nic nezmění":* protiprávnost trvá nezávisle na úniku.
+- *Slabé místo:* identifikace zdroje úniku a prokázání, zda byl odposlech proveden jako důkaz.
+
+#### H. Praktický závěr
+
+Informace z odposlechů a sledování nezveřejňujte bez souhlasu dotčené osoby, ledaže byly provedeny jako důkaz v řízení před soudem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Umožňují informace ztotožnění dotčené osoby?
+- [ ] Byly použity jako důkaz v řízení před soudem (jediná zákonná výjimka)?
+- [ ] Je dán souhlas dotčené osoby?
+- [ ] Nejde o údaje z § 88, § 88a nebo § 158d odst. 2, 3?
+
+**Typicky rozhodné důkazy / podklady:** publikovaný obsah, doklad o (ne)provedení odposlechu jako důkazu, doklad o souhlasu, podklady o úniku ze spisu.
+
+---
 
 ### § 8d — Výjimky ze zákazu zveřejnění
 <details>
@@ -1381,6 +2425,42 @@ Výjimka: pokud byly použity jako důkaz v řízení před soudem.
 1. **Pátrání po osobách, dosažení účelu TŘ**, nebo umožňuje-li to TŘ (např. pátrací leták);
 2. **Převažující veřejný zájem** — váží se práva na soukromí; zvláště u osob mladších 18 let;
 3. **Souhlas osoby**, jíž se zákaz týká (vyslovený souhlas). U zemřelých osob souhlas dává manžel/partner/děti/rodiče; u mladších 18 let zákonný zástupce. **Souhlas nemůže udělit pachatel** TČ vůči zemřelému.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Policie pátrá po nebezpečném uprchlém obviněném a chce zveřejnit jeho fotografii a jméno (pátrací leták), ačkoli jinak by v přípravném řízení ztotožnění bylo zakázáno. V jiné věci redakce žádá o zveřejnění údajů s odkazem na převažující veřejný zájem o jednání vysokého veřejného funkcionáře. Důkazy: pátrací spis, posouzení nebezpečnosti, kontext veřejného zájmu.
+
+**2. Právní otázka.** Za jakých podmínek se uplatní výjimky ze zákazu zveřejnění informací podle § 8d?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8d — tři typy výjimek: pátrání/účel řízení, převažující veřejný zájem, souhlas dotčené osoby (vč. pravidel pro zemřelé a osoby mladší 18 let).
+- *Související ustanovení téhož zákona:* § 8a, § 8b, § 8c, § 158 (pátrání).
+- *Související předpisy:* čl. 10, 17 LZPS (vyvažování soukromí a informací).
+- *Judikatura:* ESLP — u osob veřejného zájmu je prostor pro informování širší, stále však s ohledem na proporcionalitu a ochranu zranitelných.
+
+**4. Subsumpce.** Pátrací leták spadá pod výjimku „pátrání po osobách / dosažení účelu řízení" (bod 1) — zveřejnění identifikačních údajů je přípustné v nezbytném rozsahu. Veřejný zájem (bod 2) se poměřuje s právem na soukromí, zvláště u osob mladších 18 let; nepřebíjí absolutní zákazy § 8b odst. 2.
+
+**5. Řešení.** Pátrací zveřejnění je legální v nezbytném rozsahu; u veřejného funkcionáře lze informovat při převaze veřejného zájmu, nikdy však neprolomit ochranu obětí z § 8b odst. 2. Souhlas (bod 3) legalizuje zveřejnění tam, kde jinak platí zákaz. Procesní krok: test proporcionality, vymezení nezbytného rozsahu.
+
+**6. Varianty.** (a) Po dopadení pominou důvody pátracího zveřejnění a údaje je třeba stáhnout. (b) Souhlas za zemřelého dává manžel/partner/děti/rodiče; pachatel činu vůči zemřelému jej dát nemůže.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „veřejný zájem ospravedlní jakékoli zveřejnění":* nepřebíjí absolutní zákazy (§ 8b odst. 2) a podléhá proporcionalitě; neutralizace strukturou § 8d.
+- *Protiargument „souhlas může dát kdokoli z rodiny":* zákon stanoví okruh a vylučuje pachatele; nutné ověření.
+- *Slabé místo:* posouzení „převahy" veřejného zájmu je hodnotící a sporné.
+
+#### H. Praktický závěr
+
+Výjimky § 8d vykládejte úzce a vždy testem proporcionality; pátrání legitimizuje nezbytné ztotožnění, veřejný zájem nikdy neprolomí absolutní ochranu obětí, souhlas musí dát oprávněná osoba.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán konkrétní účel (pátrání / dosažení účelu řízení) a nezbytný rozsah?
+- [ ] Převažuje veřejný zájem nad soukromím (a nejde o absolutní zákaz § 8b odst. 2)?
+- [ ] Byl souhlas udělen oprávněnou osobou (vč. pravidel u zemřelých a nezletilých)?
+- [ ] Byly údaje po pominutí důvodu staženy?
+
+**Typicky rozhodné důkazy / podklady:** pátrací podklady, posouzení nebezpečnosti, doklad o souhlasu, vyhodnocení veřejného zájmu.
 
 ---
 
@@ -1413,6 +2493,42 @@ Výjimka: pokud byly použity jako důkaz v řízení před soudem.
 - *ÚS* [II.ÚS 413/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-413-04) — nález, 3. 3. 2005
   > „Rozhodnutí v tomto směru přitom lze učinit pouze v řízení občanskoprávním, a z povahy věci je vyloučeno, aby bylo o této věci rozhodnuto orgány činnými v trestním řízení jako o předběžné otázce podle § 9 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů. … Otázka, zda, kdy a za jakých okolností je bývalý nájemce povinen vyklidit byt, je výsostně věcí občanskoprávní, a není nutné ani vhodné, aby do uplynutí lhůty stanovené rozhodnutím civilního soudu k vyklizení bytu ve věci zasahovaly orgány činné v trestním řízení"
 
+### F. Kazuistika
+
+**1. Modelová situace.** Obviněný je stíhán pro zkrácení daně (§ 240 TZ). Finanční úřad pravomocně vyměřil daň a stanovil její výši; obhajoba namítá, že daň vůbec dlužná nebyla. V jiné věci závisí trestnost na otázce vlastnictví věci (krádež). Důkazy: rozhodnutí finančního úřadu, daňový spis, doklady o vlastnictví.
+
+**2. Právní otázka.** Je trestní soud vázán pravomocným rozhodnutím jiného orgánu o předběžné otázce a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 — OČTŘ posuzují předběžné otázky samostatně; jsou však vázány pravomocným rozhodnutím soudu/orgánu, vyjma posouzení viny; u otázek osobního stavu vyčkávají.
+- *Související ustanovení téhož zákona:* § 9a (otázky pro SDEU), § 224, § 173.
+- *Související předpisy:* § 240 TZ, daňový řád, občanský zákoník (vlastnictví).
+- *Judikatura:* NS 7 Tz/věc citovaná u § 2 odst. 9 a § 9 — otázka vyklizení bytu je výsostně občanskoprávní a nelze ji řešit jako předběžnou otázku v trestním řízení.
+
+**4. Subsumpce.** Pravomocné vyměření daně je pro trestní soud závazné v rozsahu existence a výše daňové povinnosti (§ 9 odst. 1), avšak nezávazné ohledně zavinění (viny). Otázku vlastnictví posoudí soud samostatně, není-li o ní pravomocné civilní rozhodnutí; je-li, je jím vázán.
+
+**5. Řešení.** Soud převezme závěr o výši daně, vinu (úmysl) však hodnotí sám. U otázek osobního stavu vyčká pravomocného rozhodnutí příslušného soudu. Procesní krok: vyžádání správního/civilního rozhodnutí, případně přerušení řízení.
+
+**6. Varianty.** (a) Je-li daňové rozhodnutí zrušeno, odpadá závaznost a soud otázku posoudí znovu. (b) U otázky platnosti smlouvy (podvod) bez pravomocného civilního rozhodnutí posuzuje soud samostatně.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „trestní soud si vše posoudí sám":* u otázek osobního stavu a tam, kde existuje pravomocné rozhodnutí, je vázán; neutralizace § 9 odst. 1 a 2.
+- *Protiargument „daňové rozhodnutí určuje i vinu":* vázanost se netýká posouzení viny (zavinění).
+- *Slabé místo:* odlišení „skutkového základu" (vázanost) od „viny" (samostatné posouzení) je v praxi náročné.
+
+### H. Praktický závěr
+
+Předběžné otázky řešte samostatně, ale respektujte pravomocná rozhodnutí jiných orgánů (vyjma viny); u otázek osobního stavu vyčkejte jejich rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje pravomocné rozhodnutí soudu/orgánu o předběžné otázce?
+- [ ] Týká se vázanost jen skutkového základu, nikoli viny?
+- [ ] Jde o otázku osobního stavu vyžadující vyčkání?
+- [ ] Nebylo závazné rozhodnutí zrušeno?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí správního/civilního orgánu, příslušný spis, doklady k otázce vlastnictví či osobního stavu.
+
 ---
 
 ## § 9a — Předběžné otázky Soudního dvora EU
@@ -1440,6 +2556,42 @@ Pokud trestní soud (lze i v přípravném řízení? — sporné, ÚS v Pl. ÚS
 **Závaznost rozhodnutí SDEU** pro všechny OČTŘ — odst. 4.
 
 Předběžná otázka je typická pro výklad nařízení EPPO, směrnic v oblasti AML, EVP, eurozatykače.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Trestní soud v řízení o trestném činu poškození finančních zájmů EU naráží na spornou otázku výkladu nařízení EU, na němž závisí, zda jednání vůbec naplňuje znaky činu. Výklad nařízení je nejasný a dosud nebyl SDEU řešen. Důkazy: znění nařízení, skutkový stav, dosavadní judikatura.
+
+**2. Právní otázka.** Je trestní soud oprávněn (či povinen) položit předběžnou otázku Soudnímu dvoru EU a jaké to má procesní důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9a — položení žádosti SDEU u otázek výlučně v jeho pravomoci, přerušení trestního řízení, závaznost rozhodnutí SDEU pro OČTŘ.
+- *Související ustanovení téhož zákona:* § 9 (předběžné otázky obecně), § 173, § 224 (přerušení).
+- *Související předpisy:* čl. 267 SFEU, nařízení 2017/1939 (EPPO).
+- *Judikatura:* Pl. ÚS 36/15 (citováno — sporné položení v přípravném řízení); doktrína acte clair (CILFIT) jako mez povinnosti předložit.
+
+**4. Subsumpce.** Jde-li o otázku výkladu unijního práva výlučně v pravomoci SDEU a její řešení je pro rozhodnutí nezbytné, soud (zejména poslední instance) položí předběžnou otázku a řízení přeruší; výsledek je závazný pro všechny OČTŘ.
+
+**5. Řešení.** Soud zformuluje otázku, přeruší řízení (§ 224) a vyčká rozhodnutí SDEU; poté podle něj rozhodne. Procesní krok: prověření, zda nejde o acte clair/acte éclairé, formulace otázky, přerušení.
+
+**6. Varianty.** (a) Je-li výklad zjevný (acte clair) nebo již SDEU rozhodnut, otázku pokládat netřeba. (b) Položení v přípravném řízení je sporné (Pl. ÚS 36/15) — zpravidla až v řízení před soudem.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „trestní soud si unijní právo vyloží sám":* u otázek výlučně v pravomoci SDEU a u soudu poslední instance vzniká povinnost předložit; neutralizace čl. 267 SFEU.
+- *Protiargument „přerušení neúměrně prodlouží řízení":* je vyváženo závazností a jednotností výkladu; nutno zvážit u vazebních věcí.
+- *Slabé místo:* posouzení, zda jde o acte clair, je odpovědné a přezkoumatelné.
+
+### H. Praktický závěr
+
+U sporných otázek výkladu unijního práva zvažte předběžnou otázku k SDEU a přerušení řízení; jeho rozhodnutí je pro OČTŘ závazné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o otázku výkladu unijního práva výlučně v pravomoci SDEU?
+- [ ] Je její zodpovězení nezbytné pro rozhodnutí?
+- [ ] Nejde o acte clair / již rozhodnutou otázku?
+- [ ] Bylo řízení řádně přerušeno do rozhodnutí SDEU?
+
+**Typicky rozhodné důkazy / podklady:** znění unijního předpisu, skutkový stav, rešerše judikatury SDEU, formulace předběžné otázky.
 
 ---
 
@@ -1469,6 +2621,42 @@ Předběžná otázka je typická pro výklad nařízení EPPO, směrnic v oblas
 - **Hlavy cizích států a vlád** během oficiální návštěvy — obyčejové mezinárodní právo.
 
 **Sporné případy** rozhoduje **Nejvyšší soud** (odst. 2) — na návrh dotčené osoby, státního zástupce nebo soudu.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Policie chce zahájit trestní stíhání poslance za výrok pronesený na schůzi Poslanecké sněmovny a v jiné věci zadržet poslance přistiženého při dopravním trestném činu mimo budovu sněmovny. Současně zvažuje stíhání diplomata akreditovaného pro ČR. Důkazy: doklad o mandátu/akreditaci, místo a povaha jednání.
+
+**2. Právní otázka.** Které osoby jsou vyňaty z pravomoci OČTŘ, v jakém rozsahu, a kdo rozhoduje sporné případy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 — vynětí z pravomoci OČTŘ podle zákona nebo mezinárodní smlouvy; o pochybnostech rozhoduje Nejvyšší soud (odst. 2).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. c) (nepřípustnost při nedostatku souhlasu), § 12.
+- *Související předpisy:* čl. 27, 24, 65, 86 Ústavy; Vídeňská úmluva o diplomatických stycích (157/1964 Sb.); protokol o výsadách EU.
+- *Judikatura:* nosný závěr — indemnita za výroky v komoře je absolutní; procesní imunita podléhá souhlasu komory; diplomatická imunita je úplná.
+
+**4. Subsumpce.** Výrok poslance na schůzi sněmovny je kryt indemnitou (čl. 27 odst. 2 Ústavy) — stíhat nelze vůbec. Zadržení při dopravním činu mimo sněmovnu je možné jen za podmínek čl. 24 (přistižení při činu); diplomat je z pravomoci OČTŘ vyňat úplně (Vídeňská úmluva).
+
+**5. Řešení.** Za výrok v komoře se stíhání nezahájí (indemnita); u poslance přistiženého při činu se postupuje dle čl. 24 a vyžádá souhlas komory pro stíhání; vůči diplomatovi se nepostupuje (řeší se diplomatickou cestou). Sporné případy předloží orgán Nejvyššímu soudu (odst. 2). Procesní krok: ověření rozsahu imunity, žádost o souhlas komory.
+
+**6. Varianty.** (a) Odepře-li komora souhlas k stíhání, je trestní stíhání vyloučeno navždy (čl. 27 odst. 4). (b) U konzula je imunita jen pro úkony při výkonu funkce.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „imunita brání spravedlnosti, je třeba ji obejít":* imunita je ústavně/mezinárodně zaručena; neutralizace striktním rozlišením indemnity a procesní imunity.
+- *Protiargument „diplomata lze stíhat jako každého jiného":* nelze — úplné vynětí dle Vídeňské úmluvy, řešením je prohlášení za personu non grata.
+- *Slabé místo:* určení, zda jednání spadá pod výkon mandátu/funkce, je hraniční — proto § 10 odst. 2 svěřuje spory NS.
+
+### H. Praktický závěr
+
+Před každým úkonem vůči chráněné osobě ověřte rozsah imunity; za výroky v komoře nelze stíhat vůbec, jinak je třeba souhlasu příslušného orgánu, u diplomatů se postupuje mezinárodní cestou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je osoba vyňata z pravomoci OČTŘ (poslanec, senátor, soudce ÚS/obecný, diplomat, prezident)?
+- [ ] Jde o indemnitu (absolutní), nebo procesní imunitu (souhlas orgánu)?
+- [ ] Byl vyžádán potřebný souhlas (komora, Senát, prezident)?
+- [ ] Má spornou otázku rozhodnout Nejvyšší soud (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o mandátu/akreditaci, popis jednání a místa, žádost o souhlas a její vyřízení.
 
 ---
 
@@ -1597,6 +2785,43 @@ V některých případech (milost a–b, l) může obviněný do **3 dnů** od o
 
 Účinky *ne bis in idem* mají i rozhodnutí ICC, mezinárodních tribunálů (Norimberk, ICTY, ICTR, MTS) — viz § 145 odst. 1 písm. a) ZMJS. Výjimka — pokud bylo rozhodnutí vydáno **z důvodu nedostatku jurisdikce** nebo **nedostatečné závažnosti činu**.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Proti obviněnému bylo dříve vedeno řízení pro týž skutek, které skončilo pravomocným rozhodnutím o postoupení věci jako přestupku, a přestupkový orgán věc pravomocně vyřídil. Nyní chce státní zástupce týž skutek znovu trestně stíhat, protože jej nově hodnotí jako trestný čin. V paralelní věci byl obviněný pro týž skutek pravomocně odsouzen v jiném členském státě EU. Důkazy: dřívější rozhodnutí, přestupkový spis, cizozemský rozsudek.
+
+**2. Právní otázka.** Brání dřívější pravomocné rozhodnutí o témže skutku novému trestnímu stíhání (ne bis in idem), a to i v evropském rozměru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 — taxativní katalog důvodů nepřípustnosti (odst. 1 písm. a–o), evropský ne bis in idem (odst. 2), dílčí útoky (odst. 3), právo na pokračování (odst. 4), rozhodnutí mezinárodních soudů (odst. 5).
+- *Související ustanovení téhož zákona:* § 11a, § 172 odst. 1 písm. d) (zastavení), § 223 odst. 1.
+- *Související předpisy:* § 116 TZ (totožnost skutku), čl. 50 Listiny EU, čl. 54 ÚProvSchD, zák. č. 104/2013 Sb. (ZMJS).
+- *Judikatura:* SDEU Gözütok a Brügge, Spasic, Mantello; nosný závěr — překážku zakládá totožnost skutku, nikoli totožnost právní kvalifikace.
+
+**4. Subsumpce.** Pravomocné vyřízení téhož skutku jako přestupku (po marném uplynutí lhůty pro přezkum) zakládá nepřípustnost podle § 11 odst. 1 písm. k); rozhodující je totožnost skutku, nikoli odlišná kvalifikace. Cizozemský odsuzující rozsudek členského státu EU s vykonaným/vykonávaným trestem zakládá nepřípustnost dle § 11 odst. 2.
+
+**5. Řešení.** Nové trestní stíhání pro týž skutek je nepřípustné — nelze zahájit, a bylo-li zahájeno, musí být zastaveno (§ 172 odst. 1 písm. d). Procesní krok: zjištění totožnosti skutku, ověření pravomocnosti a vykonatelnosti dřívějšího rozhodnutí, případně výjimek odst. 2.
+
+**6. Varianty.** (a) Týká-li se překážka jen některého dílčího útoku pokračujícího TČ, lze stíhat zbývající část (odst. 3). (b) Spadá-li cizozemské rozhodnutí pod některou z výjimek odst. 2 (např. vydané jen proto, že čin není TČ), překážka nevzniká.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „nová, přísnější kvalifikace umožňuje znovu stíhat":* ne bis in idem chrání před opětovným stíháním téhož skutku bez ohledu na kvalifikaci; neutralizace § 116 TZ a judikaturou SDEU.
+- *Protiargument „cizozemské rozhodnutí pro nás není závazné":* odst. 2 a ZMJS závaznost zakládají, s taxativními výjimkami.
+- *Slabé místo:* určení „totožnosti skutku" a posouzení výjimek odst. 2 je náročné; u písm. f), g) je nutné aktuální znalecké posouzení trvalosti překážky.
+
+### H. Praktický závěr
+
+Před zahájením stíhání ověřte celý katalog § 11; existuje-li některý důvod (zejména ne bis in idem v české i evropské podobě), stíhání nelze vést a musí být zastaveno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje některý z taxativních důvodů § 11 odst. 1 (a–o)?
+- [ ] Jde o týž skutek (totožnost skutku, ne kvalifikace)?
+- [ ] Není dán evropský ne bis in idem (odst. 2) bez naplnění výjimek?
+- [ ] Týká se překážka celého skutku, nebo jen některého dílčího útoku (odst. 3)?
+- [ ] Nepožádal obviněný o pokračování (odst. 4) tam, kde to zákon umožňuje?
+
+**Typicky rozhodné důkazy / podklady:** dřívější pravomocná rozhodnutí (trestní, přestupková, cizozemská), doklad o vykonatelnosti, vymezení skutku, případně znalecký posudek o zdravotním stavu.
+
 ---
 
 ## § 11a — Překážka po zkráceném přípravném řízení
@@ -1624,6 +2849,42 @@ Dva specifické důvody, kdy státní zástupce ukončil zkrácené přípravné
 Po těchto rozhodnutích TS pro týž skutek **nelze zahájit**, nebylo-li rozhodnutí v předepsaném řízení zrušeno.
 
 Odst. 2 — totéž pro **nestíhání podezřelého** podle § 159d odst. 1 (státní zástupce rozhodne, že podezřelý nebude stíhán pro spolupráci při objasňování závažné kriminality — protisvědek / „korunní svědek").
+
+### F. Kazuistika
+
+**1. Modelová situace.** Ve zkráceném přípravném řízení státní zástupce podmíněně odložil podání návrhu na potrestání; podezřelý se ve zkušební době osvědčil. Po čase chce policejní orgán pro týž skutek zahájit „řádné" trestní stíhání. V jiné věci byl podezřelý na základě § 159d ponechán nestíhán pro spolupráci při objasnění závažné kriminality. Důkazy: rozhodnutí o podmíněném odložení, doklad o osvědčení, rozhodnutí podle § 159d.
+
+**2. Právní otázka.** Brání pravomocné ukončení zkráceného přípravného řízení odklonem (osvědčení, narovnání) nebo nestíhání spolupracujícího podezřelého pozdějšímu trestnímu stíhání pro týž skutek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11a — nepřípustnost po schválení narovnání s odložením (písm. a) a po podmíněném odložení návrhu s osvědčením (písm. b); odst. 2 pro nestíhání dle § 159d.
+- *Související ustanovení téhož zákona:* § 179c, § 179g, § 179h (zkrácené řízení, narovnání, podmíněné odložení), § 159d, § 11.
+- *Související předpisy:* čl. 40 odst. 5 LZPS (ne bis in idem).
+- *Judikatura:* nosný závěr — odklon zakončený osvědčením vytváří překážku věci rozhodnuté obdobně jako meritorní rozhodnutí.
+
+**4. Subsumpce.** Po osvědčení při podmíněném odložení návrhu na potrestání (§ 11a odst. 1 písm. b) nelze pro týž skutek trestní stíhání zahájit, nebylo-li rozhodnutí zrušeno; totéž platí pro nestíhání spolupracujícího podezřelého (odst. 2). Jde o speciální projev ne bis in idem ve zkráceném řízení.
+
+**5. Řešení.** Nové stíhání pro týž skutek je nepřípustné; pokud bylo zahájeno, zastaví se. Výjimkou je jen předchozí zrušení rozhodnutí v předepsaném řízení. Procesní krok: ověření pravomocnosti a „nezrušenosti" odklonu, posouzení totožnosti skutku.
+
+**6. Varianty.** (a) Bylo-li rozhodnutí o odložení v předepsaném řízení zrušeno, překážka odpadá a stíhat lze. (b) Neosvědčil-li se podezřelý, pokračuje se v řízení a překážka nevzniká.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „odklon ve zkráceném řízení není meritorní, nezakládá překážku":* § 11a výslovně překážku zakládá; neutralizace přímo textem.
+- *Protiargument „nestíhání spolupracovníka lze kdykoli zvrátit":* jen zrušením rozhodnutí v předepsaném řízení.
+- *Slabé místo:* posouzení, zda se podezřelý „má za to" osvědčil (fikce osvědčení), může být sporné.
+
+### H. Praktický závěr
+
+Po odklonu zakončeném osvědčením (či po nestíhání spolupracujícího podezřelého) je stíhání pro týž skutek nepřípustné, dokud není rozhodnutí zrušeno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Skončilo zkrácené řízení narovnáním s odložením, nebo podmíněným odložením s osvědčením?
+- [ ] Jde o týž skutek?
+- [ ] Nebylo dřívější rozhodnutí v předepsaném řízení zrušeno?
+- [ ] Nejde o nestíhání spolupracujícího podezřelého dle § 159d (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o narovnání/podmíněném odložení, doklad o osvědčení (vč. fikce), rozhodnutí podle § 159d, vymezení skutku.
 
 ---
 
@@ -1820,6 +3081,43 @@ Klíč pro **vykonávací řízení** (§ 315 a násl.) — odsouzený je adres�
 - usnesení o zahájení TS (jedno na každý útok nebo souhrnné);
 - důvodů nepřípustnosti (§ 11 odst. 3 — nepřípustnost jen pro některý útok);
 - věcné příslušnosti (§ 17 odst. 3 — společné řízení).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Příslušník Policie ČR je podezřelý ze spáchání trestného činu zneužití pravomoci při zákroku; vyšetřování zahájí běžný útvar Policie ČR. Obhajoba i poškozený namítají, že příslušný je jiný policejní orgán. V téže věci je sporné, zda poškozený má postavení „strany" s plnými procesními právy a zda lze jednání po sdělení obvinění posuzovat jako nový skutek. Důkazy: služební zařazení podezřelého, povaha jednání, usnesení o zahájení TS.
+
+**2. Právní otázka.** Jak vykládat klíčové pojmy § 12 — kdo je příslušným policejním orgánem (vč. GIBS a EPPO), kdo je „strana" a co je „skutek" v procesním smyslu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 — definice OČTŘ (odst. 1–2: 9 kategorií policejních orgánů vč. GIBS), pojmů soud, předseda senátu, státní zástupce (vč. EPPO, odst. 6), strana (odst. 7), obviněný/obžalovaný/odsouzený (odst. 8–10), trestní řízení/stíhání/přípravné řízení (odst. 11), skutek (odst. 12–13).
+- *Související ustanovení téhož zákona:* § 157 odst. 2 písm. b), § 160 (zahájení TS), § 42–43 (zúčastněná osoba, poškozený), § 13 a násl. (příslušnost).
+- *Související předpisy:* zák. č. 341/2011 Sb. (GIBS), nařízení 2017/1939 (EPPO), § 116 TZ (pokračování v TČ).
+- *Judikatura:* nosný závěr — vyšetřování trestné činnosti policistů náleží GIBS, aby byl vyloučen konflikt zájmů; totožnost skutku se posuzuje materiálně.
+
+**4. Subsumpce.** Trestný čin příslušníka Policie ČR při plnění úkolů spadá do působnosti GIBS [odst. 2 písm. b)], nikoli běžného útvaru policie → vyšetřování provedené nepříslušným orgánem je vadou. Poškozený je „stranou" (odst. 7) s plnými procesními právy. Pokračuje-li obviněný v jednání po sdělení obvinění, posuzuje se to jako nový skutek (odst. 12).
+
+**5. Řešení.** Věc převezme příslušný policejní orgán (GIBS); úkony provedené nepříslušným orgánem je nutné posoudit z hlediska použitelnosti. Poškozenému se přiznají práva strany. Nové útoky po obvinění se zahájí samostatným usnesením (odst. 12). Procesní krok: určení příslušnosti, náprava vad, poučení stran.
+
+**6. Varianty.** (a) Jde-li o TČ poškozující finanční zájmy EU, příslušným „státním zástupcem" může být EPPO (odst. 6). (b) Týká-li se věc dílčího útoku pokračujícího TČ, je každý útok samostatným „skutkem" pro účely zahájení TS i nepřípustnosti (odst. 13).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „policejní orgán je jen Policie ČR":* § 12 odst. 2 zná 9 kategorií (GIBS, Vězeňská služba, celní orgány, Vojenská policie, zpravodajské služby); neutralizace výčtem.
+- *Protiargument „poškozený nemá procesní práva strany":* odst. 7 jej výslovně řadí mezi strany.
+- *Protiargument „skutek je jen to, co bylo v obvinění":* procesní pojem skutku zahrnuje i dílčí útoky a mění se sdělením obvinění (odst. 12–13); neutralizace odkazem na § 116 TZ.
+- *Slabé místo:* hranice mezi „týmž" a „novým" skutkem a vymezení působnosti GIBS vs. policie bývají sporné.
+
+### H. Praktický závěr
+
+§ 12 je výkladovým klíčem celého trestního řádu — vždy ověřte, kdo je příslušným OČTŘ (vč. GIBS a EPPO), kdo má postavení strany a jak je vymezen skutek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je věc v působnosti správného policejního orgánu (Policie ČR / GIBS / VS / celní / Vojenská policie / zpravodajské služby)?
+- [ ] Nejde o věc EPPO (finanční zájmy EU) ve smyslu odst. 6?
+- [ ] Byla všem stranám (vč. poškozeného a zúčastněné osoby, odst. 7) přiznána procesní práva?
+- [ ] Je správně vymezen skutek, vč. dílčích útoků (odst. 13) a jednání po sdělení obvinění (odst. 12)?
+
+**Typicky rozhodné důkazy / podklady:** služební zařazení podezřelého, usnesení o zahájení TS, vymezení skutku, doklady o postavení poškozeného a zúčastněné osoby.
 
 ---
 
