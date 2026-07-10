@@ -143,3 +143,7 @@ Po novelách (zejména 265/2001 a všech dalších) zákon obsahuje cca **460+ p
 - **Hotovo (iterace 2, 2026-05-18):** 01-cast1-hlava1-obecna-ustanoveni.md (§ 1–12) — účel zákona, **16 zásad § 2** (zákonnost, presumpce neviny, legalita, oficialita + urychlení, vyhledávací + materiální pravda + důkazní břemeno, volné hodnocení, ZSO, akusatorní princip, obsazení soudu, veřejnost, ústnost, bezprostřednost, právo na obhajobu, jazyková práva, ochrana poškozeného, restorativní prvky), spolupráce a součinnost (§§ 3, 6, 7, 7a — prohlášení o majetku, 7b — uchování dat, 8 — bankovní tajemství), ochrana informací (§§ 8a–d, vč. absolutního zákazu totožnosti zranitelných obětí), předběžné otázky (§§ 9, 9a — SDEU), vynětí z pravomoci (§ 10), **15 důvodů nepřípustnosti TS + evropský *ne bis in idem*** (§§ 11, 11a), klíčový **výkladový § 12** (9 kategorií policejních orgánů, EPPO, definice obviněný/obžalovaný/odsouzený/strana, trestní řízení vs. TS vs. přípravné řízení).
 
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
