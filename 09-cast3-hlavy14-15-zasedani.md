@@ -76,52 +76,6 @@ Ustanovení § 232 určuje, kdy se rozhoduje ve VZ: vždy, stanoví-li to zákon
 
 **Typicky rozhodné důkazy / podklady:** procesní povaha rozhodované otázky (vina/trest vs. procesní rozhodnutí vs. vykonávací rozhodnutí); znění zvláštního ustanovení o příslušné věci; spisový materiál relevantní pro úvahu o potřebě slyšet strany.
 
-
-<!-- LEGAL-REVISION:BEGIN id=0d9b84cba833f4a580d9 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 232 — Obecné ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Ve veřejném zasedání rozhoduje soud v případech, ve kterých to zákon výslovně stanoví nebo ve kterých to považuje předseda senátu z důležitého důvodu za potřebné.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0d9b84cba833f4a580d9 -->
-
 ## § 233 — Příprava VZ
 <details>
 <summary>📜 <strong>Citace § 233 (úplné znění)</strong></summary>
@@ -191,54 +145,6 @@ Příprava VZ vyžaduje správně vymezit, kdo se předvolává (osobní účast
 
 **Typicky rozhodné důkazy / podklady:** doručenky předvolání a vyrozumění s daty doručení; obsah doručovaných zásilek (zda byl přiložen opis návrhu); záznam o případném souhlasu se zkrácením lhůty.
 
-
-<!-- LEGAL-REVISION:BEGIN id=931efe12d003167531ec generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 233 — Příprava veřejného zasedání
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Předseda senátu předvolá k veřejnému zasedání osoby, jejichž osobní účast při něm je nutná. O veřejném zasedání vyrozumí státního zástupce, jakož i osobu, která svým návrhem dala k veřejnému zasedání podnět, a osobu, která může být přímo dotčena rozhodnutím, jestliže tyto osoby nebyly k veřejnému zasedání předvolány; vyrozumí též obhájce, popřípadě zmocněnce a zákonného zástupce nebo opatrovníka těchto osob. K předvolání nebo vyrozumění připojí opis návrhu, kterým byl k veřejnému zasedání dán podnět.
->
-> (2) Den veřejného zasedání stanoví předseda senátu tak, aby osobě, která k veřejnému zasedání dala svým návrhem podnět, osobě, která může být přímo dotčena rozhodnutím, obhájci nebo zmocněnci těchto osob, jakož i státnímu zástupci zbývala od doručení předvolání k veřejnému zasedání nebo od vyrozumění o něm alespoň pětidenní lhůta k přípravě. Zkrácení této lhůty je možné jen se souhlasem toho, v jehož zájmu je lhůta dána. U ostatních osob, které se k veřejnému zasedání předvolávají nebo o něm vyrozumívají, je třeba zachovat zpravidla třídenní lhůtu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=931efe12d003167531ec -->
-
 ## § 234 — Přítomnost při VZ
 <details>
 <summary>📜 <strong>Citace § 234 (úplné znění)</strong></summary>
@@ -302,54 +208,6 @@ VZ se koná za stálé přítomnosti samosoudce/senátu a zapisovatele; účast 
 - [ ] Zvážit videokonferenční účast jiných osob za podmínek § 111a.
 
 **Typicky rozhodné důkazy / podklady:** doklad o řádném vyrozumění SZ a obhájce; doklady o existenci/neexistenci nutné obhajoby (§ 36); u vazebních obžalovaných jejich postoj k účasti; technický záznam o videokonferenci.
-
-
-<!-- LEGAL-REVISION:BEGIN id=978ca92e71794766a654 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 234 — Přítomnost při veřejném zasedání
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Veřejné zasedání se koná za stálé přítomnosti samosoudce a v případech, kdy rozhoduje senát, za stálé přítomnosti všech členů senátu, a zapisovatele. Přítomnost jiných osob může být zajištěna i prostřednictvím videokonferenčního zařízení; [[#§ 111a|§ 111a]] se užije obdobně.
->
-> (2) Nestanoví-li zákon něco jiného, není účast státního zástupce a obhájce při veřejném zasedání nutná.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 111a
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=978ca92e71794766a654 -->
 
 ## § 235 — Průběh VZ
 <details>
@@ -419,56 +277,6 @@ VZ probíhá ve struktuře: zpráva o stavu věci → návrh → vyjádření do
 
 **Typicky rozhodné důkazy / podklady:** protokoly o dřívějších výpovědích a údaj o jejich kontradiktornosti; doklad o (ne)dosažitelnosti svědka; protokol o VZ zachycující pořadí přednesů a poslední slovo.
 
-
-<!-- LEGAL-REVISION:BEGIN id=6f3ce09ce3f1f9e64524 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 235
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Po zahájení veřejného zasedání podá předseda nebo jím určený člen senátu na podkladě spisu zprávu o stavu věci zaměřenou na otázky, které je třeba ve veřejném zasedání řešit. Poté osoba, která dala svým návrhem k veřejnému zasedání podnět, návrh přednese. Osoba, která může být přímo dotčena rozhodnutím, jakož i státní zástupce se k návrhu vyjádří, nejsou-li sami navrhovateli.
->
-> (2) Jsou-li při veřejném zasedání prováděny důkazy, užije se přiměřeně ustanovení o dokazování u hlavního líčení. Omezení v provádění důkazu čtením protokolu o výpovědi svědka nebo znalce nebo přehráním obrazového a zvukového záznamu pořízeného o jejich výslechu provedeném prostřednictvím videokonferenčního zařízení (§ 211 odst. 1, [[#§ 5|5]] a [[#§ 7|7]]) platí pouze pro veřejné zasedání konané o odvolání.
->
-> (3) Po provedení důkazů udělí předseda senátu slovo ke konečným návrhům. Je-li osobou, která může být přímo dotčena rozhodnutím, obviněný, má právo mluvit poslední.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 211, § 5, § 7
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6f3ce09ce3f1f9e64524 -->
-
 ## § 236 — Veřejné vyhlášení rozhodnutí
 <details>
 <summary>📜 <strong>Citace § 236 (úplné znění)</strong></summary>
@@ -518,52 +326,6 @@ Rozhodnutí ve VZ se vyhlašuje vždy veřejně, i když byla po dobu zasedání
 - [ ] Veřejné vyhlášení zaznamenat do protokolu.
 
 **Typicky rozhodné důkazy / podklady:** protokol o VZ s vyznačením vyloučení veřejnosti a veřejného vyhlášení; znění výroku; podklad pro případné omezení přístupu k částem odůvodnění.
-
-
-<!-- LEGAL-REVISION:BEGIN id=722231aa40331321ae6b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 236
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Rozhodnutí soudu se vždy vyhlásí veřejně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=722231aa40331321ae6b -->
 
 ## § 237 — Podklad pro rozhodnutí
 <details>
@@ -616,52 +378,6 @@ Rozhodnutí ve VZ se smí opírat jen o to, co bylo ve veřejném zasedání pro
 - [ ] Soulad odůvodnění s protokolem o VZ ověřit (zejména při sepisu opravného prostředku).
 
 **Typicky rozhodné důkazy / podklady:** protokol o VZ (co bylo čteno a probráno); odůvodnění rozhodnutí; spisový materiál umožňující srovnání provedených a nepoužitelných podkladů.
-
-
-<!-- LEGAL-REVISION:BEGIN id=d17733f909e230c56114 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 237 — Podklad pro rozhodnutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Při svém rozhodnutí smí soud přihlížet jen ke skutečnostem, které byly probrány ve veřejném zasedání, a opírat se o důkazy, které byly ve veřejném zasedání provedeny.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d17733f909e230c56114 -->
 
 ## § 238 — Subsidiární aplikace ustanovení o HL
 <details>
@@ -717,52 +433,6 @@ Pro veřejnost, vedení, zahájení a odročení VZ se přiměřeně použijí p
 
 **Typicky rozhodné důkazy / podklady:** povaha projednávaných údajů (citlivost, utajení) pro úvahu o vyloučení veřejnosti; doklady o doručení a nutnosti účasti osob; protokol o VZ.
 
-
-<!-- LEGAL-REVISION:BEGIN id=9c3ed6ce23d29c24dde6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 238 — Použití ustanovení o hlavním líčení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Na veřejnost, řízení, počátek a odročení veřejného zasedání se užije přiměřeně ustanovení o hlavním líčení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9c3ed6ce23d29c24dde6 -->
-
 ## § 239 — Ochranné opatření ve VZ
 <details>
 <summary>📜 <strong>Citace § 239 (úplné znění)</strong></summary>
@@ -814,54 +484,6 @@ Ochranné opatření lze ve VZ uložit jen tehdy, vyhradil-li si soud rozhodnut�
 - [ ] Respektovat odkladný účinek stížnosti (nezahajovat výkon OO).
 
 **Typicky rozhodné důkazy / podklady:** záznam o (ne)vyhrazení podle § 230 odst. 2; návrh státního zástupce na OO; znalecký posudek odůvodňující OO; rozhodnutí o OO a podaná stížnost.
-
-
-<!-- LEGAL-REVISION:BEGIN id=f20d2ac87c62c5ae3efd generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 239
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Nejde-li o případ, kdy si soud rozhodnutí o ochranném opatření vyhradil podle § 230 odst. 2, může je uložit ve veřejném zasedání, jen navrhne-li to státní zástupce.
->
-> (2) Proti rozhodnutí o ochranném opatření je přípustná stížnost, jež má odkladný účinek.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 230
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f20d2ac87c62c5ae3efd -->
 
 ## § 239a — Opatrovník nepřítomného vlastníka při zabrání věci
 <details>
@@ -929,58 +551,6 @@ Nelze-li v řízení o zabrání věci zjistit vlastníka nebo jeho pobyt, ustan
 **Typicky rozhodné důkazy / podklady:** spisové doklady o pokusech zjistit vlastníka a jeho pobyt; usnesení o ustanovení opatrovníka; doklad o uveřejnění předvolání; podklady k zabrání věci/části majetku (§ 101–102a TZ).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=49715a594feaa5f38aba generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 239a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Nelze-li v řízení o zabrání věci spolehlivě zjistit vlastníka věci, jež má být zabrána, nebo není-li jeho pobyt znám, ustanoví mu předseda senátu opatrovníka. Opatrovník má v řízení o zabrání věci stejná práva jako její vlastník.
->
-> (2) Všechny písemnosti určené pro vlastníka věci se doručují pouze opatrovníku. Předvolání vlastníka věci k veřejnému zasedání se vhodným způsobem uveřejní. Veřejné zasedání se pak provede i v nepřítomnosti vlastníka věci, a to bez ohledu na to, zda se vlastník věci o něm dověděl.
->
-> (3) Proti rozhodnutí o ustanovení opatrovníka je přípustná stížnost.
->
-> (4) Obdobně podle odstavců 1 až 3 se postupuje i v řízení o zabrání části majetku.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=49715a594feaa5f38aba -->
 
 # Hlava XV — Neveřejné zasedání (§ 240 – § 244)
 
@@ -1058,52 +628,6 @@ Neveřejné zasedání je zbytkovou (default) formou rozhodování: soud v něm 
 
 **Typicky rozhodné důkazy / podklady:** procesní povaha rozhodované otázky; zvláštní ustanovení o příslušné věci (forma zasedání); obsah návrhu/stížnosti pro úvahu o případném nařízení VZ.
 
-
-<!-- LEGAL-REVISION:BEGIN id=8d7a19d37e07bf57ce84 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 240
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> V neveřejném zasedání rozhoduje soud tam, kde není zákonem předepsáno, že se rozhoduje v hlavním líčení, veřejném zasedání nebo vazebním zasedání.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8d7a19d37e07bf57ce84 -->
-
 ## § 242 — Přítomnost při NZ
 <details>
 <summary>📜 <strong>Citace § 242 (úplné znění)</strong></summary>
@@ -1171,54 +695,6 @@ Neveřejné zasedání se koná za stálé přítomnosti všech členů senátu 
 
 **Typicky rozhodné důkazy / podklady:** povaha rozhodované otázky (procesní vs. vazba); spis o vazbě a stížnost; protokol o NZ, resp. o vazebním zasedání zachycující slyšení obviněného.
 
-
-<!-- LEGAL-REVISION:BEGIN id=b9a42a458f150267bf6e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 242
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Neveřejné zasedání se koná za stálé přítomnosti všech členů senátu a zapisovatele.
->
-> (2) Jiné osoby jsou z účasti na neveřejném zasedání vyloučeny.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b9a42a458f150267bf6e -->
-
 ## § 243 — Dokazování v NZ
 <details>
 <summary>📜 <strong>Citace § 243 (úplné znění)</strong></summary>
@@ -1271,52 +747,6 @@ V neveřejném zasedání se dokazuje výhradně přečtením protokolů a jiný
 
 **Typicky rozhodné důkazy / podklady:** protokoly o dřívějších výpovědích a listinné důkazy ve spise; úvaha o nutnosti výslechu; rozhodnutí o případném nařízení VZ namísto NZ.
 
-
-<!-- LEGAL-REVISION:BEGIN id=60271db39acf44999df3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 243
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Je-li třeba při neveřejném zasedání provést důkazy, děje se tak přečtením protokolů a jiných písemností.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=60271db39acf44999df3 -->
-
 ## § 244 — Vyhlášení rozhodnutí
 <details>
 <summary>📜 <strong>Citace § 244 (úplné znění)</strong></summary>
@@ -1368,52 +798,6 @@ I rozhodnutí učiněné v neveřejném zasedání se vždy vyhlásí (interně,
 **Typicky rozhodné důkazy / podklady:** protokol o NZ se záznamem o vyhlášení; vyhotovené rozhodnutí; doručenky stranám rozhodné pro běh lhůt.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5bf82225de9f6b39d3f2 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 244
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Rozhodnutí se vždy vyhlásí.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5bf82225de9f6b39d3f2 -->
 
 ## Shrnutí Hlav XIV–XV
 

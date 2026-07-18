@@ -69,52 +69,6 @@ Praktické vyústění:
 
 **Typicky rozhodné důkazy / podklady:** protokol o úkonu s časovými údaji, kamerové záznamy, lékařské zprávy, kniha úředních úkonů, výpovědi přítomných osob.
 
-
-<!-- LEGAL-REVISION:BEGIN id=2365b75e5e89aa77547c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 52 — Způsob provádění úkonů trestního řízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> Při provádění úkonů trestního řízení se musí jednat s osobami na úkonu zúčastněnými tak, jak to vyžaduje význam a výchovný účel trestního řízení; vždy je nutno šetřit jejich osobnosti a jejich ústavou zaručených práv.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2365b75e5e89aa77547c -->
-
 ### § 52a — Videokonference
 <details>
 <summary>📜 <strong>Citace § 52a (úplné znění)</strong></summary>
@@ -442,52 +396,6 @@ Videokonference je výjimečný, účelově vázaný nástroj: použije se k och
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a02927cbba1fa5e22202 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 52a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> Je-li to potřebné pro ochranu práv osob, zejména s ohledem na jejich věk nebo zdravotní stav, nebo vyžadují-li to bezpečnostní anebo jiné závažné důvody, lze při provádění úkonů trestního řízení využívat technické zařízení pro přenos obrazu a zvuku (dále jen „videokonferenční zařízení“), umožňuje-li to povaha těchto úkonů a je-li to technicky možné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a02927cbba1fa5e22202 -->
-
 ## Oddíl 1 — Dožádání (§ 53, § 54)
 
 ### § 53 — Dožádání jako forma delegace úkonu
@@ -542,54 +450,6 @@ Mimo svůj obvod orgán činný v trestním řízení úkony provádí zpravidla
 
 **Typicky rozhodné důkazy / podklady:** obsah spisu relevantní pro úkon, doklady o místě provedení a o důvodech neodkladnosti/nezbytnosti, případně doklad o nedostupnosti videokonference.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d9ead2febf056cc561b7 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 53
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Soud, státní zástupce a policejní orgán vykonávají jednotlivé úkony trestního řízení ve svém obvodu zpravidla sami. Mimo svůj obvod vykonávají jednotlivé úkony trestního řízení dožádáním okresního soudu, státního zástupce nebo policejního orgánu, v jehož obvodu má být úkon proveden, nebo prostřednictvím videokonferenčního zařízení; není-li úkon prováděn prostřednictvím videokonferenčního zařízení, vykonají jej mimo svůj obvod sami, jen jestliže věc nesnese odkladu nebo je-li toho pro řádné posouzení věci nezbytně třeba.
->
-> (2) Nejvyšší soud, vrchní soud a krajský soud mohou jednotlivé úkony i ve svém obvodu vykonat dožádáním okresního soudu, v jehož obvodu má být úkon proveden; Nejvyšší soud a vrchní soud to mohou učinit též dožádáním krajského soudu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d9ead2febf056cc561b7 -->
-
 ### § 54 — Náležitosti dožádání
 
 **Odst. 1**: V dožádání musí být uvedeny **spisové údaje nezbytné** k provedení úkonu, podle potřeby **přiloženy spisy**. Dožadující orgán musí poukázat na konkrétní části spisu s relevantními údaji.
@@ -635,54 +495,6 @@ Dožádání musí být informačně vybaveno (spisové údaje, poukaz na releva
 **Typicky rozhodné důkazy / podklady:** text dožádání a jeho přílohy, protokol o provedeném úkonu, relevantní části spisu dožadujícího orgánu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b65b3eb5e1e50c81799b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 54
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) V dožádání je třeba uvést spisové údaje, jejichž znalost je nutná k řádnému provedení úkonu. Je-li třeba, připojí dožadující orgán spisy a poukáže na ty jejich části, kde jsou potřebné údaje obsaženy. Dožádaný orgán je podle povahy věci a podle toho, co při provádění úkonu vyšlo najevo, oprávněn i povinen provést i další nezbytné úkony, zejména vyslechnout další osoby a dotazovat se na okolnosti v dožádání neuvedené, může-li to přispět k rychlému a správnému rozhodnutí věci.
->
-> (2) Úkony dožádaného soudu koná soudce z povolání; má přitom práva a povinnosti předsedy senátu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b65b3eb5e1e50c81799b -->
 
 ## Oddíl 2 — Protokol (§ 55 – § 58)
 
@@ -781,72 +593,6 @@ Protokol o výpovědi se sepisuje **v českém jazyce**, i když vyslýchaná os
 
 **Typicky rozhodné důkazy / podklady:** protokol o výslechu, odděleně vedená evidence osobních údajů svědka, podklady k posouzení hrozby, poučení svědka, případná žádost obviněného o sdělení údajů.
 
-
-<!-- LEGAL-REVISION:BEGIN id=edf5e0999226e84a83e4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 55 — Obecná ustanovení o sepisování protokolu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li zákon jinak, o každém úkonu trestního řízení se sepíše, a to zpravidla při úkonu nebo bezprostředně po něm, protokol, který musí obsahovat
->
-> - a) pojmenování soudu, státního zástupce nebo jiného orgánu provádějícího úkon,
->
-> - b) místo, čas a předmět úkonu,
->
-> - c) jméno a příjmení úředních osob a jejich funkce, jméno a příjmení přítomných stran, jméno, příjmení a adresu zákonných zástupců, opatrovníků, obhájců a zmocněnců, popřípadě jméno a příjmení dalších osob, kteří se úkonu zúčastnili, a u obviněného a poškozeného též adresu, kterou uvede pro účely doručování, a další údaje nutné k zjištění nebo ověření totožnosti, včetně data narození nebo rodného čísla; jsou-li při prováděném úkonu zjištěny údaje o bydlišti a doručovací adrese, o místě výkonu zaměstnání či povolání nebo podnikání poškozeného, svědka, zákonného zástupce, opatrovníka, zmocněnce nebo důvěrníka, pak se na žádost těchto osob do protokolu neuvádějí, není-li to nezbytné pro dosažení účelu trestního řízení, ale vedou se tak, aby se s nimi mohli seznamovat pouze orgány činné v trestním řízení a úředníci Probační a mediační služby činní v dané věci; to platí také pro údaje o osobních, rodinných a majetkových poměrech poškozeného a svědka; je-li to nezbytné pro řádné uplatnění práva na obhajobu osoby, proti níž se trestní řízení vede, sdělí se této osobě potřebné údaje; o sdělení údaje a jeho důvodech se učiní záznam do protokolu a bez zbytečného odkladu se o tom informuje osoba, o jejíž údaj jde,
->
-> - d) stručné a výstižné vylíčení průběhu úkonu, z něhož by bylo patrné i zachování zákonných ustanovení upravujících provádění úkonu, dále podstatný obsah rozhodnutí při úkonu vyhlášených, a byl-li hned při úkonu doručen opis rozhodnutí, osvědčení o tomto doručení; pokud se provádí doslovná protokolace výpovědi osoby, je třeba to v protokole označit tak, aby bylo možné bezpečně určit počátek a konec doslovné protokolace,
->
-> - e) návrhy stran, udělené poučení, popřípadě vyjádření poučených osob,
->
-> - f) námitky stran nebo vyslýchaných osob proti průběhu úkonu nebo obsahu protokolu.
->
-> (2) Nasvědčují-li zjištěné okolnosti tomu, že svědku nebo osobě jemu blízké v souvislosti s podáním svědectví zřejmě hrozí újma na zdraví nebo jiné vážné nebezpečí porušení jejich základních práv, a nelze-li ochranu svědka spolehlivě zajistit jiným způsobem, orgán činný v trestním řízení učiní opatření k utajení totožnosti i podoby svědka; jméno a příjmení a jeho další osobní údaje se do protokolu nezapisují, ale vedou se odděleně od trestního spisu a mohou se s nimi seznamovat jen orgány činné v trestním řízení v dané věci. Svědek se poučí o právu požádat o utajení své podoby a podepsat protokol smyšleným jménem a příjmením, pod kterým je pak veden. Je-li třeba zajistit ochranu těchto osob, orgán činný v trestním řízení učiní bezodkladně všechna potřebná opatření. Zvláštní způsob ochrany svědků a osob jim blízkých stanoví zvláštní zákon. Pominou-li důvody pro utajení podoby svědka a oddělené vedení osobních údajů svědka, orgán, který v té době vede trestní řízení, zruší stupeň utajení těchto informací, připojí uvedené údaje k trestnímu spisu a podoba svědka ani údaje o jeho totožnosti se nadále neutajují; to neplatí, je-li utajována totožnost a podoba osob uvedených v [[#§ 102a|§ 102a]]. O postupu podle věty páté orgán činný v trestním řízení bez zbytečného odkladu svědka informuje.
->
-> (3) V protokolu sepsaném o konfrontaci se zapíší výpovědi konfrontovaných osob doslovně, stejně tak i znění položených otázek a odpovědi na ně; také se uvedou všechny okolnosti, které jsou z hlediska účelu a provádění konfrontace důležité. V protokolu sepsaném o rekognici se podrobně uvedou okolnosti, za nichž byla rekognice prováděna, zejména pořadí, ve kterém byly osoby nebo věci ukázány podezřelému, obviněnému nebo svědkovi, doba a podmínky jejich pozorování a jejich vyjádření; o rekognici prováděné v přípravném řízení se zpravidla pořídí též obrazové záznamy. V protokolu sepsaném o vyšetřovacím pokusu, o rekonstrukci a o prověrce na místě je třeba podrobně popsat okolnosti, za nichž byly tyto úkony prováděny, jakož i jejich obsah a výsledky; pokud to okolnosti případu nevylučují, pořídí se též obrazové záznamy, náčrtky a jiné vhodné pomůcky, které se, je-li to možné, připojí k protokolu. Obdobně je třeba postupovat i v případě provádění dalších důkazů výslovně v zákoně neupravených.
->
-> (4) V českém jazyce se sepíše protokol o výpovědi osoby, i když vyslýchaná osoba vypovídá v jiném jazyce; záleží-li na doslovném znění výpovědi, zapíše zapisovatel nebo tlumočník do protokolu příslušnou část výpovědi také v jazyku, jímž tato osoba vypovídá.
->
-> (5) Za správnost protokolu odpovídá ten, kdo úkon provedl.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 102a
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=edf5e0999226e84a83e4 -->
-
 ### § 55a — Použití zvláštních prostředků při protokolaci
 
 **Odst. 1 — alternativy / doplňky protokolu:**
@@ -894,54 +640,6 @@ Pořízení zvukového či obrazového záznamu je třeba v protokolu výslovně
 - [ ] Je záznam dohledatelný a zpřístupnitelný stranám?
 
 **Typicky rozhodné důkazy / podklady:** protokol o úkonu s poznámkou o záznamu, technický nosič záznamu, evidence úložiště nosiče.
-
-
-<!-- LEGAL-REVISION:BEGIN id=cb5f8575557d797ecfc5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 55a — Použití zvláštních prostředků při protokolaci
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) K zachycení průběhu úkonu lze podle potřeby využít i těsnopisného zápisu, který se pak spolu s přepisem do obyčejného písma připojí k protokolu, případně zvukového nebo obrazového záznamu, anebo i jiného vhodného prostředku. Je-li při provádění úkonu využito videokonferenčního zařízení, pořizuje se zvukový a obrazový záznam vždy.
->
-> (2) Byl-li o úkonu pořízen vedle protokolu i zvukový nebo obrazový záznam, poznamená se tato okolnost v protokolu sepsaném o úkonu, v němž se vedle údajů o čase, místě a způsobu jeho provedení uvede též údaj o použitém prostředku. Technický nosič záznamu se připojí ke spisu nebo se ve spise uvede, kde je uložen.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cb5f8575557d797ecfc5 -->
 
 ### § 55b — Zvláštnosti protokolace v řízení před soudem
 
@@ -1010,66 +708,6 @@ V řízení před soudem se opakované výpovědi protokolují jen v rozsahu odc
 
 **Typicky rozhodné důkazy / podklady:** zvukový záznam hlavního líčení, dřívější protokoly o výslechu, prohlášení stran o vzdání se opravného prostředku, stručný záznam o průběhu jednání.
 
-
-<!-- LEGAL-REVISION:BEGIN id=dd7a6fb137e844891e65 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 55b — Některé zvláštnosti protokolace v řízení před soudem
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) O průběhu hlavního líčení je, nerozhodne-li z důležitých důvodů předseda senátu jinak, pořizován zvukový záznam; ustanovení § 55a odst. 1 věty druhé tím není dotčeno.
->
-> (2) Je-li jako zapisovatel přibrán vyšší soudní úředník nebo protokolující úředník, protokol se nediktuje, ale samostatně jej podle zvukového záznamu pořizuje vyšší soudní úředník nebo protokolující úředník.
->
-> (3) Výpovědi osob, které již byly vyslechnuty, se do protokolu o hlavním líčení nebo ve veřejném zasedání zapisují jen potud, pokud obsahují odchylky nebo dodatky k dřívějším výpovědím nebo vysvětlením. Státní zástupce nebo obviněný mohou žádat, aby výpověď učiněná v řízení před soudem nebo její část byla doslovně zaprotokolována; předseda senátu takové žádosti vyhoví, pokud předmětem výpovědi není jen opakování toho, co je již zachyceno v protokolu.
->
-> (4) Protokol o hlavním líčení nebo veřejném zasedání není třeba písemně vyhotovovat, jestliže obviněný a státní zástupce prohlásí, že se vzdávají opravného prostředku proti rozhodnutí a na písemném vyhotovení protokolu o hlavním líčení nebo veřejném zasedání netrvají, anebo žádná z oprávněných osob nepodá opravný prostředek a rozhodnutí nabude právní moci. V takovém případě vyhotoví vyšší soudní úředník nebo protokolující úředník stručný záznam o průběhu hlavního líčení nebo veřejného zasedání, ve kterém uvede místo a dobu trvání hlavního líčení nebo veřejného zasedání, přítomné osoby, výrok rozhodnutí s uvedením zákonných ustanovení, jichž bylo použito, a vyjádření oprávněných osob o využití opravných prostředků.
->
-> (5) Byl-li zvukový záznam pořízen o průběhu úkonu před soudem a není-li dán důvod k postupu podle odstavce 4, zaznamená se jeho podstatný obsah již v průběhu úkonu nebo bezprostředně po jeho ukončení do protokolu.
->
-> (6) V řízení před soudem odpovídá za správnost a úplnost protokolace vyšší soudní úředník nebo protokolující úředník, pokud byl přibrán jako zapisovatel.
->
-> (7) Zvukový záznam se uchovává na nosiči informací spolu se spisem, a není-li jeho připojení ke spisu možné, poznamená se do protokolu nebo stručného záznamu místo jeho uložení. Výmaz zvukového záznamu nelze provést před skartací spisu.
->
-> (8) Provádí-li se úkon mimo budovu soudu a zvukový záznam nelze pořídit, přibere se k úkonu zapisovatel a předseda senátu mu protokol diktuje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 55a
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=dd7a6fb137e844891e65 -->
-
 ### § 56 — Podpisování protokolu
 
 **Odst. 1**: Protokol o **HL / VZ / NZ** podpisuje **předseda senátu + zapisovatel**. Jiné protokoly (typicky výslech v přípravném řízení) podpisuje:
@@ -1121,54 +759,6 @@ Protokol o výslechu podepisuje vyslýchaná osoba na každé stránce; odmítnu
 
 **Typicky rozhodné důkazy / podklady:** podepsaný protokol o úkonu, zvukový/obrazový záznam, poznámka o odmítnutí podpisu, výpovědi přítomných osob.
 
-
-<!-- LEGAL-REVISION:BEGIN id=5800b9222d214dc281be generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 56 — Podpisování protokolu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Protokol o hlavním líčení a o veřejném a neveřejném zasedání podpisuje předseda senátu a zapisovatel; jiné protokoly podpíše ten, kdo úkon vykonal, a osoba, které se úkon týká, popřípadě zapisovatel, tlumočník, znalec nebo jiná osoba přivzatá k úkonu. Je-li úkon prováděn prostřednictvím videokonferenčního zařízení, osoba, jíž se úkon týká, protokol nepodepisuje. Má-li protokol o výslechu více stránek, musí vyslýchaná osoba podepsat každou stránku protokolu. Odmítne-li vyslýchaný nebo jiná osoba přivzatá k úkonu protokol podepsat, uvede se to v protokolu s poznamenáním důvodu odmítnutí.
->
-> (2) Nemůže-li předseda senátu pro překážku delšího trvání podepsat protokol o hlavním líčení nebo o veřejném či neveřejném zasedání, podpíše jej jiný člen senátu. Je-li tato překážka u jiné osoby nebo u samosoudce, poznamená se v protokolu důvod, proč podpis odpadl.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5800b9222d214dc281be -->
-
 ### § 57 — Oprava protokolu
 
 **Odst. 1 — opravy a doplnění protokolu o HL/VZ/NZ a námitky:**
@@ -1214,54 +804,6 @@ Zřejmé nesprávnosti (chyby v psaní a počtech) opravuje ten, kdo úkon vedl,
 - [ ] Byl jako podklad využit zvukový záznam jednání?
 
 **Typicky rozhodné důkazy / podklady:** protokol o úkonu, zvukový záznam jednání, námitky stran, usnesení o opravě/doplnění protokolu.
-
-
-<!-- LEGAL-REVISION:BEGIN id=a65befc22c05cc166cd7 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 57 — Oprava protokolu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) O opravě a doplnění protokolu o hlavním líčení a o veřejném a neveřejném zasedání a rovněž o námitkách proti takovému protokolu rozhoduje soud, o jehož protokol jde. Proti tomuto rozhodnutí je přípustná stížnost.
->
-> (2) Ten, kdo řídil jednání nebo provádění úkonu, může i po podpisu protokolu nařídit nebo provést opravu chyb v psaní a počtech nebo jiných zřejmých nesprávností. Oprava se provede tak, aby původní zápis zůstal čitelný; opravu podpíše ten, kdo ji nařídil.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a65befc22c05cc166cd7 -->
 
 ### § 58 — Protokol o hlasování senátu
 
@@ -1322,64 +864,6 @@ Hlasování senátu je tajné, avšak dokumentované zalepeným protokolem, kter
 **Typicky rozhodné důkazy / podklady:** zalepený protokol o hlasování, protokol o jednání senátu, rozhodnutí o opravném prostředku, evidence o otevření protokolu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4b9f418630aa8b2992ce generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 58 — Protokol o hlasování
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) V protokolu o hlasování se uvede kromě všeobecných náležitostí (§ 55 odst. 1)
->
-> - a) postup při jednotlivých hlasováních, jejich výsledek a výrok rozhodnutí,
->
-> - b) mínění odlišné od názoru většiny, a to v celém znění i se stručným odůvodněním.
->
-> (2) Zápis o všech hlasováních, která se vyskytla v průběhu téhož jednání, pojme se do jediného protokolu o hlasování.
->
-> (3) Protokol o hlasování podpisují všichni členové senátu a zapisovatel.
->
-> (4) Protokol o hlasování se zalepí a připojí k protokolu o jednání. Otevřít jej smí jen předseda senátu u nadřízeného soudu při rozhodování o opravném prostředku a předseda senátu Nejvyššího soudu při rozhodování o stížnosti pro porušení zákona, jakož i soudce pověřený vyhotovením rozsudku; po nahlédnutí jej opět zalepí a otevření potvrdí svým podpisem.
->
-> (5) Protokol o hlasování se nesepisuje, jde-li o jednoduchá rozhodnutí, na kterých se senát usnesl jednomyslně a kterým předcházela porada pouze v jednací síni bez přerušení jednání; v protokole o jednání se v takovém případě poznamená, že usnesení bylo učiněno bez přerušení jednání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 55
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4b9f418630aa8b2992ce -->
 
 ## Oddíl 3 — Podání (§ 59)
 
@@ -1476,60 +960,6 @@ Podání se posuzuje podle obsahu bez ohledu na označení; k opravnému prostř
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=44961fcbcbb141d800d1 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 59
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Podání se posuzuje vždy podle svého obsahu, i když je nesprávně označeno. Lze je učinit písemně, ústně do protokolu, v elektronické podobě, telegraficky, telefaxem nebo dálnopisem.
->
-> (2) V přípravném řízení sepisují podání ústně do protokolu policejní orgány a okresní státní zastupitelství; v řízení před soudem je sepisují okresní soudy. Jsou-li pro to důležité důvody, mohou je výjimečně sepsat i státní zastupitelství a soudy vyššího stupně. Ústně do protokolu nelze podat dovolání.
->
-> (3) Pokud zákon pro podání určitého druhu nevyžaduje další náležitosti, musí být z podání patrno, kterému orgánu činnému v trestním řízení je určeno, kdo jej činí, které věci se týká a co sleduje, a musí být podepsáno a datováno. Podání je třeba předložit s potřebným počtem stejnopisů a s přílohami tak, aby jeden stejnopis zůstal u příslušného orgánu činného v trestním řízení a aby každá osoba dotčená takovým podáním dostala jeden stejnopis, jestliže je toho třeba. Nesplňuje-li tyto požadavky, orgán činný v trestním řízení ho vrátí podateli, je-li znám, k doplnění s příslušným poučením, jak nedostatky odstranit. Současně stanoví lhůtu k jejich odstranění. Není-li podatel znám anebo nejsou-li nedostatky ve stanovené lhůtě odstraněny, k podání se dále nepřihlíží; to neplatí pro trestní oznámení nebo pro jiný podnět, na jehož podkladě lze učinit závěr o podezření ze spáchání trestného činu, nebo pro podání, jehož obsahem je opravný prostředek, i když neobsahuje všechny uvedené náležitosti. Z opravného prostředku však vždy musí být patrno, které rozhodnutí napadá a kdo jej činí.
->
-> (4) Činí-li se ústně trestní oznámení, je nutno oznamovatele vyslechnout o okolnostech, za nichž byl čin spáchán, o osobních poměrech toho, na něhož se oznámení podává, o důkazech a o výši škody způsobené oznámeným činem; je-li oznamovatel zároveň poškozeným nebo jeho zmocněncem, musí být vyslechnut též o tom, zda žádá, aby soud rozhodl v trestním řízení o jeho nároku na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení. Výslech má být proveden tak, aby byl získán podklad pro další řízení.
->
-> (5) Jestliže byl protokol o trestním oznámení učiněném ústně sepsán u soudu, zašle jej soud neprodleně státnímu zástupci.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=44961fcbcbb141d800d1 -->
-
 ## Oddíl 4 — Lhůty (§ 60, § 61)
 
 ### § 60 — Počítání lhůt
@@ -1591,68 +1021,6 @@ Den počátku se do lhůty nezapočítává; konec lhůty připadající na den 
 - [ ] Bylo využito některé z míst zachovávajících lhůtu (soud/SZ, velitel, ředitel věznice, ústně do protokolu)?
 
 **Typicky rozhodné důkazy / podklady:** doručenka napadeného rozhodnutí, obálka s podacím razítkem pošty, protokol o ústním podání, evidence podání u věznice.
-
-
-<!-- LEGAL-REVISION:BEGIN id=40604a4827e149644a60 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 60 — Počítání lhůt
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Do lhůty určené podle dní se nezapočítává den, kdy se stala událost určující počátek lhůty.
->
-> (2) Lhůta stanovená podle týdnů, měsíců nebo let končí uplynutím toho dne, který svým jménem nebo číselným označením odpovídá dni, kdy se stala událost určující počátek lhůty. Chybí-li tento den v posledním měsíci lhůty, končí lhůta uplynutím posledního dne tohoto měsíce.
->
-> (3) Připadne-li konec lhůty na den pracovního klidu nebo pracovního volna, pokládá se za poslední den lhůty nejbližší příští pracovní den.
->
-> (4) Lhůta je zachována též tehdy, jestliže podání bylo ve lhůtě
->
-> - a) podáno jako poštovní zásilka adresovaná soudu, státnímu zástupci nebo policejnímu orgánu, u něhož má být podáno nebo který má ve věci rozhodnout,
->
-> - b) učiněno u soudu nebo u státního zástupce, který má ve věci rozhodnout,
->
-> - c) učiněno příslušníkem ozbrojených sil nebo ozbrojeného sboru v činné službě u jeho náčelníka,
->
-> - d) učiněno u ředitele nápravného zařízení, kde je ten, kdo podání činí, ve vazbě nebo v trestu, nebo
->
-> - e) učiněno ústně do protokolu u kteréhokoli okresního soudu nebo okresního státního zástupce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=40604a4827e149644a60 -->
 
 ### § 61 — Navrácení lhůty (*restitutio in integrum*)
 
@@ -1717,56 +1085,6 @@ Navrácení lhůty je výhradní výhodou obhajoby: povolí se obviněnému nebo
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0562b34f276974ca212a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 61 — Navrácení lhůty
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Zmešká-li obviněný nebo jeho obhájce z důležitých důvodů lhůtu k podání opravného prostředku, povolí mu, nestanoví-li zákon jinak, orgán, jemuž přísluší o opravném prostředku rozhodovat, navrácení lhůty. O navrácení lhůty je třeba požádat do tří dnů od pominutí překážky. Nebyl-li opravný prostředek ještě podán, je třeba jej se žádostí spojit. Jde-li o odvolání proti rozsudku, je možno odvolání odůvodnit ještě ve lhůtě osmi dnů od doručení usnesení o povolení navrácení lhůty.
->
-> (2) Byl-li opravný prostředek už zamítnut jako opožděný, zruší orgán při povolení navrácení lhůty zároveň i svoje rozhodnutí o zamítnutí opravného prostředku.
->
-> (3) Ustanovení odstavců 1 a [[#§ 2|2]] se užije přiměřeně i tehdy, ukáže-li se, že lhůta k podání opravného prostředku, který byl zamítnut jako opožděný, zmeškána nebyla.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0562b34f276974ca212a -->
-
 ## Oddíl 5 — Doručování (§ 62 – § 64a)
 
 ### § 62 — Obecné ustanovení o doručování
@@ -1829,56 +1147,6 @@ Doručuje se přednostně do datové schránky, subsidiárně sám orgán či po
 
 **Typicky rozhodné důkazy / podklady:** doklady o datové schránce a jejím zpřístupnění, plná moc obhájce/zmocněnce, doručenky a evidence pokusů o doručení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=8210de38665ec78db1f4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 62 — Obecné ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Nebyla-li písemnost doručena při úkonu trestního řízení, doručuje ji orgán činný v trestním řízení do datové schránky1b). Není-li možné doručit písemnost tímto způsobem, doručuje ji orgán činný v trestním řízení sám nebo prostřednictvím provozovatele poštovních služeb (dále jen „pošta“) a v případě, že by takové doručení nebylo úspěšné, i prostřednictvím orgánu obce. Doručují-li písemnost soud nebo státní zastupitelství samy, činí tak svými doručovateli nebo orgány justiční stráže. Nelze-li takto písemnost doručit, doručí se prostřednictvím příslušného policejního orgánu. V případech stanovených zvláštními předpisy doručuje orgán činný v trestním řízení prostřednictvím Ministerstva spravedlnosti nebo jiného stanoveného orgánu.
->
-> (2) Má-li obviněný obhájce a poškozený nebo zúčastněná osoba zmocněnce, doručuje se písemnost pouze obhájci nebo zmocněnci, pokud zákon nestanoví jinak. Má-li však obviněný, poškozený nebo zúčastněná osoba něco osobně vykonat, doručuje se písemnost i jim.
->
-> (3) Doručuje-li orgán činný v trestním řízení písemnost prostřednictvím pošty, lze takovou písemnost vyhotovit za její součinnosti; podrobnosti takového postupu stanoví Ministerstvo spravedlnosti vyhláškou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8210de38665ec78db1f4 -->
-
 ### § 63 — Subsidiární použití OSŘ
 
 **Odst. 1**: Pro doručování FO, PO, státním orgánům, státu, advokátům, notářům, obcím a VÚSC se **přiměřeně užijí předpisy OSŘ** (§ 45 a násl. OSŘ — vč. fikcí doručení do datové schránky).
@@ -1927,58 +1195,6 @@ Pro doručování se podpůrně užije OSŘ; obviněnému se doručuje předevš
 - [ ] Byly při subsidiárním použití OSŘ ověřeny předpoklady případných fikcí doručení?
 
 **Typicky rozhodné důkazy / podklady:** ustanovení obhájce a usnesení o řízení proti uprchlému, podklady banky o kontaktní adrese, doklady o adrese pro doručování a o zpřístupnění datové schránky, doručenky.
-
-
-<!-- LEGAL-REVISION:BEGIN id=b23e8365329ecc2fe860 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 63
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li tento zákon jinak, užijí se pro způsob doručování fyzickým osobám, právnickým osobám, státním orgánům, státu, advokátům, notářům, obcím a vyšším územně samosprávným celkům přiměřeně předpisy platné pro doručování v občanském soudním řízení.
->
-> (2) Je-li adresátem obviněný, doručuje se mu především na adresu, kterou za tím účelem uvedl [§ 55 odst. 1 písm. c)].
->
-> (3) Písemnosti týkající se zajištění peněžních prostředků na účtu je možné doručovat též na adresu, kterou osoba, jíž byly peněžní prostředky na účtu zajištěny, uvedla bance nebo jinému subjektu, který pro ni vede účet, jako kontaktní adresu, pokud neoznačila žádnou adresu pro doručování v trestním řízení a ani se nezdržuje na jiné adrese pro doručování podle občanského soudního řádu.
->
-> (4) Doručují-li se obhájci v řízení proti uprchlému písemnosti určené pro obviněného (§ 306 odst. 1), postupuje se způsobem platným pro doručování obviněnému.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 55, § 306
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b23e8365329ecc2fe860 -->
 
 ### § 64 — Doručování do vlastních rukou
 
@@ -2055,82 +1271,6 @@ U písemností doručovaných do vlastních rukou nastupuje po 10 dnech fikce do
 
 **Typicky rozhodné důkazy / podklady:** doručenka s vyznačením uložení/vyrozumění a vhození do schránky, údaje o adrese pro doručování, doklad o opakovaném doručení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=47181f757609b1004407 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 64 — Doručování do vlastních rukou
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Do vlastních rukou se doručuje
->
-> - a) obviněnému obžaloba, návrh na schválení dohody o vině a trestu, návrh na potrestání a předvolání,
->
-> - b) osobám oprávněným podat proti rozhodnutí opravný prostředek opis tohoto rozhodnutí,
->
-> - c) jiná písemnost, jestliže to předseda senátu, státní zástupce nebo policejní orgán z důležitých důvodů nařídí.
->
-> (2) Nebyl-li adresát písemnosti, kterou je třeba doručit do vlastních rukou, zastižen, písemnost se uloží a adresát se vhodným způsobem vyrozumí, kde si ji může vyzvednout.
->
-> (3) Písemnost se ukládá
->
-> - a) u okresního soudu, v jehož obvodu je místo doručení, nebo u soudu, který má sídlo v místě doručení, jestliže ji doručuje soudní doručovatel nebo orgán justiční stráže,
->
-> - b) u státního zastupitelství, v jehož obvodu je místo doručení, nebo u státního zastupitelství, které má sídlo v místě doručení, jestliže ji doručuje doručovatel státního zastupitelství nebo orgán justiční stráže,
->
-> - c) u pošty, jestliže se doručuje prostřednictvím pošty,
->
-> - d) u orgánu obce, jestliže se doručuje prostřednictvím orgánu obce,
->
-> - e) u příslušného orgánu policie, jestliže doručuje písemnost sám, anebo ji doručuje soud nebo státní zastupitelství prostřednictvím policejního orgánu.
->
-> (4) Nevyzvedne-li si adresát písemnost do deseti dnů od uložení, považuje se poslední den této lhůty za den doručení, i když se adresát o uložení nedověděl, ačkoliv se v místě doručení zdržuje, nebo uvedenou adresu označil pro účely doručování, anebo jde o adresu uvedenou v § 63 odst. 3. Doručující orgán po marném uplynutí této lhůty vhodí písemnost do domovní nebo jiné adresátem užívané schránky, ledaže odesílatel vhození písemnosti do schránky vyloučí. Není-li takové schránky, písemnost se vrátí odesílateli a vyvěsí se o tom sdělení na úřední desce.
->
-> (5) Odstavec 4 se neužije, doručuje-li se
->
-> - a) obviněnému usnesení o zahájení trestního stíhání, obžaloba, návrh na potrestání, návrh na schválení dohody o vině a trestu, rozsudek, trestní příkaz nebo předvolání k hlavnímu líčení nebo veřejnému zasedání, nebo
->
-> - b) jiná písemnost, jestliže to předseda senátu, státní zástupce, nebo policejní orgán z důležitých důvodů nařídí.
->
-> (6) Je-li doručení podle odstavce 4 vyloučeno, musí to odesílatel na zásilce nápadně vyznačit. Doručující orgán v takovém případě vrátí písemnost odesílateli po marném uplynutí lhůty deseti dnů ode dne jejího uložení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 63
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=47181f757609b1004407 -->
-
 ### § 64a — Odepření přijetí
 
 **Odst. 1**: Odepře-li adresát (nebo osoba oprávněná za něj) převzít, **poznamená se to na doručence** + **datum a důvod**. Písemnost se vrátí.
@@ -2178,54 +1318,6 @@ Odepření přijetí se poznamená na doručence s datem a důvodem; je-li odep�
 **Typicky rozhodné důkazy / podklady:** doručenka s poznámkou o odepření (datum, důvod), doklad o upozornění adresáta, posouzení bezdůvodnosti odepření.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=454fe3bc68d892f3e54d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 64a — Odepření přijetí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Odepře-li adresát, popřípadě osoba oprávněná za něj písemnost převzít, písemnost přijmout, poznamená se to na doručence spolu s datem a důvodem odepření a písemnost se vrátí.
->
-> (2) Uzná-li předseda senátu, státní zástupce nebo policejní orgán, který písemnost odeslal, že přijetí bylo odepřeno bezdůvodně, považuje se písemnost za doručenou dnem, kdy přijetí bylo odepřeno; na tento následek musí být adresát doručovatelem upozorněn.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=454fe3bc68d892f3e54d -->
 
 ## Oddíl 6 — Nahlížení do spisů (§ 65)
 
@@ -2325,62 +1417,6 @@ Obviněný, poškozený, zúčastněná osoba a jejich zástupci mají právo na
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=75e6ac66d8fa140fdd3d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 65
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Obviněný, poškozený a zúčastněná osoba, jejich obhájci a zmocněnci mají právo nahlížet do spisů, s výjimkou protokolu o hlasování a osobních údajů svědka podle § 55 odst. 2, činit si z nich výpisky a poznámky a pořizovat si na své náklady kopie spisů a jejich částí. Totéž právo má zákonný zástupce nebo opatrovník obviněného, poškozeného nebo zúčastněné osoby, jestliže tyto osoby nejsou plně svéprávné nebo je-li jejich svéprávnost omezena. Jiné osoby tak mohou činit se souhlasem předsedy senátu a v přípravném řízení se souhlasem státního zástupce nebo policejního orgánu, jen pokud je toho třeba k uplatnění jejich práv.
->
-> (2) V přípravném řízení může státní zástupce nebo policejní orgán právo nahlédnout do spisů a spolu s tím ostatní práva uvedená v odstavci 1 ze závažných důvodů odepřít. Závažnost důvodů, ze kterých tato práva odepřel policejní orgán, je na žádost osoby, jíž se odepření týká, státní zástupce povinen urychleně přezkoumat. Tato práva nelze odepřít obviněnému a obhájci, jakmile byli upozorněni na možnost prostudovat spisy, a při sjednávání dohody o vině a trestu.
->
-> (3) Tomu, kdo měl právo být úkonu přítomen, nemůže být odepřeno nahlédnutí do protokolu o takovém úkonu. Obviněnému a jeho obhájci nemůže být odepřeno nahlédnutí do usnesení o zahájení trestního stíhání (§ 160 odst. 1).
->
-> (4) Práva státních orgánů a národního člena Eurojustu nahlížet do spisů podle jiných zákonných předpisů nejsou ustanovením předchozích odstavců dotčena.
->
-> (5) Při povolování nahlížet do spisů je nutno učinit takové opatření, aby byla zachována tajnost utajovaných informací chráněných zvláštním zákonem a údajů, na které se vztahuje státem uložená nebo uznaná povinnost mlčenlivosti.
->
-> (6) Při nahlížení do spisů je nutno učinit taková opatření, aby nebyly zpřístupněny údaje, se kterými se podle § 55 odst. 1 písm. c) mohou seznamovat pouze orgány činné v trestním řízení a úředníci Probační a mediační služby činní v dané věci. V případě žádosti osoby, proti níž se trestní řízení vede, o sdělení těchto údajů se užije § 55 odst. 1 písm. c) obdobně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 55, § 160
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=75e6ac66d8fa140fdd3d -->
-
 ## Oddíl 7 — Pořádková pokuta (§ 66)
 
 ### § 66 — Procesní disciplína
@@ -2466,58 +1502,6 @@ Pořádkovou pokutou do 50 000 Kč lze postihnout rušení řízení (po napomen
 **Typicky rozhodné důkazy / podklady:** protokol o úkonu/jednání se záznamem napomenutí a rušivého jednání, znění příkazu/výzvy, rozhodnutí o pořádkové pokutě, podklady o postavení speciálního subjektu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=429047cfa9668ff98668 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-#### Revizní doplnění k § 66
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-##### Znění ustanovení
-
-> (1) Kdo přes předchozí napomenutí ruší řízení nebo kdo se k soudu, státnímu zástupci nebo policejnímu orgánu chová urážlivě nebo kdo bez dostatečné omluvy neuposlechne příkazu nebo nevyhoví výzvě, které mu byly dány podle tohoto zákona, může být předsedou senátu a v přípravném řízení státním zástupcem nebo policejním orgánem potrestán pořádkovou pokutou do 50 000 Kč.
->
-> (2) Dopustí-li se jednání uvedeného v odstavci 1 příslušník ozbrojených sil nebo ozbrojeného sboru v činné službě, může se přenechat příslušnému veliteli nebo náčelníku ke kázeňskému potrestání. Dopustí-li se takového jednání osoba, která je ve vazbě nebo ve výkonu trestu odnětí svobody, může se přenechat řediteli věznice k uložení pořádkového opatření nebo ke kázeňskému potrestání. Příslušný velitel, náčelník nebo ředitel je povinen o výsledku vyrozumět orgán činný v trestním řízení.
->
-> (3) Dopustí-li se jednání uvedeného v odstavci 1 obhájce nebo v řízení před soudem státní zástupce, předá se příslušnému orgánu ke kárnému postihu. Tento orgán je povinen o výsledku vyrozumět orgán činný v trestním řízení.
->
-> (4) Proti rozhodnutí podle odstavců 1 až 3 je přípustná stížnost, jež má odkladný účinek.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=429047cfa9668ff98668 -->
 
 ## Shrnutí Hlavy III
 

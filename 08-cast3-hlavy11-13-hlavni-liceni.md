@@ -88,58 +88,6 @@ Obžalovací zásada určuje, že bez veřejné žaloby není soudního trestní
 
 **Typicky rozhodné důkazy / podklady:** protokol a zvukový záznam HL, obsah obžaloby a důkazních návrhů, evidence o tom, kdo které důkazy navrhl a provedl.
 
-
-<!-- LEGAL-REVISION:BEGIN id=0986f6bf4b5a4e4a3e01 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 180
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Trestní stíhání před soudem se koná jen na podkladě obžaloby nebo návrhu na potrestání, které podává a před soudem zastupuje státní zástupce, nebo na podkladě návrhu na schválení dohody o vině a trestu, který podává státní zástupce. V řízení před okresním soudem se státní zástupce může nechat zastoupit právním čekatelem, nejde-li o řízení o schválení dohody o vině a trestu.
->
-> (2) Při podání a zastupování obžaloby se státní zástupce řídí zákonem a vnitřním přesvědčením založeným na uvážení všech okolností případu. V řízení před soudem vystupuje tak, aby byly objasněny všechny podstatné skutečnosti rozhodné z hlediska podané obžaloby. Za tímto účelem opatřuje z vlastní iniciativy nebo na žádost předsedy senátu i další důkazy, které nebyly dosud opatřeny či provedeny.
->
-> (3) Při dokazování v hlavním líčení a ve veřejném zasedání státní zástupce navrhuje provedení důkazů, které nebyly navrženy již v obžalobě a potřeba je provést vznikla v průběhu řízení před soudem; zpravidla provádí se souhlasem nebo na výzvu předsedy senátu důkazy ([[#§ 203|§ 203]], § 215 odst. 2), které podporují obžalobu. Obhájce nebo obviněný, který nemá obhájce, má právo ve stejném rozsahu se souhlasem předsedy senátu provádět důkazy (§ 215 odst. 2) ve prospěch obhajoby. Spočívá-li provedení těchto důkazů některou ze stran ve výslechu svědka nebo znalce, provede jeho zákonné poučení před započetím výslechu předseda senátu nebo jiný pověřený člen senátu.
->
-> (4) V hlavním líčení, ve veřejném zasedání nebo při jiném úkonu soudu prováděném za přítomnosti stran, může každá ze stran vznášet kdykoliv v jeho průběhu námitky proti způsobu provádění úkonu.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 203, § 215
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0986f6bf4b5a4e4a3e01 -->
-
 ## § 181 — Předběžný přezkum + lhůty pro nařízení HL
 <details>
 <summary>📜 <strong>Citace § 181 (úplné znění)</strong></summary>
@@ -216,56 +164,6 @@ Po podání obžaloby soud nečeká na návrhy a aktivně směřuje k rozhodnut�
 
 **Typicky rozhodné důkazy / podklady:** podací razítko obžaloby, referát/protokol o nařízení úkonu, rejstříkové údaje o pohybu spisu, doklad o případném prodloužení lhůty předsedou soudu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=a498ecbecd384f6834f5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 181
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Podanou obžalobu je třeba u soudu nejprve přezkoumat z toho hlediska, zda pro další řízení poskytuje spolehlivý podklad, zejména prověřit, zda je dána příslušnost soudu k projednání věci (§ 16 až 22), zda v přípravném řízení nedošlo k závažným procesním vadám, které nelze napravit v řízení před soudem, a zda byly v přípravném řízení objasněny základní skutečnosti, bez kterých není možno hlavní líčení provést a v něm rozhodnout. K tomu slouží předběžné projednání obžaloby.
->
-> (2) Po podání obžaloby soud, nevyčkávaje dalších návrhů, postupuje tak, aby řízení bez průtahů směřovalo k rozhodnutí věci, včetně výkonu rozhodnutí.
->
-> (3) Samosoudce je povinen v řízení před okresním soudem ve lhůtě tří týdnů a předseda senátu v řízení před krajským soudem jako soudem prvního stupně ve lhůtě tří měsíců od podání obžaloby nařídit ve věci hlavní líčení, předběžné projednání obžaloby nebo učinit jiný úkon směřující k rozhodnutí věci, včetně pověření Probační a mediační služby k úkonům směřujícím k rozhodnutí o podmíněném zastavení trestního stíhání nebo o schválení narovnání anebo jinému rozhodnutí věci mimo hlavní líčení. Nemůže-li tak ze závažných důvodů učinit, předloží spis předsedovi soudu, který podle povahy věci buď uvedenou lhůtu na nezbytně nutnou dobu prodlouží nebo v souladu s rozvrhem práce soudu učiní jiné vhodné opatření k zajištění plynulosti řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 16
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a498ecbecd384f6834f5 -->
-
 ## § 182 — Dispozice obžalobou (zpětvzetí SZ)
 <details>
 <summary>📜 <strong>Citace § 182 (úplné znění)</strong></summary>
@@ -321,52 +219,6 @@ Zpětvzetí obžaloby je dispozičním úkonem SZ s časovým limitem do závěr
 
 **Typicky rozhodné důkazy / podklady:** protokol o HL s vyznačením okamžiku zahájení a prohlášení o zpětvzetí, zvukový záznam, vyjádření obžalovaného k pokračování.
 
-
-<!-- LEGAL-REVISION:BEGIN id=15fb805c5923709be806 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 182
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Státní zástupce může vzít obžalobu zpět až do doby, než se soud prvního stupně odebere k závěrečné poradě nebo samosoudce počne vyhlašovat rozhodnutí ve věci; po zahájení hlavního líčení tak může učinit jen tehdy, pokud obžalovaný netrvá na jeho pokračování. Zpětvzetím obžaloby se věc vrací do přípravného řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=15fb805c5923709be806 -->
-
 ## § 183 — Pomoc policejního orgánu, konzultant
 <details>
 <summary>📜 <strong>Citace § 183 (úplné znění)</strong></summary>
@@ -419,54 +271,6 @@ Předseda senátu má v řízení před soudem dva nástroje: součinnost police
 - [ ] Je role konzultanta odlišena od role znalce v protokolu o HL?
 
 **Typicky rozhodné důkazy / podklady:** opatření předsedy senátu o přibrání konzultanta, znalecký posudek a jeho provedení v HL, žádost a odpověď policejního orgánu, protokol o HL.
-
-
-<!-- LEGAL-REVISION:BEGIN id=6d04b6d2b05b2b9a8602 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 183
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Kdykoliv v průběhu řízení před soudem může předseda senátu požádat policejní orgán o opatření jednotlivého důkazu, o předvedení osoby nebo za podmínek § 62 odst. 1 o doručení písemnosti. Policejní orgán je povinen mu urychleně vyhovět.
->
-> (2) V závažných a skutkově složitých věcech vyžadujících znalost speciálního oboru může předseda senátu přibrat konzultanta. Ustanovení § 157 odst. 3 až 5 se použije obdobně.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 62, § 157
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6d04b6d2b05b2b9a8602 -->
 
 ## § 183a — Výslech mimo HL/VZ
 <details>
@@ -540,58 +344,6 @@ Výslech mimo HL je výjimkou ze zásady bezprostřednosti pro důležité důvo
 
 **Typicky rozhodné důkazy / podklady:** protokol o výslechu mimo HL, doklad o vyrozumění SZ a obhájce, lékařská/jiná zpráva odůvodňující výjimečnost, případně obrazově-zvukový záznam videokonference.
 
-
-<!-- LEGAL-REVISION:BEGIN id=0ab2146616917845b0a6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 183a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) V řízení před soudem může předseda senátu nebo jiný pověřený člen senátu výjimečně z důležitých důvodů vyslechnout obviněného, svědka, znalce nebo provést jiný důkaz mimo hlavní líčení nebo veřejné zasedání. Státní zástupce i obhájce obviněného, kterého se takový úkon týká, jsou oprávněni se takového úkonu zúčastnit a o jeho konání být včas vyrozuměni, ledaže nelze provedení úkonu odložit a jejich vyrozumění nelze zajistit. Účast obviněného na takovém výslechu může být připuštěna zejména v případech, kdy nemá obhájce, a jde-li o výslech svědka, který má právo odepřít výpověď. Vyrozumění o výslechu svědka nebo o jiném úkonu s takovým svědkem, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, nesmí obsahovat údaje, podle nichž by bylo možné zjistit skutečnou totožnost svědka.
->
-> (2) Účast osob uvedených v odstavci 1 na úkonu může být zajištěna, zejména jde-li o úkon, na němž se účastní osoba mladší než osmnáct let nebo svědek, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, i prostřednictvím videokonferenčního zařízení.
->
-> (3) Má-li takový důkaz později sloužit k rozhodnutí v hlavním líčení, veřejném nebo neveřejném zasedání, musí v něm být v souladu se zákonem proveden. Číst protokol o výslechu takového svědka nebo přehrát obrazový a zvukový záznam pořízený o jeho výslechu provedeném prostřednictvím videokonferenčního zařízení je možné v hlavním líčení nebo veřejném zasedání o odvolání pouze za podmínek uvedených v [[#§ 211|§ 211]], a jde-li o svědka mladšího než osmnáct let, o okolnostech, jejichž oživování v paměti by vzhledem k věku mohlo nepříznivě ovlivňovat jeho duševní a mravní vývoj, za podmínek uvedených v § 102 odst. 2.
->
-> (4) Předseda senátu dbá na ochranu svědků a osob jim blízkých, kterým v souvislosti s podáním svědectví hrozí újma na zdraví, smrt nebo jiné vážné nebezpečí, a je-li to třeba i na utajení jejich totožnosti, popřípadě podoby. Pokud je třeba zajistit ochranu těchto osob i po podání svědectví, předseda senátu učiní po ukončení výslechu bezodkladně všechna potřebná opatření. V nezbytných případech požádá o ochranu uvedených osob orgány Policie České republiky. Způsob zvláštní ochrany svědků a osob jim blízkých stanoví zvláštní zákon.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 55, § 211, § 102
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0ab2146616917845b0a6 -->
-
 ## § 184 — Objasnění příčin TČ, role PMS
 <details>
 <summary>📜 <strong>Citace § 184 (úplné znění)</strong></summary>
@@ -654,56 +406,6 @@ PMS je nástrojem soudu pro objasnění příčin činu, urovnání sporu s poš
 **Typicky rozhodné důkazy / podklady:** pověření PMS, zpráva probačního úředníka o poměrech obviněného, doklad o náhradě škody a omluvě, vyjádření poškozeného.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5d7b1391c0a350d2a5bd generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 184
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Soud je povinen při projednávání věci zaměřit se také na objasnění příčin, které vedly k trestné činnosti nebo umožnily její spáchání.
->
-> (2) K objasnění příčin trestného činu a k urovnání sporu mezi obviněným a poškozeným napomáhá ve stadiu řízení před soudem Probační a mediační služba prostřednictvím probačních úředníků.
->
-> (3) Dovoluje-li to povaha věci a osoba obviněného, vytváří Probační a mediační služba předpoklady pro rozhodnutí soudu mimo hlavní líčení, pro projednání věci v některém ze zvláštních druhů řízení a pro uložení trestů nespojených s odnětím svobody; za tím účelem na základě pověření předsedy senátu Probační a mediační služba vyžaduje a opatřuje potřebné podklady, zejména k osobě obviněného.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5d7b1391c0a350d2a5bd -->
 
 # Hlava XII — Předběžné projednání obžaloby (§ 185 – § 195)
 
@@ -769,54 +471,6 @@ Předseda senátu po nápadu obžaloby volí mezi přímým nařízením HL a p�
 - [ ] Byl případný výslech obviněného / opatření vysvětlení omezen na usnadnění rozhodnutí?
 
 **Typicky rozhodné důkazy / podklady:** obžaloba a spis, protokol o výslechu obviněného, opatřená vysvětlení.
-
-
-<!-- LEGAL-REVISION:BEGIN id=5965c533f74baa8217d1 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 185 — Obecné ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Obžalobu u soudu podanou přezkoumá předseda senátu a podle jejího obsahu a podle obsahu spisu posoudí, zda je ji nutno předběžně projednat v zasedání senátu anebo zda může nařídit o ní hlavní líčení.
->
-> (2) K usnadnění rozhodnutí může vyslechnout obviněného a opatřit potřebná vysvětlení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5965c533f74baa8217d1 -->
 
 ## § 186 — Důvody předběžného projednání (7 taxativně):
 <details>
@@ -890,66 +544,6 @@ Předseda senátu **nařídí** předběžné projednání, má-li za to, že:
 
 **Typicky rozhodné důkazy / podklady:** obžaloba, spis prokazující příslušnost a průběh přípravného řízení, doklady o ustanovení obhájce, vyjádření stran k dohodě.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d97fb8ebb909b733136a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 186 — Důvody k předběžnému projednání obžaloby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Předseda senátu nařídí předběžné projednání obžaloby, má-li za to, že
->
-> - a) věc patří do příslušnosti jiného soudu,
->
-> - b) věc má být postoupena podle § 171 odst. 1,
->
-> - c) jsou tu okolnosti odůvodňující zastavení trestního stíhání podle § 172 odst. 1 nebo jeho přerušení podle § 173 odst. 1, anebo okolnosti odůvodňující podmíněné zastavení trestního stíhání podle [[#§ 307|§ 307]],
->
-> - d) skutek, který je předmětem obžaloby, bude třeba posuzovat podle jiného ustanovení [[trestního zákona|trestního zákona]], než podle kterého jej posuzuje obžaloba,
->
-> - e) přípravné řízení nebylo provedeno podle zákona, neboť v něm byly závažným způsobem porušeny procesní předpisy, zejména ustanovení zajišťující právo obhajoby, a takové porušení procesních předpisů nelze napravit v řízení před soudem,
->
-> - f) ve věci nejsou v potřebném rozsahu objasněny základní skutkové okolnosti, bez kterých není možné ve věci rozhodnout, nebo
->
-> - g) vzhledem k okolnostem případu by bylo vhodné sjednání dohody o vině a trestu, zejména navrhl-li takový postup státní zástupce nebo obviněný.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 171, § 172, § 173, § 307
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d97fb8ebb909b733136a -->
-
 ## § 187 — Způsob předběžného projednání
 <details>
 <summary>📜 <strong>Citace § 187 (úplné znění)</strong></summary>
@@ -1019,58 +613,6 @@ Předběžné projednání probíhá zpravidla neveřejně, soud přezkoumá cel
 - [ ] Při nepodání návrhu ve lhůtě — nařízeno HL na podkladě původní obžaloby (nebo rozhodnutí § 188)?
 
 **Typicky rozhodné důkazy / podklady:** protokol o (ne)veřejném zasedání, zpráva předsedy senátu, vyjádření stran k dohodě, usnesení o stanovené lhůtě.
-
-
-<!-- LEGAL-REVISION:BEGIN id=ed8f66e3bde97aff7387 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 187 — Způsob předběžného projednání obžaloby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Předběžné projednání obžaloby se koná v neveřejném zasedání, nejsou-li dány důvody pro konání vazebního zasedání. Považuje-li to předseda senátu pro rozhodnutí soudu za potřebné, nařídí o předběžném projednání obžaloby veřejné zasedání.
->
-> (2) Při předběžném projednání obžaloby přezkoumá soud vždy celou obžalobu; předseda senátu z tohoto hlediska podá zprávu, přičemž se zaměří na otázky, které je třeba řešit.
->
-> (3) Soud přezkoumá úplnost důkazního materiálu a opodstatněnost obžaloby na základě spisu.
->
-> (4) Koná-li se předběžné projednání obžaloby z důvodu uvedeného v § 186 písm. g), soud zjistí stanovisko obviněného a státního zástupce k sjednání dohody o vině a trestu. Vyjádří-li se státní zástupce a obviněný, že mají zájem jednat o dohodě o vině a trestu, soud stanoví státnímu zástupci přiměřenou lhůtu k podání návrhu na schválení takové dohody. Podá-li státní zástupce ve stanovené lhůtě soudu návrh na schválení dohody o vině a trestu, postupuje soud podle § 314o až 314s; v případech, ve kterých se podle § 314o až 314r věc vrací do přípravného řízení, soud jedná na podkladě původní obžaloby. Nepodá-li státní zástupce ve stanovené lhůtě soudu návrh na schválení dohody o vině a trestu, soud nařídí hlavní líčení, neučiní-li některé z rozhodnutí uvedených v [[#§ 188|§ 188]].
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 186, § 314o, § 188
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ed8f66e3bde97aff7387 -->
 
 ## § 188 — Rozhodnutí po předběžném projednání (6 typů)
 <details>
@@ -1147,68 +689,6 @@ Předběžné projednání probíhá zpravidla neveřejně, soud přezkoumá cel
 
 **Typicky rozhodné důkazy / podklady:** usnesení po předběžném projednání, spis dokládající rozsah objasnění, případná stížnost a rozhodnutí nadřízeného soudu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=c723283b720e64a1c664 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 188
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Po předběžném projednání obžaloby soud
->
-> - a) rozhodne o předložení věci k rozhodnutí o příslušnosti soudu, který je nejblíže společně nadřízen jemu a soudu, jenž je podle něj příslušný, má-li za to, že sám není příslušný k jejímu projednání,
->
-> - b) postoupí věc jinému orgánu, jsou-li tu okolnosti uvedené v § 171 odst. 1,
->
-> - c) trestní stíhání zastaví, jsou-li tu okolnosti uvedené v § 172 odst. 1,
->
-> - d) trestní stíhání přeruší, jsou-li tu okolnosti uvedené v § 173 odst. 1,
->
-> - e) vrátí věc státnímu zástupci k došetření, je-li toho třeba k odstranění závažných procesních vad přípravného řízení, které nelze napravit v řízení před soudem, nebo k objasnění základních skutkových okolností, bez kterých není možné v hlavním líčení ve věci rozhodnout, a v řízení před soudem by takové došetření bylo v porovnání s možnostmi opatřit takový důkaz v přípravném řízení spojeno s výraznými obtížemi nebo by zřejmě bylo na újmu rychlosti řízení, nebo
->
-> - f) trestní stíhání podmíněně zastaví podle [[#§ 307|§ 307]] nebo rozhodne o schválení narovnání podle [[#§ 309|§ 309.]]
->
-> (2) Po předběžném projednání obžaloby může soud také zastavit trestní stíhání, jsou-li tu okolnosti uvedené v § 172 odst. 2 písm. a) až c).
->
-> (3) Proti rozhodnutí podle odstavce 1 písm. b) až f) a podle odstavce 2 mohou státní zástupce i obviněný podat stížnost, jež má, nejde-li o přerušení trestního stíhání, odkladný účinek. Proti rozhodnutí o podmíněném zastavení trestního stíhání a o schválení narovnání může podat stížnost, jež má odkladný účinek, též poškozený.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 171, § 172, § 173, § 307, § 309
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c723283b720e64a1c664 -->
-
 ## § 189 — Omezení rozhodnutí o příslušnosti
 <details>
 <summary>📜 <strong>Citace § 189 (úplné znění)</strong></summary>
@@ -1255,52 +735,6 @@ Přikázání věci nadřízeným soudem podle § 24/§ 25 zavazuje; přikázan�
 - [ ] Pokud beze změny — soud nepředkládá věc o příslušnosti a pokračuje?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí nadřízeného soudu o přikázání, obžaloba a spis dokládající (ne)změnu skutkového podkladu.
-
-
-<!-- LEGAL-REVISION:BEGIN id=f2a630c8ef9327d7f681 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 189
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Rozhodnout o předložení věci k rozhodnutí o příslušnosti soudu podle § 188 odst. 1 písm. a) nemůže soud, jemuž byla věc přikázána podle [[#§ 24|§ 24]] nebo [[#§ 25|§ 25]] nadřízeným soudem, ledaže by se skutkový podklad pro posouzení příslušnosti mezitím podstatně změnil.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 188, § 24, § 25
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f2a630c8ef9327d7f681 -->
 
 ## § 190 — Změna právní kvalifikace
 <details>
@@ -1353,54 +787,6 @@ Odchylná právní kvalifikace nevede automaticky k vrácení věci: vrácení j
 - [ ] Byl obžalovanému zachován prostor připravit obhajobu k nové kvalifikaci?
 
 **Typicky rozhodné důkazy / podklady:** obžaloba, znalecké/skutkové podklady k rozsahu následku, doklad o upozornění na možnost odchylné kvalifikace.
-
-
-<!-- LEGAL-REVISION:BEGIN id=f9dd5cc4014830d17c8a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 190
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Má-li soud za to, že při správném použití zákona je nutno skutek, který je předmětem obžaloby, posoudit podle jiného ustanovení zákona, než podle kterého jej posuzovala obžaloba, vrátí věc státnímu zástupci k došetření (§ 188 odst. 1 písm. e), je-li třeba vzhledem k odchylnému právnímu posouzení věc ještě blíže objasnit.
->
-> (2) Není-li došetření třeba, upozorní předseda senátu na možnost odchylného právního posouzení skutku osoby, kterým se doručuje opis obžaloby (§ 196 odst. 1).
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 188, § 196
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f9dd5cc4014830d17c8a -->
 
 ## § 191 — Náležitosti usnesení o vrácení k došetření
 <details>
@@ -1457,54 +843,6 @@ Usnesení o vrácení k došetření musí konkrétně označit, co doplnit, obj
 
 **Typicky rozhodné důkazy / podklady:** usnesení o vrácení s vymezením pokynů, spis dokládající rozsah dosavadního objasnění, případná stížnost.
 
-
-<!-- LEGAL-REVISION:BEGIN id=a04aebf3437de234fbee generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 191
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Vrátí-li soud věc státnímu zástupci k došetření, uvede v usnesení, v kterých směrech je třeba přípravné řízení doplnit a které skutečnosti je třeba objasnit, popřípadě které úkony je třeba provést.
->
-> (2) Jakmile usnesení o vrácení věci státnímu zástupci k došetření nabylo právní moci, vrací se věc do stavu přípravného řízení.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a04aebf3437de234fbee -->
-
 ## § 192 — Vazba při předběžném projednání
 <details>
 <summary>📜 <strong>Citace § 192 (úplné znění)</strong></summary>
@@ -1552,52 +890,6 @@ Je-li obviněný ve vazbě, soud při předběžném projednání obžaloby vžd
 - [ ] Při pominutí důvodů — byl obviněný z vazby propuštěn?
 
 **Typicky rozhodné důkazy / podklady:** vazební rozhodnutí, vazební spis, usnesení po předběžném projednání s výrokem o vazbě.
-
-
-<!-- LEGAL-REVISION:BEGIN id=424c7c1ea550ea9d4371 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 192
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Je-li obviněný ve vazbě, rozhodne soud při předběžném projednání obžaloby vždy také o dalším trvání vazby.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=424c7c1ea550ea9d4371 -->
 
 ## § 195 — Nové předběžné projednání
 <details>
@@ -1652,54 +944,6 @@ Po opětovném podání obžaloby (po došetření) či po přikázání věci n
 **Typicky rozhodné důkazy / podklady:** původní i nová obžaloba, doplněný spis po došetření, rozhodnutí o vrácení / přikázání věci.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e2438bbc9d42939a318f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 195 — Nové předběžné projednání obžaloby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Rozhodne-li se státní zástupce ve věci, která mu byla vrácena k došetření, opět pro podání obžaloby, přihlédne v ní i k výsledkům provedeného došetření. Obžaloba se za podmínek uvedených v [[#§ 186|§ 186]] u soudu znovu předběžně projedná.
->
-> (2) Za podmínek uvedených v [[#§ 186|§ 186]] se obžaloba znovu předběžně projedná také u soudu, jemuž věc byla přikázána nadřízeným soudem po předložení věci podle § 188 odst. 1 písm. a).
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 186, § 188
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e2438bbc9d42939a318f -->
 
 # Hlava XIII — Hlavní líčení (§ 196 – § 231)
 

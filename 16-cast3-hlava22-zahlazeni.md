@@ -66,52 +66,6 @@ O zahlazení rozhoduje **samosoudce** na:
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5f7b20f4421d14d9bda5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 363
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> O zahlazení odsouzení rozhoduje samosoudce na žádost odsouzeného nebo na návrh zájmového sdružení uvedeného v § 3 odst. 1, a nejde-li o případ upravený v [[§ 69 odst. 3|§ 69 odst. 3]] [[tr. zák|tr. zák.]], též na žádost osob, které by mohly ve prospěch odsouzeného podat odvolání.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 3, § 69
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5f7b20f4421d14d9bda5 -->
-
 ## § 364 — Příslušnost soudu
 <details>
 <summary>📜 <strong>Citace § 364 (úplné znění)</strong></summary>
@@ -168,54 +122,6 @@ Místně příslušným je vždy okresní soud bydliště odsouzeného v době p
 **Typicky rozhodné důkazy / podklady:** doklad o aktuálním/posledním bydlišti (evidence obyvatel, nájemní smlouva, potvrzení o pobytu); pravomocný rozsudek a spisová značka; výpis z RT.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2d443a6836c171cbba54 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 364
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) O zahlazení odsouzení rozhoduje samosoudce okresního soudu, v jehož obvodu odsouzený v době podání návrhu má nebo naposledy měl bydliště.
->
-> (2) Proti rozhodnutí o zahlazení odsouzení je přípustná stížnost, jež má odkladný účinek.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2d443a6836c171cbba54 -->
 
 ## § 364a — Speciální příslušnost u cizozemských a mezinárodních odsouzení
 <details>
@@ -280,58 +186,6 @@ O zahlazení cizozemských a mezinárodních odsouzení zaznamenaných v české
 **Typicky rozhodné důkazy / podklady:** cizozemský/mezinárodní odsuzující rozsudek; rozhodnutí NS o uznání dle ZMJS nebo titul podle Smlouvy ČR–SR; výpis a opis z českého RT; doklad o bydlišti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4787cc336b9811b5f420 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 364a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> Samosoudce okresního soudu uvedeného v § 364 odst. 1 též rozhoduje o
->
-> - a) zahlazení odsouzení cizozemským soudem, mezinárodním trestním soudem, mezinárodním trestním tribunálem anebo obdobným mezinárodním soudním orgánem s působností v trestních věcech, které je zaznamenáno v rejstříku trestů na základě uznání rozhodnutí cizozemského soudu nebo na základě rozhodnutí Nejvyššího soudu podle zvláštního právního předpisu,
->
-> - b) zahlazení odsouzení zaznamenaných v rejstříku trestů na základě Smlouvy mezi vládou České republiky a vládou Slovenské republiky o výměně údajů z informačních fondů obsažených v rejstříku trestů;
->
-> účinky v cizině může mít takové rozhodnutí pouze tehdy, stanoví-li tak mezinárodní smlouva.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 364
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4787cc336b9811b5f420 -->
 
 ## § 365 — Důsledky a opakování žádosti
 <details>
@@ -404,54 +258,6 @@ Po pravomocném zahlazení soud vyrozumí odsouzeného, navrhovatele a Ministers
 **Typicky rozhodné důkazy / podklady:** předchozí zamítavé usnesení a jeho odůvodnění; doklad o datu výkonu/promlčení trestu (počátek zahlazovací doby); výpis a opis z RT; potvrzení o vyrozumění Ministerstva spravedlnosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=bf43883b6e270c45f600 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
-### Revizní doplnění k § 365
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
-
-#### Znění ustanovení
-
-> (1) Jakmile rozhodnutí o zahlazení odsouzení nabylo právní moci, vyrozumí samosoudce odsouzeného, navrhovatele a Ministerstvo spravedlnosti; zahlazené odsouzení nesmí být vykazováno ve výpisu z rejstříku trestů.
->
-> (2) Byla-li žádost o zahlazení odsouzení zamítnuta, může být znovu podána teprve po uplynutí jednoho roku, ledaže by byla zamítnuta jen proto, že dosud neuplynula doba zákonem stanovená pro zahlazení. Žádost přesto podanou zamítne samosoudce bez šetření.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bf43883b6e270c45f600 -->
 
 ## Klíčové instituty a praktické dopady
 
