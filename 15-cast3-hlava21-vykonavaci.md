@@ -53,6 +53,56 @@ Vykonávací řízení patří zásadně soudu I. stupně; odvolací/dovolací f
 
 **Typicky rozhodné důkazy / podklady:** trestní spis, opisy rozhodnutí všech stupňů, doložka PM, evidenční údaje o věznici.
 
+
+<!-- LEGAL-REVISION:BEGIN id=978d949a80bcfc7c8671 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 315 — Příslušnost ve vykonávacím řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí vykonává, popřípadě jeho výkon zařizuje ten orgán, který rozhodnutí učinil; v řízení před soudem rozhodnutí senátu vykonává nebo jeho výkon zařizuje předseda senátu.
+>
+> (2) Rozhodnutí souvisící s výkonem trestů a ochranných opatření činí, není-li dále stanoveno něco jiného, soud, který ve věci rozhodl v prvním stupni.
+>
+> (3) Opatření nutná k výkonu trestů a ochranných opatření a k vymáhání nákladů trestního řízení, zejména vyrozumívání jiných orgánů a osob, jimž přísluší spolupůsobení při výkonu uvedených rozhodnutí, činí, není-li dále stanoveno něco jiného, předseda senátu soudu, který ve věci rozhodl v prvním stupni.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=978d949a80bcfc7c8671 -->
+
 ### § 316 — Rozhodnutí o pochybnostech a oznamovací povinnost
 
 Předseda senátu řeší **pochybnosti o výkladu rozhodnutí** ohledně způsobu jeho výkonu. Stížnost přípustná.
@@ -97,6 +147,54 @@ Předseda senátu řeší **pochybnosti o výkladu rozhodnutí** ohledně způso
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5cca09b53f886cb9ff07 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 316
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Odsuzující rozsudek za trestný čin, který odsouzený spáchal ve zkušební době stanovené v jiném trestním řízení nebo v průběhu výkonu trestu domácího vězení nebo obecně prospěšných prací uložených v jiném trestním řízení, zašle předseda senátu neprodleně soudu nebo státnímu zástupci, který v tomto jiném trestním řízení rozhodl o stanovení zkušební doby nebo uložení tohoto druhu trestu.
+>
+> (2) Soud a státní zástupce, kterému byl podle odstavce 1 zaslán odsuzující rozsudek, bez zbytečného odkladu učiní úkony směřující k rozhodnutí o důsledcích toho, že odsouzený spáchal ve zkušební době nebo v průběhu výkonu trestu domácího vězení nebo obecně prospěšných prací další trestný čin; za tím účelem zejména nařídí veřejné zasedání, pokud se o těchto důsledcích ve veřejném zasedání rozhoduje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5cca09b53f886cb9ff07 -->
+
 ## Oddíl 2 — Výkon trestu odnětí svobody (§§ 320 – 334)
 
 **Nejrozsáhlejší část vykonávacího řízení** — soustředění na nepodmíněný trest.
@@ -140,6 +238,56 @@ Po PM zařizuje výkon předseda senátu a vazbu započítává ex officio. Klí
 - [ ] Informovat věznici a odsouzeného.
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o vazbě a jejím trvání, evidence dob ve vazbě, spisy souběžně vedených věcí, doložka PM.
+
+
+<!-- LEGAL-REVISION:BEGIN id=4a76bd35c219478e374e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 320 — Obecná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Způsob výkonu trestu odnětí svobody upravuje zákon [[o výkonu trestu odnětí svobody|o výkonu trestu odnětí svobody]].
+>
+> (2) U osob, které jsou ve výkonu trestu odnětí svobody, činí rozhodnutí souvisící s výkonem tohoto trestu samosoudce okresního soudu, v jehož obvodu se trest odnětí svobody vykonává.
+>
+> (3) Je-li u trestů odnětí svobody postupně uložených ([[§ 36 odst. 2|§ 36 odst. 2]] [[tr. zák|tr. zák.]]) stanoven různý způsob výkonu trestu, určí společný způsob výkonu postupně uložených trestů soud, v jehož obvodu se trest odnětí svobody vykonává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4a76bd35c219478e374e -->
 
 ### § 321 — Nařízení výkonu trestu
 
@@ -188,6 +336,56 @@ Nástup výkonu se zahajuje výzvou s povinným označením (spádové) věznice
 - [ ] Zvážit, zda nejsou dány důvody odkladu.
 
 **Typicky rozhodné důkazy / podklady:** výzva a doručenka, evidence pobytu odsouzeného, podklady o spádovosti, záznamy o pátrání.
+
+
+<!-- LEGAL-REVISION:BEGIN id=09c2835e3c7add5043ed generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 321 — Nařízení výkonu trestu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jakmile se rozhodnutí, podle něhož se má vykonat nepodmíněný trest odnětí svobody, stalo vykonatelným, předseda senátu příslušné věznici zašle nařízení výkonu trestu a vyzve odsouzeného, je-li na svobodě, aby trest ve stanovené lhůtě nastoupil. Stal-li se výrok o uložení trestu odnětí svobody vykonatelným rozhodnutím odvolacího soudu, nařídí výkon tohoto trestu u odsouzeného, který je ve vazbě, předseda senátu odvolacího soudu hned po vyhlášení rozhodnutí; předseda senátu odvolacího soudu tak může učinit i u odsouzeného, který není ve vazbě, je-li z konkrétních skutečností zjištěno, že jeho pobyt na svobodě je nebezpečný, nebo jestliže z jeho jednání nebo dalších konkrétních skutečností vyplývá důvodná obava, že odsouzený uprchne nebo se bude skrývat.
+>
+> (2) Nebylo-li z konkrétních skutečností zjištěno, že pobyt odsouzeného na svobodě je nebezpečný, nebo nevyplývá-li z jeho jednání nebo dalších konkrétních skutečností důvodná obava, že uprchne nebo se bude skrývat, a není tak dán důvod pro okamžité nařízení výkonu trestu odnětí svobody, může předseda senátu k nastoupení trestu poskytnout odsouzenému přiměřenou lhůtu, aby si mohl obstarat své záležitosti. Tato lhůta nesmí být delší než jeden měsíc ode dne, kdy nabylo právní moci rozhodnutí uvedené v odstavci 1.
+>
+> (3) Nenastoupí-li odsouzený trest ve lhůtě, která mu byla poskytnuta, nebo bylo-li z konkrétních skutečností zjištěno, že jeho pobyt na svobodě je nebezpečný, nebo jestliže z jeho jednání nebo dalších konkrétních skutečností vyplývá důvodná obava, že uprchne nebo se bude skrývat, nařídí předseda senátu, aby byl do výkonu trestu dodán. Není-li známo místo pobytu odsouzeného, užije se na příkaz k jeho dodání do výkonu trestu přiměřeně ustanovení § 69 odst. 3. Je-li místo pobytu odsouzeného známo, lze použít k jeho dodání do výkonu trestu ustanovení § 83c odst. 2. V příkazu předseda senátu vždy požádá policejní orgán o neprodlené podání informace o tom, zda byl odsouzený do výkonu trestu dodán, popřípadě jaké okolnosti dodání do výkonu trestu brání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69, § 83c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09c2835e3c7add5043ed -->
 
 ### §§ 322 – 323 — Odklad výkonu trestu
 
@@ -238,6 +436,122 @@ Rozlišuj obligatorní odklad (těhotenství, matka dítěte do 1 roku, těžká
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy, doklady o rodinných/majetkových poměrech, vyjádření státního zástupce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5440de5c5e5223821aea generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 322
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu odloží na potřebnou dobu výkon trestu odnětí svobody, jestliže z lékařské zprávy o hospitalizaci odsouzeného v lůžkovém zdravotnickém zařízení nebo z jiných skutečností vyplývá, že by výkon trestu ohrozil jeho život nebo zdraví.
+>
+> (2) Požádá-li odsouzený o odklad výkonu trestu odnětí svobody z důvodů uvedených v odstavci 1, avšak předseda senátu má za to, že takové důvody nejsou zřejmě dány, vyzve odsouzeného, aby nejpozději při nástupu výkonu trestu odnětí svobody předložil zprávu o svém zdravotním stavu příslušné věznici. Zjistí-li věznice, že zdravotní stav odsouzeného mu neumožňuje podrobit se výkonu trestu odnětí svobody, podle povahy navrhne soudu jeho odklad nebo přerušení.
+>
+> (3) Výkon trestu odnětí svobody na těhotné ženě a na matce pečující o dítě do jednoho roku věku, která byla odsouzena za jiný trestný čin než za zvlášť závažný zločin, předseda senátu odloží na dobu jednoho roku po porodu.
+>
+> (4) Výkon trestu odnětí svobody na těhotné ženě a matce pečující o dítě do jednoho roku věku, která byla odsouzena za zvlášť závažný zločin, může předseda senátu odložit na dobu jednoho roku po porodu; zároveň může vyslovit nad odsouzenou dohled, uložit, aby se ve stanovené části doby, na kterou byl výkon trestu odnětí svobody odložen, zdržovala ve stanovené době v určeném obydlí nebo jeho části, uložit přiměřená omezení a přiměřené povinnosti směřující k tomu, aby vedla řádný život, nebo, jde-li o odsouzenou ve věku blízkém věku mladistvých, uložit v zájmu využití výchovného působení rodiny, školy a dalších subjektů též některá z výchovných opatření uvedených v [[zákoně o soudnictví|zákoně o soudnictví]] ve věcech mládeže za obdobného užití podmínek stanovených pro mladistvé. Při rozhodování podle věty první předseda senátu zohlední nejlepší zájem dítěte, osobu odsouzené, povahu a závažnost činu, za který byla odsouzena, a potřebu účinné ochrany společnosti; za tím účelem si vyžádá zprávu probačního úředníka, ke které bude přiložena zpráva orgánu sociálně-právní ochrany dětí.
+>
+> (5) Jestliže bylo podle odstavce 4 rozhodnuto o odložení výkonu trestu odnětí svobody za současného
+>
+> - a) vyslovení dohledu, použijí se na postup při výkonu dohledu přiměřeně [[#§ 330a|§ 330a]] a [[#§ 350k|350k]],
+>
+> - b) uložení přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření, použijí se na postup při výkonu kontroly přiměřeně [[#§ 329|§ 329]] a [[#§ 350l|350l]],
+>
+> - c) rozhodnutí, aby se odsouzená ve stanovené části doby, na kterou byl výkon trestu odnětí svobody odložen, zdržovala ve stanovené době v určeném obydlí nebo jeho části, použijí se na postup při výkonu této povinnosti přiměřeně § 334b až 334e.
+>
+> (6) Je-li obava, že odsouzený uprchne, zneužívá-li povoleného odložení nebo odpadl-li důvod, pro který byl výkon trestu odnětí svobody odložen, předseda senátu odklad výkonu trestu odvolá. Odvolat odklad výkonu trestu odnětí svobody podle odstavce 4 může předseda senátu i tehdy, nevede-li odsouzená po dobu tohoto odkladu řádný život nebo poruší-li omezení či povinnosti uložené jí podle odstavce 4.
+>
+> (7) Proti rozhodnutí podle odstavců 1, [[#§ 3|3]] a [[#§ 4|4]] je přípustná stížnost, jež má, nejedná-li se o stížnost pouze proti výroku o vyslovení dohledu a o uložení přiměřených omezení a přiměřených povinností podle odstavce 4, odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330a, § 350k, § 329, § 350l, § 334b, § 3, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5440de5c5e5223821aea -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a23aaec2748536593a03 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 323
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Výkon trestu odnětí svobody nepřevyšujícího jeden rok může předseda senátu z důležitých důvodů odložit, a to na dobu nejvýše tří měsíců ode dne, kdy nabylo právní moci rozhodnutí uvedené v § 321 odst. 1.
+>
+> (2) Další odklad výkonu takového trestu nebo jeho odklad na dobu delší než tři měsíce může povolit předseda senátu, a to jen výjimečně ze zvlášť důležitých důvodů, zejména mohl-li by výkon trestu mít pro odsouzeného nebo jeho rodinu mimořádně těžké následky. Odklad lze však povolit nejdéle na dobu šesti měsíců ode dne, kdy nabylo právní moci rozhodnutí uvedené v § 321 odst. 1.
+>
+> (3) Je-li obava, že odsouzený uprchne, nebo zneužívá-li povoleného odkladu, předseda senátu odklad odvolá.
+>
+> (4) Proti rozhodnutí, jímž byl povolen odklad výkonu trestu podle odstavce 2, může státní zástupce podat stížnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 321
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a23aaec2748536593a03 -->
+
 ### § 324 — Změna způsobu výkonu trestu
 
 Z věznice s **vyšším do nižšího stupně** ostrahy a naopak — rozhodnutí soudu po slyšení odsouzeného.
@@ -277,6 +591,56 @@ Změnu typu věznice (oběma směry) činí soud po slyšení odsouzeného na z�
 - [ ] Zvážit, zda nepostačí § 324a (oddělení) místo změny typu věznice.
 
 **Typicky rozhodné důkazy / podklady:** hodnocení a návrh vězeňské služby, kázeňské záznamy, zpráva o plnění programu zacházení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c20407b1589301e5d8b6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 324 — Rozhodování o změně způsobu výkonu trestu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O změně způsobu výkonu trestu odnětí svobody rozhoduje ve veřejném zasedání na návrh státního zástupce nebo ředitele věznice, a nejde-li o rozhodování o přeřazení mladistvého do věznice pro ostatní odsouzené, též na návrh odsouzeného nebo i bez takového návrhu samosoudce.
+>
+> (2) Před rozhodnutím o změně způsobu výkonu trestu odnětí svobody musí být odsouzený vyslechnut.
+>
+> (3) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c20407b1589301e5d8b6 -->
 
 ### § 324a — Umístění do oddělení s nižším stupněm zabezpečení
 
@@ -322,6 +686,60 @@ Umístění do oddělení se středním/vysokým stupněm zabezpečení je soudn
 - [ ] Odlišit přezkum umístění (§ 324a) od změny typu věznice (§ 324).
 
 **Typicky rozhodné důkazy / podklady:** vyhodnocení vnějších a vnitřních rizik, kázeňská a behaviorální dokumentace, návrh odsouzeného.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e880aedf1ebc2db2d979 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 324a — Rozhodování o návrhu na umístění do oddělení s nižším stupněm zabezpečení věznice s ostrahou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O návrhu odsouzeného na umístění do oddělení s nižším stupněm zabezpečení věznice s ostrahou podle zákona upravujícího výkon trestu odnětí svobody rozhoduje ve veřejném zasedání samosoudce. Nebrání-li tomu důležité důvody, je třeba o takovém návrhu rozhodnout nejpozději do 30 dnů od jeho doručení soudu.
+>
+> (2) Byl-li návrh podle odstavce 1 podán po lhůtě stanovené zákonem upravujícím výkon trestu odnětí svobody nebo osobou, která k podání návrhu není oprávněna, samosoudce jej zamítne. Toto rozhodnutí může samosoudce učinit mimo veřejné zasedání.
+>
+> (3) Samosoudce na základě návrhu podle odstavce 1 přezkoumá rozhodnutí ředitele věznice o umístění odsouzeného do některého z oddělení věznice s ostrahou z hlediska jeho zákonnosti a odůvodněnosti. Shledá-li návrh nedůvodným nebo bylo-li v době od doručení návrhu soudu rozhodnuto o umístění odsouzeného do jiného oddělení věznice s ostrahou z důvodu změny míry vnějších a vnitřních rizik, návrh zamítne. Nepostupuje-li samosoudce podle věty druhé, rozhodnutí zruší, a je-li vada odstranitelná ve veřejném zasedání, ve věci sám rozhodne; nelze-li takto postupovat, rozhodnutí zruší a uloží řediteli věznice, aby o umístění do některého z oddělení věznice s ostrahou znovu rozhodl.
+>
+> (4) Ředitel věznice je při novém rozhodování o umístění odsouzeného do některého z oddělení věznice s ostrahou vázán právním názorem, který ve věci samosoudce vyslovil, a je povinen provést úkony, jejichž provedení samosoudce nařídil; do vydání nového rozhodnutí nedochází ke změně umístění odsouzeného.
+>
+> (5) Rozhodnutí podle odstavců 2 a [[#§ 3|3]] se doručuje i řediteli věznice.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e880aedf1ebc2db2d979 -->
 
 ### §§ 325 – 327 — Přerušení výkonu trestu
 
@@ -375,6 +793,124 @@ Přerušení dle § 325 reaguje na těžkou nemoc či závažné rodinné důvod
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy a indikace, úmrtní list / doklad o blízké osobě, evidence dosavadních přerušení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2e959ba5f84d94a0f3cf generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 325
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li odsouzený, na němž se vykonává trest odnětí svobody, stižen těžkou nemocí, může samosoudce výkon trestu na potřebnou dobu přerušit.
+>
+> (2) Samosoudce přeruší výkon trestu odnětí svobody na těhotné ženě po dokončení 12. týdne těhotenství a matce pečující o dítě do jednoho roku věku, která byla odsouzena za jiný trestný čin než za zvlášť závažný zločin, a to na dobu jednoho roku po porodu.
+>
+> (3) Výkon trestu odnětí svobody na těhotné ženě a matce pečující o dítě do jednoho roku věku, která byla odsouzena za zvlášť závažný zločin, může samosoudce přerušit na dobu jednoho roku po porodu; zároveň může vyslovit nad odsouzenou dohled, uložit, aby se ve stanovené části doby, na kterou byl výkon trestu odnětí svobody přerušen, zdržovala ve stanovené době v určeném obydlí nebo jeho části, uložit přiměřená omezení a přiměřené povinnosti směřující k tomu, aby vedla řádný život, nebo, jde-li o odsouzenou ve věku blízkém věku mladistvých, uložit v zájmu využití výchovného působení rodiny, školy a dalších subjektů též některá z výchovných opatření uvedených v [[zákoně o soudnictví|zákoně o soudnictví]] ve věcech mládeže za obdobného užití podmínek stanovených pro mladistvé. Při rozhodování podle věty první samosoudce zohlední nejlepší zájem dítěte, osobu odsouzené, povahu a závažnost činu, za který byla odsouzena, a potřebu účinné ochrany společnosti; za tím účelem si vyžádá stanovisko ředitele věznice a zprávu probačního úředníka, ke které bude přiložena zpráva orgánu sociálně-právní ochrany dětí.
+>
+> (4) Jestliže bylo podle odstavce 3 rozhodnuto o přerušení výkonu trestu odnětí svobody za současného
+>
+> - a) vyslovení dohledu, použijí se na postup při výkonu dohledu přiměřeně [[#§ 330a|§ 330a]] a [[#§ 350k|350k]],
+>
+> - b) uložení přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření, použijí se na postup při výkonu kontroly přiměřeně [[#§ 329|§ 329]] a [[#§ 350l|350l]],
+>
+> - c) rozhodnutí, aby se odsouzená ve stanovené části doby, na kterou byl výkon trestu odnětí svobody přerušen, zdržovala ve stanovené době v určeném obydlí nebo jeho části, použijí se na postup při výkonu této povinnosti přiměřeně § 334b až 334e.
+>
+> (5) Je-li obava, že odsouzený uprchne, zneužívá-li povoleného přerušení nebo odpadl-li důvod, pro který byl výkon trestu odnětí svobody přerušen, samosoudce přerušení výkonu trestu odvolá. Odvolat přerušení výkonu trestu odnětí svobody podle odstavce 3 může samosoudce i tehdy, nevede-li odsouzená po dobu tohoto přerušení řádný život nebo poruší-li omezení či povinnosti uložené jí podle odstavce 3.
+>
+> (6) Proti rozhodnutí podle odstavců 1 až 3 je přípustná stížnost, jež má, nejedná-li se o stížnost pouze proti výroku o vyslovení dohledu a o uložení přiměřených omezení a přiměřených povinností podle odstavce 3, odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330a, § 350k, § 329, § 350l, § 334b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e959ba5f84d94a0f3cf -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8b5d21cdbdbde152243c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 327
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu může upustit od výkonu trestu odnětí svobody nebo jeho zbytku, jestliže odsouzený byl nebo má být
+>
+> - a) vydán do cizího státu nebo předán cizímu státu podle [[části páté|části páté]] [[hlavy druhé|hlavy druhé]] [[zákona o mezinárodní justiční spolupráci ve věcech trestních|zákona o mezinárodní justiční spolupráci ve věcech trestních]], nebo
+>
+> - b) vyhoštěn.
+>
+> (2) Nedojde-li k vydání odsouzeného do cizího státu, k jeho předání nebo k vyhoštění podle odstavce 1, anebo vrátí-li se v těchto případech vydaný, předaný nebo vyhoštěný, rozhodne předseda senátu, že se trest odnětí svobody nebo jeho zbytek vykoná.
+>
+> (3) Předseda senátu může upustit od výkonu trestu odnětí svobody nebo jeho zbytku též tehdy, zjistí-li, že odsouzený onemocněl nevyléčitelnou životu nebezpečnou nemocí nebo nevyléčitelnou nemocí duševní.
+>
+> (4) Proti rozhodnutí podle odstavce 3 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b5d21cdbdbde152243c -->
+
 ### § 328 — Odklad u vojáků
 
 Speciální režim pro **vojáky v činné službě** — koordinace s vojenskou disciplinární mocí.
@@ -414,6 +950,56 @@ U vojáků v činné službě lze výkon koordinovat a dočasně odložit s voje
 - [ ] Při skončení služby přejít na obecný režim.
 
 **Typicky rozhodné důkazy / podklady:** doklad o služebním poměru, stanovisko velitele, evidence vojenské správy.
+
+
+<!-- LEGAL-REVISION:BEGIN id=3cacb9b7772440e01d4d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 328 — Odklad a přerušení výkonu trestu a upuštění od jeho výkonu u vojáků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu odloží nebo přeruší výkon trestu odnětí svobody nepřevyšujícího šest měsíců, je-li odsouzený povolán k výkonu základní vojenské služby.
+>
+> (2) Jestliže odsouzený ve výkonu této služby nespáchal žádný trestný čin a konal řádně vojenskou službu, upustí soud od výkonu trestu nebo jeho zbytku; jinak rozhodne, že se trest nebo jeho zbytek vykoná. Bylo-li upuštěno od výkonu trestu nebo jeho zbytku, pokládá se trest za vykonaný dnem, kdy byl jeho výkon odložen nebo přerušen.
+>
+> (3) Proti rozhodnutí podle odstavce 2 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cacb9b7772440e01d4d -->
 
 ### §§ 329 – 330a — Podmíněné odsouzení (kontrola plnění)
 
@@ -464,6 +1050,166 @@ O osvědčení/neosvědčení rozhoduje soud podle celkového vedení řádného
 - [ ] Zvážit změnu povinností/dohledu (§ 330a) místo neosvědčení.
 
 **Typicky rozhodné důkazy / podklady:** zprávy PMS, doklady o úhradě škody a plnění povinností, výpis z rejstříku trestů, vyjádření poškozeného.
+
+
+<!-- LEGAL-REVISION:BEGIN id=defd7c1349769e2ba1d5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 329
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu pravidelně, nejméně jednou za šest měsíců, zjišťuje, zda podmíněně odsouzený vede řádný způsob života a dodržuje uložené přiměřené omezení nebo přiměřenou povinnost anebo výchovné opatření; to neplatí pro přiměřené omezení, přiměřenou povinnost nebo výchovné opatření, jehož kontrolou byla pověřena Probační a mediační služba, a pro uloženou povinnost zdržovat se ve stanoveném časovém období v určeném obydlí nebo jeho části.
+>
+> (2) Jestliže bylo rozhodnuto o podmíněném odsouzení za současného rozhodnutí, aby
+>
+> - a) se podmíněně odsouzený zdržoval ve stanoveném časovém období v určeném obydlí nebo jeho části, použijí se na postup při výkonu této povinnosti přiměřeně § 334b až 334e,
+>
+> - b) podmíněně odsouzený v průběhu zkušební doby vykonal práce ve prospěch poskytovatele obecně prospěšných prací, použijí se na postup při výkonu této povinnosti přiměřeně § 336 až 338 a [[#§ 339|§ 339]].
+>
+> (3) Zájmové sdružení občanů činné na pracovišti odsouzeného nebo v jeho bydlišti může předseda senátu požádat o výchovné spolupůsobení, pokud nabídlo záruku za převýchovu odsouzeného.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 334b, § 336, § 339
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=defd7c1349769e2ba1d5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4b4f481befd722d25515 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 330
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O tom, zda se podmíněně odsouzený osvědčil, zruší se uložené přiměřené omezení nebo přiměřená povinnost anebo výchovné opatření, ponechá se podmíněné odsouzení v platnosti nebo se trest vykoná, rozhodne předseda senátu na návrh odsouzeného, státního zástupce nebo i bez takového návrhu ve veřejném zasedání; zamítnout návrh pouze z důvodu, že dosud neuplynula lhůta stanovená v zákoně pro zrušení uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření, může též předseda senátu mimo veřejné zasedání. Návrh na zrušení uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření může odsouzený podat, jen pokud k němu připojí kladné stanovisko probačního úředníka, vykonává-li kontrolu tohoto přiměřeného omezení, přiměřené povinnosti nebo výchovného opatření; jinak předseda senátu o takovém návrhu nerozhoduje a vrátí jej odsouzenému s poučením o nutnosti připojit k němu uvedené stanovisko probačního úředníka. K rozhodnutí o návrhu na ponechání podmíněného odsouzení v platnosti nebo na vykonání trestu předseda senátu bez zbytečného odkladu nařídí veřejné zasedání.
+>
+> (2) Byl-li návrh odsouzeného na zrušení uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření zamítnut, může jej odsouzený opakovat až po uplynutí šesti měsíců ode dne nabytí právní moci zamítavého rozhodnutí; to neplatí, byl-li zamítnut pouze z důvodu, že doposud neuplynula lhůta stanovená v zákoně pro zrušení uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření.
+>
+> (3) Rozhodnutí, že se podmíněně odsouzený osvědčil, a rozhodnutí, kterým se zruší uložené přiměřené omezení nebo přiměřená povinnost anebo výchovné opatření, může se souhlasem státního zástupce učinit předseda senátu mimo veřejné zasedání. Při rozhodování o osvědčení podmíněně odsouzeného se předseda senátu opírá též o vyjádření zájmového sdružení občanů.
+>
+> (4) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b4f481befd722d25515 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0a5996489bf87202dd01 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 330a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Při výkonu dohledu nelze podmíněně odsouzenému ukládat jiné povinnosti, než které vyplývají ze zákona nebo z odsuzujícího rozsudku.
+>
+> (2) Považuje-li to předseda senátu za vhodné, požádá o spolupůsobení orgány veřejné správy, zájmová sdružení občanů a další orgány, instituce a osoby.
+>
+> (3) Pokud byla podmíněně odsouzenému, u něhož byl vysloven dohled, uložena zároveň povinnost vykonat práce ve prospěch poskytovatele obecně prospěšných prací, použijí se na postup při výkonu této povinnosti přiměřeně § 336 až 338 a [[#§ 339|§ 339]].
+>
+> (4) Na rozhodnutí o tom, zda se podmíněně odsouzený, u něhož byl vysloven dohled, osvědčil, zruší se uložený dohled, uložené přiměřené omezení nebo přiměřená povinnost anebo výchovné opatření, ponechává se podmíněné odsouzení s dohledem v platnosti nebo se trest vykoná, se obdobně použije [[#§ 330|§ 330]].
+>
+> (5) Návrh na zrušení uloženého dohledu může odsouzený podat, jen pokud k němu připojí kladné stanovisko probačního úředníka; jinak předseda senátu o takovém návrhu nerozhoduje a vrátí jej odsouzenému s poučením o nutnosti připojit k němu uvedené stanovisko probačního úředníka. Proti tomuto rozhodnutí je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 336, § 339, § 330
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a5996489bf87202dd01 -->
 
 ### §§ 331 – 333a — Podmíněné propuštění (klíčový institut)
 
@@ -523,6 +1269,260 @@ Podmíněné propuštění vyžaduje kumulativně: vykonání zákonné části 
 
 **Typicky rozhodné důkazy / podklady:** hodnocení vězeňské služby, evidence vykonané části trestu, doklady o zaměstnání/bydlení, vyjádření PMS a státního zástupce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=8452e265db42b4b81676 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 331
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O podmíněném propuštění z trestu odnětí svobody rozhoduje předseda senátu na návrh odsouzeného, státního zástupce nebo ředitele věznice, v níž se vykonává trest, nebo i bez takového návrhu ve veřejném zasedání. Odsouzený, který vykonává trest odnětí svobody, může návrh na podmíněné propuštění podat pouze prostřednictvím věznice, jinak mu předseda senátu návrh vrátí s poučením o nutnosti podat jej tímto způsobem. Předseda senátu vyrozumí o konání veřejného zasedání o podmíněném propuštění z trestu odnětí svobody uloženého pro zločin i poškozeného, který o to požádal (§ 228 odst. 4).
+>
+> (2) Návrh na podmíněné propuštění podle [[§ 88 odst. 3|§ 88 odst. 3]] [[trestního zákoníku|trestního zákoníku]] může odsouzený podat, jen pokud k němu připojí kladné stanovisko ředitele věznice, že odsouzený prokázal svým vzorným chováním a plněním svých povinností, že dalšího výkonu trestu není třeba.
+>
+> (3) Navrhne-li podmíněné propuštění ředitel věznice, v níž odsouzený vykonává trest, nebo se k takovému návrhu připojí, může rozhodnutí o tom, že se odsouzený podmíněně propouští, učinit se souhlasem státního zástupce předseda senátu mimo veřejné zasedání.
+>
+> (4) K návrhu odsouzeného na podmíněné propuštění se může připojit též zájmové sdružení občanů, pokud nabídne převzetí záruky za dovršení nápravy odsouzeného. Souhlasí-li s tím odsouzený, může zájmové sdružení občanů před připojením se k návrhu odsouzeného požádat ředitele věznice, v níž se vykonává trest, aby mu sdělil stav převýchovy odsouzeného.
+>
+> (5) Byl-li návrh odsouzeného na podmíněné propuštění zamítnut nebo vzat zpět, může ho odsouzený opakovat až po uplynutí šesti měsíců od právní moci zamítavého rozhodnutí nebo ode dne, kdy bylo zpětvzetí návrhu doručeno soudu; to neplatí, byl-li návrh zamítnut nebo vzat zpět pouze z důvodu, že doposud neuplynula lhůta stanovená v zákoně pro podmíněné propuštění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 228, § 88
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8452e265db42b4b81676 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=41ae235949f5dd6b166a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 331a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jestliže bylo rozhodnuto o podmíněném propuštění za současného
+>
+> - a) vyslovení dohledu, použijí se na postup při výkonu dohledu přiměřeně [[#§ 330a|§ 330a]] a [[#§ 350k|350k]],
+>
+> - b) uložení přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření, použijí se na postup při výkonu kontroly přiměřeně [[#§ 329|§ 329]] a [[#§ 350l|350l]],
+>
+> - c) rozhodnutí, aby se podmíněně propuštěný ve stanovené části zkušební doby zdržoval ve stanoveném časovém období v určeném obydlí nebo jeho části, použijí se na postup při výkonu této povinnosti přiměřeně § 334b až 334e,
+>
+> - d) rozhodnutí, aby podmíněně propuštěný ve zkušební době vykonal práce ve prospěch poskytovatele obecně prospěšných prací, použijí se na postup při výkonu této povinnosti přiměřeně § 336 až 338 a [[#§ 339|§ 339]].
+>
+> (2) Považuje-li předseda senátu výchovné spolupůsobení zájmového sdružení občanů za prospěšné, postupuje přiměřeně podle § 329 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330a, § 350k, § 329, § 350l, § 334b, § 336, § 339
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41ae235949f5dd6b166a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5b9bf6c10e0a300bfc79 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 332
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Na rozhodnutí o tom, zda se podmíněně propuštěný osvědčil, zruší se uložené přiměřené omezení, přiměřená povinnost, výchovné opatření nebo dohled, anebo zda se zbytek trestu vykoná nebo se ponechává podmíněné propuštění v platnosti, se použijí obdobně [[#§ 330|§ 330]] a [[#§ 330a|330a]]. Proti rozhodnutím podle věty první je přípustná stížnost, která má odkladný účinek.
+>
+> (2) Při rozhodování o osvědčení podmíněně propuštěného se předseda senátu opírá též o vyjádření zájmového sdružení občanů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330, § 330a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b9bf6c10e0a300bfc79 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=66b54c0bf69e032f29b9 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 333
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O návrhu na podmíněné propuštění z trestu odnětí svobody rozhoduje předseda senátu ve veřejném zasedání; zamítnout návrh pouze z důvodu, že dosud neuplynula lhůta stanovená v zákoně pro podmíněné propuštění, může též mimo veřejné zasedání. Nebrání-li tomu důležité důvody, je třeba o návrhu rozhodnout nejpozději do 30 dnů od doručení soudu. Rozhodnutí podle [[#§ 332|§ 332]] činí předseda senátu soudu, který odsouzeného z trestu podmíněně propustil.
+>
+> (2) Před rozhodnutím o podmíněném propuštění nebo o výkonu zbytku trestu musí být odsouzený vyslechnut; to neplatí, postupuje-li předseda senátu podle § 331 odst. 3.
+>
+> (3) Proti rozhodnutí podle § 331 odst. 3 je přípustná stížnost proti výroku o stanovení délky zkušební doby a uložení dohledu anebo jiných opatření uvedených v [[§ 89 odst. 2|§ 89 odst. 2]] nebo [[3|3]] [[trestního zákoníku|trestního zákoníku]]. Proti ostatním rozhodnutím podle [[#§ 331|§ 331]] je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 332, § 331, § 89
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=66b54c0bf69e032f29b9 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=856f08fb6c07138efd2a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 333a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Pokud byl obviněný pravomocně odsouzen k trestu odnětí svobody, může předseda senátu odsouzenému uložit omezení spočívající v zákazu vycestování do zahraničí, které trvá až do doby, kdy odsouzený vykoná trest nebo nastane jiná skutečnost, s níž je spojen zánik výkonu trestu. Proti tomuto rozhodnutí je přípustná stížnost. Pro případy podle věty první se § 77a odst. 2 až 6 použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 77a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=856f08fb6c07138efd2a -->
+
 ### § 334 — Započítání vazby a trestu
 
 Vazba i trest vykonaný v cizině se započítává **z úřední povinnosti** do vykonávaného trestu (§§ 92–93 TZ).
@@ -564,6 +1564,56 @@ Vazbu i trest vykonané v cizině za týž skutek soud započítává do vykoná
 **Typicky rozhodné důkazy / podklady:** doklady cizího státu o vazbě a vykonaném trestu, rozhodnutí o předání/vydání, korespondence mezinárodní justiční spolupráce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4c0a88a899026b687ae generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334 — Započítání vazby a trestu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O započítání vazby a trestu rozhodne předseda senátu usnesením, a to zpravidla zároveň s nařízením výkonu trestu. Vazba se započítává podle stavu ke dni nařízení výkonu trestu, a to od doby, kdy osobní svoboda obviněného byla omezena.
+>
+> (2) Proti usnesení podle odstavce 1 je přípustná stížnost.
+>
+> (3) O návrhu státního zástupce, aby se do výkonu trestu odnětí svobody nezapočítala doba, po kterou byl odsouzenému přerušen výkon trestu odnětí svobody za účelem léčebné péče ve zdravotnickém zařízení mimo věznice, stalo-li se tak v důsledku toho, že si odsouzený způsobil újmu na zdraví úmyslně, rozhoduje samosoudce ve veřejném zasedání. Proti tomuto rozhodnutí je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4c0a88a899026b687ae -->
 
 ## Oddíl 3 — Trest domácího vězení (§§ 334a – 334h)
 
@@ -609,6 +1659,60 @@ Nařízení domácího vězení předpokládá vhodné místo, určený časový
 
 **Typicky rozhodné důkazy / podklady:** stanovisko PMS, technické posouzení místa, souhlas/závazek odsouzeného, rozsudek ukládající domácí vězení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=b5c20611ca7780bf8a64 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334a — Nařízení výkonu trestu domácího vězení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jakmile se rozhodnutí, podle něhož se má vykonat trest domácího vězení stalo vykonatelným, předseda senátu zašle odsouzenému a příslušnému středisku Probační a mediační služby nařízení výkonu tohoto trestu, v kterém určí
+>
+> - a) počátek výkonu tohoto trestu a
+>
+> - b) místo výkonu tohoto trestu.
+>
+> (2) Počátek výkonu trestu domácího vězení stanoví předseda senátu tak, aby si odsouzený mohl obstarat své záležitosti.
+>
+> (3) Místo výkonu trestu stanoví předseda senátu v obydlí odsouzeného v místě trvalého pobytu nebo v místě, kde se odsouzený zdržuje, a to s přihlédnutím k jeho osobním a rodinným poměrům; je-li odsouzený zaměstnán, přihlédne i k místu výkonu zaměstnání a k možnostem dopravy do zaměstnání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b5c20611ca7780bf8a64 -->
+
 ### §§ 334b – 334c — Kontrola
 
 PMS + **elektronický kontrolní systém (EKS)** — pohyb je sledován GPS / RF náramkem.
@@ -648,6 +1752,102 @@ Kontrolu domácího vězení zajišťuje PMS spolu s EKS; reakce na porušení r
 - [ ] Ověřit případné technické chyby monitoringu.
 
 **Typicky rozhodné důkazy / podklady:** protokoly a data EKS, záznamy a stanovisko PMS, vyjádření odsouzeného.
+
+
+<!-- LEGAL-REVISION:BEGIN id=eb83cddb6fc617a465b4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334b — Kontrola výkonu trestu domácího vězení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Kontrolu výkonu trestu domácího vězení zajišťuje Probační a mediační služba prostřednictvím elektronického kontrolního systému umožňujícího detekci pohybu odsouzeného nebo namátkovou kontrolou prováděnou probačním úředníkem. Za tím účelem je odsouzený povinen umožnit probačnímu úředníkovi vstup do místa výkonu trestu a strpět pořízení svých biometrických údajů probačním úředníkem na jeho žádost při zahájení elektronické kontroly, a dále v jejím průběhu, existuje-li podezření na porušení kontrolovaných povinností. Pořizovanými biometrickými údaji jsou otisky prstů, rysy obličeje a záznam hlasu.
+>
+> (2) Pokud nebyly při výkonu elektronické kontroly podle odstavce 1 zjištěny skutečnosti důležité pro trestní řízení, uchovávají se záznamy o pohybu odsouzeného nejdéle po dobu dvanácti měsíců po skončení výkonu elektronické kontroly.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb83cddb6fc617a465b4 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d39294774a282d997734 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334c — Kontrola podmínek výkonu trestu domácího vězení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Pokud bylo odsouzenému zároveň s trestem domácího vězení uloženo přiměřené omezení nebo přiměřená povinnost uvedené v [[§ 48 odst. 4 písm. b)|§ 48 odst. 4 písm. b)]], [[d)|d)]] nebo [[h)|h)]] [[trestního zákoníku|trestního zákoníku]] anebo výchovné opatření uvedené v [[§ 18 odst. 1 písm. c)|§ 18 odst. 1 písm. c)]] nebo [[g)|g)]] nebo [[§ 19 odst. 1 písm. e)|§ 19 odst. 1 písm. e)]], [[g)|g)]] nebo [[h)|h)]] [[zákona o soudnictví ve věcech mládeže|zákona o soudnictví ve věcech mládeže]], kontroluje jejich dodržování Probační a mediační služba; odsouzený je povinen v rámci sledování dodržování uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření spolupracovat s probačním úředníkem způsobem, který mu stanoví, a dostavovat se k němu v jím určených lhůtách.
+>
+> (2) Nedodržuje-li odsouzený stanovené podmínky domácího vězení a uložené přiměřené omezení, přiměřenou povinnost nebo výchovné opatření anebo nevede-li řádný život, sdělí tuto skutečnost probační úředník bezodkladně soudu, který výkon trestu nařídil; při méně závažném porušení upozorní probační úředník odsouzeného na zjištěné nedostatky a poučí jej, že v případě opakování nebo závažnějšího nedodržení stanovených podmínek domácího vězení nebo uloženého přiměřeného omezení, přiměřené povinnosti anebo výchovného opatření bude informovat předsedu senátu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 48, § 18, § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d39294774a282d997734 -->
 
 ### §§ 334d – 334e — Odklad / přerušení / změna
 
@@ -689,6 +1889,112 @@ Odklad/přerušení domácího vězení se řídí obdobnými důvody jako u odn
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy, zprávy PMS a data EKS, vyjádření odsouzeného a státního zástupce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7ad7d4d26a0f97a7270c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334d — Odklad a přerušení výkonu trestu domácího vězení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu může z důležitých důvodů na potřebnou dobu odložit nebo přerušit výkon trestu domácího vězení.
+>
+> (2) Pominou-li důvody odkladu nebo přerušení, předseda senátu odklad nebo přerušení odvolá.
+>
+> (3) Doba, po kterou byl výkon trestu domácího vězení odložen nebo přerušen, se nezapočítává do doby výkonu trestu.
+>
+> (4) Proti rozhodnutí podle odstavců 1 a [[#§ 2|2]] je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ad7d4d26a0f97a7270c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=797a39358dfbcdd62daf generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334e — Změna trestu domácího vězení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Probační úředník může se souhlasem odsouzeného z důležitých důvodů stanovit jiné místo výkonu trestu domácího vězení nebo doby, kdy se zde má odsouzený zdržovat; přitom se nesmí změnit počet hodin v týdnu, po které se má odsouzený v obydlí nebo jeho části zdržovat. O změně místa výkonu trestu domácího vězení nebo doby, kdy se zde má odsouzený zdržovat, informuje probační úředník bez zbytečného odkladu soud, který trest domácího vězení uložil. Jiné místo výkonu trestu domácího vězení se stanoví zejména po vykázání ze společného obydlí podle jiného právního předpisu.
+>
+> (2) Nesouhlasí-li odsouzený se změnou místa výkonu trestu domácího vězení nebo doby, kdy se zde má odsouzený zdržovat, anebo nesouhlasí-li předseda senátu se změnami podle odstavce 1, rozhodne o změně na návrh odsouzeného, státního zástupce nebo probačního úředníka nebo i bez takového návrhu předseda senátu soudu, který trest domácího vězení uložil.
+>
+> (3) Na návrh odsouzeného, státního zástupce nebo probačního úředníka nebo i bez takového návrhu rozhodne předseda senátu z důležitých důvodů o změně přiměřených omezení a přiměřených povinností nebo výchovných opatření uložených odsouzenému; přitom nesmí v neprospěch odsouzeného změnit rozsah přiměřených omezení, přiměřených povinností a výchovných opatření.
+>
+> (4) Na rozhodnutí o tom, zda se zruší přiměřené omezení, přiměřená povinnost, výchovné opatření nebo dohled uložený odsouzenému, kterému byl uložen trest domácího vězení, se obdobně použijí [[#§ 330|§ 330]] a [[#§ 330a|330a]].
+>
+> (5) Proti rozhodnutí podle odstavců 2 a [[#§ 3|3]] je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330, § 330a, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=797a39358dfbcdd62daf -->
+
 ### § 334f — Upuštění od výkonu
 
 Po **uplynutí poloviny** trestu lze upustit od zbytku, prokázal-li odsouzený nápravu.
@@ -729,6 +2035,62 @@ Po vykonání poloviny trestu domácího vězení lze upustit od jeho zbytku, je
 
 **Typicky rozhodné důkazy / podklady:** zprávy PMS, data EKS, doklady o stabilizaci osobních/pracovních poměrů, evidence vykonané části trestu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6d423236f7fadb433311 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334f — Upuštění od výkonu trestu domácího vězení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu může upustit od výkonu trestu domácího vězení nebo jeho zbytku, jestliže odsouzený byl nebo má být
+>
+> - a) vydán do cizího státu nebo předán cizímu státu podle [[části páté|části páté]] [[hlavy druhé|hlavy druhé]] [[zákona o mezinárodní justiční spolupráci ve věcech trestních|zákona o mezinárodní justiční spolupráci ve věcech trestních]], nebo
+>
+> - b) vyhoštěn.
+>
+> (2) Nedojde-li k vydání odsouzeného do ciziny, k jeho předání nebo k vyhoštění podle odstavce 1, anebo vrátí-li se v těchto případech vydaný, předaný nebo vyhoštěný, rozhodne předseda senátu, že se trest domácího vězení nebo jeho zbytek vykoná.
+>
+> (3) Předseda senátu může upustit od výkonu trestu domácího vězení nebo jeho zbytku též tehdy, zjistí-li, že odsouzený onemocněl nevyléčitelnou životu nebezpečnou nemocí nebo nevyléčitelnou nemocí duševní nebo z jiných obdobně závažných důvodů.
+>
+> (4) Proti rozhodnutí podle odstavce 3 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d423236f7fadb433311 -->
+
 ### § 334g — Náhradní trest odnětí svobody
 
 Při neplnění podmínek → **přeměna na nepodmíněný trest** odnětí svobody.
@@ -768,6 +2130,56 @@ Při zaviněném neplnění podmínek se nevykonaný zbytek domácího vězení 
 - [ ] Vyloučit nezaviněné překážky (jinak přerušení místo přeměny).
 
 **Typicky rozhodné důkazy / podklady:** zprávy PMS a data EKS, evidence vykonané části trestu, vyjádření odsouzeného k zavinění.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c0ccaac572d77911bcd0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334g — Rozhodnutí o výkonu náhradního trestu odnětí svobody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O výkonu náhradního trestu odnětí svobody, jakož i o ponechání trestu domácího vězení v platnosti rozhodne předseda senátu na návrh státního zástupce, probačního úředníka nebo i bez takového návrhu ve veřejném zasedání; k rozhodnutí o návrhu na výkon náhradního trestu odnětí svobody nebo na ponechání trestu domácího vězení v platnosti předseda senátu bez zbytečného odkladu nařídí veřejné zasedání. O tomto rozhodnutí předseda senátu vyrozumí příslušné středisko Probační a mediační služby. Proti rozhodnutí podle věty první je přípustná stížnost, která má odkladný účinek.
+>
+> (2) Výkon trestu domácího vězení se přerušuje vyhlášením rozhodnutí o výkonu náhradního trestu odnětí svobody, a to do dne nabytí právní moci tohoto rozhodnutí nebo rozhodnutí o ponechání trestu domácího vězení v platnosti; v případě ponechání tohoto trestu v platnosti se přiměřeně postupuje podle [[#§ 334a|§ 334a]]. O tom musí být odsouzený poučen.
+>
+> (3) Pokud byl trest domácího vězení ponechán v platnosti při uložení dalších dosud neuložených přiměřených omezení nebo přiměřených povinností uvedených v [[§ 48 odst. 4 písm. b)|§ 48 odst. 4 písm. b)]], [[d)|d)]] nebo [[h)|h)]] [[trestního zákoníku|trestního zákoníku]] anebo výchovných opatření uvedených v § 18 odst. 1 písm. c) nebo g) nebo § 19 odst. 1 písm. e), g) nebo h) zákona o soudnictví ve věcech mládeže, kontroluje jejich dodržování Probační a mediační služba; odsouzený je povinen v rámci sledování dodržování uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření spolupracovat s probačním úředníkem způsobem, který mu stanoví, a dostavovat se k němu v jím určených lhůtách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 334a, § 48, § 18, § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c0ccaac572d77911bcd0 -->
 
 ### § 334h — Soudní příslušnost
 
@@ -811,6 +2223,52 @@ Ve vykonávacím řízení o domácím vězení rozhoduje soud, který trest ulo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=56062c1cdaca2b2f0fcf generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 334h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Ministerstvo spravedlnosti může vyhláškou stanovit podrobnosti kontroly výkonu trestu domácího vězení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=56062c1cdaca2b2f0fcf -->
+
 ## Oddíl 4 — Výkon trestu OPP (§§ 335 – 340b)
 
 ### §§ 335 – 336a — Nařízení a stanovení podmínek
@@ -853,6 +2311,154 @@ Po PM PMS s poskytovatelem stanoví konkrétní druh, místo a rozvržení OPP (
 
 **Typicky rozhodné důkazy / podklady:** rozsudek ukládající OPP, stanovisko PMS, lékařská omezení, dohoda s poskytovatelem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c38d4ae5bf0022951b6e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 335 — Obecné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Trest obecně prospěšných prací odsouzený vykonává v obvodu okresního soudu, ve kterém bydlí. Se souhlasem odsouzeného může být trest vykonáván i mimo tento obvod.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c38d4ae5bf0022951b6e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5d97c01479fe26e39298 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 336
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jakmile se stane vykonatelným rozhodnutí, podle něhož se má vykonat trest obecně prospěšných prací, předseda senátu zašle jeho opis středisku Probační a mediační služby v obvodu okresního soudu, ve kterém odsouzený bydlí, pracuje nebo se zdržuje. Pokud bylo odsouzenému zároveň uloženo přiměřené omezení nebo přiměřená povinnost uvedené v [[§ 48 odst. 4 písm. b)|§ 48 odst. 4 písm. b)]], [[d)|d)]] nebo [[h)|h)]] [[trestního zákoníku|trestního zákoníku]] anebo výchovné opatření uvedené v [[§ 18 odst. 1 písm. c)|§ 18 odst. 1 písm. c)]] nebo [[g)|g)]] nebo [[§ 19 odst. 1 písm. e)|§ 19 odst. 1 písm. e)]], [[g)|g)]] nebo [[h)|h)]] [[zákona o soudnictví ve věcech mládeže|zákona o soudnictví ve věcech mládeže]], kontroluje jejich dodržování Probační a mediační služba; odsouzený je povinen v rámci sledování dodržování uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření spolupracovat s probačním úředníkem způsobem, který mu stanoví, a dostavovat se k němu v jím určených lhůtách.
+>
+> (2) Považuje-li soud výchovné spolupůsobení zájmového sdružení občanů za prospěšné, postupuje přiměřeně podle § 329 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 48, § 18, § 19, § 329
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d97c01479fe26e39298 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=304bcff3325eab7aee04 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 336a — Stanovení podmínek výkonu trestu obecně prospěšných prací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Odsouzený je povinen dostavit se na výzvu probačního úředníka v jím stanoveném termínu na středisko Probační a mediační služby k projednání podmínek výkonu trestu obecně prospěšných prací. Ve výzvě probační úředník odsouzeného upozorní na následky nesplnění této povinnosti.
+>
+> (2) Po projednání podmínek výkonu trestu obecně prospěšných prací stanoví probační úředník se souhlasem odsouzeného druh a místo výkonu tohoto trestu, poskytovatele obecně prospěšných prací a den nástupu výkonu tohoto trestu; pokud má být trest obecně prospěšných prací vykonáván mimo obvod okresního soudu, ve kterém odsouzený bydlí, informuje o tom soud, který trest obecně prospěšných prací uložil. Probační úředník odsouzeného poučí o povinnosti nastoupit ve stanovený den k výkonu trestu obecně prospěšných prací ke stanovenému poskytovateli obecně prospěšných prací a upozorní jej na následky nesplnění této povinnosti.
+>
+> (3) Při stanovení druhu a místa výkonu trestu obecně prospěšných prací, poskytovatele obecně prospěšných prací a dne nástupu výkonu tohoto trestu vychází probační úředník z potřeby výkonu těchto prací v obvodu okresního soudu, ve kterém odsouzený bydlí, a přihlíží ke zdravotnímu stavu odsouzeného a k tomu, aby odsouzený trest vykonával co nejblíže místu svého bydliště; přitom postupuje v součinnosti s poskytovatelem obecně prospěšných prací, u něhož budou obecně prospěšné práce vykonávány, a pokud má být trest obecně prospěšných prací vykonáván mimo obvod okresního soudu, ve kterém odsouzený bydlí, též v součinnosti se střediskem Probační a mediační služby v obvodu soudu, ve kterém má být trest obecně prospěšných prací vykonáván.
+>
+> (4) Nesouhlasí-li odsouzený s podmínkami výkonu trestu obecně prospěšných prací, rozhodne o nich na návrh probačního úředníka předseda senátu soudu, který trest obecně prospěšných prací uložil. V rozhodnutí předseda senátu odsouzeného poučí o jeho povinnosti dostavit se na výzvu probačního úředníka v jím stanoveném termínu na středisko Probační a mediační služby za účelem projednání podmínek výkonu trestu obecně prospěšných prací a o jeho povinnosti dostavit se v den stanovený probačním úředníkem ke stanovenému poskytovateli obecně prospěšných prací; zároveň jej upozorní na následky nesplnění těchto povinností. Návrh podle věty první podá probační úředník i v případě, nestanoví-li pro nesouhlas odsouzeného druh a místo výkonu obecně prospěšných prací, poskytovatele obecně prospěšných prací a den nástupu výkonu tohoto trestu do jednoho měsíce od doručení opisu rozhodnutí podle odstavce 1 příslušnému středisku Probační a mediační služby.
+>
+> (5) Na změnu druhu nebo místa výkonu trestu obecně prospěšných prací anebo poskytovatele obecně prospěšných prací se přiměřeně použijí odstavce 1 až 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=304bcff3325eab7aee04 -->
+
 ### §§ 337 – 339 — Plnění a kontrola
 
 Odsouzený musí **nastoupit do 2 týdnů**. PMS přiděluje práci, kontroluje.
@@ -893,6 +2499,204 @@ Odsouzený musí nastoupit OPP do 2 týdnů a řádně odpracovat uložené hodi
 
 **Typicky rozhodné důkazy / podklady:** výkaz odpracovaných hodin a docházky, záznamy PMS a poskytovatele, výzva k nástupu, doklady o případné překážce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e9952534945e4db112cc generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 337
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Při výkonu kontroly trestu obecně prospěšných prací postupuje probační úředník v součinnosti s poskytovatelem obecně prospěšných prací, u něhož jsou obecně prospěšné práce vykonávány.
+>
+> (2) Nesplní-li odsouzený povinnosti stanovené v § 336a odst. 1, [[#§ 2|2]] a [[#§ 4|4]], bez závažného důvodu poruší sjednané podmínky výkonu trestu obecně prospěšných prací, zaviněně nevykonává ve stanovené době uložený trest, nedodržuje přiměřené omezení, přiměřenou povinnost nebo výchovné opatření, pokud bylo zároveň uloženo, nebo jinak maří výkon tohoto trestu anebo nevede řádný život, probační úředník nebo jeho prostřednictvím poskytovatel obecně prospěšných prací, u něhož jsou obecně prospěšné práce vykonávány, tuto skutečnost bezodkladně sdělí soudu, který trest obecně prospěšných prací uložil; při méně závažném porušení upozorní probační úředník odsouzeného na zjištěné nedostatky a poučí jej, že v případě opakování nebo závažnějšího porušení sjednaných podmínek výkonu trestu obecně prospěšných prací, nevykonávání uloženého trestu ve stanovené době nebo nedodržení přiměřeného omezení, přiměřené povinnosti anebo výchovného opatření bude informovat předsedu senátu. Probační úředník soudu bez odkladu sdělí, kdy odsouzený uložený trest obecně prospěšných prací vykonal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 336a, § 2, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9952534945e4db112cc -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b203e6e3e6f49c0dc478 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 338
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatelé obecně prospěšných prací sdělují své požadavky na vykonání obecně prospěšných prací středisku Probační a mediační služby v obvodu okresního soudu, ve kterém mají být obecně prospěšné práce prováděny. Zároveň jsou povinni mu sdělit každou podstatnou změnu týkající se takového požadavku. Probační a mediační služba informuje soud na jeho žádost o potřebě obecně prospěšných prací v požadovaném obvodu.
+>
+> (2) Při získávání požadavků na provedení obecně prospěšných prací vhodných pro odsouzené a při výkonu trestu obecně prospěšných prací Probační a mediační služba spolupracuje s poskytovateli obecně prospěšných prací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b203e6e3e6f49c0dc478 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=50855ce7767310ef47f8 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 338a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Na rozhodnutí o tom, zda se zruší přiměřené omezení nebo přiměřená povinnost anebo výchovné opatření uložené odsouzenému, kterému byl uložen trest obecně prospěšných prací, se obdobně použije [[#§ 330|§ 330]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50855ce7767310ef47f8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1239951a87fae41315d5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 339 — Odklad a přerušení výkonu trestu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu na potřebnou dobu odloží nebo přeruší výkon trestu obecně prospěšných prací, jestliže z lékařských zpráv předložených odsouzeným nebo vyžádaných s jeho souhlasem vyplývá, že v důsledku přechodného zhoršení zdravotního stavu není odsouzený schopen trest vykonat.
+>
+> (2) Výkon trestu obecně prospěšných prací na těhotné ženě a matce novorozeného dítěte předseda senátu odloží nebo přeruší na dobu jednoho roku po porodu.
+>
+> (3) Z jiných důležitých důvodů může předseda senátu výkon trestu obecně prospěšných prací odložit na dobu nejvýše tří měsíců ode dne, kdy rozhodnutí, kterým byl tento trest uložen, nabylo právní moci. Je-li důvodem odložení nebo přerušení výkonu trestu obecně prospěšných prací poskytování zvláštní ochrany a pomoci podle zvláštního právního předpisu, předseda senátu odloží nebo přeruší výkon trestu obecně prospěšných prací do doby ukončení poskytování zvláštní ochrany a pomoci. Příslušný orgán poskytující zvláštní ochranu a pomoc neprodleně vyrozumí předsedu senátu o ukončení jejich poskytování.
+>
+> (4) Pominou-li důvody odkladu nebo přerušení, předseda senátu odklad nebo přerušení odvolá.
+>
+> (5) Doba, po kterou byl výkon trestu obecně prospěšných prací odložen nebo přerušen, se nezapočítává do lhůty jednoho roku, v níž má být trest vykonán.
+>
+> (6) Proti rozhodnutí podle odstavců 1 až 4 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1239951a87fae41315d5 -->
+
 ### § 340a — Upuštění od výkonu
 
 Pro **nemoc / objektivní překážky**.
@@ -932,6 +2736,54 @@ Pro nemoc či jinou objektivní (nezaviněnou) překážku se od výkonu OPP upo
 - [ ] Rozlišit upuštění od pouhého (přechodného) odkladu.
 
 **Typicky rozhodné důkazy / podklady:** lékařský posudek o nezpůsobilosti, evidence odpracovaných hodin, zprávy PMS.
+
+
+<!-- LEGAL-REVISION:BEGIN id=17ee9aa4836162d6fa33 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 340a — Upuštění od výkonu trestu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu upustí od výkonu trestu obecně prospěšných prací nebo jeho zbytku, jestliže je odsouzený v důsledku změny svého zdravotního stavu dlouhodobě neschopen tento trest vykonat.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17ee9aa4836162d6fa33 -->
 
 ### § 340b — Přeměna OPP v trest odnětí svobody
 
@@ -974,6 +2826,58 @@ Při zaviněném neplnění se neodpracovaný zbytek OPP přemění na nepodmín
 **Typicky rozhodné důkazy / podklady:** evidence odpracovaných hodin, záznamy PMS o nesoučinnosti, vyjádření odsouzeného k zavinění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0e1a317ad1dba9febda7 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 340b — Přeměna trestu obecně prospěšných prací v trest odnětí svobody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O přeměně trestu obecně prospěšných prací nebo o přeměně jeho zbytku v trest odnětí svobody, jakož i o ponechání trestu obecně prospěšných prací v platnosti při stanovení dohledu nebo dalších dosud neuložených přiměřených omezení, přiměřených povinností nebo případně výchovných opatření, rozhodne bez zbytečného odkladu předseda senátu na návrh státního zástupce, probačního úředníka, poskytovatele, u něhož jsou obecně prospěšné práce vykonávány, podaný prostřednictvím tohoto probačního úředníka, nebo i bez takového návrhu ve veřejném zasedání. K rozhodnutí o návrhu na přeměnu trestu obecně prospěšných prací nebo jeho zbytku v trest odnětí svobody nebo na ponechání trestu obecně prospěšných prací v platnosti předseda senátu bez zbytečného odkladu nařídí veřejné zasedání. O těchto rozhodnutích předseda senátu vyrozumí středisko Probační a mediační služby v obvodu soudu, v němž je trest obecně prospěšných prací vykonáván.
+>
+> (2) Výkon trestu obecně prospěšných prací se přerušuje vyhlášením rozhodnutí o přeměně trestu obecně prospěšných prací nebo jeho zbytku v trest odnětí svobody, a to do dne nabytí právní moci tohoto rozhodnutí nebo rozhodnutí o ponechání trestu obecně prospěšných prací v platnosti; v případě ponechání tohoto trestu v platnosti se přiměřeně postupuje podle [[#§ 336|§ 336]]. O tom musí být odsouzený poučen.
+>
+> (3) Pokud byl trest obecně prospěšných prací ponechán v platnosti při uložení dalších dosud neuložených přiměřených omezení nebo přiměřených povinností uvedených v [[§ 48 odst. 4 písm. b)|§ 48 odst. 4 písm. b)]], [[d)|d)]] nebo [[h)|h)]] [[trestního zákoníku|trestního zákoníku]] anebo výchovných opatření uvedených v [[§ 18 odst. 1 písm. c)|§ 18 odst. 1 písm. c)]] nebo [[g)|g)]] nebo [[§ 19 odst. 1 písm. e)|§ 19 odst. 1 písm. e)]], [[g)|g)]] nebo [[h)|h)]] [[zákona o soudnictví ve věcech mládeže|zákona o soudnictví ve věcech mládeže]], kontroluje jejich dodržování Probační a mediační služba; odsouzený je povinen v rámci sledování dodržování uloženého přiměřeného omezení nebo přiměřené povinnosti anebo výchovného opatření spolupracovat s probačním úředníkem způsobem, který mu stanoví, a dostavovat se k němu v jím určených lhůtách.
+>
+> (4) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 336, § 48, § 18, § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0e1a317ad1dba9febda7 -->
 
 ## Oddíl 5 — Některé další tresty (§§ 341 – 350)
 
@@ -1025,6 +2929,290 @@ Peněžitý trest se po PM hradí v denních sazbách (možné splátky dle § 3
 
 **Typicky rozhodné důkazy / podklady:** rozsudek (počet/výše denních sazeb), doklady o příjmech a majetku, evidence zajištěných prostředků, výsledek exekuce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a4f8260fdc76cb110a56 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 341
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Jakmile se stal vykonatelným rozsudek, podle něhož je odsouzený povinen zaplatit peněžitý trest, vyzve předseda senátu odsouzeného, aby jej zaplatil do jednoho měsíce, a upozorní ho, že jinak bude peněžitý trest vymáhán nebo přeměněn v trest odnětí svobody.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a4f8260fdc76cb110a56 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=936ffcaa9bc8ed98199b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 342
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Na žádost odsouzeného může předseda senátu z důležitých důvodů povolit
+>
+> - a) odklad výkonu peněžitého trestu, a to na dobu nejvýše jednoho roku od uplynutí lhůty podle [[#§ 341|§ 341]], nebo
+>
+> - b) splácení peněžitého trestu v přiměřených měsíčních splátkách.
+>
+> (2) Pominou-li důvody, pro které byl výkon peněžitého trestu odložen, nebo nedodržuje-li odsouzený bez závažného důvodu splátky, předseda senátu povolení odkladu nebo splátek odvolá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 341
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=936ffcaa9bc8ed98199b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2a12c021949b62ad7a40 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 342a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu upustí od výkonu peněžitého trestu nebo jeho zbytku, jestliže
+>
+> - a) odsouzený se v důsledku okolností na jeho vůli nezávislých stal dlouhodobě neschopným peněžitý trest zaplatit, nebo
+>
+> - b) by výkonem peněžitého trestu byla vážně ohrožena výživa nebo výchova osoby, o jejíž výživu nebo výchovu je odsouzený podle zákona povinen pečovat.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a12c021949b62ad7a40 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a5710c9a5e7d3977292f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 343
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu nařídí, aby peněžitý trest byl vymáhán, nezaplatí-li jej odsouzený
+>
+> - a) do jednoho měsíce poté, co byl k zaplacení vyzván,
+>
+> - b) do jednoho měsíce poté, co mu bylo oznámeno rozhodnutí, jímž povolený odklad nebo povolené splácení byly odvolány, nebo
+>
+> - c) do uplynutí doby, na kterou byl výkon trestu odložen.
+>
+> (2) Vymáhání peněžitého trestu předseda senátu nenařídí, postačují-li na jeho zaplacení prostředky z peněžité záruky nebo zajištěné pro účely výkonu peněžitého trestu, anebo je-li zřejmé, že by jeho vymáhání mohlo být zmařeno nebo by bylo bezvýsledné. Pokud prostředky uvedené ve větě první postačují na zaplacení peněžitého trestu jen zčásti, předseda senátu nařídí vymáhání jeho zbytku.
+>
+> (3) Bylo-li nařízeno vymáhání peněžitého trestu, jehož výkon je zajištěn na majetku odsouzeného, na jeho úhradu se přednostně užije zajištěný majetek.
+>
+> (4) Při správě placení peněžitého trestu se postupuje podle daňového řádu, s výjimkou ustanovení o posečkání daně a rozložení její úhrady na splátky. Peněžitý trest vymáhá celní úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a5710c9a5e7d3977292f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=fca17fa1b5bbdac37b49 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 343a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu zašle po marném uplynutí lhůty uvedené v § 343 odst. 1 celnímu úřadu opis rozsudku, jímž byl uložen peněžitý trest, a nařízení jeho vymáhání. Předseda senátu zároveň vyrozumí celní úřad o majetku odsouzeného, který je zajištěn pro účely výkonu peněžitého trestu, a uvede, zda se jedná o majetkovou trestní sankci podle zákona o použití peněžních prostředků z majetkových trestních sankcí.
+>
+> (2) Předseda senátu neprodleně vyrozumí celní úřad o všech skutečnostech podstatných pro placení peněžitého trestu, zejména o upuštění od jeho výkonu a o přeměně peněžitého trestu nebo jeho zbytku v trest odnětí svobody.
+>
+> (3) Celní úřad neprodleně vyrozumí soud o tom, že
+>
+> - a) peněžitý trest byl vymožen,
+>
+> - b) po přeměně peněžitého trestu v nepodmíněný trest odnětí svobody byla část peněžitého trestu zaplacena,
+>
+> - c) vymáhání peněžitého trestu by mohlo být zmařeno a z jakých důvodů,
+>
+> - d) došlo ke zpeněžení majetku odsouzeného zajištěného za účelem výkonu peněžitého trestu,
+>
+> - e) průběh vymáhání ukazuje, že výtěžek, kterého jím bude dosaženo, nepostačí ani ke krytí jeho nákladů, nebo
+>
+> - f) nedoplatek peněžitého trestu byl odepsán.
+>
+> (4) Je-li soudem nařízeno vymáhání peněžitého trestu, celní úřad přednostně použije na jeho úhradu
+>
+> - a) platbu provedenou odsouzeným nebo jinou osobou za odsouzeného, pokud není jednoznačně uvedeno, na úhradu které daňové pohledávky je platba určena,
+>
+> - b) přeplatek, který vznikl odsouzenému, nebo
+>
+> - c) částku vymoženou v daňové exekuci, která byla nařízena také pro jiné daňové pohledávky, než na peněžitém trestu.
+>
+> (5) Při převodu vymožené částky z osobního depozitního účtu na osobní daňový účet odsouzeného, kde je evidován peněžitý trest, se exekuční náklady uspokojí vždy přednostně a úhrada hotových výdajů se provede jako první v pořadí.
+>
+> (6) Odstavec 4 písm. c) a odstavec 5 se nepoužijí ve vztahu k daňové pohledávce na cle.
+>
+> (7) Pokud nebyl peněžitý trest zcela vymožen před tím, než došlo k jeho zrušení v rámci souhrnného trestu, stává se rozsudek o uložení souhrnného trestu exekučním titulem namísto rozsudku, jímž byl uložen zrušený peněžitý trest. Účinky provedených exekučních úkonů zůstávají zachovány v rozsahu vymezeném rozsudkem, jímž byl souhrnný trest uložen. Již zahájená daňová exekuce se odloží do doby nařízení vymáhání peněžitého trestu uloženého v rámci souhrnného trestu. Obdobně se postupuje v případě uložení společného trestu za pokračování v trestném činu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 343
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fca17fa1b5bbdac37b49 -->
+
 ### § 344 — Propadnutí majetku
 
 Po PM přechází vlastnictví majetku **na stát** (§ 66 TZ). Soud zařizuje jeho převzetí (typicky **Úřad pro zastupování státu ve věcech majetkových**).
@@ -1065,6 +3253,56 @@ Propadnutím majetku přechází vlastnictví na stát ke dni PM; předseda sen�
 
 **Typicky rozhodné důkazy / podklady:** rozsudek o propadnutí majetku, soupis majetku, výpisy z katastru a registrů, doklady o právech třetích osob.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a82731d6b794c7af7ab0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 344
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O přeměně peněžitého trestu nebo jeho zbytku v trest odnětí svobody rozhodne předseda senátu mimo veřejné zasedání; před rozhodnutím umožní odsouzenému, aby se k věci vyjádřil. Ve veřejném zasedání rozhodne tehdy, pokud o to odsouzený výslovně požádá.
+>
+> (2) Odsouzený může odvrátit výkon trestu odnětí svobody, na který byl přeměněn peněžitý trest nebo jeho zbytek, tím, že peněžitý trest nebo jeho část zaplatí; o zaplacení peněžitého trestu nebo jeho části informuje soud. Předseda senátu neprodleně poté, co se hodnověrně dozví, že po přeměně peněžitého trestu byla zaplacena alespoň částka odpovídající jedné denní sazbě, rozhodne o tom, jakou část přeměněného trestu odnětí svobody je třeba vykonat, pokud nedošlo k zaplacení celého peněžitého trestu.
+>
+> (3) Proti rozhodnutí podle odstavců 1 a [[#§ 2|2]] je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a82731d6b794c7af7ab0 -->
+
 ### § 344a — Zajištění majetku pro výkon
 
 V rámci výkonu lze nadále **zajišťovat majetek** obviněného.
@@ -1104,6 +3342,56 @@ I ve fázi výkonu lze zajistit majetek odsouzeného pro účely výkonu majetko
 - [ ] Zrušit zajištění po odpadnutí důvodu.
 
 **Typicky rozhodné důkazy / podklady:** soupis majetku, indicie o dispozicích, výpisy z registrů, doklady o právech třetích osob.
+
+
+<!-- LEGAL-REVISION:BEGIN id=68056f6c5568854491ff generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 344a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li obviněný stíhán pro trestný čin, za který je třeba vzhledem k povaze a závažnosti trestného činu a poměrům obviněného očekávat uložení peněžitého trestu, nebo byl-li takový trest uložen a je třeba zajistit jeho výkon, může předseda senátu a v přípravném řízení státní zástupce zajistit určenou část majetku obviněného. K zajištění nelze užít majetek, který je podle zvláštního právního předpisu vyloučen z výkonu rozhodnutí o zajištění.
+>
+> (2) Proti rozhodnutí o zajištění je přípustná stížnost.
+>
+> (3) Na rozhodování o zajištění výkonu peněžitého trestu a postup při zajištění se jinak užije § 47 odst. 4 až 6 a § 47 odst. 8 obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=68056f6c5568854491ff -->
 
 ### §§ 345 – 347 — Propadnutí věci, zákazy
 
@@ -1149,6 +3437,152 @@ Výkon propadnutí věci spočívá v převzetí státem a dražbě/zničení dl
 
 **Typicky rozhodné důkazy / podklady:** rozsudek, soupis a popis věci, výpisy z registrů (řidičů apod.), vymezení území zákazu pobytu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4b80a089421fdc0a73d9 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 345
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Stal-li se rozsudek, jímž byl uložen trest propadnutí celého majetku nebo jeho části, vykonatelným, zašle předseda senátu organizační složce státu, které podle zvláštního zákona přísluší hospodaření s majetkem státu, opis rozsudku bez odůvodnění k provedení tohoto trestu. Předseda senátu zároveň uvede, zda jde o majetkovou trestní sankci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b80a089421fdc0a73d9 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7aa992a814ef6824a189 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 346
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Vzniknou-li při provádění trestu propadnutí majetku pochybnosti, zda se tento trest na určité prostředky nebo věci vztahuje vzhledem k tomu, že je jich nezbytně třeba k ukojení životních potřeb odsouzeného nebo osob, o jejichž výživu nebo výchovu je odsouzený podle zákona povinen pečovat, rozhodne o tom předseda senátu na návrh organizační složky státu, které podle zvláštního zákona přísluší hospodaření s majetkem státu, anebo na žádost odsouzeného nebo osoby, o jejíž výživu nebo výchovu jde. Takovou žádost je možno podat jen do tří měsíců ode dne, kdy rozsudek nabyl právní moci, a jde-li o prostředky nebo věci, které byly prováděním trestu propadnutí majetku postiženy teprve později, do jednoho měsíce od doby, kdy se tak stalo.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+>
+> (3) Opis pravomocného usnesení uvedeného v odstavci 1 zašle předseda senátu organizační složce státu, které podle zvláštního zákona přísluší hospodaření s majetkem státu.
+>
+> (4) Vlastnické právo třetí osoby k prostředkům a věcem postiženým při provádění trestu propadnutí majetku nelze uplatnit podle odstavce 1, nýbrž toliko podle předpisů občanskoprávních.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7aa992a814ef6824a189 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f2c91a98959112e16db4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 347
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li obviněný stíhán pro trestný čin, za který vzhledem k povaze a závažnosti činu a poměrům obviněného třeba očekávat uložení trestu propadnutí majetku, nebo byl-li takový trest uložen a je třeba zajistit jeho výkon, může předseda senátu a v přípravném řízení státní zástupce majetek obviněného nebo jeho určenou část zajistit. Předseda senátu zajistí majetek obviněného nebo jeho určenou část vždy, uložil-li trest propadnutí majetku rozsudkem, který dosud nenabyl právní moci. K zajištění nelze užít majetek, který je podle zvláštního právního předpisu vyloučen z výkonu rozhodnutí o zajištění.
+>
+> (2) Proti rozhodnutí o zajištění je přípustná stížnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2c91a98959112e16db4 -->
+
 ### §§ 348 – 350 — Vyhoštění a další
 
 **Vyhoštění** (§ 80 TZ): po PM **dodání pohraniční kontrole**.
@@ -1192,6 +3626,210 @@ Vyhoštění se po PM realizuje dodáním pohraniční kontrole a evidencí (SIS
 **Typicky rozhodné důkazy / podklady:** rozsudek, doklady totožnosti a pobytového statusu, evidence SIS, rozpis a záznamy kontrolních hlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=976782c1073befeca032 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 348
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zajištění postihuje veškerý majetek obviněného nebo jeho určenou část, včetně plodů a užitků, které z nich plynou. Zajištění celého majetku se vztahuje i na majetek, který obviněný nabude po zajištění.
+>
+> (2) Na rozhodování o zajištění majetku a postup při zajištění se jinak užije § 47 odst. 4 až 6 a § 47 odst. 8 obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=976782c1073befeca032 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=daa567f241686ac2c3ed generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 349
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu a v přípravném řízení státní zástupce zajištění zruší nebo omezí, pomine-li důvod, pro který byly majetek nebo jeho určená část zajištěny, nebo není-li zajištění třeba v rozsahu, v němž bylo nařízeno.
+>
+> (2) Z důležitých důvodů může předseda senátu a v přípravném řízení státní zástupce na návrh obviněného povolit provedení úkonu, který se týká zajištěného majetku.
+>
+> (3) Obviněný má právo kdykoliv po právní moci usnesení o zajištění žádat o zrušení nebo omezení zajištění. O takové žádosti musí předseda senátu a v přípravném řízení státní zástupce neprodleně rozhodnout. Byla-li žádost zamítnuta, může ji obviněný, neuvede-li v ní nové důvody, opakovat až po uplynutí 30 dnů od právní moci rozhodnutí.
+>
+> (4) Není-li tím ohrožen účel trestního řízení, předseda senátu a v přípravném řízení státní zástupce může rozhodnout o zajištění peněžních prostředků namísto jiné věci spadající do určené části majetku, která podléhá zajištění, pokud ten, komu byla taková věc zajištěna, složí do úschovy soudu nebo v přípravném řízení státního zástupce peněžní prostředky ve výši odpovídající hodnotě věci spadající do určené části majetku podléhající zajištění.
+>
+> (5) Proti rozhodnutí podle odstavců 1 až 4 je přípustná stížnost, jež má, pokud jde o povolení provedení úkonu, zrušení nebo omezení zajištění anebo změnu zajištěné věci, odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=daa567f241686ac2c3ed -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c9739c18d4e29349fe5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 349b — Výkon trestu propadnutí věci nebo výkon propadnutí náhradní hodnoty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Opis rozsudku bez odůvodnění, jímž byl vysloven trest propadnutí věci, nebo jímž bylo vysloveno propadnutí náhradní hodnoty, zašle předseda senátu organizační složce státu, které podle zvláštního zákona přísluší hospodaření s majetkem státu. Předseda senátu zároveň uvede, zda jde o majetkovou trestní sankci. Byla-li věc, na kterou se vztahuje trest propadnutí věci anebo na kterou se vztahuje vyslovení propadnutí náhradní hodnoty, zajištěna, učiní předseda senátu opatření, aby bylo takové organizační složce svěřeno nakládání s ní, pokud taková organizační složka doposud správu zajištěné věci nebo náhradní hodnoty nevykonává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c9739c18d4e29349fe5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c9f2f22b8a4a920272ad generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 350 — Výkon trestu zákazu činnosti, trestu zákazu plnění veřejných zakázek nebo účasti ve veřejné soutěži a trestu zákazu přijímání dotací a subvencí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu rozhodne ihned po právní moci rozsudku, jímž byl odsouzenému uložen trest zákazu činnosti, o započtení doby, po kterou bylo odsouzenému před právní mocí rozsudku oprávnění k činnosti, která je předmětem zákazu, v souvislosti s trestným činem odňato podle jiného právního předpisu nebo na základě opatření státního orgánu nesměl již tuto činnost vykonávat anebo ji nemohl vykonávat, protože se k tomu zavázal pro účely podmíněného odložení podání návrhu na potrestání nebo podmíněného zastavení trestního stíhání, do doby výkonu uloženého trestu zákazu činnosti.
+>
+> (2) O podmíněném upuštění od výkonu zbytku trestu zákazu činnosti rozhoduje předseda senátu na návrh odsouzeného ve veřejném zasedání; zamítnout návrh pouze z důvodu, že dosud neuplynula lhůta stanovená v zákoně pro podmíněné upuštění od výkonu zbytku trestu zákazu činnosti, může též předseda senátu mimo veřejné zasedání. Zájmové sdružení občanů se může připojit k návrhu odsouzeného, nabídne-li převzetí záruky za dovršení jeho nápravy. Byl-li návrh odsouzeného zamítnut, může jej opakovat až po uplynutí šesti měsíců ode dne nabytí právní moci zamítavého rozhodnutí; to neplatí, byl-li zamítnut pouze z důvodu, že doposud neuplynula lhůta stanovená v zákoně pro podmíněné upuštění od výkonu zbytku trestu zákazu činnosti.
+>
+> (3) Rozhodnutí o tom, že se podmíněně upouští od výkonu zbytku trestu zákazu činnosti, může se souhlasem státního zástupce učinit předseda senátu mimo veřejné zasedání.
+>
+> (4) Na rozhodnutí o tom, zda se odsouzený, u něhož se podmíněně upustilo od výkonu zbytku trestu zákazu činnosti, osvědčil, ponechá se podmíněné upuštění v platnosti nebo se zbytek trestu zákazu činnosti vykoná, se obdobně použije [[#§ 330|§ 330]].
+>
+> (5) Proti rozhodnutí podle odstavců 1 a [[#§ 2|2]] je přípustná stížnost, která má odkladný účinek. Proti rozhodnutí podle odstavce 3 je přípustná stížnost jen proti výroku o stanovení délky zkušební doby.
+>
+> (6) Na výkon trestu zákazu plnění veřejných zakázek nebo účasti ve veřejné soutěži a trestu zákazu přijímání dotací a subvencí se použijí obdobně odstavce 1 až 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 330, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9f2f22b8a4a920272ad -->
 
 ## Oddíly 6, 7, 8 — Výkon ochranných opatření (§§ 351 – 358b)
 
@@ -1239,6 +3877,206 @@ Ochranné léčení (ústavní/ambulantní) se nařizuje, mění a ukončuje pod
 
 **Typicky rozhodné důkazy / podklady:** nařízení OL, zprávy zdravotnického zařízení o průběhu léčby, znalecký posudek z oboru psychiatrie.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6fef8a107ae83b1d2940 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 351 — Nařízení výkonu ochranného léčení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Výkon ochranného léčení nařídí předseda senátu zdravotnickému zařízení, v němž má být ochranné léčení vykonáno. Jestliže však ochranné léčení bylo uloženo vedle nepodmíněného trestu odnětí svobody a ve věznici jsou k výkonu takového léčení dány podmínky, může předseda senátu nařídit, aby ochranné léčení bylo vykonáváno během výkonu trestu odnětí svobody. Spolu s nařízením výkonu ochranného léčení zašle předseda senátu i opis rozhodnutí, kterým bylo ochranné léčení uloženo, a znalecký posudek, opis protokolu o výslechu znalce nebo opis lékařské zprávy o zdravotním stavu osoby, které bylo uloženo ochranné léčení, pokud byly v průběhu trestního řízení opatřeny.
+>
+> (2) Je-li osoba, které bylo uloženo ochranné léčení, při pobytu na svobodě nebezpečná pro své okolí, nařídí předseda senátu bezodkladně její dodání do zdravotnického zařízení; jinak jí může poskytnout přiměřenou lhůtu k obstarání jejích záležitostí.
+>
+> (3) Jde-li o příslušníka ozbrojených sil nebo ozbrojeného sboru v činné službě, požádá předseda senátu příslušného velitele nebo náčelníka, aby zařídil jeho dopravení do zdravotnického zařízení.
+>
+> (4) Předseda senátu požádá zdravotnické zařízení, aby oznámilo soudu, který ochranné léčení uložil, kdy bylo s výkonem ochranného léčení započato. Zároveň požádá zdravotnické zařízení, aby okresnímu soudu, v jehož obvodě se ochranné léčení vykonává, podalo neprodleně zprávu, jestliže pominou důvody pro další trvání ochranného léčení.
+>
+> (5) O započetí výkonu ochranného léčení vyrozumí předseda senátu okresní soud, v jehož obvodu se ochranné léčení vykonává, a zašle mu písemnosti uvedené v odstavci 1.
+>
+> (6) Samosoudce okresního soudu, v jehož obvodu se ochranné léčení vykonává, může nařídit jeho výkon jinému zdravotnickému zařízení; zdravotnickému zařízení, v němž bude ochranné léčení nadále vykonáváno, zašle písemnosti uvedené v odstavci 1 a sdělí mu, jaká část doby uvedené v [[§ 99 odst. 6 větě druhé|§ 99 odst. 6 větě druhé]] [[trestního zákoníku|trestního zákoníku]] již uplynula. Nařídil-li samosoudce výkon ochranného léčení podle věty první mimo obvod okresního soudu, v jehož obvodu se ochranné léčení dosud vykonává, zašle okresnímu soudu, v jehož obvodu má být ochranné léčení dále vykonáváno, informace uvedené v odstavci 1 a případně další písemnosti, které mají význam pro běh lhůty podle [[§ 99 odst. 6|§ 99 odst. 6]] [[trestního zákoníku|trestního zákoníku]] a pro další rozhodování o ochranném léčení. O nařízení výkonu ochranného léčení podle věty první informuje soud, který ochranné léčení uložil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 99
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6fef8a107ae83b1d2940 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=892e608f62c989e5fd10 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 351a — Změna ochranného léčení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O změně způsobu výkonu ochranného léčení na návrh zdravotnického zařízení, státního zástupce nebo osoby, na níž se vykonává ochranné léčení, anebo i bez takového návrhu rozhoduje ve veřejném zasedání samosoudce okresního soudu, v jehož obvodu je zdravotnické zařízení, ve kterém se ochranné léčení vykonává; tento samosoudce rozhoduje na návrh zdravotnického zařízení, státního zástupce nebo i bez takového návrhu i o změně ústavního ochranného léčení na zabezpečovací detenci. Ústavní ochranné léčení může za podmínek stanovených v [[trestním zákoníku|trestním zákoníku]] samosoudce změnit na zabezpečovací detenci, jestliže na základě návrhu nebo zprávy zdravotnického zařízení, ve kterých popíše průběh a výsledky dosavadního léčení, vykonávané ochranné léčení nevedlo ke splnění jeho účelu pro chování osoby, na níž se ochranné léčení vykonává, a tuto přeměnu vyžaduje účinná ochrana společnosti a nutnost působení na osobu, na níž se ochranné léčení vykonává, prostředky zabezpečovací detence. Dojde-li ke změně způsobu výkonu ochranného léčení nebo změně ochranného léčení na zabezpečovací detenci, informuje o tom samosoudce soud, který ochranné léčení uložil.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=892e608f62c989e5fd10 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7693b306768e63ee27db generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 352 — Upuštění od výkonu ochranného léčení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> O upuštění od výkonu ochranného léčení před jeho započetím rozhodne soud, který ochranné léčení uložil, a to ve veřejném zasedání na návrh státního zástupce nebo osoby, na níž se vykonává ochranné léčení, anebo i bez takového návrhu. Proti tomuto rozhodnutí je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7693b306768e63ee27db -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4daf03e20e8fa2bfba2c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 353 — Propuštění z ochranného léčení a jeho ukončení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jakmile bylo dosaženo účelu ochranného léčení, podá zdravotnické zařízení, ve kterém je ochranné léčení vykonáváno, návrh na propuštění z ochranného léčení okresnímu soudu, v jehož obvodu se ochranné léčení vykonává; návrh na ukončení ochranného léčení podle [[§ 99 odst. 6|§ 99 odst. 6]] [[trestního zákoníku|trestního zákoníku]] podá zdravotnické zařízení, jakmile zjistí, že jeho účelu nelze dosáhnout. Nebude-li ústavní ochranné léčení vykonáno tak, aby do dvou let od jeho započetí bylo rozhodnuto o propuštění z ochranného léčení nebo o jeho ukončení, podá zdravotnické zařízení nejméně dva měsíce před uplynutím lhůty dvou let od počátku výkonu ochranného léčení návrh na jeho prodloužení. V návrhu na propuštění z ochranného léčení, na jeho ukončení nebo v návrhu na prodloužení ochranného léčení zdravotnické zařízení popíše průběh a výsledky ochranného léčení a uvede důvody navrhovaného postupu včetně návrhu na případné uložení dohledu nad chováním osoby, na níž je vykonáváno ochranné léčení. O tom je třeba zdravotnické zařízení poučit.
+>
+> (2) O propuštění z ochranného léčení, o jeho ukončení včetně případného uložení dohledu nebo o prodloužení ochranného léčení rozhodne bez zbytečného odkladu na návrh zdravotnického zařízení, státního zástupce nebo osoby, na níž se vykonává ochranné léčení, anebo i bez takového návrhu ve veřejném zasedání samosoudce okresního soudu, v jehož obvodu se ochranné léčení vykonává. Samosoudce vyrozumí o propuštění z ochranného léčení nebo o jeho ukončení soud, který uložil ochranné léčení nebo který uložil zabezpečovací detenci, která byla změněna na ochranné léčení.
+>
+> (3) Proti rozhodnutí podle odstavce 2 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 99
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4daf03e20e8fa2bfba2c -->
+
 ### §§ 354 – 355 — Zabezpečovací detence
 
 **Zabezpečovací detence** (§ 100 TZ) — speciální ústavní opatření pro nebezpečné pachatele.
@@ -1280,6 +4118,106 @@ Zabezpečovací detence je krajním opatřením pro nebezpečné pachatele; jej�
 - [ ] Dodržet pravidelnost přezkumu trvání.
 
 **Typicky rozhodné důkazy / podklady:** nařízení detence, zprávy ústavu pro výkon zabezpečovací detence, znalecký posudek o nebezpečnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c5f3f22c07e028a06523 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 354 — Nařízení výkonu zabezpečovací detence a její výkon
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jakmile se rozhodnutí, podle něhož se má vykonat zabezpečovací detence, stalo vykonatelným, předseda senátu zašle příslušnému ústavu pro výkon zabezpečovací detence, v němž má být zabezpečovací detence vykonána, nařízení výkonu zabezpečovací detence a současně vyzve osobu, které byla zabezpečovací detence uložena, je-li na svobodě, aby výkon zabezpečovací detence nastoupila. Stal-li se výrok o uložení zabezpečovací detence, která nebyla uložena vedle nepodmíněného trestu odnětí svobody, vykonatelným rozhodnutím odvolacího soudu, nařídí výkon zabezpečovací detence u obviněného, který je ve vazbě, předseda senátu odvolacího soudu ihned při vyhlášení rozhodnutí. Spolu s nařízením výkonu zabezpečovací detence zašle předseda senátu i opis rozhodnutí, kterým byla zabezpečovací detence uložena, a znalecký posudek, opis protokolu o výslechu znalce nebo opis lékařské zprávy o zdravotním stavu osoby, které byla uložena zabezpečovací detence, pokud byly v průběhu trestního řízení opatřeny.
+>
+> (2) Je-li osoba, které byla uložena zabezpečovací detence, při pobytu na svobodě nebezpečná pro své okolí, nebo je-li obava, že taková osoba, která je na svobodě, uprchne, anebo je-li zde jiný důležitý důvod, nařídí předseda senátu bezodkladně její dodání do ústavu pro výkon zabezpečovací detence; jinak jí může poskytnout přiměřenou lhůtu k obstarání jejích záležitostí, která však nesmí být delší než jeden měsíc ode dne, kdy nabylo právní moci rozhodnutí uvedené v odstavci 1. Není-li známo místo pobytu této osoby, užije se na příkaz k jejímu dodání do výkonu zabezpečovací detence přiměřeně ustanovení § 69 odst. 3. Je-li místo pobytu známo, lze použít k jejímu dodání do výkonu zabezpečovací detence ustanovení § 83c odst. 2. V příkazu předseda senátu vždy požádá policejní orgán o neprodlené podání informace o tom, zda byla tato osoba do výkonu zabezpečovací detence dodána, popřípadě jaké okolnosti jejímu dodání brání.
+>
+> (3) Jde-li o příslušníka ozbrojených sil nebo bezpečnostního sboru v činné službě, požádá předseda senátu příslušného velitele nebo nadřízeného, aby zařídil jeho dopravení do ústavu pro výkon zabezpečovací detence.
+>
+> (4) Předseda senátu požádá ústav pro výkon zabezpečovací detence, aby oznámil soudu, který zabezpečovací detenci uložil, kdy bylo s výkonem zabezpečovací detence započato. Zároveň požádá ústav pro výkon zabezpečovací detence, aby okresnímu soudu, v jehož obvodě se zabezpečovací detence vykonává, byla podávána v jím stanovených lhůtách zpráva o průběhu a výsledcích výkonu zabezpečovací detence, se zaměřením na hlediska uvedená v [[§ 100 odst. 4|§ 100 odst. 4]] [[trestního zákoníku|trestního zákoníku]], a aby mu podal neprodleně zprávu, jestliže pominou důvody pro další trvání zabezpečovací detence.
+>
+> (5) O započetí výkonu zabezpečovací detence vyrozumí předseda senátu okresní soud, v jehož obvodu se zabezpečovací detence vykonává, a zašle mu písemnosti uvedené v odstavci 1; jedná-li se o započetí výkonu zabezpečovací detence, na kterou bylo změněno ochranné léčení, zašle mu případně i další písemnosti, které mají význam pro další rozhodování o zabezpečovací detenci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69, § 83c, § 100
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c5f3f22c07e028a06523 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f32d31763f0bd6a52320 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 355 — Změna výkonu zabezpečovací detence na ochranné léčení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> O změně výkonu zabezpečovací detence na ochranné léčení rozhoduje ve veřejném zasedání samosoudce okresního soudu, v jehož obvodu je ústav pro výkon zabezpečovací detence, ve kterém se zabezpečovací detence vykonává; proti tomuto rozhodnutí je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f32d31763f0bd6a52320 -->
 
 ### §§ 356 – 358b — Zabrání věci, části majetku, náhradní hodnota
 
@@ -1332,6 +4270,254 @@ Zabrání věci se realizuje převodem na stát; nelze-li věc zabrat, zabírá 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2b6f9d72d86e26738768 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 356 — Upuštění od výkonu zabezpečovací detence
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O upuštění od výkonu zabezpečovací detence před jejím započetím rozhodne soud, který zabezpečovací detenci uložil, a to ve veřejném zasedání na návrh státního zástupce nebo osoby, které byla zabezpečovací detence uložena, anebo i bez takového návrhu. Proti tomuto rozhodnutí je přípustná stížnost, jež má odkladný účinek.
+>
+> (2) Soud může upustit od výkonu zabezpečovací detence, jestliže odsouzený byl nebo má být
+>
+> - a) vydán do cizího státu nebo předán cizímu státu podle [[části páté|části páté]] [[hlavy druhé|hlavy druhé]] [[zákona o mezinárodní justiční spolupráci ve věcech trestních|zákona o mezinárodní justiční spolupráci ve věcech trestních]], nebo
+>
+> - b) vyhoštěn.
+>
+> (3) Nedojde-li k vydání odsouzeného do cizího státu, k jeho předání nebo k vyhoštění podle odstavce 2, anebo vrátí-li se v těchto případech vydaný, předaný nebo vyhoštěný, rozhodne soud, že se zabezpečovací detence vykoná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b6f9d72d86e26738768 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=542c29234a85567cb534 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 357 — Trvání zabezpečovací detence a propuštění ze zabezpečovací detence
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Samosoudce okresního soudu, v jehož obvodu je ústav pro výkon zabezpečovací detence, ve kterém se zabezpečovací detence vykonává, na podkladě vyžádaných zpráv sleduje výkon zabezpečovací detence a nejméně jednou za dvanáct měsíců, a jde-li o mladistvého, nejméně jednou za šest měsíců od započetí výkonu zabezpečovací detence nebo od předchozího rozhodnutí o jejím trvání, přezkoumá, zda důvody pro její další pokračování trvají.
+>
+> (2) O dalším trvání zabezpečovací detence nebo o propuštění ze zabezpečovací detence rozhodne na návrh ústavu pro výkon zabezpečovací detence, státního zástupce nebo osoby, na níž se vykonává zabezpečovací detence, anebo i bez takového návrhu, ve veřejném zasedání samosoudce okresního soudu, v jehož obvodu se zabezpečovací detence vykonává. Byla-li žádost osoby, na níž se vykonává zabezpečovací detence, zamítnuta, může ji tato osoba, neuvede-li v ní jiné důvody, opakovat až po uplynutí šesti měsíců od právní moci rozhodnutí. Samosoudce vyrozumí o propuštění ze zabezpečovací detence soud, který uložil zabezpečovací detenci nebo který uložil ochranné léčení, které bylo změněno na zabezpečovací detenci.
+>
+> (3) Proti rozhodnutí podle odstavce 2 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=542c29234a85567cb534 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7ca911d25e2dcf4102e2 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 358
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Na výkon zabrání věci nebo zabrání náhradní hodnoty se přiměřeně užije [[#§ 349b|§ 349b]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 349b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ca911d25e2dcf4102e2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1e662393d5ab086d7f12 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 358a — Výkon zabrání části majetku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Na výkon zabrání části majetku se přiměřeně použijí [[#§ 345|§ 345]] a [[#§ 346|346]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 345, § 346
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1e662393d5ab086d7f12 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2ef053a330b16f1c2a3d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 358b — Zajištění výkonu zabrání části majetku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li obviněný stíhán pro trestný čin, za který je třeba vzhledem k povaze a závažnosti trestného činu a poměrům obviněného očekávat uložení zabrání části majetku, nebo bylo-li zabrání části majetku uloženo a je třeba zajistit jeho výkon, může předseda senátu a v přípravném řízení státní zástupce zajistit věci obviněného nebo jiné osoby, nasvědčují-li zjištěné skutečnosti tomu, že jsou splněny podmínky pro jejich zabrání podle [[§ 102a|§ 102a]] [[trestního zákoníku|trestního zákoníku]].
+>
+> (2) K zajištění nelze užít majetek, který je podle zvláštního právního předpisu vyloučen z výkonu rozhodnutí o zajištění.
+>
+> (3) Proti rozhodnutí o zajištění je přípustná stížnost.
+>
+> (4) Na rozhodování o zajištění výkonu zabrání části majetku a postup při zajištění se jinak použijí § 47 odst. 4 až 6 a § 47 odst. 8 obdobně. Na rozhodování o zrušení nebo omezení zajištění, na povolení provedení úkonu se zajištěným majetkem a na změnu zajištěné věci se obdobně použije [[#§ 344b|§ 344b]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 102a, § 47, § 344b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ef053a330b16f1c2a3d -->
+
 ## Oddíl 9 — Některá zvláštní opatření (§§ 359 – 360b)
 
 ### § 359 — Další rozhodnutí soudu
@@ -1376,6 +4562,54 @@ Ve vykonávacím řízení soud dle § 359 dodatečně ukládá úhrnný/souhrnn
 
 **Typicky rozhodné důkazy / podklady:** rozsudky v obou věcech, doklady o cizím trestu, evidence vykonaných trestů a sankcí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d2d1a6c36cd2bd7840bf generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 359 — Upuštění od přiměřeného omezení spočívajícího ve zdržení se řízení motorových vozidel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Na návrh odsouzeného rozhodne předseda senátu ve veřejném zasedání o upuštění od přiměřeného omezení spočívajícího ve zdržení se řízení motorových vozidel, které bylo uloženo pro trestný čin zanedbání povinné výživy ([[§ 196|§ 196]] [[trestního zákoníku|trestního zákoníku]]), pokud odsouzený uhradil dlužné výživné; odůvodňují-li vyhovění návrhu odsouzeného podklady a důkazy obsažené ve spise, může předseda senátu rozhodnout mimo veřejné zasedání.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 196
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d2d1a6c36cd2bd7840bf -->
+
 ### § 360 — Promlčení výkonu trestu
 
 Promlčení **výkonu trestu** (§§ 94–95 TZ): 5–30 let podle závažnosti. Po promlčení **trest nelze vykonat**.
@@ -1416,6 +4650,52 @@ Výkon trestu se promlčuje za 5–30 let podle závažnosti (§§ 94–95 TZ); 
 
 **Typicky rozhodné důkazy / podklady:** doložka PM a evidence pokusů o výkon, doklady o pobytu v cizině, přehled úkonů směřujících k výkonu, výpočet promlčecí doby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d5c7386e5c1ae3310089 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 360 — Výkon vazby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Podmínky výkonu vazby stanoví zvláštní zákon.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d5c7386e5c1ae3310089 -->
+
 ### § 360a — Příslušnost u změny rozhodnutí
 
 Soud, který rozhodl v I. stupni (nebo nadřízený, pokud věc nadále spadá).
@@ -1455,6 +4735,56 @@ K změně rozhodnutí ve vykonávacím řízení je zásadně příslušný soud
 - [ ] Předejít chybnému postoupení (průtahy, vada řízení).
 
 **Typicky rozhodné důkazy / podklady:** původní rozhodnutí všech stupňů, podklady odůvodňující změnu, spisový materiál.
+
+
+<!-- LEGAL-REVISION:BEGIN id=80cf512ced5caabdbe30 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 360a — Výkon elektronické kontroly plnění povinností uložených v souvislosti s některým opatřením nahrazujícím vazbu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Elektronickou kontrolu plnění povinností uložených v souvislosti s některým opatřením nahrazujícím vazbu zajišťuje Probační a mediační služba. Jakmile se rozhodnutí o výkonu elektronické kontroly stane vykonatelným, zašle je orgán rozhodující o vazbě bez zbytečného odkladu středisku Probační a mediační služby v obvodu okresního soudu, ve kterém obviněný bydlí, pracuje nebo se zdržuje.
+>
+> (2) Obviněný je povinen při výkonu kontroly podle odstavce 1 umožnit probačnímu úředníkovi vstup do určeného obydlí nebo jeho části (§ 73 odst. 3) a strpět pořízení svých biometrických údajů probačním úředníkem na jeho žádost při zahájení elektronické kontroly, a dále v jejím průběhu, existuje-li podezření na porušení kontrolovaných povinností, jakož i jinak mu poskytnout veškerou potřebnou součinnost. Pořizovanými biometrickými údaji jsou otisky prstů, rysy obličeje a záznam hlasu. Ustanovení § 334b odst. 2 se použije obdobně.
+>
+> (3) Neplní-li obviněný povinnosti podléhající elektronické kontrole, sdělí tuto skutečnost probační úředník bezodkladně soudu a v přípravném řízení státnímu zástupci. Bezodkladně tuto skutečnost sdělí také policejnímu orgánu, který obviněného zadrží, je-li důvodná obava, že bude mařit účel vazby; na postup při zadržení obviněného se použije obdobně [[#§ 75|§ 75]]. Probační úředník sdělí pro tento účel policejnímu orgánu údaje potřebné pro identifikaci obviněného a odůvodnění jeho případného zadržení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 73, § 334b, § 75
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=80cf512ced5caabdbe30 -->
 
 ### § 360b — Speciální postup u TČ proti mladistvým / mladistvým pachatelům
 

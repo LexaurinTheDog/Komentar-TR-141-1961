@@ -55,6 +55,52 @@ Ustanovení § 13 vymezuje čtyřstupňovou soustavu trestních soudů a vyluču
 
 **Typicky rozhodné důkazy / podklady:** trestní spis, obžaloba/návrh na potrestání, znění podání určujícího adresáta (soud vs. ÚS).
 
+
+<!-- LEGAL-REVISION:BEGIN id=6bbb0e576fab0e137b9d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 13 — Výkon trestního soudnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Soudnictví v trestních věcech vykonávají okresní soudy, krajské soudy, vrchní soudy a Nejvyšší soud.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6bbb0e576fab0e137b9d -->
+
 ### § 14 — Obsazení soudu
 
 **Rozhodující kritérium**: u OS = vždy samosoudce; u KS rozhoduje **senát** jen v případech I. stupně o **zvlášť závažných zločinech** s výjimkou těch z **Hlav V a VI TZ** (majetkové a hospodářské — tam zůstává samosoudce KS); senát musí být i pro **vraždu novorozeného dítěte matkou** (§ 142 TZ — privilegovaná SP, ale pro typovou závažnost jde k senátu).
@@ -100,6 +146,58 @@ Ustanovení § 13 vymezuje čtyřstupňovou soustavu trestních soudů a vyluču
 
 **Typicky rozhodné důkazy / podklady:** rozvrh práce soudu, právní kvalifikace ze spisu, protokol o složení senátu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=409af3cdf107b80c7e02 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 14 — Obsazení soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) U okresního soudu koná řízení samosoudce.
+>
+> (2) U krajského soudu koná řízení v prvním stupni senát, jde-li o řízení o zvlášť závažných zločinech, s výjimkou zvlášť závažných zločinů uvedených v [[části druhé hlavách V|části druhé hlavách V]] a [[VI|VI]] [[trestního zákoníku|trestního zákoníku]], a o trestném činu vraždy novorozeného dítěte matkou podle [[§ 142|§ 142]] [[trestního zákoníku|trestního zákoníku]].
+>
+> (3) V jiných případech než uvedených v odstavci 2 koná řízení v prvním stupni u krajského soudu samosoudce.
+>
+> (4) Řízení ve druhém stupni koná u krajského soudu senát.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 142
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=409af3cdf107b80c7e02 -->
+
 ### § 16 — Věcná příslušnost v I. stupni
 
 > *Řízení v prvním stupni koná, jestliže tento zákon nestanoví něco jiného, okresní soud.*
@@ -141,6 +239,52 @@ Ustanovení § 13 vymezuje čtyřstupňovou soustavu trestních soudů a vyluču
 - [ ] Hrozí spor o příslušnost (§ 24) či postoupení (§ 188)?
 
 **Typicky rozhodné důkazy / podklady:** obžaloba, právní kvalifikace, srovnání se sazbou a katalogem § 17.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a5097a63afd23696c3c2 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Řízení v prvním stupni koná, jestliže tento zákon nestanoví něco jiného, okresní soud.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a5097a63afd23696c3c2 -->
 
 ### § 17 — Krajský soud v I. stupni
 
@@ -192,6 +336,66 @@ KS v I. stupni je dán buď generální klauzulí (sazba ≥ 5 let / výjimečn�
 
 **Typicky rozhodné důkazy / podklady:** obžaloba, právní kvalifikace s rozpětím sazby, posouzení katalogu § 17.
 
+
+<!-- LEGAL-REVISION:BEGIN id=67559549c384d15150f3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Krajský soud koná v prvním stupni řízení o trestných činech, pokud na ně zákon stanoví trest odnětí svobody, jehož dolní hranice činí nejméně pět let, nebo pokud za ně lze uložit výjimečný trest. O trestných činech
+>
+> - a) zabití, vraždy novorozeného dítěte matkou, neoprávněného odebrání tkání a orgánů, nedovoleného nakládání s tkáněmi a orgány, odběru tkáně, orgánu a provedení transplantace za úplatu, nedovoleného nakládání s lidským embryem a lidským genomem, obchodování s lidmi, sexuálního útoku podle § 185a odst. 3 trestního zákoníku,
+>
+> - b) spáchaných prostřednictvím investičních nástrojů, které jsou přijaty k obchodování v obchodním systému nebo o jejichž přijetí k obchodování v obchodním systému bylo požádáno, nebo jejich padělků a napodobenin, pokud jejich zákonným znakem je způsobení značné škody nebo získání značného prospěchu,
+>
+> - c) porušení předpisů o pravidlech hospodářské soutěže, manipulace s kurzem investičních nástrojů, zneužití informace v obchodním styku, zneužití postavení v obchodním styku, poškození finančních zájmů Evropské unie, porušení předpisů o kontrole vývozu zboží a technologií dvojího užití, porušení povinností při vývozu zboží a technologií dvojího užití, zkreslení údajů a nevedení podkladů ohledně vývozu zboží a technologií dvojího užití, provedení zahraničního obchodu s vojenským materiálem bez povolení nebo licence, porušení povinnosti v souvislosti s vydáním povolení a licence pro zahraniční obchod s vojenským materiálem, zkreslení údajů a nevedení podkladů ohledně zahraničního obchodu s vojenským materiálem, vývoje, výroby a držení zakázaných bojových prostředků a
+>
+> - d) teroristického útoku, účasti na teroristické skupině, financování terorismu, podpory a propagace terorismu, vyhrožování teroristickým trestným činem, sabotáže, zneužití zastupování státu a mezinárodní organizace, vyzvědačství, ohrožení utajované informace, neoprávněné činnosti pro cizí moc, spolupráce s nepřítelem, styků ohrožujících mír, použití zakázaného bojového prostředku a nedovoleného vedení boje, plenění v prostoru válečných operací,
+>
+> koná v prvním stupni řízení krajský soud i tehdy, je-li dolní hranice trestu odnětí svobody nižší.
+>
+> (2) Krajský soud koná v prvním stupni řízení též o trestném činu opilství v případě, že čin jinak trestný, jehož se dopustil pachatel ve stavu nepříčetnosti, který si zaviněně přivodil, naplňuje znaky skutkové podstaty některého z trestných činů, u nichž je stanovena příslušnost krajského soudu podle odstavce 1.
+>
+> (3) Krajský soud koná v prvním stupni řízení též o dílčích útocích pokračujícího trestného činu, jestliže postupem podle [[§ 45|§ 45]] [[trestního zákoníku|trestního zákoníku]] přichází v tomto řízení v úvahu rozhodnutí o vině některého z trestných činů uvedených v odstavci 1 nebo [[#§ 2|2]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 185a, § 45, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=67559549c384d15150f3 -->
+
 ### § 18 — Místní příslušnost
 
 **Trojstupňová hierarchie**:
@@ -236,6 +440,54 @@ KS v I. stupni je dán buď generální klauzulí (sazba ≥ 5 let / výjimečn�
 - [ ] Nevzniká více příslušných soudů (řeší § 22)?
 
 **Typicky rozhodné důkazy / podklady:** údaje o místě jednání a následku, doklad o bydlišti/pobytu obviněného, datum a místo zjištění činu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7418b3a1fe7fcabad535 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Řízení koná soud, v jehož obvodu byl trestný čin spáchán.
+>
+> (2) Nelze-li místo činu zjistit nebo byl-li čin spáchán v cizině, koná řízení soud, v jehož obvodu obviněný bydlí, pracuje nebo se zdržuje; jestliže se nedají tato místa zjistit nebo jsou mimo území České republiky, koná řízení soud, v jehož obvodu čin vyšel najevo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7418b3a1fe7fcabad535 -->
 
 ### § 20 — Společné řízení
 
@@ -286,6 +538,54 @@ Pokud tomu nebrání důležité důvody.
 
 **Typicky rozhodné důkazy / podklady:** obžaloby/návrhy, popis vzájemné souvislosti skutků, tvrzení o důležitých důvodech pro oddělení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3c0e31e6c049dc8bdf89 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Proti všem obviněným, jejichž trestné činy spolu souvisí, o všech útocích pokračujícího nebo hromadného trestného činu a o všech částech trvajícího trestného činu se koná společné řízení, pokud tomu nebrání důležité důvody. O jiných trestných činech se koná společné řízení tehdy, je-li takový postup vhodný z hlediska rychlosti a hospodárnosti řízení.
+>
+> (2) Společné řízení o trestném činu, o kterém by měl konat řízení samosoudce, a o trestném činu, o kterém přísluší konat řízení senátu, koná senát.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c0e31e6c049dc8bdf89 -->
+
 ### § 21 — Společné řízení u KS
 
 **Odst. 1**: Pokud je KS příslušný **alespoň pro jeden** ze spojených TČ, koná řízení o všech KS.
@@ -328,6 +628,54 @@ Pokud tomu nebrání důležité důvody.
 
 **Typicky rozhodné důkazy / podklady:** obžaloba pro všechny spojené skutky, jejich kvalifikace a sazby, lokalizace nejtěžšího činu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=8f16710ebfd3379c6dfa generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Společné řízení koná krajský soud, je-li příslušný konat řízení alespoň o jednom z trestných činů.
+>
+> (2) Společné řízení koná soud, který je příslušný konat řízení proti pachateli trestného činu nebo o nejtěžším trestném činu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f16710ebfd3379c6dfa -->
+
 ### § 22 — Příslušnost několika soudů (*forum praeventionis*)
 
 Pokud je dáno více příslušných soudů, koná řízení ten, **u něhož byla podána obžaloba** (nebo návrh na potrestání / na schválení dohody) — *forum praeventionis*. Jinak rozhoduje **přikázání nadřízeným soudem**.
@@ -367,6 +715,52 @@ Pokud je dáno více příslušných soudů, koná řízení ten, **u něhož by
 - [ ] Nejde spíše o důvod pro delegaci (§ 25) než prevenci?
 
 **Typicky rozhodné důkazy / podklady:** obžaloba s datem podání, podklady o místu činu a následku, případný návrh na přikázání.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f872dd31d0efae50a377 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 22 — Příslušnost několika soudů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Je-li podle předchozích ustanovení dána příslušnost několika soudů, koná řízení z těchto soudů ten, u něhož podal státní zástupce obžalobu, návrh na potrestání, návrh na schválení dohody o vině a trestu nebo jemuž byla věc přikázána nadřízeným soudem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f872dd31d0efae50a377 -->
 
 ### § 23 — Vyloučení a spojení věci
 
@@ -412,6 +806,56 @@ Pokud je dáno více příslušných soudů, koná řízení ten, **u něhož by
 
 **Typicky rozhodné důkazy / podklady:** spis se stavem dokazování u jednotlivých obviněných, důvody urychlení, samostatné obžaloby pro spojení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f25e5f984a01b3559238 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 23 — Vyloučení a spojení věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) K urychlení řízení nebo z jiných důležitých důvodů lze řízení o některém z trestných činů nebo proti některému z obviněných vyloučit ze společného řízení.
+>
+> (2) Příslušnost soudu, který věc vyloučil, se nemění; vyloučí-li však krajský soud věc, o níž by jinak příslušelo konat řízení okresnímu soudu, může ji postoupit tomuto soudu.
+>
+> (3) Jsou-li tu podmínky společného řízení, může soud spojit k společnému projednání a rozhodnutí věci, v nichž byly podány samostatné obžaloby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f25e5f984a01b3559238 -->
+
 ### § 24 — Rozhodnutí o příslušnosti
 
 Pokud vznikne **spor o příslušnost**:
@@ -456,6 +900,54 @@ Pokud nejblíže nadřízený soud zjistí, že **není nadřízen** soudu záko
 
 **Typicky rozhodné důkazy / podklady:** spis, usnesení soudů o (ne)příslušnosti, podklady k aplikaci § 16–22.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ce01dabaafaad1c158c3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 24 — Rozhodnutí o příslušnosti soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Vzniknou-li pochybnosti o příslušnosti soudu, rozhoduje o tom, který soud je příslušný k projednání věci, soud, jenž je nejblíže společně nadřízen soudu, u něhož byla podána obžaloba, návrh na potrestání, návrh na schválení dohody o vině a trestu, jemuž byla věc postoupena podle [[§ 39|§ 39]] [[zákona o soudnictví ve věcech mládeže|zákona o soudnictví ve věcech mládeže]] nebo mu byla přikázána nadřízeným soudem, a soudu, který má být příslušný podle rozhodnutí o předložení věci k rozhodnutí o příslušnosti [§ 188 odst. 1 písm. a), § 222 odst. 1, § 257 odst. 1 písm. a), § 314p odst. 3 písm. a)]. Přitom je vázán jen zákonnými hledisky rozhodnými pro určení příslušnosti (§ 16 až 22). Není-li soud, jemuž byla věc předložena k rozhodnutí, nadřízen soudu podle zákona příslušnému, postoupí věc k rozhodnutí o příslušnosti tomu soudu, který je společně nadřízen soudu věc předkládajícímu a soudu podle zákona příslušnému.
+>
+> (2) Soud, který rozhoduje o příslušnosti soudu, může současně rozhodnout o odnětí a přikázání věci z důvodu uvedeného v [[#§ 25|§ 25]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39, § 188, § 222, § 257, § 314p, § 16, § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce01dabaafaad1c158c3 -->
+
 ### § 25 — Odnětí a přikázání věci (*delegace*)
 
 > *Z důležitých důvodů může být věc příslušnému soudu odňata a přikázána jinému soudu téhož druhu a stupně; o odnětí a přikázání rozhoduje soud, který je oběma soudům nejblíže společně nadřízen.*
@@ -499,6 +991,52 @@ Pokud nejblíže nadřízený soud zjistí, že **není nadřízen** soudu záko
 - [ ] Nejde spíše o vyloučení soudce dle § 30?
 
 **Typicky rozhodné důkazy / podklady:** návrh na delegaci s odůvodněním, doklady o vztazích soudce, podklady o bezpečnostních/mediálních okolnostech.
+
+
+<!-- LEGAL-REVISION:BEGIN id=663bf3f7c40c539da363 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 25 — Odnětí a přikázání věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Z důležitých důvodů může být věc příslušnému soudu odňata a přikázána jinému soudu téhož druhu a stupně; o odnětí a přikázání rozhoduje soud, který je oběma soudům nejblíže společně nadřízen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=663bf3f7c40c539da363 -->
 
 ### § 26 — Příslušnost soudu v přípravném řízení
 
@@ -548,6 +1086,54 @@ Pokud nejblíže nadřízený soud zjistí, že **není nadřízen** soudu záko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7f59547ecafe6149e0c0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 26 — Příslušnost soudu k úkonům v přípravném řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) K provádění úkonů v přípravném řízení je příslušný okresní soud, v jehož obvodě je činný státní zástupce, který podal příslušný návrh.
+>
+> (2) Soud, u něhož státní zástupce podal návrh podle odstavce 1, se stává příslušným k provádění všech úkonů soudu po celé přípravné řízení, pokud nedojde k postoupení věci z důvodu příslušnosti jiného státního zástupce činného mimo obvod tohoto soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f59547ecafe6149e0c0 -->
+
 ## Oddíl 2 — Pomocné osoby (§ 27 – § 29a)
 
 ### § 27 — Zapisovatel
@@ -589,6 +1175,52 @@ Zapisovatel zaznamenává průběh úkonu do **protokolu** (§ 55). Pokud zapiso
 
 **Typicky rozhodné důkazy / podklady:** písemný protokol, zvukový/obrazový záznam, údaj o osobě protokolující.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2faf32cad208546d5c53 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 27 — Zapisovatel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> K sepsání protokolu o úkonech orgánů činných v trestním řízení se přibere zpravidla zapisovatel vzatý do slibu. Nebyl-li zapisovatel přibrán, sepíše protokol osoba provádějící úkon. Je-li v řízení před soudem o průběhu úkonu pořizován zvukový záznam a v důsledku tohoto předseda senátu nediktuje protokol, je zapisovatelem, pokud je ho třeba, vyšší soudní úředník nebo protokolující úředník.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2faf32cad208546d5c53 -->
+
 ### § 27a — Vyšší soudní úředník (VSÚ)
 
 VSÚ vydává **jednoduchá rozhodnutí** (vyjma rozhodnutí o vině a trestu) a provádí administrativní úkony spojené s řízením. Detailní úpravu obsahuje **zákon č. 121/2008 Sb.** o vyšších soudních úřednících a vyšších úřednících státního zastupitelství.
@@ -629,6 +1261,52 @@ Typické úkony VSÚ: vyhotovení protokolu, rozhodnutí o **přestávce** v ř�
 - [ ] Odpovídá úkon zákonu č. 121/2008 Sb.?
 
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí, pověření VSÚ, rozvrh práce, obsah rozhodnutí (vina/trest vs. administrativa).
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c301871f23c94c65577 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 27a — Vyšší soudní úředník
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Jednoduchá rozhodnutí, s výjimkou rozhodnutí o vině a trestu, zpravidla vydává a vykonává a administrativní úkony spojené s řízením provádí vyšší soudní úředník; zvláštní zákon stanoví jeho působnost a určí, které úkony může vyšší soudní úředník provést samostatně a kdy postupuje z pověření soudce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c301871f23c94c65577 -->
 
 ### § 27b — Probační úředník (PMS)
 
@@ -672,6 +1350,52 @@ Typické úkony VSÚ: vyhotovení protokolu, rozhodnutí o **přestávce** v ř�
 
 **Typicky rozhodné důkazy / podklady:** zpráva PMS, protokol o mediaci/narovnání, stanovisko poškozeného, doklad o souhlasu obviněného.
 
+
+<!-- LEGAL-REVISION:BEGIN id=262685af68f8d4215f48 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 27b — Probační úředník
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Úředník Probační a mediační služby (dále jen „probační úředník“) provádí v trestním řízení úkony probace a mediace, zjišťuje informace o osobě podezřelého nebo obviněného a jeho rodinných a sociálních poměrech a vytváří podmínky pro rozhodnutí o podmíněném odložení podání návrhu na potrestání, podmíněném zastavení trestního stíhání nebo pro schválení narovnání, a to na základě pověření vydaného orgánem činným v trestním řízení Probační a mediační službě nebo, stanoví-li tak tento nebo jiný zákon, i bez takového pověření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=262685af68f8d4215f48 -->
+
 ### § 27c — Asistent soudce NS
 
 Asistent soudce NS provádí úkony z pověření soudce NS — typicky příprava rozhodnutí o dovolání, předtřídění dovolání pro jejich procesní (ne)přípustnost (§ 265i — odmítnutí dovolání).
@@ -710,6 +1434,52 @@ Asistent soudce NS provádí úkony z pověření soudce NS — typicky přípra
 - [ ] Odpovídá postup § 265i/§ 265a?
 
 **Typicky rozhodné důkazy / podklady:** spis NS, rozhodnutí o dovolání, doklad o pověření asistenta.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c3e30f19a17596536e38 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 27c — Asistent soudce Nejvyššího soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Asistent soudce Nejvyššího soudu činí jednotlivé úkony trestního řízení z pověření soudce Nejvyššího soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3e30f19a17596536e38 -->
 
 ### § 28 — Tlumočník
 
@@ -799,6 +1569,62 @@ Proti rozhodnutí o odmítnutí překladu je přípustná **stížnost**.
 
 **Typicky rozhodné důkazy / podklady:** protokoly s údajem o jazyce tlumočení, doklady o doručení rozhodnutí a překladu, písemné poučení a případné vzdání se překladu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=876644ba3ebf1f86a46d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li třeba přetlumočit obsah písemnosti, výpovědi nebo jiného procesního úkonu nebo využije-li obviněný právo uvedené v § 2 odst. 14, přibere se tlumočník; totéž platí, jde-li o ustanovení tlumočníka osobě, s níž se nelze dorozumět jinak než některým z komunikačních systémů neslyšících a hluchoslepých osob. Tlumočník může být zároveň zapisovatelem. Neuvede-li obviněný jazyk, který ovládá, nebo uvede-li jazyk či dialekt, který není jazykem jeho národnosti nebo úředním jazykem státu, jehož je občanem, a pro takový jazyk nebo dialekt není zapsána žádná osoba v seznamu tlumočníků, ustanoví orgán činný v trestním řízení tlumočníka pro jazyk jeho národnosti nebo úřední jazyk státu, jehož je občanem. Jde-li o osobu bez státního občanství, rozumí se jím stát, kde má trvalý pobyt, nebo stát jeho původu. Využije-li obviněný právo uvedené v § 2 odst. 14, přibraný tlumočník přetlumočí na jeho žádost i jeho poradu s obhájcem, která je v přímé souvislosti s procesními úkony, a poradu v průběhu procesních úkonů.
+>
+> (2) Za podmínek uvedených v odstavci 1 je třeba obviněnému písemně přeložit usnesení o zahájení trestního stíhání, usnesení o vazbě, usnesení o nařízení pozorování obviněného ve zdravotnickém ústavu, obžalobu, dohodu o vině a trestu a návrh na její schválení, návrh na potrestání, rozsudek, trestní příkaz, rozhodnutí o odvolání a o podmíněném zastavení trestního stíhání; to neplatí, jestliže obviněný po poučení prohlásí, že pořízení překladu takového rozhodnutí nepožaduje. Týká-li se takové rozhodnutí více obviněných, přeloží se obviněnému jen ta část rozhodnutí, která se jej týká, pokud ji lze oddělit od ostatních výroků rozhodnutí a jejich odůvodnění. Pořízení překladu rozhodnutí a jeho doručení zajišťuje orgán činný v trestním řízení, o jehož rozhodnutí se jedná.
+>
+> (3) Jestliže s doručením rozhodnutí uvedeného v odstavci 2 je spojen počátek běhu lhůty a je třeba pořídit písemný překlad takového rozhodnutí, považuje se rozhodnutí za doručené až doručením písemného překladu.
+>
+> (4) Za podmínek uvedených v odstavci 1 je třeba obviněnému písemně přeložit i písemnost neuvedenou v odstavci 2, je-li to zapotřebí pro zaručení spravedlivého procesu, zejména pro řádné uplatnění práva na obhajobu, a to v rozsahu určeném orgánem činným v trestním řízení, který je zcela nezbytný k seznámení obviněného se skutečnostmi, které jsou mu kladeny za vinu; není-li odůvodněnému návrhu obviněného, který využil právo uvedené v § 2 odst. 14, na pořízení překladu takové písemnosti vyhověno, orgán činný v trestním řízení, který řízení vede, o tom rozhodne usnesením. Namísto písemného překladu podle věty první lze písemnost nebo její podstatný obsah přetlumočit; ustanovení věty první se nepoužije, jestliže již byla tato písemnost nebo její podstatný obsah obviněnému přetlumočena nebo jestliže obviněný po poučení prohlásí, že pořízení jejího překladu nepožaduje. Proti rozhodnutí podle věty první je přípustná stížnost. Pořízení překladu a jeho doručení zajišťuje orgán činný v trestním řízení, který řízení vede.
+>
+> (5) Práva uvedená v odstavcích 1 a [[#§ 4|4]] náleží i podezřelému.
+>
+> (6) Za podmínek uvedených v odstavci 1 je třeba osobě, která je zadržena či zatčena, bez zbytečného odkladu písemně přeložit též poučení o jejích právech (§ 33 odst. 6 a § 76 odst. 5).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 4, § 33, § 76
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=876644ba3ebf1f86a46d -->
+
 ### § 29 — Odměna tlumočníka a vyloučení
 
 **Odst. 1**: Tlumočník může odmítnout úkon z důvodů zvláštního zákona (z. č. 254/2019 Sb. o znalcích a tlumočnících) a z důvodů **§ 99 a § 100** (zákaz výslechu, právo odepřít výpověď — typicky tlumočník je osoba blízká obviněnému).
@@ -841,6 +1667,54 @@ Proti rozhodnutí o odmítnutí překladu je přípustná **stížnost**.
 
 **Typicky rozhodné důkazy / podklady:** protokol o úkonu, doklad o vztahu tlumočníka k účastníkům, vyúčtování a usnesení o odměně.
 
+
+<!-- LEGAL-REVISION:BEGIN id=adf6f9ec407d2c395c9c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Tlumočník může odmítnout provedení tlumočnického úkonu z důvodů uvedených v jiném právním předpisu a z důvodů uvedených v [[#§ 99|§ 99]] a [[#§ 100|100]]. O vyloučení tlumočníka rozhodne orgán činný v trestním řízení, který jej přibral, a v řízení před soudem předseda senátu.
+>
+> (2) Výši odměny a náhrad tlumočníka určí orgán činný v trestním řízení, který jej přibral, a v řízení před soudem předseda senátu v souladu s jinými právními předpisy upravujícími odměňování a náhrady tlumočníka. Nesouhlasí-li orgán činný v trestním řízení s výší vyúčtované odměny a náhrad, rozhodne usnesením. Proti usnesení je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 99, § 100
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=adf6f9ec407d2c395c9c -->
+
 ### § 29a — Ad hoc tlumočník
 
 Ustanovení o tlumočníkovi se přiměřeně použijí i na **jednorázového** tlumočníka (nezapsaného v seznamu). Klíč pro **vzácné jazyky / dialekty** — např. afrikánština, kečuánština.
@@ -881,6 +1755,52 @@ Ustanovení o tlumočníkovi se přiměřeně použijí i na **jednorázového**
 **Typicky rozhodné důkazy / podklady:** doklad o nedostupnosti zapsaného tlumočníka, slib ad hoc tlumočníka, protokol o úkonu, podklady o jazykové způsobilosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0c80fe12a6cd141a5139 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 29a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Ustanovení tohoto zákona o tlumočníkovi se přiměřeně použijí i na osobu vykonávající tlumočnickou činnost jednorázově.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c80fe12a6cd141a5139 -->
 
 ## Oddíl 3 — Vyloučení OČTŘ (§ 30 – § 31a)
 
@@ -954,6 +1874,60 @@ Klasické případy: **příbuzenství** s obviněným / poškozeným, **přáte
 
 **Typicky rozhodné důkazy / podklady:** usnesení z přípravného řízení (vazba/prohlídka), rozvrh práce, doklady o vztazích soudce k účastníkům, obsah napadeného procesního rozhodnutí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f6943d9b3577f5004ba6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Z vykonávání úkonů trestního řízení je vyloučen soudce nebo přísedící, státní zástupce, policejní orgán nebo osoba v něm služebně činná, u něhož lze mít pochybnosti, že pro poměr k projednávané věci nebo k osobám, jichž se úkon přímo dotýká, k jejich obhájcům, zákonným zástupcům, opatrovníkům a zmocněncům, nebo pro poměr k jinému orgánu činnému v trestním řízení nemůže nestranně rozhodovat. Úkony, které byly učiněny vyloučenými osobami, nemohou být podkladem pro rozhodnutí v trestním řízení.
+>
+> (2) Soudce nebo přísedící je dále vyloučen z vykonávání úkonů trestního řízení, jestliže byl v projednávané věci činný jako státní zástupce, policejní orgán, společenský zástupce, obhájce, nebo jako zmocněnec zúčastněné osoby nebo poškozeného. Po podání obžaloby nebo návrhu na schválení dohody o vině a trestu je vyloučen z vykonávání úkonů trestního řízení soudce, který v projednávané věci v přípravném řízení nařídil domovní prohlídku nebo prohlídku jiných prostor a pozemků, vydal příkaz k zadržení nebo příkaz k zatčení nebo rozhodoval o vazbě osoby, na niž byla poté podána obžaloba nebo s níž byla sjednána dohoda o vině a trestu.
+>
+> (3) Z rozhodování u soudu vyššího stupně je kromě toho vyloučen soudce nebo přísedící, který se zúčastnil rozhodování u soudu nižšího stupně, a naopak. Z rozhodování o stížnosti u nadřízeného orgánu je vyloučen státní zástupce, který napadené rozhodnutí učinil anebo dal k němu souhlas nebo pokyn.
+>
+> (4) Z rozhodování o návrhu na povolení obnovy řízení je vyloučen soudce nebo přísedící, který ve věci rozhodoval v původním řízení.
+>
+> (5) Z řízení o přezkumu příkazu k odposlechu a záznamu telekomunikačního provozu je vyloučen soudce, který se zúčastnil rozhodování v předchozím řízení. Soudce, který se účastnil rozhodování v řízení o přezkumu příkazu k odposlechu a záznamu telekomunikačního provozu, je v dalším řízení vyloučen z rozhodování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f6943d9b3577f5004ba6 -->
+
 ### § 31 — Rozhodování o vyloučení
 
 **Odst. 1**: Rozhoduje **sám OČTŘ**, jehož se důvod týká, i bez návrhu. U senátu rozhoduje senát; u soudce NS rozhoduje **jiný senát NS**.
@@ -999,6 +1973,56 @@ O vyloučení rozhoduje sám orgán, jehož se důvod týká (i bez návrhu), fo
 
 **Typicky rozhodné důkazy / podklady:** doklady o příbuzenském/osobním vztahu, dřívější spisy a plné moci, protokoly o úkonech daného orgánu, rozvrh práce soudu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2a0b4bd15862d9a69f26 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O vyloučení z důvodů uvedených v [[#§ 30|§ 30]] rozhodne orgán, kterého se tyto důvody týkají, a to i bez návrhu. O vyloučení soudce nebo přísedícího, pokud rozhodují v senátě, rozhodne tento senát. O vyloučení soudce Nejvyššího soudu rozhodne jiný senát téhož soudu.
+>
+> (2) Proti rozhodnutí podle odstavce 1 vět první a druhé je přípustná stížnost.
+>
+> (3) O stížnosti rozhodne orgán bezprostředně nadřízený orgánu, jenž napadené rozhodnutí vydal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a0b4bd15862d9a69f26 -->
+
 ### § 31a — Vyloučení VSÚ a probačního úředníka
 
 Důvody a postup stanoví **zvláštní zákon** (z. č. 121/2008 Sb., z. č. 257/2000 Sb.).
@@ -1040,6 +2064,52 @@ Pro vyloučení VSÚ a probačního úředníka se nepoužije přímo § 31, ný
 **Typicky rozhodné důkazy / podklady:** evidence úkonů VSÚ/probačního úředníka, doklady o příbuzenském/poradním vztahu, příslušná ustanovení zvláštních zákonů, rozvrh práce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2572c0047eba7de9263b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 31a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Důvody, pro které je z vykonávání úkonů trestního řízení vyloučen vyšší soudní úředník nebo probační úředník, a postup při rozhodování o vyloučení stanoví zvláštní zákon.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2572c0047eba7de9263b -->
 
 ## Oddíl 4 — Obviněný (§ 32 – § 34)
 
@@ -1088,6 +2158,52 @@ Procesní postavení obviněného a možnost použít proti osobě prostředky t
 - [ ] Při předčasném použití prostředků namítat procesní nepoužitelnost.
 
 **Typicky rozhodné důkazy / podklady:** usnesení o zahájení trestního stíhání, protokoly o podání vysvětlení a o výslechu, časová osa úkonů, poučení udělená osobě.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a88476abd5034bb98752 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 32 — Obviněný
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Toho, kdo je podezřelý ze spáchání trestného činu, lze považovat za obviněného a použít proti němu prostředků daných tímto zákonem teprve tehdy, bylo-li proti němu zahájeno trestní stíhání ([[#§ 160|§ 160]]).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a88476abd5034bb98752 -->
 
 ### § 33 — Práva obviněného
 
@@ -1181,6 +2297,62 @@ Práva obviněného podle § 33 (zejména právo na obhájce od počátku, na po
 
 **Typicky rozhodné důkazy / podklady:** protokol o výslechu a o zadržení, písemné poučení (Letter of Rights) s podpisem, záznamy o vyrozumění obhájce/konzulátu, doklady o majetkových poměrech pro bezplatnou obhajobu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6333c08c2d2fc84d69de generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 33 — Práva obviněného
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Obviněný má právo vyjádřit se ke všem skutečnostem, které se mu kladou za vinu, a k důkazům o nich, není však povinen vypovídat. Může uvádět okolnosti a důkazy sloužící k jeho obhajobě, činit návrhy a podávat žádosti a opravné prostředky. Má právo zvolit si obhájce a s ním se radit i během úkonů prováděných orgánem činným v trestním řízení. S obhájcem se však v průběhu svého výslechu nemůže radit o tom, jak odpovědět na již položenou otázku. Může žádat, aby byl vyslýchán za účasti svého obhájce a aby se obhájce účastnil i jiných úkonů přípravného řízení ([[#§ 165|§ 165]]). Je-li ve vazbě nebo ve výkonu trestu odnětí svobody, může s obhájcem mluvit bez přítomnosti třetí osoby. Uvedená práva příslušejí obviněnému i tehdy, je-li jeho svéprávnost omezena.
+>
+> (2) Osvědčil-li obviněný, že nemá dostatek prostředků, aby si hradil náklady obhajoby, rozhodne předseda senátu a v přípravném řízení soudce, že má nárok na obhajobu bezplatnou nebo za sníženou odměnu. Vyplývá-li ze shromážděných důkazů, že obviněný nemá dostatek prostředků na náhradu nákladů obhajoby, může, je-li to třeba k ochraně práv obviněného, rozhodnout předseda senátu a v přípravném řízení na návrh státního zástupce soudce o nároku na obhajobu bezplatnou nebo za sníženou odměnu i bez návrhu obviněného. V případech uvedených ve větě první a druhé náklady obhajoby zcela nebo zčásti hradí stát.
+>
+> (3) Návrh na rozhodnutí podle odstavce 2 jsou oprávněny podat kromě obviněného a jeho obhájce i osoby uvedené v § 37 odst. 1. Návrh na rozhodnutí podle odstavce 2 včetně příloh, jimiž má být prokázána jeho důvodnost, podává obviněný v přípravném řízení prostřednictvím státního zástupce a v řízení před soudem soudu, který koná řízení v prvním stupni. Proti rozhodnutí podle odstavce 2 je přípustná stížnost, jež má odkladný účinek.
+>
+> (4) Pokud byl pravomocným rozhodnutím podle odstavce 2 obviněnému přiznán nárok na bezplatnou obhajobu nebo obhajobu za sníženou odměnu a obviněný o ustanovení obhájce požádá, bude mu obhájce neprodleně ustanoven. Obhájce ustanoví a, pominou-li důvody pro rozhodnutí podle odstavce 2, ustanovení zruší předseda senátu a v přípravném řízení soudce. Ustanovení § 38 odst. 2, § 39 odst. 2 a 4, [[#§ 40|§ 40]] a [[#§ 40a|40a]] se použijí obdobně.
+>
+> (5) Všechny orgány činné v trestním řízení jsou povinny vždy poučit obviněného o jeho právech, a to se zaměřením na probíhající stadium trestního řízení, a poskytnout mu plnou možnost jejich uplatnění. Obviněného, který byl zadržen či zatčen, je třeba poučit též o právu na naléhavou lékařskou pomoc, o maximální lhůtě, po kterou může být omezen na svobodě, než bude odevzdán soudu, a o právu nechat vyrozumět konzulární úřad a rodinného příslušníka nebo jinou fyzickou osobu, u nichž uvede údaje potřebné k vyrozumění.
+>
+> (6) Orgán činný v trestním řízení, který provedl zadržení či zatčení, předá obviněnému bez zbytečného odkladu písemné poučení o jeho právech; obviněnému musí být umožněno si toto poučení přečíst; obviněný má právo ponechat si toto poučení u sebe po celou dobu omezení nebo zbavení osobní svobody.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 165, § 37, § 38, § 39, § 40, § 40a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6333c08c2d2fc84d69de -->
+
 ### § 34 — Opatrovník obviněného
 
 Pro obviněného s **omezenou svéprávností**.
@@ -1235,6 +2407,54 @@ Opatrovník podle § 34 chrání obviněného s omezenou svéprávností, může
 **Typicky rozhodné důkazy / podklady:** rozsudek o omezení svéprávnosti, znalecký posudek o duševním stavu, doklady o případném konfliktu zájmů navrhované osoby, usnesení o ustanovení opatrovníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fd4886aa47042300b7ea generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 34 — Opatrovník obviněného
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Opatrovník obviněného, který je omezen ve svéprávnosti, je oprávněn obviněného zastupovat, zejména zvolit mu obhájce, činit za obviněného návrhy, podávat za něho žádosti a opravné prostředky; je též oprávněn zúčastnit se těch úkonů, kterých se podle zákona může zúčastnit obviněný. Ve prospěch obviněného může opatrovník tato práva vykonávat i proti vůli obviněného.
+>
+> (2) V případě, že je nebezpečí z prodlení a opatrovník nemůže vykonávat svá práva uvedená v odstavci 1 nebo nebyl-li obviněnému ustanoven, ačkoli jsou dány důvody pro jeho ustanovení, předseda senátu a v přípravném řízení státní zástupce ustanoví obviněnému k výkonu těchto práv opatrovníka. Jinou osobu než advokáta lze ustanovit opatrovníkem jen s jejím souhlasem. Nelze jím ustanovit osobu, u níž lze mít důvodnou obavu, že pro svůj zájem na výsledku řízení nebude řádně hájit zájmy obviněného. Usnesení o ustanovení opatrovníka se oznamuje tomu, kdo je jím ustanovován, a nevylučuje-li to povaha věci, též obviněnému. Proti usnesení o ustanovení opatrovníka je přípustná stížnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fd4886aa47042300b7ea -->
 
 ## Oddíl 5 — Obhájce (§ 35 – § 41)
 
@@ -1291,6 +2511,56 @@ Obhájcem může být jen advokát; koncipient ho zastoupí jen pro jednotlivé 
 
 **Typicky rozhodné důkazy / podklady:** plná moc, doklad o zápisu advokáta/koncipienta v ČAK, protokoly o úkonech, podklady o případném svědeckém postavení advokáta.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e3f28353e2333d4c9f0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 35 — Obhájce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Obhájcem v trestním řízení může být jen advokát. Pro jednotlivé úkony trestního řízení se může obhájce dát zastoupit koncipientem. Koncipient nemůže obhájce zastupovat v řízeních před krajským soudem jako soudem prvního stupně, před vrchním soudem nebo Nejvyšším soudem; nahlížet do spisů může koncipient i v těchto řízeních.
+>
+> (2) Obhájcem nemůže být advokát, proti kterému je nebo bylo vedeno trestní stíhání, a v důsledku toho v řízení, ve kterém by měl vykonávat obhajobu, má postavení obviněného, svědka nebo zúčastněné osoby.
+>
+> (3) V trestním řízení nemůže být obhájcem advokát, který v něm vypovídá jako svědek, podává znalecký posudek nebo je činný jako tlumočník.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e3f28353e2333d4c9f0 -->
+
 ### § 35a — Důvěrnost komunikace obviněný-obhájce
 
 **Klíčové ustanovení** chránící advokátní privilegium (*attorney-client privilege*).
@@ -1343,6 +2613,56 @@ Komunikace obviněného (i podezřelého) s obhájcem je důvěrná a procesně 
 - [ ] Označit chráněné materiály a fyzicky je oddělit.
 
 **Typicky rozhodné důkazy / podklady:** zajištěná korespondence/e-maily, protokol o prohlídce, stanovisko zástupce ČAK, doklady o povaze poskytovaných služeb.
+
+
+<!-- LEGAL-REVISION:BEGIN id=972ed6a9f2f5e8efa304 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 35a — Ochrana důvěrnosti komunikace obviněného s obhájcem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Orgány činné v trestním řízení jsou povinny zachovávat důvěrnost informací sdělovaných mezi obviněným a obhájcem jakýmkoli způsobem, zejména ústně, elektronicky nebo v listinné podobě, ať již přenášených nebo uchovávaných v soukromí (dále jen „důvěrnost komunikace“). Ochrana důvěrnosti komunikace se ve stejném rozsahu vztahuje také na komunikaci mezi podezřelým a jeho advokátem v trestní věci. Pokud osoby uvedené ve větě první a druhé nebo jiné osoby, kterým byly informace uvedené ve větě první a druhé poskytnuty, uchovávají takové informace, jsou povinny je výslovně označit tak, aby bylo zřejmé, že se jedná o informace, na které se vztahuje ochrana důvěrnosti komunikace.
+>
+> (2) Ochrana důvěrnosti komunikace podle odstavce 1 se nevztahuje na případy, kdy obsahem komunikace není poskytování právních služeb.
+>
+> (3) Informace získaná porušením důvěrnosti komunikace nesmí být v trestním řízení použita, s výjimkou případu, kdy se použití takové informace v trestním řízení dovolává sám podezřelý nebo obviněný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=972ed6a9f2f5e8efa304 -->
 
 ### Nutná obhajoba (§§ 36 – § 36b)
 
@@ -1549,6 +2869,56 @@ Obhájce si volí primárně obviněný; subsidiárně okruh blízkých osob a z
 
 **Typicky rozhodné důkazy / podklady:** plné moci dosavadního a nového obhájce, oznámení o změně s datem, předvolání k úkonu, doklad o vztahu osoby volící obhájce k obviněnému.
 
+
+<!-- LEGAL-REVISION:BEGIN id=dfb370aa9c389c230929 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 37 — Zvolený obhájce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Neužije-li obviněný práva zvolit si obhájce a nezvolí-li mu ho ani jeho opatrovník, může mu ho zvolit jeho příbuzný v pokolení přímém, jeho sourozenec, osvojitel, osvojenec, manžel, partner, druh, jakož i zúčastněná osoba. Je-li obviněný omezen ve svéprávnosti, mohou tak učinit tyto osoby i proti jeho vůli.
+>
+> (2) Obviněný si může místo obhájce, který mu byl ustanoven nebo osobou k tomu oprávněnou zvolen, zvolit obhájce jiného. Oznámí-li změnu obhájce tak, aby obhájce mohl být o úkonu vyrozuměn v zákonem stanovené lhůtě, orgán činný v trestním řízení ode dne doručení takového oznámení vyrozumívá nově zvoleného obhájce. V opačném případě je obhájce předtím ustanovený nebo zvolený, pokud není z obhajování vyloučen, povinen obhajobu vykonávat do doby, než ji osobně převezme později zvolený obhájce.
+>
+> (3) Jestliže si obviněný zvolí dva nebo více obhájců a orgánu činnému v trestním řízení zároveň neoznámí, kterého z těchto obhájců zmocnil k přijímání písemností a k vyrozumívání o úkonech trestního řízení, určí jej předseda senátu a v přípravném řízení státní zástupce; své rozhodnutí oznámí všem zvoleným obhájcům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfb370aa9c389c230929 -->
+
 ### § 37a — Vyloučení obhájce z obhajoby
 
 **Odst. 1 — důvody:**
@@ -1597,6 +2967,62 @@ Obhájce lze vyloučit z obhajoby pro zákonné překážky (§ 35), pro opakova
 - [ ] Zajistit náhradního obhájce pro každého dotčeného obviněného.
 
 **Typicky rozhodné důkazy / podklady:** protokoly dokládající vzájemné obviňování, evidence účasti/neúčasti obhájce na úkonech, omluvy a doklady o zajištění zástupce, plné moci.
+
+
+<!-- LEGAL-REVISION:BEGIN id=18e097e646fe46dca841 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 37a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu a v přípravném řízení soudce rozhodne i bez návrhu o vyloučení advokáta jako zvoleného obhájce z obhajování
+>
+> - a) z důvodů uvedených v § 35 odst. 2 nebo [[#§ 3|3]], nebo
+>
+> - b) jestliže se obhájce opakovaně nedostaví k úkonům trestního řízení, při nichž je jeho účast nezbytná, ani nezajistí účast svého zástupce, ačkoliv byl řádně a včas o takových úkonech vyrozuměn.
+>
+> (2) O vyloučení advokáta jako zvoleného obhájce předseda senátu a v přípravném řízení soudce rozhodne též tehdy, jestliže obhájce vykonává obhajobu dvou nebo více spoluobviněných, jejichž zájmy si v trestním řízení odporují. Obhájce, který byl z tohoto důvodu vyloučen, nemůže v téže věci dále vykonávat obhajobu žádného z obviněných.
+>
+> (3) Před rozhodnutím podle odstavce 1 nebo [[#§ 2|2]] předseda senátu a v přípravném řízení soudce umožní obviněnému a obhájci, aby se k věci vyjádřili, a v rozhodnutí k tomuto vyjádření přihlédne. Rozhodne-li o vyloučení obhájce, umožní zároveň obviněnému, aby si v přiměřené lhůtě zvolil obhájce jiného; jde-li o nutnou obhajobu, postupuje podle § 38 odst. 1.
+>
+> (4) Proti usnesení podle odstavců 1 a [[#§ 2|2]] je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35, § 3, § 2, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18e097e646fe46dca841 -->
 
 ### Ustanovený obhájce (§§ 38 – § 40a)
 
@@ -1855,6 +3281,62 @@ Obhájce má široká práva (nahlížení do spisu, účast na úkonech, nárok
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fb4b7b090832dd57965e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 41 — Povinnosti a práva obhájce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Obhájce je povinen poskytovat obviněnému potřebnou právní pomoc, účelně využívat k hájení jeho zájmů prostředků a způsobů obhajoby uvedených v zákoně, zejména pečovat o to, aby byly v řízení náležitě a včas objasněny skutečnosti, které obviněného zbavují viny nebo jeho vinu zmírňují, a tím přispívat ke správnému objasnění a rozhodnutí věci.
+>
+> (2) Obhájce je oprávněn již za přípravného řízení činit za obviněného návrhy, podávat za něho žádosti a opravné prostředky, nahlížet do spisů ([[#§ 65|§ 65]]) a zúčastnit se podle ustanovení tohoto zákona vyšetřovacích úkonů. S obviněným, který je ve vazbě, je oprávněn mluvit v rozsahu stanoveném v § 33 odst. 1.
+>
+> (3) Obhájce je v řízení před soudem oprávněn zúčastnit se všech úkonů, kterých se může zúčastnit obviněný.
+>
+> (4) Je-li svéprávnost obviněného omezena, může obhájce oprávnění uvedená v odstavcích 2 a [[#§ 3|3]] vykonávat též proti vůli obviněného.
+>
+> (5) Nebylo-li zmocnění obhájce při jeho zvolení nebo ustanovení vymezeno jinak, zaniká při skončení trestního stíhání. I když zmocnění takto zaniklo, je obhájce oprávněn podat za obžalovaného ještě dovolání a zúčastnit se řízení o dovolání u Nejvyššího soudu, dále podat žádost o milost a o odklad výkonu trestu.
+>
+> (6) Obhájce má právo ve všech stadiích trestního řízení vyžádat si předem kopii nebo průpis protokolu ([[#§ 55|§ 55]]) o každém úkonu trestního řízení. Orgány činné v trestním řízení (§ 12 odst. 1) jsou povinny mu vyhovět; odmítnout mohou jen tehdy, když to není z technických důvodů možné. Náklady s tím spojené je povinen vůči státu uhradit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 65, § 33, § 3, § 55, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb4b7b090832dd57965e -->
+
 ## Oddíl 6 — Zúčastněná osoba (§ 42)
 
 ### § 42 — Zúčastněná osoba (ZÚ)
@@ -1925,6 +3407,60 @@ Zúčastněnou osobou je ten, jehož věc či část majetku má být zabrána; 
 **Typicky rozhodné důkazy / podklady:** doklady o vlastnictví/převodu zabírané věci, statut svěřenského fondu a osoba správce, návrh na zabrání věci/části majetku, usnesení o postavení ZÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4ac6869adb293173bfab generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Tomu, jehož věc nebo část majetku byla zabrána nebo podle návrhu má být zabrána (zúčastněná osoba), musí být poskytnuta možnost, aby se k věci vyjádřil; může být přítomen při hlavním líčení a veřejném zasedání, činit při nich návrhy, nahlížet do spisů ([[#§ 65|§ 65]]) a podávat v případech tímto zákonem stanovených opravné prostředky.
+>
+> (2) Orgány činné v trestním řízení jsou povinny zúčastněnou osobu o jejích právech poučit a poskytnout jí možnost jejich uplatnění.
+>
+> (3) Není-li zúčastněná osoba plně svéprávná nebo je-li omezena ve svéprávnosti, vykonává její práva podle tohoto zákona její zákonný zástupce nebo opatrovník. V případě, že je nebezpečí z prodlení a zákonný zástupce nebo opatrovník nemůže vykonávat práva uvedená ve větě první nebo nebyl-li opatrovník ustanoven, ačkoli jsou dány důvody pro jeho ustanovení, je třeba opatrovníka neprodleně ustanovit. Opatrovníka je třeba neprodleně ustanovit také v případě, že je nebezpečí z prodlení a zúčastněná osoba je právnickou osobou a nemá osobu způsobilou činit úkony v řízení.
+>
+> (4) Opatrovníka ustanovuje předseda senátu a v přípravném řízení státní zástupce. Jinou osobu než advokáta lze ustanovit opatrovníkem jen s jejím souhlasem. Nelze jím ustanovit osobu, u níž lze mít důvodnou obavu, že pro svůj zájem na výsledku řízení nebude řádně hájit zájmy zúčastněné osoby. Usnesení o ustanovení opatrovníka se oznamuje tomu, kdo je jím ustanovován, a nevylučuje-li to povaha věci, též zúčastněné osobě. Proti rozhodnutí o ustanovení opatrovníka je přípustná stížnost.
+>
+> (5) Byla-li zabrána nebo má-li podle návrhu být zabrána věc, která je součástí majetku ve svěřenském fondu nebo v obdobném zařízení anebo v podílovém fondu, má v trestním řízení postavení zúčastněné osoby svěřenský správce, správce zařízení obdobného svěřenskému fondu nebo obhospodařovatel podílového fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 65
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ac6869adb293173bfab -->
 
 ## Oddíl 7 — Poškozený (§ 43 – § 49)
 
@@ -2018,6 +3554,60 @@ Poškozený musí adhezní nárok uplatnit včas (u HL před zahájením dokazov
 
 **Typicky rozhodné důkazy / podklady:** doklady o škodě (faktury, lékařské zprávy, znalecký posudek na bolestné), vyčíslení nároku, návrh do protokolu o HL, případné prohlášení VIS.
 
+
+<!-- LEGAL-REVISION:BEGIN id=215e9ec02f88b1e60503 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Ten, komu bylo trestným činem ublíženo na zdraví, způsobena majetková škoda nebo nemajetková újma, nebo ten, na jehož úkor se pachatel trestným činem obohatil (poškozený), má právo činit návrh na doplnění dokazování, nahlížet do spisů ([[#§ 65|§ 65]]), zúčastnit se sjednávání dohody o vině a trestu, zúčastnit se hlavního líčení a veřejného zasedání konaného o odvolání nebo o schválení dohody o vině a trestu a před skončením řízení se k věci vyjádřit. Jde-li o trestný čin zanedbání povinné výživy ([[§ 196|§ 196]] [[trestního zákoníku|trestního zákoníku]]), rozumí se pro účely tohoto zákona majetkovou škodou, jež byla poškozenému způsobena trestným činem, i dlužné výživné.
+>
+> (2) Za poškozeného se nepovažuje ten, kdo se sice cítí být trestným činem morálně nebo jinak poškozen, avšak vzniklá újma není způsobena zaviněním pachatele nebo její vznik není v příčinné souvislosti s trestným činem.
+>
+> (3) Poškozený je oprávněn také navrhnout, aby soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit v penězích škodu nebo nemajetkovou újmu, jež byla poškozenému trestným činem způsobena, nebo vydat bezdůvodné obohacení, které obžalovaný na jeho úkor trestným činem získal. Návrh je třeba učinit nejpozději u hlavního líčení před zahájením dokazování (§ 206 odst. 2); je-li sjednána dohoda o vině a trestu, je třeba návrh učinit nejpozději při prvním jednání o takové dohodě (§ 175a odst. 2). Z návrhu musí být patrno, z jakých důvodů a v jaké výši se nárok na náhradu škody nebo nemajetkové újmy uplatňuje nebo z jakých důvodů a v jakém rozsahu se uplatňuje nárok na vydání bezdůvodného obohacení. Důvod a výši škody, nemajetkové újmy nebo bezdůvodného obohacení je poškozený povinen doložit. O těchto právech a povinnostech musí být poškozený poučen. Nebyl-li by pro rozhodnutí o nároku poškozeného dostatečný podklad a nebrání-li tomu důležité důvody, zejména potřeba vyhlášení rozsudku nebo vydání trestního příkazu bez zbytečných průtahů, soud poškozenému sdělí, jakým způsobem může podklady doplnit, a poskytne mu k tomu přiměřenou lhůtu, kterou mu zároveň určí.
+>
+> (4) Poškozený, který je obětí trestného činu podle [[zákona o obětech trestných činů|zákona o obětech trestných činů]], má právo v kterémkoliv stadiu trestního řízení učinit prohlášení o tom, jaký dopad měl spáchaný trestný čin na jeho dosavadní život. Prohlášení lze učinit i písemně. Písemné prohlášení se v řízení před soudem provede jako listinný důkaz.
+>
+> (5) Poškozený se může rovněž výslovným prohlášením sděleným orgánu činnému v trestním řízení vzdát procesních práv, které mu tento zákon jako poškozenému přiznává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 65, § 196, § 206, § 175a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=215e9ec02f88b1e60503 -->
+
 ### § 44 — Omezení a společný zmocněnec
 
 **Odst. 1**: Oprávnění poškozeného **nemůže vykonávat ten, kdo je v TŘ stíhán jako spoluobviněný** — vyloučení dvojí role.
@@ -2072,6 +3662,56 @@ Při mimořádně vysokém počtu poškozených se práva uplatňují přes spol
 
 **Typicky rozhodné důkazy / podklady:** seznam poškozených, plné moci zmocněnců, usnesení o společném zmocněnci/výběru, doklady o dřívějším civilním rozhodnutí o nároku, údaje o postavení poškozeného jako spoluobviněného.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef65b8ad270359b0b99a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Oprávnění poškozeného nemůže vykonávat ten, kdo je v trestním řízení stíhán jako spoluobviněný.
+>
+> (2) Je-li počet poškozených mimořádně vysoký a jednotlivým výkonem jejich práv by mohl být ohrožen rychlý průběh trestního stíhání, rozhodne předseda senátu a v přípravném řízení na návrh státního zástupce soudce, že poškození mohou svá práva v trestním řízení uplatňovat pouze prostřednictvím společného zmocněnce, kterého si zvolí. Rozhodnutí oznámí v řízení před soudem soud a v přípravném řízení státní zástupce poškozeným, kteří již uplatnili nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení; ostatním poškozeným rozhodnutí oznámí při prvém úkonu trestního řízení, ke kterému se předvolávají nebo o kterém se vyrozumívají. Jestliže by celkový počet zvolených zmocněnců vzrostl na více než šest a poškození se mezi sebou o výběru nedohodnou, provede výběr s přihlédnutím k zájmům poškozených soud. Společný zmocněnec vykonává práva poškozených, které zastupuje, včetně uplatnění nároku na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení v trestním řízení.
+>
+> (3) Návrh podle § 43 odst. 3 nelze podat, bylo-li o nároku již rozhodnuto v občanskoprávním nebo v jiném příslušném řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef65b8ad270359b0b99a -->
+
 ### § 45 — Zákonný zástupce / opatrovník / právní nástupce
 
 **Odst. 1**: U poškozeného s omezenou svéprávností vykonává práva **zákonný zástupce / opatrovník** (analogicky § 34 / § 42 odst. 3).
@@ -2117,6 +3757,56 @@ Za poškozeného neschopného samostatně jednat vykonává práva zákonný zá
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o omezení svéprávnosti a o opatrovníku, úmrtní list, usnesení o pozůstalosti / doklad o dědickém právu, podklady k výši a povaze adhezního nároku.
 
+
+<!-- LEGAL-REVISION:BEGIN id=16ac50e2f8e35f635e5a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 45
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Není-li poškozený osobou plně svéprávnou nebo je-li omezen ve svéprávnosti, vykonává jeho práva podle tohoto zákona jeho zákonný zástupce nebo opatrovník. V případě, že je nebezpečí z prodlení a zákonný zástupce nebo opatrovník nemůže vykonávat práva uvedená ve větě první nebo nebyl-li opatrovník ustanoven, ačkoli jsou dány důvody pro jeho ustanovení, je třeba opatrovníka neprodleně ustanovit. Opatrovníka je třeba neprodleně ustanovit také v případě, že je nebezpečí z prodlení a poškozený je právnickou osobou a nemá osobu způsobilou činit úkony v řízení.
+>
+> (2) Opatrovníka ustanovuje předseda senátu a v přípravném řízení státní zástupce. Jinou osobu než advokáta lze ustanovit opatrovníkem jen s jejím souhlasem. Nelze jím ustanovit osobu, u níž lze mít důvodnou obavu, že pro svůj zájem na výsledku řízení nebude řádně hájit zájmy poškozeného. Usnesení o ustanovení opatrovníka se oznamuje tomu, kdo je jím ustanovován, a nevylučuje-li to povaha věci, též poškozenému. Proti rozhodnutí o ustanovení opatrovníka je přípustná stížnost.
+>
+> (3) Jde-li o uplatnění nároku na náhradu škody nebo na vydání bezdůvodného obohacení (§ 43 odst. 3), přecházejí práva, která tento zákon přiznává poškozenému, i na jeho právního nástupce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16ac50e2f8e35f635e5a -->
+
 ### § 45a — Doručování poškozenému
 
 Doručuje se **na adresu, kterou poškozený uvede**. Pokud má zmocněnce, **doručuje se jen jemu** (vyjma výzev, aby poškozený **osobně** něco vykonal — typicky předvolání k výslechu).
@@ -2156,6 +3846,52 @@ Poškozenému se doručuje na jím uvedenou adresu; má-li zmocněnce, doručuje
 - [ ] U pochybností doručit poškozenému i zmocněnci, aby nevznikly procesní vady.
 
 **Typicky rozhodné důkazy / podklady:** plná moc zmocněnce, doručenky, obsah doručovací adresy uvedené poškozeným, povaha doručované písemnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c4f0bc98558f034fb89 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 45a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Veškeré písemnosti určené poškozenému se doručují na adresu, kterou poškozený uvede. Má-li zmocněnce, doručuje se pouze jemu; to neplatí, jestliže se poškozenému zasílá výzva, aby osobně něco vykonal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c4f0bc98558f034fb89 -->
 
 ### § 46 — Poučovací povinnost vůči poškozenému
 
@@ -2202,6 +3938,52 @@ OČTŘ musí poškozeného komplexně a včas poučit o právech strany, o fondu
 **Typicky rozhodné důkazy / podklady:** protokol/záznam o poučení, doklad o statusu oběti, doklady k uplatněnému nároku, údaje o stadiu řízení (hrozba trestního příkazu/dohody).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e1c6b3b387c09d748438 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 46
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Orgány činné v trestním řízení jsou povinny poškozeného o jeho právech poučit a poskytnout mu plnou možnost k jejich uplatnění; v rámci poučení jej upozorní i na možnost žádat o uspokojení nároku na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem podle [[zákona o použití peněžních prostředků z majetkových trestních sankcí|zákona o použití peněžních prostředků z majetkových trestních sankcí]]. Je-li vedeno řízení pro trestný čin, u něhož lze sjednat dohodu o vině a trestu nebo vydat trestní příkaz, upozorní orgány činné v trestním řízení při poučení prováděném v přípravném řízení poškozeného také na to, že může být vydán trestní příkaz nebo může dojít k sjednání dohody o vině a trestu a že v takovém případě je možné uplatnit nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení nejpozději do doby vydání trestního příkazu nebo při prvním jednání o takové dohodě. Má-li poškozený postavení oběti podle [[zákona o obětech trestných činů|zákona o obětech trestných činů]], jsou povinny jej poučit též o právech podle [[zákona o obětech trestných činů|zákona o obětech trestných činů]] a poskytnout mu plnou možnost k jejich uplatnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1c6b3b387c09d748438 -->
 
 ## Oddíl 7 (pokr.) — Zajištění nároku poškozeného (§ 47 – § 49)
 
@@ -2282,6 +4064,66 @@ Nárok poškozeného lze zajistit na majetku obviněného do pravděpodobné vý
 
 **Typicky rozhodné důkazy / podklady:** usnesení o zajištění s poučením, výpis z katastru/evidencí, doklady o majetku označeném poškozeným, smlouvy o dispozici s majetkem, doručenky a doklad o splnění informační povinnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=356f27e4fb4860fca6d4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 47
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Byla-li poškozenému způsobena trestným činem škoda nebo nemajetková újma, nebo získal-li obviněný takovým trestným činem na jeho úkor bezdůvodné obohacení, lze nárok až do pravděpodobné výše škody nebo nemajetkové újmy nebo až do pravděpodobného rozsahu bezdůvodného obohacení zajistit na majetku obviněného. Zajišťovat nelze nárok, který nelze v trestním řízení uplatnit. K zajištění nelze užít majetek, který je podle zvláštního právního předpisu vyloučen z výkonu rozhodnutí o zajištění.
+>
+> (2) O zajištění podle odstavce 1 rozhoduje předseda senátu na návrh státního zástupce nebo poškozeného, v přípravném řízení státní zástupce na návrh poškozeného. V přípravném řízení může státní zástupce nárok zajistit i bez návrhu poškozeného, vyžaduje-li to ochrana jeho zájmů, zejména hrozí-li nebezpečí z prodlení.
+>
+> (3) Je-li poškozenému známo, že obviněný je vlastníkem nemovité věci nebo má některou movitou věc umístěnu mimo místo jeho trvalého nebo jiného pobytu, uvede podle možností již v návrhu na zajištění svého nároku na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, kde taková věc je.
+>
+> (4) Předseda senátu a v přípravném řízení státní zástupce v usnesení o zajištění zakáže obviněnému, aby majetek uvedený v rozhodnutí o zajištění a případně též majetek, který bude při výkonu takového rozhodnutí sepsán, po oznámení usnesení převedl na jiného nebo jej zatížil anebo aby jej záměrně poškozoval nebo ničil. Dále mu uloží, aby předsedovi senátu a v přípravném řízení státnímu zástupci do 15 dnů od oznámení usnesení a u následně sepsaného majetku v jimi stanovené lhůtě sdělil, zda a kdo má k zajištěnému majetku předkupní nebo jiné právo nebo zda je jiným způsobem omezen výkon práva s ním nakládat, a bylo-li zajištěno majetkové právo, též kdo je osobou povinnou poskytnout odpovídající plnění, s upozorněním na následky nevyhovění takové výzvě ve stanovené lhůtě ([[#§ 66|§ 66]]). Je-li to zapotřebí pro účely zajištění, lze v usnesení o zajištění nebo i v dodatečném usnesení zakázat nebo omezit také výkon dalších práv souvisejících se zajištěným majetkem, a to včetně práv teprve v budoucnu vzniklých. Právní jednání učiněné v rozporu se zákazy uvedenými ve větě první a třetí je neplatné, přičemž soud k neplatnosti přihlédne i bez návrhu; o tom je třeba obviněného poučit.
+>
+> (5) S majetkem obviněného, na který se vztahuje rozhodnutí o zajištění podle odstavců 1 a [[#§ 2|2]], lze v rámci výkonu rozhodnutí, veřejné dražby, exekuce nebo insolvenčního řízení nakládat jen po předchozím souhlasu předsedy senátu a v přípravném řízení státního zástupce. Na úhradu pohledávek, které jsou předmětem výkonu rozhodnutí, veřejné dražby, exekuce nebo insolvenčního řízení, se přednostně použije majetek nedotčený rozhodnutím o zajištění.
+>
+> (6) Práva třetích osob k zajištěnému majetku lze uplatnit podle zvláštního právního předpisu.
+>
+> (7) Poškozený musí být o zajištění jeho nároku vždy vyrozuměn s upozorněním na důvody, pro něž se zajištění podle § 48 odst. 1 zruší.
+>
+> (8) Výkon rozhodnutí o zajištění nároku poškozeného a postup při správě zajištěného majetku stanoví zvláštní právní předpis. Při vrácení, vydání a jiném nakládání se zajištěnou věcí, která byla vydána nebo odňata, se postupuje přiměřeně podle ustanovení o vrácení, vydání a jiném nakládání s věcí důležitou pro trestní řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66, § 2, § 48
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=356f27e4fb4860fca6d4 -->
+
 ### § 47a — Náhrada zajištění peněžitou jistotou
 
 Obdoba peněžité záruky u vazby (§ 73a). Obviněný (nebo s jeho souhlasem **jiná osoba**) složí na účet soudu **peněžitou jistotu** ve výši odpovídající pravděpodobnému nároku — zajištění se **zruší**.
@@ -2327,6 +4169,58 @@ Zajištění nároku lze nahradit peněžitou jistotou složenou obviněným neb
 - [ ] Po odsuzujícím rozsudku uhradit přiznaný nárok z jistoty.
 
 **Typicky rozhodné důkazy / podklady:** usnesení o zajištění, doklad o složení jistoty na účet soudu, prohlášení/poučení jiné osoby o podstatě obvinění, souhlas obviněného, rozsudek o nároku.
+
+
+<!-- LEGAL-REVISION:BEGIN id=02dc153efb82691bca6b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 47a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu a v přípravném řízení státní zástupce upustí od provedení zajišťovacích úkonů nebo zajištění zruší, pokud obviněný nebo s jeho souhlasem jiná osoba složí na účet soudu u peněžního ústavu peněžitou jistotu ve výši odpovídající pravděpodobnému nároku poškozeného na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení; jiná osoba musí být seznámena s podstatou obvinění a se skutečnostmi, které vedly nebo by mohly vést k zajištění. Byla-li složena peněžitá jistota nižší, předseda senátu a v přípravném řízení státní zástupce provede zajišťovací úkony na majetku obviněného v rozsahu, v jakém pravděpodobný nárok poškozeného na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení není zajištěn peněžitou jistotou.
+>
+> (2) Peněžitou jistotu podle odstavce 1 předseda senátu a v přípravném řízení státní zástupce zruší nebo omezí, jestliže pominuly důvody pro zajištění nároku poškozeného nebo je zřejmé, že nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení poškozenému v trestním řízení nelze přiznat nebo je podstatně nižší.
+>
+> (3) Nerozhodne-li předseda senátu jinak, trvá peněžitá jistota podle odstavce 1 do právní moci odsuzujícího rozsudku. Byl-li takovým rozsudkem přiznán poškozenému nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, uhradí ji předseda senátu z peněžité jistoty.
+>
+> (4) Proti rozhodnutí podle odstavců 1 a [[#§ 2|2]] je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02dc153efb82691bca6b -->
 
 ### § 48 — Zrušení a omezení zajištění
 
@@ -2378,6 +4272,64 @@ Zajištění se zruší z taxativních důvodů (pominutí důvodu, zastavení/z
 
 **Typicky rozhodné důkazy / podklady:** usnesení o zastavení TS / zproštění / odsuzující rozsudek s doložkou právní moci, doklad o postoupení věci, ocenění zajištěného majetku, aktuální výše nároku, předchozí rozhodnutí o žádostech.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2a054d3ff47f577ee037 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 48
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu a v přípravném řízení státní zástupce zajištění zruší,
+>
+> - a) pomine-li důvod, pro který bylo nařízeno,
+>
+> - b) bylo-li trestní stíhání pravomocně zastaveno nebo skončilo-li pravomocným zprošťujícím rozsudkem, nebo
+>
+> - c) uplynuly-li čtyři měsíce ode dne, kdy nabyl právní moci rozsudek, jímž byl obžalovaný uznán vinným, nebo ode dne, kdy nabylo právní moci usnesení, jímž byla věc postoupena jinému orgánu.
+>
+> (2) Zajištění je třeba omezit, ukáže-li se, že ho není třeba v rozsahu, v němž bylo nařízeno.
+>
+> (3) Z důležitých důvodů může předseda senátu a v přípravném řízení státní zástupce na návrh obviněného povolit provedení úkonu, který se týká zajištěného majetku.
+>
+> (4) Obviněný má právo kdykoliv po právní moci usnesení o zajištění žádat o zrušení nebo omezení zajištění; o této žádosti předseda senátu a v přípravném řízení státní zástupce, který o ní rozhoduje, vyrozumí poškozeného, jehož nárok byl zajištěn. Byla-li žádost zamítnuta, může ji obviněný, neuvede-li v ní nové důvody, opakovat až po uplynutí 30 dnů od právní moci takového rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a054d3ff47f577ee037 -->
+
 ### § 49 — Stížnost
 
 Proti rozhodnutím podle § 47 a § 48 **stížnost přípustná**. **Odkladný účinek** má jen u zrušení/omezení/povolení úkonu — u nařízení zajištění odkladný účinek **nemá** (jinak by zajištění bylo zbytečné).
@@ -2419,6 +4371,52 @@ Proti rozhodnutím podle § 47 a § 48 je stížnost přípustná; odkladný ú�
 **Typicky rozhodné důkazy / podklady:** usnesení podle § 47/§ 48, stížnost s datem podání, doručenky, doklad o povaze rozhodnutí (nařízení vs. zrušení/omezení).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=489c2dde439de84fb000 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Proti rozhodnutí podle [[#§ 47|§ 47]] a [[#§ 48|48]] je přípustná stížnost, jež má, pokud jde o zrušení zajištění, jeho omezení nebo povolení provedení úkonu, odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47, § 48
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=489c2dde439de84fb000 -->
 
 ## Oddíl 8 — Zmocněnec ZÚ a poškozeného (§ 50 – § 51a)
 
@@ -2467,6 +4465,54 @@ Zmocněncem ZÚ a poškozeného může být fyzická i právnická osoba (vč. o
 - [ ] Odlišit roli zmocněnce a důvěrníka, byť je vykonává tatáž osoba.
 
 **Typicky rozhodné důkazy / podklady:** plná moc / pověření právnické osoby, doklad o svéprávnosti FO, usnesení o ustanovení opatrovníka-advokáta, seznam předvolaných svědků/znalců/tlumočníků.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c80940bb2bae9d3205a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 50
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zúčastněná osoba a poškozený se mohou dát zastupovat zmocněncem, kterým může být i právnická osoba; o tom je třeba je poučit. Zmocněnec poškozeného může být současně důvěrníkem podle zákona [[o obětech trestných činů|o obětech trestných činů]]. Pokud si poškozený nebo zúčastněná osoba sama zmocněnce nezvolí nebo jí nebyl ustanoven, může práva a povinnosti, která přiznává tento zákon zmocněnci, vykonávat i opatrovník poškozeného nebo zúčastněné osoby, který je advokátem, oznámí-li to orgánu činnému v trestním řízení.
+>
+> (2) Je-li zmocněncem zúčastněné osoby nebo poškozeného fyzická osoba, nesmí jím být osoba, která není plně svéprávná nebo jejíž svéprávnost je omezena; při hlavním líčení a veřejném zasedání nemůže být zmocněncem ten, kdo je k němu předvolán jako svědek, znalec nebo tlumočník.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c80940bb2bae9d3205a -->
 
 ### § 51 — Práva zmocněnce
 
@@ -2530,6 +4576,58 @@ Zmocněnec se může od zahájení TS účastnit vyšetřovacích úkonů s důk
 - [ ] Otázky zmocněnce připustit až po skončení výslechu policejním orgánem; námitky kdykoli.
 
 **Typicky rozhodné důkazy / podklady:** oznámení zmocněnce o účasti, vyrozumění o úkonu, protokol o výslechu, rozhodnutí o utajení svědka, doklady o opatřeních k ochraně totožnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=20eaddaf2d181912ce09 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 51
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zmocněnec zúčastněné osoby a poškozeného je oprávněn činit za zúčastněnou osobu nebo poškozeného návrhy a podávat za ně žádosti a opravné prostředky; je též oprávněn zúčastnit se všech úkonů, kterých se může zúčastnit zúčastněná osoba nebo poškozený.
+>
+> (2) Zmocněnec poškozeného a zúčastněné osoby je již od zahájení trestního stíhání oprávněn být přítomen při vyšetřovacích úkonech, jimiž se mají objasnit skutečnosti důležité pro uplatnění práv osob, které zastupuje, a jejich výsledek může být použit jako důkaz v řízení před soudem, ledaže by přítomností zmocněnce mohl být zmařen účel trestního řízení nebo nelze provedení úkonu odložit a vyrozumění o něm zajistit. Může obviněnému i jiným vyslýchaným osobám klást otázky, avšak teprve tehdy, až policejní orgán výslech skončí a udělí mu k tomu slovo. Námitky proti způsobu provádění úkonu může vznášet kdykoli v jeho průběhu.
+>
+> (3) Oznámí-li zmocněnec policejnímu orgánu, že se chce účastnit vyšetřovacího úkonu podle odstavce 2, je policejní orgán povinen včas zmocněnci sdělit, o jaký druh úkonu se jedná, dobu a místo jeho konání, ledaže nelze provedení úkonu odložit a vyrozumění zmocněnce nelze zajistit. Spočívá-li úkon ve výslechu osoby, policejní orgán zmocněnci sdělí i údaje, podle nichž lze takovou osobu ztotožnit. Nelze-li tyto údaje předem určit, musí být ze sdělení zřejmé, k čemu má tato osoba vypovídat.
+>
+> (4) Má-li se zmocněnec poškozeného nebo zúčastněné osoby zúčastnit výslechu svědka, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, je policejní orgán povinen přijmout opatření, která znemožňují zmocněnci zjistit skutečnou totožnost svědka, a proto sdělení o výslechu svědka, jehož totožnost má být z důvodů uvedených v § 55 odst. 2 utajena, nesmí obsahovat údaje, podle nichž by bylo možné zjistit skutečnou totožnost svědka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 55
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20eaddaf2d181912ce09 -->
 
 ### § 51a — Bezplatný zmocněnec poškozeného
 
@@ -2597,6 +4695,70 @@ Bezplatný zmocněnec (nebo snížená odměna) se ustanoví poškozenému s tě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2fa4d2ea693d84e4cf96 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 51a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Osvědčí-li poškozený,
+>
+> - a) kterému byla způsobena úmyslným trestným činem těžká újma na zdraví, nebo
+>
+> - b) který je pozůstalým po oběti, které byla trestným činem způsobena smrt,
+>
+> že nemá dostatek prostředků, aby si hradil náklady vzniklé přibráním zmocněnce, rozhodne na jeho návrh předseda senátu soudu, který koná řízení v prvním stupni, a v přípravném řízení soudce, že má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu. Stejně rozhodne o takovém návrhu poškozeného, který uplatnil v souladu se zákonem nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, není-li vzhledem k povaze uplatňované náhrady škody nebo nemajetkové újmy nebo její výši nebo vzhledem k povaze a rozsahu bezdůvodného obohacení zastoupení zmocněncem zjevně nadbytečné.
+>
+> (2) Poškozený mladší než osmnáct let a zvlášť zranitelná oběť podle [[zákona o obětech trestných činů|zákona o obětech trestných činů]] mají nárok, nejde-li o trestný čin zanedbání povinné výživy ([[§ 196|§ 196]] [[trestního zákoníku|trestního zákoníku]]), na právní pomoc poskytovanou zmocněncem bezplatně i bez splnění podmínek podle odstavce 1.
+>
+> (3) Návrh na rozhodnutí podle odstavce 1 včetně příloh, jimiž má být prokázána jeho důvodnost, podává poškozený v přípravném řízení prostřednictvím státního zástupce, který k němu připojí své vyjádření, a v řízení před soudem příslušnému soudu, který věc projednává.
+>
+> (4) V případě, že si poškozený sám zmocněnce nezvolí, ustanoví jako zmocněnce za podmínek uvedených v odstavcích 1 nebo [[#§ 2|2]] předseda senátu a v přípravném řízení soudce advokáta zapsaného v registru poskytovatelů pomoci obětem trestných činů pro právní pomoc podle zákona [[o obětech trestných činů|o obětech trestných činů]] podle místa působnosti a v pořadí, jak v něm následují. Pokud je opatrovníkem poškozeného advokát, ustanoví zmocněncem tohoto advokáta. Není-li postup podle věty první nebo druhé možný nebo účelný, ustanoví zmocněncem jiného advokáta; ustanovení § 39 odst. 2 a [[#§ 3|3]] se použijí obdobně.
+>
+> (5) Pominou-li důvody, které vedly k ustanovení zmocněnce poškozeného, nebo nemůže-li z důležitých důvodů zmocněnec poškozeného nadále zastupovat, rozhodne předseda senátu a v přípravném řízení soudce i bez návrhu o zproštění ustanoveného zmocněnce povinnosti zastupovat poškozeného.
+>
+> (6) Proti usnesení podle odstavců 1, [[#§ 4|4]] a [[#§ 5|5]] je přípustná stížnost, jež má odkladný účinek.
+>
+> (7) Náklady vzniklé přibráním zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu, hradí stát.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 196, § 2, § 39, § 3, § 4, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2fa4d2ea693d84e4cf96 -->
+
 ## Oddíl 9 — Přístup k utajovaným informacím (§ 51b)
 
 ### § 51b — Poučení o utajovaných informacích
@@ -2653,6 +4815,56 @@ Před seznámením s utajovanými informacemi musí být dotčené osoby (obvin�
 **Typicky rozhodné důkazy / podklady:** usnesení/označení stupně utajení dokumentů, záznamy o poučení založené ve spisu, osvědčení fyzické osoby dotčených osob, doklad o zaslání kopie NBÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=64933cbe195365852bde generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 51b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li v trestním řízení projednávány utajované informace, musí být obviněný, zúčastněná osoba, poškozený, jejich zákonní zástupci, opatrovníci, zmocněnci a důvěrníci, obhájce, znalec, tlumočník, osoby podávající odborné vyjádření, jakož i další osoby, které se podle zákona musí zúčastnit trestního řízení, předem poučeny podle zvláštního právního předpisu.1)
+>
+> (2) Poučení podle odstavce 1 provede v přípravném řízení policejní orgán nebo státní zástupce a v řízení před soudem předseda senátu. Ten, kdo toto poučení provedl, založí písemný záznam o poučení do trestního spisu a jeho kopii zašle nejpozději do 30 dnů ode dne poučení Národnímu bezpečnostnímu úřadu.
+>
+> (3) Poučení podle odstavce 1 není potřebné u těch osob, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení utajovaných informací a poučením, vydanými podle zvláštního právního předpisu.1a)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64933cbe195365852bde -->
 
 ## Shrnutí Hlavy II
 

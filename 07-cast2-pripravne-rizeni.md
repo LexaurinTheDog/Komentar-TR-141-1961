@@ -96,6 +96,66 @@ V praxi § 157 vymezuje dozorové „nářadí" SZ nad policejním orgánem a in
 
 **Typicky rozhodné důkazy / podklady:** úřední záznam o přibrání konzultanta; spisový materiál vyžádaný SZ; protokoly o úkonech, jichž se konzultant účastnil; samostatný znalecký posudek k odborné otázce; vyúčtování odměny konzultanta.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e0b907fa36b05f393b6f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 157 — Obecné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Státní zástupce a policejní orgán jsou povinni organizovat svou činnost tak, aby účinně přispívali k včasnosti a důvodnosti trestního stíhání.
+>
+> (2) Státní zástupce může uložit policejnímu orgánu provedení takových úkonů, které je tento orgán oprávněn provést a jichž je třeba k objasnění věci nebo ke zjištění pachatele. K prověření skutečností nasvědčujících tomu, že byl spáchán trestný čin, je státní zástupce dále oprávněn:
+>
+> - a) vyžadovat od policejního orgánu spisy, včetně spisů, v nichž nebylo zahájeno trestní řízení, dokumenty, materiály a zprávy o postupu při prověřování oznámení,
+>
+> - b) odejmout kteroukoliv věc policejnímu orgánu a učinit opatření, aby věc byla přikázána jinému policejnímu orgánu,
+>
+> - c) dočasně odložit zahájení trestního stíhání.
+>
+> (3) V závažných a skutkově složitých věcech může státní zástupce nebo policejní orgán využít odborné pomoci konzultanta, který má znalost ze speciálního oboru. O návrh na výběr určité osoby jako konzultanta může též požádat správní úřad, jiný orgán, vědeckou nebo výzkumnou instituci. O přibrání konzultanta sepíše státní zástupce nebo policejní orgán úřední záznam. Se souhlasem státního zástupce nebo policejního orgánu může konzultant v rozsahu nezbytném pro výkon jeho funkce nahlížet do spisu a být přítomen při provádění úkonů trestního řízení. Do provádění úkonů však nesmí zasahovat. O všech skutečnostech, o nichž se konzultant v průběhu trestního řízení dozvěděl, je povinen zachovávat mlčenlivost. Na vyloučení konzultanta se přiměřeně užijí ustanovení tohoto zákona a zvláštního zákona upravující vyloučení znalce z podání znaleckého posudku. Účast konzultanta nezbavuje státního zástupce a policejní orgán odpovědnosti za zákonný průběh trestního řízení.
+>
+> (4) Konzultantovi přibranému podle odstavce 3 náleží za poskytnutí odborné pomoci odměna; odměna nenáleží konzultantovi, který je orgánem nebo institucí uvedenou v odstavci 3 větě druhé nebo fyzickou osobou poskytující odbornou pomoc v pracovněprávním nebo obdobném vztahu k takovému orgánu nebo instituci. Odměna se stanoví podle množství účelně vynaložené práce a stupně odbornosti potřebné k poskytnutí odborné pomoci, a to způsobem, jakým se stanoví odměna znalce za hodinu práce účelně vynaložené na výkon znalecké činnosti; hranice sazby odměny konzultanta činí 50 % hranice sazby odměny znalce. Odměna se může zvýšit, krátit nebo odepřít za stejných podmínek a ve stejném rozsahu jako odměna znalce. Konzultantovi přibranému podle odstavce 3 náleží též náhrada hotových výdajů, které účelně vynaložil v přímé souvislosti s poskytováním odborné pomoci, a to ve výši, v jaké náleží znalcům. Odměna a náhrada hotových výdajů se zvyšuje o částku odpovídající dani z přidané hodnoty, kterou je konzultant, plátce daně z přidané hodnoty, povinen z odměny a náhrady hotových výdajů uplatnit podle [[zákona o dani z přidané hodnoty|zákona o dani z přidané hodnoty]].
+>
+> (5) Nárok na úhradu odměny a náhrady hotových výdajů je konzultant povinen vyúčtovat do 3 dnů od poskytnutí odborné pomoci. Výši odměny a náhrady hotových výdajů určí orgán činný v trestním řízení, který konzultanta přibral, do 30 dnů od provedení vyúčtování. Nesouhlasí-li orgán činný v trestním řízení s výší vyúčtované odměny nebo náhrady hotových výdajů, rozhodne usnesením. Proti usnesení je přípustná stížnost, která má odkladný účinek. Odměna a náhrada hotových výdajů konzultanta je splatná do 30 dnů od jejich přiznání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e0b907fa36b05f393b6f -->
+
 ### § 157a — Žádost o přezkoumání postupu policejního orgánu / SZ
 <details>
 <summary>📜 <strong>Citace § 157a (úplné znění)</strong></summary>
@@ -159,6 +219,54 @@ V praxi § 157 vymezuje dozorové „nářadí" SZ nad policejním orgánem a in
 **Typicky rozhodné důkazy / podklady:** spisový přehled úkonů s daty (časová osa nečinnosti); kopie nevyřízených důkazních návrhů; samotná žádost a doklad o jejím podání; písemné vyrozumění SZ o výsledku přezkoumání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d8627dacd3480ca167ab generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 157a — Žádost o přezkoumání postupu policejního orgánu a státního zástupce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Ten, proti němuž se trestní řízení vede, a poškozený mají právo kdykoliv v průběhu přípravného řízení žádat státního zástupce, aby byly odstraněny průtahy v řízení nebo závady v postupu policejního orgánu. Tato žádost není vázána lhůtou. Žádost je nutno státnímu zástupci ihned předložit a státní zástupce ji musí neprodleně vyřídit. O výsledku přezkoumání musí být žadatel vyrozuměn.
+>
+> (2) Žádost o odstranění průtahů v řízení nebo závad v postupu státního zástupce vyřizuje státní zástupce bezprostředně vyššího státního zastupitelství.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d8627dacd3480ca167ab -->
 
 ## Hlava IX — Postup před zahájením trestního stíhání (§ 158 – § 159d)
 
@@ -330,6 +438,92 @@ Pokud má výpověď **povahu neodkladného/neopakovatelného úkonu** → výsl
 
 **Typicky rozhodné důkazy / podklady:** záznam o zahájení úkonů trestního řízení; úřední záznamy o podaných vysvětleních; odborná vyjádření/znalecké posudky; protokoly o ohledání a zajištění věci; doklad o poučeních; opis zaslaný SZ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=62f37d857cd67e302fa1 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Policejní orgán je povinen na základě vlastních poznatků, trestních oznámení i podnětů jiných osob a orgánů, na jejichž podkladě lze učinit závěr o podezření ze spáchání trestného činu, učinit všechna potřebná šetření a opatření k odhalení skutečností nasvědčujících tomu, že byl spáchán trestný čin, a směřující ke zjištění jeho pachatele; je povinen činit též nezbytná opatření k předcházení trestné činnosti. Policejní orgán informuje státního zástupce o skutečnostech nasvědčujících tomu, že byl spáchán trestný čin, u něhož by Úřad evropského veřejného žalobce mohl vykonat svou pravomoc v souladu s čl. 22 a čl. 25 odst. 2 a 3 nařízení Rady (EU) [[2017/1939|2017/1939]]. Pověřené orgány Vězeňské služby České republiky neprodleně informují Generální inspekci bezpečnostních sborů, jakmile zahájí takové šetření.
+>
+> (2) Oznámení o skutečnostech nasvědčujících tomu, že byl spáchán trestný čin, je povinen přijímat státní zástupce a policejní orgán. Přitom je povinen oznamovatele poučit o odpovědnosti za vědomě nepravdivé údaje, a pokud o to oznamovatel požádá, do jednoho měsíce od oznámení jej vyrozumět o učiněných opatřeních.
+>
+> (3) O zahájení úkonů trestního řízení k objasnění a prověření skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, sepíše policejní orgán neprodleně záznam, ve kterém uvede skutkové okolnosti, pro které řízení zahajuje, a způsob, jakým se o nich dověděl. Opis záznamu zašle do 48 hodin od zahájení trestního řízení státnímu zástupci. Hrozí-li nebezpečí z prodlení, policejní orgán záznam sepíše po provedení potřebných neodkladných a neopakovatelných úkonů. K objasnění a prověření skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, opatřuje policejní orgán potřebné podklady a nezbytná vysvětlení a zajišťuje stopy trestného činu. V rámci toho je oprávněn, kromě úkonů uvedených v této hlavě, zejména
+>
+> - a) vyžadovat vysvětlení od fyzických a právnických osob a státních orgánů,
+>
+> - b) vyžadovat odborné vyjádření od příslušných orgánů, a je-li toho pro posouzení věci třeba, též znalecké posudky,
+>
+> - c) obstarávat potřebné podklady, zejména spisy a jiné písemné materiály,
+>
+> - d) provádět ohledání věci a místa činu,
+>
+> - e) vyžadovat za podmínek uvedených v [[#§ 114|§ 114]] provedení zkoušky krve nebo jiného podobného úkonu, včetně odběru potřebného biologického materiálu,
+>
+> - f) pořizovat zvukové a obrazové záznamy osob, za podmínek stanovených v [[#§ 114|§ 114]] snímat daktyloskopické otisky, provádět osobou téhož pohlaví nebo lékařem prohlídku těla a jeho zevní měření, jestliže je to nutné ke zjištění totožnosti osoby nebo ke zjištění a zachycení stop nebo následků činu,
+>
+> - g) za podmínek stanovených v [[#§ 76|§ 76]] zadržet podezřelou osobu,
+>
+> - h) za podmínek stanovených v § 78 až 81 činit rozhodnutí a opatření v těchto ustanoveních naznačená,
+>
+> - i) způsobem uvedeným v hlavě čtvrté provádět neodkladné nebo neopakovatelné úkony, pokud podle tohoto zákona jejich provedení nepatří do výlučné pravomoci jiného orgánu činného v trestním řízení.
+>
+> (4) Jednotlivé úkony trestního řízení k objasnění a prověření skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, mohou na základě dožádání provést i jiné policejní orgány.
+>
+> (5) Při podání vysvětlení má každý právo na právní pomoc advokáta. Je-li vysvětlení požadováno od nezletilého, je třeba o úkonu předem vyrozumět jeho zákonného zástupce nebo opatrovníka; to neplatí, jestliže provedení úkonu nelze odložit a vyrozumění zákonného zástupce nebo opatrovníka nelze zajistit.
+>
+> (6) O obsahu vysvětlení, která nemají povahu neodkladného nebo neopakovatelného úkonu, se sepíše úřední záznam. Je-li úřední záznam podepsán osobou podávající vysvětlení, bude jí na žádost poskytnuta jeho kopie. Úřední záznam slouží státnímu zástupci a obviněnému ke zvážení návrhu, aby osoba, která takové vysvětlení podala, byla vyslechnuta jako svědek, a soudu k úvaze, zda takový důkaz provede. Úřední záznam lze v řízení před soudem užít jako důkaz pouze za podmínek stanovených tímto zákonem. Je-li ten, kdo podal vysvětlení, později vyslýchán jako svědek nebo jako obviněný, nemůže mu být záznam přečten, nebo jinak konstatován jeho obsah.
+>
+> (7) Policejní orgán je oprávněn vyzvat osobu, aby se dostavila k podání vysvětlení ve stanovené době na určené místo; v řízení o zločinu je osoba povinna výzvě vyhovět ihned. Jestliže se osoba, která byla řádně vyzvána k podání vysvětlení, bez dostatečné omluvy nedostaví, může být předvedena. Na to a na jiné následky nedostavení ([[#§ 66|§ 66]]) musí být taková osoba upozorněna.
+>
+> (8) Vysvětlení podle odstavce 3 nesmí být požadováno od toho, kdo by jím porušil státem výslovně uloženou nebo uznanou povinnost mlčenlivosti, ledaže by byl této povinnosti zproštěn příslušným orgánem nebo tím, v jehož zájmu tuto povinnost má. Osoba podávající vysvětlení, s výjimkou podezřelého, je povinna vypovídat pravdu a nic nezamlčet; vysvětlení může odepřít, pokud by jím způsobila nebezpečí trestního stíhání sobě nebo osobám uvedeným v § 100 odst. 2; o tom je třeba osobu, od níž je požadováno vysvětlení, předem poučit. Nasvědčují-li zjištěné okolnosti tomu, že osobě podávající vysvětlení bude třeba jako svědkovi poskytnout ochranu, je třeba při sepisování úředního záznamu postupovat podle § 55 odst. 2.
+>
+> (9) Má-li výpověď osoby povahu neodkladného nebo neopakovatelného úkonu, policejní orgán ji vyslechne jako svědka za podmínek uvedených v [[#§ 158a|§ 158a]]. Jako svědka vyslechne i osobu mladší osmnácti let a osobu, o jejíž schopnosti správně a úplně vnímat, zapamatovat si nebo reprodukovat jsou s ohledem na její psychický stav pochybnosti. Jestliže lze předpokládat, že další prověřování trestního oznámení nebo jiného podnětu k trestnímu stíhání bude trvat delší dobu, zejména proto, že nebyla zjištěna osoba, u níž je dostatečně odůvodněn závěr, že trestný čin spáchala, a v důsledku toho nelze zahájit trestní stíhání a hrozí ztráta důkazní hodnoty výpovědi, je možno vyslechnout jako svědka i osobu, jejíž výpověď má podle odůvodněného předpokladu rozhodující význam pro zahájení trestního stíhání, nasvědčují-li zjištěné skutečnosti tomu, že by mohl být na takovou osobu pro její výpověď vyvíjen nátlak, anebo hrozí z jiného důvodu, že bude ovlivněna její výpověď. Pokud výslechy těchto osob nebyly po zahájení trestního stíhání provedeny znovu podle § 164 odst. 4, lze protokoly o jejich výslechu v hlavním líčení číst nebo obrazové a zvukové záznamy pořízené o jejich výslechu provedeném prostřednictvím videokonferenčního zařízení přehrát pouze podle § 211 odst. 1, odst. 2 písm. a), odst. 3 písm. b), c); jinak lze pouze předestřít protokoly o jejich výslechu podle [[#§ 212|§ 212]].
+>
+> (10) Kdo se dostaví na výzvu k podání vysvětlení, má nárok na náhradu nutných výdajů podle zvláštního právního předpisu upravujícího cestovní náhrady a prokázaného ušlého výdělku za stejných podmínek jako svědek. Nárok nemá ten, kdo byl vyzván k dostavení se pro své protiprávní jednání.
+>
+> (11) Provádí-li opatření nebo úkony podle předchozích odstavců jiný policejní orgán než útvar Policie České republiky, vyrozumí o předmětu šetření neprodleně útvar Policie České republiky, který by jinak byl příslušný k řízení. Vznikne-li mezi útvarem Policie České republiky a jiným policejním orgánem spor o příslušnost, předloží věc k posouzení státnímu zástupci. Jeho stanovisko je závazné.
+>
+> (12) Je-li při prověřování skutečností nasvědčujících tomu, že byl spáchán trestný čin, zjištěno, že příslušnou k řízení je Generální inspekce bezpečnostních sborů, policejní orgán ji o předmětu šetření neprodleně vyrozumí a věc jí předá. Do doby, než Generální inspekce bezpečnostních sborů věc převezme, je policejní orgán oprávněn provádět pouze neodkladné a neopakovatelné úkony. Vznikne-li mezi policejním orgánem a Generální inspekcí bezpečnostních sborů spor o příslušnost, policejní orgán věc předloží k posouzení příslušnému státnímu zástupci. Jeho stanovisko je závazné. Ustanovení odstavce 11 se nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114, § 76, § 78, § 66, § 100, § 55, § 158a, § 164, § 211, § 212
+
+##### Souvisící předpisy
+
+- akt EU 2017/1939 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=62f37d857cd67e302fa1 -->
+
 ### § 158a — Neodkladný/neopakovatelný úkon za účasti soudce
 <details>
 <summary>📜 <strong>Citace § 158a (úplné znění)</strong></summary>
@@ -392,6 +586,52 @@ Pokud má výpověď **povahu neodkladného/neopakovatelného úkonu** → výsl
 - [ ] Je protokol způsobilý ke čtení v HL podle § 211 odst. 2 písm. b)?
 
 **Typicky rozhodné důkazy / podklady:** návrh SZ na provedení úkonu; protokol o výslechu svědka / rekognici s odůvodněním neodkladnosti; doklad o přítomnosti soudce a poučení; podklady k nedosažitelnosti svědka (cestovní doklady, sdělení o pobytu).
+
+
+<!-- LEGAL-REVISION:BEGIN id=ce9a41334fa92228110f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Je-li při prověřování skutečností nasvědčujících tomu, že byl spáchán trestný čin, a zjišťování jeho pachatele třeba provést neodkladný nebo neopakovatelný úkon spočívající ve výslechu svědka nebo v rekognici, provede se na návrh státního zástupce takový úkon za účasti soudce; soudce v takovém případě odpovídá za zákonnost provedení úkonu a k tomu cíli může do průběhu úkonu zasahovat. Soudci však nepřísluší přezkoumávat závěr státního zástupce o tom, že úkon je podle zákona neodkladný nebo neopakovatelný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce9a41334fa92228110f -->
 
 ### §§ 158b – 158f — Operativně pátrací prostředky
 
@@ -528,6 +768,310 @@ Operativně pátrací prostředky jsou nejintenzivnějším zásahem do soukrom�
 
 **Typicky rozhodné důkazy / podklady:** povolení SZ / soudce a jejich prodloužení; záznamy o předstíraném převodu a sledování; protokoly o kontrole SZ; podklady k výchozímu podezření (předchozí prodeje, odposlechy, svědectví) prokazující absenci provokace.
 
+
+<!-- LEGAL-REVISION:BEGIN id=886834a6729519d93f33 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, je policejní orgán, pokud k tomu byl pověřen příslušným ministrem, jde-li o útvar Policie České republiky, policejním prezidentem, jde-li o Generální inspekci bezpečnostních sborů, jejím ředitelem, jde-li o útvar Vojenského zpravodajství, jeho ředitelem, a jde-li o útvar Bezpečnostní informační služby, jejím ředitelem, a jde-li o útvar Úřadu pro zahraniční styky a informace, jeho ředitelem, oprávněn v řízení o úmyslném trestném činu používat operativně pátrací prostředky, kterými se rozumí
+>
+> - a) předstíraný převod,
+>
+> - b) sledování osob a věcí,
+>
+> - c) použití agenta.
+>
+> (2) Používání operativně pátracích prostředků nesmí sledovat jiný zájem než získání skutečností důležitých pro trestní řízení. Tyto prostředky je možné použít jen tehdy, nelze-li sledovaného účelu dosáhnout jinak nebo bylo-li by jinak jeho dosažení podstatně ztížené. Práva a svobody osob lze omezit jen v míře nezbytně nutné.
+>
+> (3) Zvukové, obrazové a jiné záznamy získané při použití operativně pátracích prostředků způsobem odpovídajícím ustanovením tohoto zákona lze použít jako důkaz.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=886834a6729519d93f33 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b1d7e6a7964f1f74d85d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158c — Předstíraný převod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předstíraným převodem se rozumí předstírání koupě, prodeje nebo jiného způsobu převodu předmětu plnění včetně převodu věci,
+>
+> - a) k jejímuž držení je třeba zvláštního povolení,
+>
+> - b) jejíž držení je nepřípustné,
+>
+> - c) která pochází z trestného činu, nebo
+>
+> - d) která je určena ke spáchání trestného činu.
+>
+> (2) Předstíraný převod lze uskutečnit pouze na základě písemného povolení státního zástupce.
+>
+> (3) Nesnese-li věc odkladu, lze předstíraný převod provést i bez povolení. Policejní orgán je však povinen o povolení bezodkladně dodatečně požádat, a pokud je do 48 hodin neobdrží, je povinen provádění předstíraného převodu ukončit a informace, které se v této souvislosti dozvěděl, nijak nepoužít.
+>
+> (4) O předstíraném převodu sepíše policejní orgán záznam, který do 48 hodin doručí státnímu zástupci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1d7e6a7964f1f74d85d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9dbc2c108be5f9f5b466 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158d — Sledování osob a věcí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Sledováním osob a věcí (dále jen „sledování“) se rozumí získávání poznatků o osobách a věcech prováděné utajovaným způsobem technickými nebo jinými prostředky. Pokud policejní orgán při sledování zjistí, že obviněný komunikuje se svým obhájcem, je povinen záznam s obsahem této komunikace zničit a poznatky, které se v této souvislosti dozvěděl, nijak nepoužít.
+>
+> (2) Sledování, při kterém mají být pořizovány zvukové, obrazové nebo jiné záznamy, lze uskutečnit pouze na základě písemného povolení státního zástupce.
+>
+> (3) Pokud má být sledováním zasahováno do nedotknutelnosti obydlí, do listovního tajemství nebo zjišťován obsah jiných písemností a záznamů uchovávaných v soukromí za použití technických prostředků, lze je uskutečnit jen na základě předchozího povolení soudce. Při vstupu do obydlí nesmějí být provedeny žádné jiné úkony než takové, které směřují k umístění technických prostředků.
+>
+> (4) Povolení podle odstavců 2 a [[#§ 3|3]] lze vydat jen na základě písemné žádosti. Žádost musí být odůvodněna podezřením na konkrétní trestnou činnost a, jsou-li známy, též údaji o osobách či věcech, které mají být sledovány. V povolení musí být stanovena doba, po kterou bude sledování prováděno a která nesmí být delší než šest měsíců. Tuto dobu může ten, kdo sledování povolil, na základě nové žádosti písemně prodloužit vždy na dobu nejvýše šesti měsíců.
+>
+> (5) Nesnese-li věc odkladu a nejde-li o případy uvedené v odstavci 3, lze sledování zahájit i bez povolení. Policejní orgán je však povinen o povolení bezodkladně dodatečně požádat, a pokud je do 48 hodin neobdrží, je povinen sledování ukončit, případný záznam zničit a informace, které se v této souvislosti dozvěděl, nijak nepoužít.
+>
+> (6) Bez splnění podmínek podle odstavců 2 a [[#§ 3|3]] lze sledování provést, pokud s tím výslovně souhlasí ten, do jehož práv a svobod má být sledováním zasahováno. Je-li takový souhlas dodatečně odvolán, sledování se neprodleně zastaví.
+>
+> (7) Má-li být záznam pořízený při sledování použit jako důkaz, je třeba k němu připojit protokol s náležitostmi uvedenými v [[#§ 55|§ 55]] a [[#§ 55a|55a]].
+>
+> (8) Pokud nebyly při sledování zjištěny skutečnosti důležité pro trestní řízení, je nutno záznamy předepsaným způsobem zničit.
+>
+> (9) Provozovatelé telekomunikační činnosti, jejich zaměstnanci a jiné osoby, které se na provozování telekomunikační činnosti podílejí, jakož i pošta nebo osoba provádějící dopravu zásilek jsou povinny bezúplatně poskytovat policejnímu orgánu provádějícímu sledování podle jeho pokynů nezbytnou součinnost. Přitom se nelze dovolávat povinnosti mlčenlivosti stanovené zvláštními zákony.
+>
+> (10) V jiné trestní věci, než je ta, v níž bylo sledování za podmínek uvedených v odstavci 2 provedeno, lze záznam pořízený při sledování a připojený protokol použít jako důkaz jen tehdy, je-li i v této věci vedeno řízení o úmyslném trestném činu nebo souhlasí-li s tím osoba, do jejíž práv a svobod bylo sledováním zasahováno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 55, § 55a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9dbc2c108be5f9f5b466 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a0350ce267e1ef22fc3e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158e — Použití agenta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li vedeno trestní řízení pro zločin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně osm let, pro trestný čin spáchaný ve prospěch organizované zločinecké skupiny, pro trestný čin pletichy v insolvenčním řízení podle [[§ 226|§ 226]] [[trestního zákoníku|trestního zákoníku]], porušení předpisů o pravidlech hospodářské soutěže podle [[§ 248 odst. 1 písm. e)|§ 248 odst. 1 písm. e)]] a [[odst. 2 až 4|odst. 2 až 4]] [[trestního zákoníku|trestního zákoníku]], zjednání výhody při zadání veřejné zakázky, při veřejné soutěži a veřejné dražbě podle [[§ 256|§ 256]] [[trestního zákoníku|trestního zákoníku]], pletichy při zadání veřejné zakázky a při veřejné soutěži podle [[§ 257|§ 257]] [[trestního zákoníku|trestního zákoníku]], pletichy při veřejné dražbě podle [[§ 258|§ 258]] [[trestního zákoníku|trestního zákoníku]], zneužití pravomoci úřední osoby podle [[§ 329|§ 329]] [[trestního zákoníku|trestního zákoníku]], přijetí úplatku podle [[§ 331|§ 331]] [[trestního zákoníku|trestního zákoníku]], podplacení podle [[§ 332|§ 332]] [[trestního zákoníku|trestního zákoníku]], nepřímého úplatkářství podle [[§ 333|§ 333]] [[trestního zákoníku|trestního zákoníku]] nebo pro jiný úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána, je policejní orgán, pokud jím je útvar Policie České republiky nebo Generální inspekce bezpečnostních sborů, oprávněn použít agenta.
+>
+> (2) Agentem je příslušník Policie České republiky nebo Generální inspekce bezpečnostních sborů plnící úkoly uložené mu řídícím policejním orgánem, vystupující zpravidla se zastíráním skutečného účelu své činnosti. Je-li to k použití agenta, jeho přípravě nebo k jeho ochraně nutné, je k zastírání jeho totožnosti možné
+>
+> - a) vytvořit legendu o jiné osobní existenci a osobní údaje vyplývající z této legendy zavést do informačních systémů provozovaných podle zvláštních zákonů,
+>
+> - b) provádět hospodářské činnosti, k jejichž vykonávání je třeba zvláštní oprávnění, povolení či registrace,
+>
+> - c) zastírat příslušnost k Policii České republiky nebo ke Generální inspekci bezpečnostních sborů.
+>
+> (3) Orgány veřejné správy jsou povinny poskytnout Policii České republiky a Generální inspekci bezpečnostních sborů bez odkladu potřebnou součinnost při plnění oprávnění uvedených v odstavci 2.
+>
+> (4) Použití agenta povoluje na návrh státního zástupce vrchního státního zastupitelství nebo na návrh evropského pověřeného žalobce soudce vrchního soudu, v jehož obvodu je státní zástupce, podávající návrh, činný. Návrh na použití agenta může podat i evropský žalobce; v takovém případě povoluje použití agenta soudce vrchního soudu, v jehož obvodu by byl činný evropský pověřený žalobce, který by byl jinak příslušný k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení. V povolení musí být uveden účel použití a doba, po kterou bude agent použit, která nesmí být delší než šest měsíců, a údaje umožňující identifikaci agenta. Na základě nového návrhu, obsahujícího vyhodnocení dosavadní činnosti agenta, lze dobu povolení prodloužit, a to i opakovaně, vždy nejdéle na dobu šesti měsíců.
+>
+> (5) Ke sledování osob a věcí v rozsahu uvedeném v § 158d odst. 2 a k provedení předstíraného převodu podle [[#§ 158c|§ 158c]] agent nepotřebuje další povolení.
+>
+> (6) Agent je povinen při své činnosti volit takové prostředky, které jsou způsobilé ke splnění jeho služebního úkolu a jimiž není jiným osobám způsobována újma na jejich právech nad míru nezbytně nutnou. Jiné povinnosti podle zvláštního [[zákona upravujícího postavení příslušníků Policie České republiky|zákona upravujícího postavení příslušníků Policie České republiky]] nebo podle zvláštního [[zákona upravujícího postavení příslušníků Generální inspekce bezpečnostních sborů|zákona upravujícího postavení příslušníků Generální inspekce bezpečnostních sborů]] nemá. Agent při své činnosti nesmí vzbudit u jiné osoby úmysl spáchat trestný čin a nesmí svým jednáním ovlivnit okolnosti podmiňující použití vyšší trestní sazby.
+>
+> (7) Trestní stíhání pro trestný čin spáchaný agentem při jeho činnosti nelze zahájit, a bylo-li již zahájeno, nelze v něm pokračovat a musí být zastaveno, dopustil-li se agent takového činu s cílem odhalit pachatele trestné činnosti uvedené v odstavci 1 nebo spáchání takové trestné činnosti předejít; to neplatí, pokud agent
+>
+> - a) spáchá trestný čin mučení a jiného nelidského a krutého zacházení ([[§ 149|§ 149]] [[trestního zákoníku|trestního zákoníku]]), znásilnění ([[§ 185|§ 185]] [[trestního zákoníku|trestního zákoníku]]), sexuálního útoku ([[§ 185a|§ 185a]] [[trestního zákoníku|trestního zákoníku]]), sexuálního nátlaku ([[§ 186|§ 186]] [[trestního zákoníku|trestního zákoníku]]), pohlavního zneužití ([[§ 187|§ 187]] [[trestního zákoníku|trestního zákoníku]]), svádění k pohlavnímu styku ([[§ 202|§ 202]] [[trestního zákoníku|trestního zákoníku]]), získání kontroly nad vzdušným dopravním prostředkem, civilním plavidlem a pevnou plošinou ([[§ 290|§ 290]] [[trestního zákoníku|trestního zákoníku]]), ohrožení bezpečnosti vzdušného dopravního prostředku a civilního plavidla ([[§ 291|§ 291]] [[trestního zákoníku|trestního zákoníku]]), zavlečení vzdušného dopravního prostředku do ciziny ([[§ 292|§ 292]] [[trestního zákoníku|trestního zákoníku]]), vlastizrady ([[§ 309|§ 309]] [[trestního zákoníku|trestního zákoníku]]), rozvracení republiky ([[§ 310|§ 310]] [[trestního zákoníku|trestního zákoníku]]), teroristického útoku ([[§ 311|§ 311]] [[trestního zákoníku|trestního zákoníku]]), sabotáže ([[§ 314|§ 314]] [[trestního zákoníku|trestního zákoníku]]), vyzvědačství ([[§ 316|§ 316]] [[trestního zákoníku|trestního zákoníku]]) nebo neoprávněné činnosti pro cizí moc ([[§ 318a|§ 318a]] [[trestního zákoníku|trestního zákoníku]]),
+>
+> - b) jedná zjevně nepřiměřeně, zejména způsobí-li takovým činem smrt, těžkou újmu na zdraví nebo jiný zvlášť závažný následek,
+>
+> - c) spáchání takového činu zosnoval, nebo
+>
+> - d) založil nebo zosnoval organizovanou zločineckou skupinu, organizovanou skupinu nebo teroristickou skupinu nebo působil jako její vedoucí činitel nebo představitel.
+>
+> (8) Státní zástupce je povinen od příslušného policejního orgánu vyžadovat údaje potřebné pro posouzení, zda trvají důvody pro použití agenta a zda je jeho činnost v souladu se zákonem. Tyto údaje je povinen pravidelně, nejméně jednou za tři měsíce, posuzovat, a pominou-li důvody pro použití agenta, dá policejnímu orgánu pokyn k bezodkladnému ukončení činnosti agenta. Policejní orgán je povinen předložit státnímu zástupci záznam o výsledku použití agenta.
+>
+> (9) V jiné trestní věci, než je ta, v níž bylo použití agenta povoleno, lze informace získané agentem použít jako důkaz jen tehdy, je-li i v této věci vedeno řízení o úmyslném trestném činu uvedeném v odstavci 1 nebo souhlasí-li s tím osoba, do jejíchž práv a svobod bylo použitím agenta zasahováno.
+>
+> (10) Při získávání poznatků o trestné činnosti agenta a prověřování skutečností nasvědčujících tomu, že agent spáchal trestný čin, se postupuje tak, aby nedošlo k odhalení jeho totožnosti a podoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 226, § 248, § 256, § 257, § 258, § 329, § 331, § 332, § 333, § 158d, § 158c, § 149, § 185, § 185a, § 186, § 187, § 202, § 290, § 291, § 292, § 309, § 310, § 311, § 314, § 316, § 318a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a0350ce267e1ef22fc3e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=434098c54b17b71df97b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 158f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Objeví-li se důvod pro použití operativně pátracích prostředků až po zahájení trestního stíhání, postupuje se podle § 158b až 158e; po podání obžaloby o jejich použití rozhoduje předseda senátu soudu prvního stupně i bez návrhu státního zástupce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 158b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=434098c54b17b71df97b -->
+
 ### §§ 159 – 159d — Skončení prověřování
 
 **§ 159 — lhůty prověřování:**
@@ -627,6 +1171,282 @@ Splnil-li podezřelý závazky → SZ rozhodne, že **nebude stíhán**. Stížn
 **Typicky rozhodné důkazy / podklady:** spis prokazující vyčerpání úkonů a (ne)zjištění pachatele; usnesení o odložení; dobrovolné oznámení a závazek úplné výpovědi korunního svědka; podklady ke kvalifikaci TČ podle katalogu § 159c; doklad o doručení NSZ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5b9de9c1fd53eae3cf45 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Policejní orgán je povinen prověřit skutečnosti nasvědčující tomu, že byl spáchán trestný čin,
+>
+> - a) do dvou měsíců od jejich přijetí, jde-li o trestný čin patřící do příslušnosti okresního soudu, na který zákon stanoví trest odnětí svobody, jehož horní hranice nepřevyšuje pět let, a o němž se nekoná zkrácené přípravné řízení,
+>
+> - b) do tří měsíců, jde-li o jinou věc patřící do příslušnosti okresního soudu, a
+>
+> - c) do šesti měsíců, jde-li o věc patřící v prvním stupni do příslušnosti krajského soudu.
+>
+> (2) Pokud nebylo oznámení nebo jiný podnět ve lhůtách uvedených v odstavci 1 prověřeno, policejní orgán státnímu zástupci písemně zdůvodní, proč nebylo možné v zákonem stanovené lhůtě prověřování skončit, jaké úkony je třeba ještě provést a po jakou dobu bude prověřování pokračovat. Státní zástupce může pokynem policejnímu orgánu jednak změnit výčet úkonů, které mají být ještě provedeny, jednak stanovit odlišně lhůtu, po kterou má prověřování ještě trvat.
+>
+> (3) Neskončí-li policejní orgán prověřování ve lhůtě prodloužené podle odstavce 2, předloží spis státnímu zástupci s odůvodněným návrhem na její prodloužení. Státní zástupce postupuje obdobně, jak je uvedeno v odstavci 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b9de9c1fd53eae3cf45 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2ea0ee6b0463df75889e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 159a — Odložení nebo jiné vyřízení věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nejde-li ve věci o podezření z trestného činu, státní zástupce nebo policejní orgán věc odloží usnesením, jestliže není na místě vyřídit věc jinak. Takovým vyřízením může být zejména
+>
+> - a) odevzdání věci příslušnému orgánu k projednání přestupku, nebo
+>
+> - b) odevzdání věci jinému orgánu ke kázeňskému nebo kárnému projednání.
+>
+> (2) Státní zástupce nebo policejní orgán před zahájením trestního stíhání odloží usnesením věc, je-li trestní stíhání nepřípustné podle [[#§ 11|§ 11]].
+>
+> (3) Státní zástupce nebo policejní orgán může před zahájením trestního stíhání usnesením odložit věc, je-li trestní stíhání neúčelné vzhledem k okolnostem uvedeným v § 172 odst. 2 písm. a) nebo b).
+>
+> (4) Státní zástupce může věc odložit, jestliže z výsledků prověřování vyplývá, že nastaly okolnosti uvedené v § 172 odst. 2 písm. c).
+>
+> (5) Státní zástupce nebo policejní orgán věc odloží též tehdy, pokud se nepodařilo zjistit skutečnosti opravňující zahájit trestní stíhání ([[#§ 160|§ 160]]). Pominou-li důvody odložení, trestní stíhání zahájí.
+>
+> (6) Usnesení o odložení věci musí být doručeno poškozenému, pokud je znám. Usnesení o odložení věci podle odstavců 1 až 5 musí být doručeno do 48 hodin státnímu zástupci. Oznamovatel se o odložení věci vyrozumí, pokud o to podle § 158 odst. 2 požádal.
+>
+> (7) Proti usnesení o odložení věci může poškozený uvedený v odstavci 6 podat stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 172, § 160, § 158
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ea0ee6b0463df75889e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=fdeadd27d6cbef278873 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 159b — Dočasné odložení trestního stíhání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jestliže to je třeba k objasnění trestné činnosti spáchané ve prospěch organizované zločinecké skupiny, nebo jiného úmyslného trestného činu, anebo zjištění jejich pachatelů, může policejní orgán se souhlasem státního zástupce dočasně odložit zahájení trestního stíhání na nezbytnou dobu, nejdéle však o dva měsíce.
+>
+> (2) Trvají-li důvody, pro které bylo trestní stíhání podle odstavce 1 dočasně odloženo, může státní zástupce na návrh policejního orgánu vyslovit souhlas s prodloužením lhůty uvedené v odstavci 1 nejvýše o další dva měsíce, a to i opakovaně.
+>
+> (3) Policejní orgán se souhlasem státního zástupce vrchního státního zastupitelství, evropského pověřeného žalobce nebo evropského žalobce, který podal návrh na použití agenta, dočasně odloží zahájení trestního stíhání osoby též v případě, kdy tato osoba působí jako agent.
+>
+> (4) Policejní orgán dočasně odloží zahájení trestního stíhání osoby též v případě, kdy je tato osoba dočasně vyňata z pravomoci orgánů činných v trestním řízení ([[#§ 10|§ 10]]) nebo je-li její trestní stíhání pro nedostatek souhlasu oprávněného orgánu dočasně nepřípustné.
+>
+> (5) Policejní orgán dočasně odloží zahájení trestního stíhání též v případě, jestliže dřívější řízení pro týž skutek proti téže osobě skončilo pravomocným rozhodnutím o přestupku a dosud neuplynula lhůta pro zahájení přezkumného řízení podle jiného právního předpisu, ve kterém může být rozhodnutí o přestupku zrušeno. Po právní moci rozhodnutí o dočasném odložení trestního stíhání podle věty první dá policejní orgán podnět příslušnému správnímu orgánu ke zrušení rozhodnutí o přestupku v přezkumném řízení.
+>
+> (6) O dočasném odložení trestního stíhání policejní orgán vyhotoví záznam, jehož opis do 48 hodin zašle státnímu zástupci.
+>
+> (7) Pominou-li důvody pro dočasné odložení trestního stíhání, policejní orgán trestní stíhání neprodleně zahájí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fdeadd27d6cbef278873 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1a097f6f4514f8eaa99b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 159c — Zvláštní ustanovení o dočasném odložení trestního stíhání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Policejní orgán rozhodne o dočasném odložení trestního stíhání podezřelého z trestného činu pletich v insolvenčním řízení podle [[§ 226 odst. 2|§ 226 odst. 2]], [[4|4]] nebo [[5|5]] [[trestního zákoníku|trestního zákoníku]], porušení předpisů o pravidlech hospodářské soutěže podle [[§ 248 odst. 1 písm. e)|§ 248 odst. 1 písm. e)]], [[odst. 3|odst. 3]] nebo [[4|4]] [[trestního zákoníku|trestního zákoníku]], pletich při zadání veřejné zakázky a při veřejné soutěži podle [[§ 257 odst. 1 písm. b)|§ 257 odst. 1 písm. b)]], [[odst. 2|odst. 2]] nebo [[3|3]] [[trestního zákoníku|trestního zákoníku]], pletich při veřejné dražbě podle [[§ 258 odst. 1 písm. b)|§ 258 odst. 1 písm. b)]], [[odst. 2|odst. 2]] nebo [[3|3]] [[trestního zákoníku|trestního zákoníku]], podplacení podle [[§ 332|§ 332]] [[trestního zákoníku|trestního zákoníku]], nepřímého úplatkářství podle [[§ 333 odst. 2|§ 333 odst. 2]] [[trestního zákoníku|trestního zákoníku]] nebo maření spravedlnosti podle [[§ 347a odst. 2|§ 347a odst. 2]] [[trestního zákoníku|trestního zákoníku]], pokud podezřelý poskytl nebo slíbil úplatek, majetkový nebo jiný prospěch jen proto, že byl o to požádán, učinil o tom dobrovolně a bez zbytečného odkladu oznámení státnímu zástupci nebo policejnímu orgánu, oznámí policejnímu orgánu skutečnosti, které jsou mu známy o trestné činnosti toho, kdo o tento úplatek, majetkový nebo jiný prospěch požádal, a zaváže se podat v přípravném řízení i v řízení před soudem úplnou a pravdivou výpověď o těchto skutečnostech.
+>
+> (2) Rozhodnout o dočasném odložení trestního stíhání podle odstavce 1 nelze, byl-li úplatek, majetkový nebo jiný prospěch poskytnut nebo slíben v souvislosti s výkonem pravomoci úřední osoby uvedené v [[§ 334 odst. 2 písm. a) až c)|§ 334 odst. 2 písm. a) až c)]] [[trestního zákoníku|trestního zákoníku]] nebo úřední osoby uvedené v [[§ 334 odst. 2 písm. d)|§ 334 odst. 2 písm. d)]] [[trestního zákoníku|trestního zákoníku]], jde-li o úřední osobu zastávající funkci v podnikající právnické osobě, v níž má rozhodující vliv cizí stát.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 226, § 248, § 257, § 258, § 332, § 333, § 347a, § 334
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a097f6f4514f8eaa99b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6752fcc2e8a9f0ae9067 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 159d — Rozhodnutí o nestíhání podezřelého
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nezjistí-li se dodatečně skutečnosti, které vylučují rozhodnout o dočasném odložení trestního stíhání a splnil-li podezřelý své závazky podle § 159c odst. 1, státní zástupce rozhodne, že nebude stíhán, jinak rozhodne, že podezřelý nesplnil podmínky podle § 159c odst. 1. Proti tomuto usnesení je přípustná stížnost, která má odkladný účinek.
+>
+> (2) Rozhodnout o nestíhání podezřelého lze až po pravomocném ukončení trestního stíhání osoby, která o úplatek, majetkový nebo jiný prospěch podezřelého požádala, pokud uplynula lhůta k podání dovolání nebo bylo o podaném dovolání rozhodnuto a pokud uplynula lhůta k podání ústavní stížnosti nebo bylo o podané ústavní stížnosti rozhodnuto, nebo po pravomocném odložení nebo jiném vyřízení věci, nelze-li zahájit trestní stíhání osoby, která o úplatek, majetkový nebo jiný prospěch podezřelého požádala.
+>
+> (3) Usnesení o nestíhání podezřelého doručí státní zástupce bezodkladně po právní moci Nejvyššímu státnímu zastupitelství; to neplatí, jde-li o usnesení vydané evropským pověřeným žalobcem nebo evropským žalobcem.
+>
+> (4) Po právní moci rozhodnutí o nesplnění podmínek podle § 159c odst. 1 policejní orgán neprodleně zahájí trestní stíhání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 159c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6752fcc2e8a9f0ae9067 -->
 
 ## Hlava X — Zahájení TS, vyšetřování, zkrácené přípravné řízení (§ 160 – § 179i)
 

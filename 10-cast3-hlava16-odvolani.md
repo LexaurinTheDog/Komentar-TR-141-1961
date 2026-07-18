@@ -85,6 +85,54 @@ Odvolání míří proti rozsudku soudu I. stupně a má vždy odkladný účine
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4f94a0cfa23587530a1d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 245 — Přípustnost a účinek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Opravným prostředkem proti rozsudku soudu prvního stupně je odvolání. Proti rozsudku, kterým soud schválil dohodu o vině a trestu, lze podat odvolání pouze v případě, že takový rozsudek není v souladu s dohodou o vině a trestu, jejíž schválení státní zástupce soudu navrhl. Proti rozsudku, kterým soud schválil dohodu o vině a trestu, může poškozený, který uplatnil nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, podat odvolání pro nesprávnost výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení, ledaže v dohodě o vině a trestu souhlasil s rozsahem a způsobem náhrady škody nebo nemajetkové újmy nebo vydáním bezdůvodného obohacení a tato dohoda byla soudem schválena v podobě, s níž souhlasil.
+>
+> (2) Odvolání má odkladný účinek.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f94a0cfa23587530a1d -->
+
 ## §§ 246, 247 — Oprávněné osoby a rozsah napadnutí
 
 **Judikatura (z místních zdrojů):**
@@ -244,6 +292,110 @@ Postavení odvolatele se posuzuje podle směru odvolání: zhoršit může jen S
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=66758951243b36f1de45 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 246
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Rozsudek může odvoláním napadnout
+>
+> - a) státní zástupce pro nesprávnost kteréhokoli výroku,
+>
+> - b) obžalovaný pro nesprávnost výroku, který se ho přímo dotýká, nejde-li o výrok o vině v rozsahu, v jakém soud přijal jeho prohlášení viny,
+>
+> - c) zúčastněná osoba pro nesprávnost výroku o zabrání věci nebo zabrání části majetku,
+>
+> - d) poškozený, který uplatnil nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, pro nesprávnost výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení.
+>
+> (2) Osoba oprávněná napadat rozsudek pro nesprávnost některého jeho výroku může jej napadat také proto, že takový výrok učiněn nebyl, jakož i pro porušení ustanovení o řízení předcházejícím rozsudku, jestliže toto porušení mohlo způsobit, že výrok je nesprávný nebo že chybí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=66758951243b36f1de45 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=18f66ec75ab60d87ed4d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 247
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) V neprospěch obžalovaného může rozsudek napadnout odvoláním jen státní zástupce; toliko pokud jde o povinnost k náhradě škody nebo nemajetkové újmy v penězích nebo k vydání bezdůvodného obohacení, má toto právo též poškozený, který uplatnil nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení.
+>
+> (2) Ve prospěch obžalovaného mohou rozsudek odvoláním napadnout kromě obžalovaného a státního zástupce i příbuzní obžalovaného v pokolení přímém, jeho sourozenci, osvojitel, osvojenec, manžel, partner a druh. Státní zástupce může tak učinit i proti vůli obžalovaného. Je-li obžalovaný omezen ve svéprávnosti, může i proti vůli obžalovaného za něho v jeho prospěch odvolání podat též jeho opatrovník a jeho obhájce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18f66ec75ab60d87ed4d -->
+
 ## § 248 — Lhůta a místo podání
 <details>
 <summary>📜 <strong>Citace § 248 (úplné znění)</strong></summary>
@@ -311,6 +463,56 @@ Odvolání se podává u soudu prvního stupně do 8 dnů od doručení opisu ro
 **Typicky rozhodné důkazy / podklady:** doručenky opisu rozsudku obžalovanému, obhájci a opatrovníku; datum a místo podání odvolání; poučení o opravném prostředku v rozsudku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8ac32dc02701b36a84fa generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 248 — Lhůta a místo podání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Odvolání se podává u soudu, proti jehož rozsudku směřuje, a to do osmi dnů od doručení opisu rozsudku.
+>
+> (2) Jestliže se rozsudek doručuje jak obžalovanému, tak i jeho obhájci a opatrovníku, běží lhůta od toho doručení, které bylo provedeno nejpozději.
+>
+> (3) Jiným osobám uvedeným v § 247 odst. 2, s výjimkou státního zástupce, končí lhůta týmž dnem jako obžalovanému.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 247
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8ac32dc02701b36a84fa -->
 
 ## § 249 — Obsah odvolání (povinné odůvodnění)
 <details>
@@ -388,6 +590,56 @@ Odvolání musí být ve lhůtě odůvodněno tak, aby bylo patrno, které výro
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fc3d33cd2c5f1a7f1b73 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 249 — Obsah odvolání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Odvolání musí být ve lhůtě uvedené v [[#§ 248|§ 248]] nebo v další lhůtě k tomu stanovené předsedou senátu soudu prvního stupně podle [[#§ 251|§ 251]] také odůvodněno tak, aby bylo patrno, v kterých výrocích je rozsudek napadán a jaké vady jsou vytýkány rozsudku nebo řízení, které rozsudku předcházelo. O tom musí být oprávněné osoby poučeny.
+>
+> (2) Státní zástupce je povinen v odvolání uvést, zda je podává, byť i zčásti, ve prospěch nebo v neprospěch obviněného.
+>
+> (3) Odvolání lze opřít o nové skutečnosti a důkazy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 248, § 251
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc3d33cd2c5f1a7f1b73 -->
+
 ## § 250 — Vzdání se a zpětvzetí odvolání
 <details>
 <summary>📜 <strong>Citace § 250 (úplné znění)</strong></summary>
@@ -456,6 +708,58 @@ Vzdát se odvolání lze po vyhlášení rozsudku, vzít zpět do odebrání odv
 **Typicky rozhodné důkazy / podklady:** podané odvolání a podání o zpětvzetí, výslovný souhlas obžalovaného (u OP v jeho prospěch), doklad o předložení spisu odvolacímu soudu, vyrozumění obžalovaného o zpětvzetí odvolání SZ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=188dd8c110390bfef352 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 250 — Vzdání se a zpětvzetí odvolání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Po vyhlášení rozsudku může se oprávněná osoba odvolání výslovně vzdát.
+>
+> (2) Osoba, která odvolání podala, může je výslovným prohlášením vzít zpět, a to až do doby, než se odvolací soud odebere k závěrečné poradě. Odvolání státního zástupce může vzít zpět i nadřízený státní zástupce nebo, jde-li o odvolání evropského pověřeného žalobce nebo evropského žalobce, příslušný orgán Úřadu evropského veřejného žalobce.
+>
+> (3) Odvolání podané ve prospěch obžalovaného jinou oprávněnou osobou nebo za obžalovaného obhájcem nebo opatrovníkem může být vzato zpět jen s výslovným souhlasem obžalovaného. Státní zástupce může vzít takové odvolání zpět i bez souhlasu obžalovaného. V tomto případě běží obžalovanému nová lhůta k podání odvolání od vyrozumění, že odvolání bylo vzato zpět.
+>
+> (4) Zpětvzetí odvolání vezme, není-li překážek, usnesením na vědomí předseda senátu odvolacího soudu, a nebyla-li věc dosud tomuto soudu předložena, předseda senátu soudu prvního stupně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=188dd8c110390bfef352 -->
 
 ## § 251 — Řízení u soudu prvního stupně
 <details>
@@ -528,6 +832,56 @@ Před předložením spisu odvolacímu soudu odstraňuje vady odvolání soud I.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=341f28e76b86d8188f71 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 251 — Řízení u soudu prvního stupně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Nesplňuje-li odvolání státního zástupce, odvolání, které podal za obžalovaného jeho obhájce, nebo odvolání, které podal za poškozeného nebo za zúčastněnou osobu jejich zmocněnec, náležitosti obsahu odvolání podle § 249 odst. 1, vyzve je předseda senátu, aby vady odstranili ve lhůtě pěti dnů, kterou jim zároveň stanoví, a upozorní je, že jinak bude odvolání odmítnuto podle § 253 odst. 3. Stejně postupuje, pokud takové odvolání podal obžalovaný, který má obhájce, poškozený nebo zúčastněná osoba, kteří mají zmocněnce.
+>
+> (2) Nemá-li obžalovaný, který podal odvolání nesplňující náležitosti obsahu odvolání podle § 249 odst. 1, obhájce, vyzve ho předseda senátu k odstranění vad ve lhůtě osmi dnů a poskytne mu k odstranění vad odvolání potřebné poučení. Nevedlo-li to k nápravě nebo vyžaduje-li to povaha projednávané věci, a obžalovaný si sám obhájce nezvolil, ustanoví mu ho za účelem jen odůvodnění odvolání anebo i obhajování v odvolacím řízení předseda senátu a dále postupuje podle odstavce 1. U poškozeného a zúčastněné osoby, kteří nemají zmocněnce, postupuje předseda senátu přiměřeně.
+>
+> (3) Jakmile uplynuly lhůty k podání odvolání a lhůty k odstranění vad odvolání u všech oprávněných osob, předseda senátu doručí stejnopis odvolání a jejich odůvodnění ostatním stranám a nevyčkávaje jejich vyjádření předloží spisy odvolacímu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 249, § 253
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=341f28e76b86d8188f71 -->
+
 ## § 252 — Odvolací soud
 <details>
 <summary>📜 <strong>Citace § 252 (úplné znění)</strong></summary>
@@ -588,6 +942,52 @@ Odvolacím soudem je vždy soud bezprostředně nadřízený soudu prvního stup
 **Typicky rozhodné důkazy / podklady:** napadený rozsudek a označení soudu I. stupně, údaj o obvodu (pro určení vrchního soudu), poučení o opravném prostředku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e9f83def8e23ec1b3ca8 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 252 — Odvolací soud
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> O odvolání proti rozsudku okresního soudu rozhoduje nadřízený krajský soud a o odvolání proti rozsudku vojenského obvodového soudu rozhoduje nadřízený vyšší vojenský soud. O odvolání proti rozsudku krajského nebo vyššího vojenského soudu jako soudu prvního stupně rozhoduje nadřízený vrchní soud.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9f83def8e23ec1b3ca8 -->
 
 ## §§ 253 – 265 — Rozhodnutí odvolacího soudu
 
@@ -1461,6 +1861,682 @@ Zruší-li odvolací soud napadený rozsudek pouze ve výroku o náhradě škody
 **Typicky rozhodné důkazy / podklady:** přihláška nároku poškozeného, listiny o výši škody/újmy, odůvodnění napadeného rozsudku k adheznímu výroku, spis prokazující (ne)dostatek podkladů pro vlastní rozhodnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bbc1136282c2fe811d1d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 253
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Odvolací soud zamítne odvolání, bylo-li podáno opožděně, osobou neoprávněnou nebo osobou, která se odvolání výslovně vzdala nebo znovu podala odvolání, které v téže věci již předtím výslovně vzala zpět.
+>
+> (2) Jako opožděné nemůže být zamítnuto odvolání, které oprávněná osoba podala opožděně jen proto, že se řídila nesprávným poučením soudu.
+>
+> (3) Odvolací soud odmítne odvolání, které nesplňuje náležitosti obsahu odvolání.
+>
+> (4) Odmítnout odvolání podle odstavce 3 nelze, jestliže nebyla oprávněná osoba řádně poučena podle § 249 odst. 1 nebo nebyla oprávněné osobě, která nemá obhájce nebo zmocněnce, poskytnuta pomoc při odstranění vad odvolání (§ 251 odst. 2).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 249, § 251
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bbc1136282c2fe811d1d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=84c424a64290d285460c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 254
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Nezamítne-li nebo neodmítne-li odvolací soud odvolání podle [[#§ 253|§ 253]], přezkoumá zákonnost a odůvodněnost jen těch oddělitelných výroků rozsudku, proti nimž bylo podáno odvolání, i správnost postupu řízení, které jim předcházelo, a to z hlediska vytýkaných vad. K vadám, které nejsou odvoláním vytýkány, odvolací soud přihlíží, jen pokud mají vliv na správnost výroků, proti nimž bylo podáno odvolání.
+>
+> (2) Mají-li však vytýkané vady svůj původ v jiném výroku než v tom, proti němuž bylo podáno odvolání, přezkoumá odvolací soud i správnost takového výroku, na který v odvolání napadený výrok navazuje, jestliže oprávněná osoba proti němu mohla podat odvolání.
+>
+> (3) Jestliže oprávněná osoba podá odvolání proti výroku o vině, přezkoumá odvolací soud v návaznosti na vytýkané vady vždy i výrok o trestu, jakož i další výroky, které mají ve výroku o vině svůj podklad, bez ohledu na to, zda bylo i proti těmto výrokům podáno odvolání.
+>
+> (4) Byla-li odvoláním napadena část rozsudku týkající se jen některé z více osob, o nichž bylo rozhodnuto týmž rozsudkem, přezkoumá odvolací soud uvedeným způsobem jen tu část rozsudku a předcházejícího řízení, která se týká této osoby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 253
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84c424a64290d285460c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8963efb046c12b95bfb7 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 255
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Odvolací soud přeruší trestní stíhání, vyjde-li za odvolacího řízení najevo, že po vyhlášení napadeného rozsudku nastala některá z okolností uvedených v § 173 odst. 1 písm. b) až f), nelze-li obžalovanému doručit předvolání k veřejnému zasedání odvolacího soudu nebo z důvodu uvedeného v [[#§ 9a|§ 9a]].
+>
+> (2) Odvolací soud přeruší trestní stíhání, má-li za to, že zákon, jehož užil v dané trestní věci soud prvního stupně při rozhodování o vině a trestu, je v rozporu s ústavním pořádkem; v tomto případě předloží věc Ústavnímu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 173, § 9a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8963efb046c12b95bfb7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1b0b7db637a90a3dd404 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 256
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> Odvolací soud odvolání zamítne, shledá-li, že není důvodné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b0b7db637a90a3dd404 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=412cec70829beafc19c3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 257
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Odvolací soud napadený rozsudek nebo jeho část zruší a v rozsahu zrušení
+>
+> - a) rozhodne o předložení věci k rozhodnutí o příslušnosti soudu, který je společně nadřízený soudu prvního stupně, a soudu, jenž je podle něj příslušný, měl-li tak už učinit soud prvního stupně (§ 222 odst. 1); je-li tímto společně nadřízeným soudem odvolací soud, rozhodne ihned sám o přikázání příslušnému soudu,
+>
+> - b) věc postoupí jinému orgánu, měl-li tak učinit již soud prvního stupně (§ 222 odst. 2),
+>
+> - c) trestní stíhání zastaví, shledá-li, že je tu některá z okolností, jež by odůvodňovaly zastavení trestního stíhání soudem prvního stupně (§ 223 odst. 1, [[#§ 2|2]]),
+>
+> - d) trestní stíhání podmíněně zastaví nebo rozhodne o schválení narovnání, shledá-li okolnosti uvedené v § 307 odst. 1 nebo [[#§ 2|2]] anebo § 309 odst. 1 nebo [[#§ 2|2]],
+>
+> - e) trestní stíhání přeruší, měl-li tak učinit již soud prvního stupně (§ 224 odst. 1, [[#§ 2|2]] a [[#§ 5|5]]).
+>
+> (2) Shledá-li odvolací soud, že tu je některá z okolností uvedených v § 11 odst. 1 písm. a), b), l), která nastala až po vyhlášení napadeného rozsudku, rozhodne, aniž by napadený rozsudek zrušil, o zastavení trestního stíhání.
+>
+> (3) V odvolacím řízení, v kterém bylo zastaveno trestní stíhání z některého důvodu uvedeného v odstavci 2, se však pokračuje, prohlásí-li obviněný do tří dnů od doby, kdy mu bylo usnesení o zastavení trestního stíhání oznámeno, že na projednání věci trvá. O tom je třeba obviněného poučit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 222, § 223, § 2, § 307, § 309, § 224, § 5, § 11
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=412cec70829beafc19c3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0ecb5f7bc3b774c3b153 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 258
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Odvolací soud zruší napadený rozsudek také
+>
+> - a) pro podstatné vady řízení, které rozsudku předcházelo, zejména proto, že v tomto řízení byla porušena ustanovení, jimiž se má zabezpečit objasnění věci nebo právo obhajoby, jestliže mohly mít vliv na správnost a zákonnost přezkoumávané části rozsudku,
+>
+> - b) pro vady rozsudku, zejména pro nejasnost nebo neúplnost jeho skutkových zjištění týkajících se přezkoumávané části rozsudku, nebo proto, že se ohledně takové části soud nevypořádal se všemi okolnostmi významnými pro rozhodnutí,
+>
+> - c) vzniknou-li pochybnosti o správnosti skutkových zjištění ohledně přezkoumávané části rozsudku, k objasnění věci je třeba důkazy opakovat nebo provádět důkazy další a jejich provádění před odvolacím soudem by znamenalo nahrazovat činnost soudu prvního stupně,
+>
+> - d) bylo-li v přezkoumávané části rozsudku porušeno ustanovení [[trestního zákona|trestního zákona]],
+>
+> - e) je-li uložený trest v přezkoumávané části rozsudku nepřiměřený,
+>
+> - f) je-li rozhodnutí o uplatněném nároku poškozeného v přezkoumávané části rozsudku nesprávné,
+>
+> - g) není-li v souladu s dohodou o vině a trestu, jejíž schválení státní zástupce soudu navrhl; to neplatí, jde-li o výrok o uplatněném nároku poškozeného, který s dohodou o vině a trestu nesouhlasil, nebo poškozeného, jehož řádně uplatněný nárok dohodě o vině a trestu neodpovídá.
+>
+> (2) Jestliže je vadná jen část napadeného rozsudku a lze ji oddělit od ostatních, zruší odvolací soud rozsudek jen v této části; zruší-li však, byť i jen zčásti, výrok o vině, zruší vždy zároveň celý výrok o trestu, jakož i další výroky, které mají ve výroku o vině svůj podklad.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ecb5f7bc3b774c3b153 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e32d90a6f989d917cbd0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 259
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Je-li po zrušení napadeného rozsudku nebo některé jeho části nutno učinit ve věci rozhodnutí nové, může odvolací soud věc vrátit soudu prvního stupně, jen jestliže nelze vadu odstranit ve veřejném zasedání, zejména jsou-li skutková zjištění tak nedostatečná, že je nutno hlavní líčení opakovat nebo provádět rozsáhlé a obtížně proveditelné doplnění dokazování.
+>
+> (2) Záleží-li vada jen v tom, že v napadeném rozsudku některý výrok chybí nebo je neúplný, může odvolací soud, aniž rozsudek zruší, věc soudu prvního stupně vrátit s příkazem, aby o chybějícím výroku rozhodl nebo neúplný výrok doplnil.
+>
+> (3) Rozhodnout sám rozsudkem ve věci může odvolací soud, jen je-li možno nové rozhodnutí učinit na podkladě skutkového stavu, který byl v napadeném rozsudku správně zjištěn a popřípadě na základě důkazů provedených před odvolacím soudem doplněn nebo změněn. Odvolací soud se může odchýlit od skutkového zjištění soudu prvního stupně jen tehdy, jestliže v odvolacím řízení
+>
+> - a) provedl znovu některé pro skutkové zjištění podstatné důkazy provedené již v hlavním líčení, nebo
+>
+> - b) provedl důkazy, které nebyly provedeny v hlavním líčení.
+>
+> (4) V neprospěch obžalovaného může odvolací soud změnit napadený rozsudek jen na podkladě odvolání státního zástupce, jež bylo podáno v neprospěch obžalovaného; ve výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení tak může učinit též na podkladě odvolání poškozeného, který uplatnil nárok na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení.
+>
+> (5) Odvolací soud nemůže sám
+>
+> - a) uznat obžalovaného vinným skutkem, pro nějž byl napadeným rozsudkem zproštěn,
+>
+> - b) uznat obžalovaného vinným těžším trestným činem, než jakým ho mohl v napadeném rozsudku uznat vinným soud prvního stupně (§ 225 odst. 2).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 225
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e32d90a6f989d917cbd0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=896c10dafbdcc399f14b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 260
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> Nelze-li po zrušení rozsudku pokračovat v řízení před soudem pro neodstranitelné procesní vady a není-li důvod pro jiné rozhodnutí, odvolací soud vrátí věc státnímu zástupci k došetření. Ustanovení [[#§ 191|§ 191]] a § 264 odst. 2 tu platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 191, § 264
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=896c10dafbdcc399f14b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3576228e173f5feb61e4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 261
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> Prospívá-li důvod, z něhož rozhodl odvolací soud ve prospěch některého obžalovaného, také dalšímu spoluobžalovanému nebo zúčastněné osobě, rozhodne odvolací soud vždy též v jejich prospěch. Stejně rozhodne ve prospěch obžalovaného, kterému prospívá důvod, z něhož rozhodl ve prospěch zúčastněné osoby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3576228e173f5feb61e4 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f13c8073b9ea09c6bb3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 262
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> Rozhodne-li odvolací soud, že se věc vrací k novému projednání a rozhodnutí soudu prvního stupně, může zároveň nařídit, aby byla projednána a rozhodnuta v jiném složení senátu nebo jiným samosoudcem. Z důležitého důvodu může také nařídit, aby ji projednal a rozhodl jiný soud téhož druhu a téhož stupně v jeho obvodě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f13c8073b9ea09c6bb3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=96b6ed3847e831ad516c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 263 — Řízení u odvolacího soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) O odvolání rozhoduje odvolací soud ve veřejném zasedání. Též v neveřejném zasedání může učinit rozhodnutí
+>
+> - a) podle [[#§ 253|§ 253]], [[#§ 255|255]] a [[#§ 257|257]],
+>
+> - b) podle § 258 odst. 1, je-li zřejmé, že vadu nelze odstranit ve veřejném zasedání.
+>
+> (2) Účast státního zástupce při veřejném zasedání je povinná.
+>
+> (3) Při veřejném zasedání konaném o odvolání musí obžalovaný mít obhájce ve všech případech, kdy ho musí mít při hlavním líčení.
+>
+> (4) V nepřítomnosti obžalovaného, který je ve vazbě nebo ve výkonu trestu odnětí svobody, lze veřejné zasedání odvolacího soudu konat jen tehdy, jestliže obžalovaný výslovně prohlásí, že se účasti při veřejném zasedání vzdává.
+>
+> (5) Po zahájení veřejného zasedání přednese předseda senátu nebo jím určený člen senátu napadený rozsudek a podá zprávu o stavu věci. Potom přednese odvolatel své odvolání a odůvodní je; není-li odvolatel přítomen, přečte odvolání včetně odůvodnění předseda senátu nebo jím určený člen senátu. Státní zástupce a osoby, které mohou být rozhodnutím odvolacího soudu přímo dotčeny, pokud nejsou odvolateli, přednesou své vyjádření a návrhy na provedení dokazování; není-li některá z těchto osob přítomna a je-li vyjádření obsaženo ve spise, anebo požádá-li o to, přednese obsah jejich podání předseda senátu nebo jím určený člen senátu.
+>
+> (6) Po přednesení návrhů ve veřejném zasedání provede odvolací soud důkazy potřebné pro rozhodnutí o odvolání, nejde-li o rozsáhlé a obtížně proveditelné doplnění dokazování, které by znamenalo nahrazovat činnost soudu prvního stupně. Na provádění důkazů se užije ustanovení o provádění důkazů v hlavním líčení. Není-li obviněný přítomen, ač byl řádně předvolán, má se za to, že s přečtením protokolů o výslechu svědků a znalců souhlasí.
+>
+> (7) Z hlediska změny nebo doplnění skutkových zjištění odvolací soud může přihlížet jen k důkazům, které byly provedeny ve veřejném zasedání před odvolacím soudem; tyto důkazy hodnotí v návaznosti na důkazy provedené soudem prvního stupně v hlavním líčení. Odvolací soud je vázán hodnocením těchto důkazů soudem prvního stupně s výjimkou těch důkazů, které odvolací soud sám ve veřejném zasedání znovu provedl.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 253, § 255, § 257, § 258
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96b6ed3847e831ad516c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=42738b11e59455d4d226 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 264 — Řízení u soudu prvního stupně po zrušení rozsudku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Soud, jemuž věc byla vrácena k novému projednání a rozhodnutí, je vázán právním názorem, který vyslovil ve svém rozhodnutí odvolací soud, a je povinen provést úkony a doplnění, jejichž provedení odvolací soud nařídil.
+>
+> (2) Byl-li napadený rozsudek zrušen jen v důsledku odvolání podaného ve prospěch obžalovaného, nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=42738b11e59455d4d226 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=fa9f1f16565fe4a2bbfb generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 265 — Důsledky zrušení výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> Zruší-li odvolací soud napadený rozsudek toliko ve výroku o náhradě škody nebo nemajetkové újmy v penězích nebo o vydání bezdůvodného obohacení a nerozhodne-li sám ve věci, odkáže poškozeného na řízení ve věcech občanskoprávních, popřípadě na řízení před jiným příslušným orgánem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa9f1f16565fe4a2bbfb -->
 
 ## Shrnutí Hlavy XVI
 

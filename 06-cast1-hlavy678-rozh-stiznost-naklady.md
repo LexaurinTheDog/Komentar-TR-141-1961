@@ -328,6 +328,54 @@ Forma rozhodnutí není věcí úvahy: rozsudek pouze tam, kde to zákon výslov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a6c08cb2203aa03a0296 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 119 — Způsob rozhodování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Soud rozhoduje rozsudkem, kde to zákon výslovně stanoví; v ostatních případech rozhoduje, jestliže zákon nestanoví něco jiného, usnesením.
+>
+> (2) Státní zástupce a policejní orgán rozhodují, jestliže zákon nestanoví něco jiného, usnesením.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6c08cb2203aa03a0296 -->
+
 ## Oddíl 1 — Rozsudek (§ 120 – § 133)
 
 ### § 120 — Obsah rozsudku
@@ -1357,6 +1405,58 @@ Stížnost je řádným opravným prostředkem proti usnesení. Proti usnesení 
 
 **Typicky rozhodné důkazy / podklady:** napadené usnesení a jeho poučení, zvláštní ustanovení připouštějící stížnost, údaj o stupni a orgánu, který rozhodl.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4cd3ca498fdf790c8c94 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 141 — Přípustnost a účinek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Opravným prostředkem proti usnesení je stížnost.
+>
+> (2) Stížností lze napadnout každé usnesení policejního orgánu. Usnesení soudu a státního zástupce lze stížností napadnout jen v těch případech, kde to zákon výslovně připouští a jestliže rozhodují ve věci v prvním stupni.
+>
+> (3) Proti usnesení nejvyššího státního zástupce lze podat stížnost pouze tehdy, jestliže podle zákona o stížnosti přísluší rozhodnout soudu. O stížnosti v těchto případech rozhoduje Nejvyšší soud. O stížnosti proti usnesení státního zástupce Nejvyššího státního zastupitelství rozhoduje nejvyšší státní zástupce.
+>
+> (4) Stížnost má odkladný účinek, jen kde to zákon výslovně stanoví.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cd3ca498fdf790c8c94 -->
+
 ## § 142 — Oprávněné osoby
 <details>
 <summary>📜 <strong>Citace § 142 (úplné znění)</strong></summary>
@@ -1418,6 +1518,54 @@ Ustanovení vymezuje, kdo smí podat stížnost: v obecné rovině osoba přímo
 
 **Typicky rozhodné důkazy / podklady:** napadené usnesení a protokol o jeho oznámení; doklad o příbuzenském/partnerském vztahu; evidence společné domácnosti; obsah a důvod návrhu, na jehož podkladě bylo rozhodnuto.
 
+
+<!-- LEGAL-REVISION:BEGIN id=cedea62c323561b994d0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 142 — Oprávněné osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li zákon něco jiného, může stížnost podat osoba, které se usnesení přímo dotýká nebo která k usnesení dala podnět svým návrhem, k němuž ji zákon opravňuje; proti usnesení soudu může podat stížnost též státní zástupce, a to i ve prospěch obviněného. Podal-li návrh podle věty první probační úředník, právo podat stížnost mu nepřísluší.
+>
+> (2) Proti usnesení o vazbě, o ochranném léčení a o zabezpečovací detenci mohou podat stížnost ve prospěch obviněného též osoby, které by mohly podat v jeho prospěch odvolání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cedea62c323561b994d0 -->
+
 ## § 143 — Lhůta a místo
 <details>
 <summary>📜 <strong>Citace § 143 (úplné znění)</strong></summary>
@@ -1474,6 +1622,54 @@ Stížnost se podává do tří dnů od oznámení usnesení, a to u orgánu, pr
 - [ ] U SZ počítat lhůtu samostatně; u osob dle § 142 odst. 2 vázat na lhůtu obviněného.
 
 **Typicky rozhodné důkazy / podklady:** doručenky a protokoly o oznámení usnesení; spisový záznam o datu vyhlášení; obsah poučení v usnesení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=6248adfa204e5cb91c80 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 143 — Lhůta a místo k podání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Stížnost se podává u orgánu, proti jehož usnesení stížnost směřuje, a to do tří dnů od oznámení usnesení ([[#§ 137|§ 137]]); jestliže se usnesení oznamuje jak obviněnému, tak i jeho opatrovníku nebo obhájci, běží lhůta od toho oznámení, které bylo provedeno nejpozději.
+>
+> (2) Osobám, které podle ustanovení § 142 odst. 2 mohou podat stížnost ve prospěch obviněného, končí lhůta k podání stížnosti týmž dnem jako obviněnému; státnímu zástupci však běží lhůta vždy samostatně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 137, § 142
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6248adfa204e5cb91c80 -->
 
 ## § 144 — Vzdání se a zpětvzetí stížnosti
 <details>
@@ -1540,6 +1736,58 @@ Oprávněná osoba se může stížnosti vzdát (odst. 1) nebo ji vzít zpět do
 
 **Typicky rozhodné důkazy / podklady:** podání obsahující stížnost, vzdání se nebo zpětvzetí; protokol o výslovném souhlasu obviněného; doklad o vyrozumění obviněného o zpětvzetí stížnosti SZ; spisový stav o tom, zda bylo již rozhodnuto.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a4d97faf87325f26f7d6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 144 — Vzdání se a zpětvzetí stížnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Oprávněná osoba se může stížnosti výslovně vzdát.
+>
+> (2) Oprávněná osoba může podanou stížnost vzít výslovně zpět, dokud o ní nebylo rozhodnuto. Stížnost státního zástupce může vzít zpět i státní zástupce nadřízený nebo, jde-li o stížnost evropského pověřeného žalobce nebo evropského žalobce, příslušný orgán Úřadu evropského veřejného žalobce.
+>
+> (3) Stížnost podaná ve prospěch obviněného jinou oprávněnou osobou nebo za obviněného obhájcem nebo opatrovníkem může být vzata zpět jen s výslovným souhlasem obviněného. Státní zástupce však může vzít takovou stížnost zpět i bez souhlasu obviněného. V tomto případě běží obviněnému nová lhůta k podání stížnosti od vyrozumění, že stížnost byla vzata zpět.
+>
+> (4) Zpětvzetí stížnosti vezme, není-li překážek, usnesením na vědomí orgán povolaný k rozhodnutí o stížnosti, a nebyla-li věc dosud tomuto orgánu předložena, orgán, proti jehož rozhodnutí stížnost směřuje; v řízení před soudem činí toto rozhodnutí předseda senátu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a4d97faf87325f26f7d6 -->
+
 ## § 145 — Stížnostní důvody
 <details>
 <summary>📜 <strong>Citace § 145 (úplné znění)</strong></summary>
@@ -1600,6 +1848,58 @@ Stížnost lze opřít o nesprávnost výroku napadeného usnesení nebo o poru�
 - [ ] Směřovat námitky k výroku, nikoli jen k odůvodnění bez vlivu na výrok.
 
 **Typicky rozhodné důkazy / podklady:** napadené usnesení a spis předcházejícího řízení; nově předkládané listinné, věcné a osobní důkazy; argumentace o vlivu procesní vady na výrok.
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c141b72e189e9ba7bec generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 145 — Stížnostní důvody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Usnesení lze napadnout
+>
+> - a) pro nesprávnost některého jeho výroku, nebo
+>
+> - b) pro porušení ustanovení o řízení, které usnesení předcházelo, jestliže toto porušení mohlo způsobit nesprávnost některého výroku usnesení.
+>
+> (2) Stížnost lze opřít o nové skutečnosti a důkazy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c141b72e189e9ba7bec -->
 
 ## § 146 — Řízení před orgánem, proti jehož usnesení směřuje (autoremedura)
 <details>
@@ -1687,6 +1987,64 @@ Orgán, proti jehož usnesení stížnost směřuje, jí může sám vyhovět (a
 - [ ] Při nevyhovění předložit věc správnému orgánu dle odst. 2 (resp. soudu dle § 146a).
 
 **Typicky rozhodné důkazy / podklady:** napadené usnesení; doklad o souhlasu/pokynu SZ a o souhlasu s autoremedurou; obsah stížnosti; spis přípravného řízení; předkládací zpráva.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f35f7745b4509480f86b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 146 — Řízení před orgánem, proti jehož usnesení stížnost směřuje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Orgán, proti jehož usnesení stížnost směřuje, může jí sám vyhovět, nedotkne-li se změna původního usnesení práv jiné strany trestního řízení. Jde-li o usnesení policejního orgánu, které bylo vydáno s předchozím souhlasem státního zástupce nebo na jeho pokyn, může policejní orgán sám stížnosti vyhovět jen s předchozím souhlasem státního zástupce.
+>
+> (2) Jestliže lhůta k podání stížnosti již všem oprávněným osobám uplynula a stížnosti nebylo vyhověno podle odstavce 1, předloží věc k rozhodnutí
+>
+> - a) policejní orgán státnímu zástupci, který vykonává nad přípravným řízením dozor, a jde-li o stížnost proti usnesení, k němuž tento státní zástupce dal souhlas nebo pokyn, jeho prostřednictvím nadřízenému státnímu zástupci nebo, je-li takovým státním zástupcem evropský pověřený žalobce nebo evropský žalobce, jeho prostřednictvím příslušnému orgánu Úřadu evropského veřejného žalobce,
+>
+> - b) státní zástupce nadřízenému státnímu zástupci nebo soudu,
+>
+> - c) evropský pověřený žalobce nebo evropský žalobce příslušnému orgánu Úřadu evropského veřejného žalobce nebo soudu,
+>
+> - d) samosoudce okresního soudu nadřízenému krajskému soudu, předseda senátu krajského soudu nadřízenému vrchnímu soudu a předseda senátu vrchního soudu Nejvyššímu soudu; přitom doručí, je-li to potřebné, opis stížnosti státnímu zástupci a osobě, která by mohla být rozhodnutím o stížnosti přímo dotčena,
+>
+> - e) státní zástupce Nejvyššího státního zastupitelství nejvyššímu státnímu zástupci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f35f7745b4509480f86b -->
 
 ## § 146a — Rozhodování soudu o stížnosti proti SZ / policejnímu orgánu
 <details>
@@ -1785,6 +2143,78 @@ Ustanovení zakládá soudní přezkum vybraných usnesení SZ a policejního or
 - [ ] Hlídat orientační pětidenní lhůtu a uplynutí lhůty k podání stížnosti všem oprávněným.
 
 **Typicky rozhodné důkazy / podklady:** napadené usnesení SZ/policejního orgánu; podklady odůvodňující zajištění (původ prostředků, přiměřenost); spis přípravného řízení; předkládací zpráva SZ.
+
+
+<!-- LEGAL-REVISION:BEGIN id=2dc76867a96f66d698fe generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 146a — Rozhodování soudu o stížnosti proti rozhodnutím státního zástupce nebo policejního orgánu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) O stížnosti proti rozhodnutí, kterým státní zástupce
+>
+> - a) rozhodl o vazbě, nejde-li o rozhodnutí o propuštění obviněného z vazby bez přijetí některého opatření nahrazujícího vazbu,
+>
+> - b) rozhodl o žádosti o zrušení omezení spočívajícího v zákazu vycestování do zahraničí, o uložení předběžného opatření (§ 88m odst. 2), o tom, že se nepovolí setkání obviněného s poškozeným, osobou mu blízkou nebo jinou osobou (§ 88d odst. 2), nebo o žádosti o zrušení předběžného opatření (§ 88n odst. 3),
+>
+> - c) zajistil věc, o níž nasvědčují zjištěné skutečnosti tomu, že je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce, rozhodl o omezení takového zajištění nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - d) zajistil náhradní hodnotu, rozhodl o omezení zajištění náhradní hodnoty, nepovolil provedení úkonu týkajícího se zajištěné náhradní hodnoty, nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - e) změnil důvod zajištění věci,
+>
+> - f) zajistil majetek pro účely zajištění nároku poškozeného nebo rozhodl o omezení zajištění, nepovolil provedení úkonu týkajícího se zajištěného majetku, anebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - g) zajistil majetek obviněného pro účely výkonu peněžitého trestu nebo trestu propadnutí majetku, rozhodl o omezení zajištění, nepovolil provedení úkonu týkajícího se zajištěného majetku, anebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - h) zajistil majetek pro účely výkonu zabrání části majetku, rozhodl o omezení takového zajištění, nepovolil provedení úkonu týkajícího se zajištěného majetku, anebo nevyhověl žádosti o zrušení nebo omezení takového zajištění,
+>
+> - i) rozhodl o uložení pořádkové pokuty (§ 66 odst. 1),
+>
+> - j) rozhodl o zničení věci ohrožující bezpečnost lidí nebo majetku (§ 81b odst. 1), nebo
+>
+> - k) rozhodl o nesplnění podmínek podle § 159c odst. 1,
+>
+> rozhoduje zpravidla do pěti dnů po uplynutí lhůty k podání stížnosti všem oprávněným osobám soud, v jehož obvodu je činný státní zástupce, který napadené rozhodnutí vydal; vydal-li napadené rozhodnutí evropský žalobce, rozhoduje soud, v jehož obvodu by byl činný evropský pověřený žalobce, který by byl jinak příslušný k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení.
+>
+> (2) O stížnosti proti rozhodnutí policejního orgánu, kterým rozhodl o uložení pořádkové pokuty, změnil důvod zajištění věci, zajistil věc, o níž nasvědčují zjištěné skutečnosti tomu, že je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce, rozhodl o omezení takového zajištění nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění, zajistil náhradní hodnotu, rozhodl o omezení zajištění náhradní hodnoty nebo nevyhověl žádosti o zrušení nebo omezení takového zajištění, rozhoduje ve lhůtě uvedené v odstavci 1 soud, v jehož obvodu je činný státní zástupce, který ve věci vykonává dozor nad zachováváním zákonnosti v přípravném řízení; vykonává-li dozor nad zachováváním zákonnosti v přípravném řízení evropský žalobce, rozhoduje soud, v jehož obvodu by byl činný evropský pověřený žalobce, který by byl jinak příslušný k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení. Věc předkládá soudu k rozhodnutí státní zástupce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 88m, § 88d, § 88n, § 66, § 81b, § 159c
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2dc76867a96f66d698fe -->
 
 ## §§ 147 – 150 — Rozhodnutí nadřízeného orgánu
 
@@ -2054,6 +2484,222 @@ Orgán rozhodující o stížnosti nesmí z jejího podnětu změnit usnesení v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7ccb8fb61d21425caa50 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 147
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Při rozhodování o stížnosti přezkoumá nadřízený orgán
+>
+> - a) správnost všech výroků napadeného usnesení, proti nimž může stěžovatel podat stížnost, a
+>
+> - b) řízení předcházející napadenému usnesení.
+>
+> (2) Týká-li se stížnost jen některé z více osob nebo jen některé z více věcí, o nichž bylo rozhodnuto týmž usnesením, přezkoumá nadřízený orgán jen správnost výroků týkajících se této osoby nebo této věci a řízení předcházející přezkoumávané části usnesení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ccb8fb61d21425caa50 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f19bcf9556ff666093da generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 148
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Nadřízený orgán zamítne stížnost
+>
+> - a) není-li přípustná,
+>
+> - b) byla-li podána opožděně, osobou neoprávněnou, osobou, která se jí výslovně vzdala nebo která znovu podala stížnost, kterou již předtím výslovně vzala zpět, nebo
+>
+> - c) není-li důvodná.
+>
+> (2) Jako opožděná nemůže být zamítnuta stížnost, kterou oprávněná osoba podala opožděně jen proto, že se řídila nesprávným poučením, které jí bylo dáno při oznámení usnesení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f19bcf9556ff666093da -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=293e99de275c58885ff2 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 149
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Nezamítne-li nadřízený orgán stížnost, zruší napadené usnesení, a je-li podle povahy věci potřeba nového rozhodnutí, buď
+>
+> - a) rozhodne sám ve věci, nebo
+>
+> - b) uloží orgánu, proti jehož rozhodnutí stížnost směřuje, aby o věci znovu jednal a rozhodl.
+>
+> (2) Soud rozhodující o stížnosti proti usnesení o zastavení trestního stíhání může též, je-li to pro náležité objasnění věci potřebné, při zrušení napadeného usnesení vrátit věc státnímu zástupci k došetření, a to i v tom případě, že trestní stíhání bylo zastaveno až po nařízení hlavního líčení ([[#§ 223|§ 223]] a [[#§ 231|231]]). Ustanovení [[#§ 191|§ 191]] platí i tu.
+>
+> (3) Je-li vadná jen část napadeného usnesení a lze-li ji oddělit od ostatních anebo týká-li se stížnost jen části usnesení (§ 147 odst. 2), omezí nadřízený orgán své rozhodnutí podle odstavce 1 jen na onu část.
+>
+> (4) Záleží-li vada v tom, že v napadeném usnesení některý výrok chybí nebo je neúplný, může nadřízený orgán, aniž vysloví zrušení napadeného usnesení, buď sám je doplnit, anebo uložit orgánu, proti jehož rozhodnutí stížnost směřuje, aby o chybějícím výroku rozhodl nebo neúplný výrok doplnil.
+>
+> (5) Soud rozhodující o stížnosti může, pokládá-li to za nutné, nařídit, aby věc byla znovu v prvním stupni projednána a bylo o ní rozhodnuto v jiném složení senátu nebo jiným samosoudcem anebo jiným soudem téhož druhu a téhož stupně v jeho obvodu.
+>
+> (6) Orgán, jemuž byla věc vrácena k novému projednání a rozhodnutí, je při novém rozhodování vázán právním názorem, který ve věci vyslovil orgán nadřízený, a je povinen provést úkony, jejichž provedení tento orgán nařídil.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 223, § 231, § 191, § 147
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=293e99de275c58885ff2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6cb526f61b6bce3ecc88 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 150
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Orgán rozhodující o stížnosti nemůže z jejího podnětu změnit usnesení v neprospěch osoby, která stížnost podala nebo v jejíž prospěch byla stížnost podána.
+>
+> (2) Změní-li nadřízený orgán usnesení ve prospěch obviněného z důvodů, který prospívá také některému spoluobviněnému, změní usnesení také ve prospěch tohoto spoluobviněného.
+>
+> (3) Ustanovení odstavce 1 platí přiměřeně i pro orgán, jemuž byla věc přikázána k novému projednání a rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6cb526f61b6bce3ecc88 -->
+
 # Hlava VIII — Náklady trestního řízení (§ 151 – § 156)
 
 ## § 151 — Náklady nesené státem
@@ -2152,6 +2798,62 @@ Náklady trestního řízení nese stát s výjimkou vlastních nákladů obvin�
 
 **Typicky rozhodné důkazy / podklady:** usnesení o ustanovení obhájce; doklad o okamžiku skončení povinnosti obhajovat; návrh s vyúčtováním podle advokátního tarifu; doklad o registraci plátce DPH.
 
+
+<!-- LEGAL-REVISION:BEGIN id=58c5092ce9ee21c42e1b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 151 — Náklady trestního řízení, jež nese stát
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Náklady nutné k provedení trestního řízení včetně řízení vykonávacího nese stát; nenese však vlastní náklady obviněného, zúčastněné osoby a poškozeného, ani vydání způsobená zvolením obhájce a zmocněnce. Stát však nese náklady na nutnou obhajobu, které obviněnému vznikly v důsledku podání stížnosti pro porušení zákona.
+>
+> (2) Obhájce, který byl obviněnému ustanoven, má vůči státu nárok na odměnu, náhradu hotových výdajů a náhradu za promeškaný čas podle právního předpisu upravujícího odměny a náhrady advokátů za poskytování právních služeb. Nárok je třeba uplatnit do 1 roku ode dne, kdy se obhájce dozvěděl, že povinnost obhajovat skončila, jinak nárok zaniká. Je-li obhájce plátcem daně z přidané hodnoty, jeho nárok se zvyšuje o částku odpovídající této dani, kterou je povinen z odměny za zastupování, z náhrady hotových výdajů a náhrady za promeškaný čas odvést podle zákona upravujícího daň z přidané hodnoty. Ustanovení věty třetí se použije i v případě, kdy obhájce je společníkem právnické osoby zřízené podle zákona upravujícího výkon advokacie a plátcem daně je tato právnická osoba, a v případě, kdy je právním zástupcem advokát, který je zaměstnancem jiného advokáta nebo právnické osoby zřízené za účelem výkonu advokacie podle zákona upravujícího výkon advokacie, a plátcem daně je tento zaměstnavatel advokáta.
+>
+> (3) O výši odměny, náhrady hotových výdajů a náhrady za promeškaný čas rozhodne na návrh obhájce orgán činný v trestním řízení, který vedl řízení v době, kdy obhájci povinnost obhajovat skončila, a to bez zbytečného odkladu, nejpozději do dvou měsíců od podání návrhu. V řízení před soudem rozhodne předseda senátu soudu prvního stupně. Na návrh obhájce může orgán činný v trestním řízení přijmout opatření, aby obhájci byla poskytnuta ještě před skončením trestního stíhání přiměřená záloha na odměnu, náhradu hotových výdajů a náhradu za promeškaný čas, jestliže je to odůvodněno dobou trvání trestního stíhání nebo jinými závažnými důvody.
+>
+> (4) Proti rozhodnutí podle odstavce 3 je přípustná stížnost, jež má odkladný účinek.
+>
+> (5) Odměnu, náhradu hotových výdajů a náhradu za promeškaný čas je třeba uhradit bez zbytečného odkladu po jejich přiznání, nejpozději do 30 dnů.
+>
+> (6) Ustanovení odstavců 2 až 5 se přiměřeně užijí na rozhodování o výši odměny, náhrady hotových výdajů a náhrady za promeškaný čas zvoleného obhájce obviněným, který má nárok na bezplatnou obhajobu nebo obhajobu za sníženou odměnu, a zvoleného nebo ustanoveného zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=58c5092ce9ee21c42e1b -->
+
 ## § 151a — Stát platí znalecký posudek stranou
 <details>
 <summary>📜 <strong>Citace § 151a (úplné znění)</strong></summary>
@@ -2212,6 +2914,54 @@ Obviněný s nárokem na bezplatnou obhajobu (či za sníženou odměnu) a pošk
 - [ ] Poučit o stížnosti proti rozhodnutí (odst. 2).
 
 **Typicky rozhodné důkazy / podklady:** doklad o nároku na bezplatnou obhajobu/ustanovení zmocněnce; odůvodnění potřebnosti posudku a vymezení dokazované skutečnosti; obsah spisu k vyloučení duplicity.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c24c6d3d722cf34b5bf1 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 151a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Obviněný, který má nárok na bezplatnou obhajobu nebo na obhajobu za sníženou odměnu, a poškozený, který má nárok na ustanovení zmocněnce, mohou žádat, aby předseda senátu a v přípravném řízení státní zástupce rozhodl o tom, že stát ponese náklady na znalecký posudek, který obviněný nebo poškozený vyžádá. Žádosti nelze vyhovět, jestliže takový důkaz není pro objasnění věci zřejmě potřebný nebo stejný úkon k prokázání téže skutečnosti již vyžádal orgán činný v trestním řízení.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c24c6d3d722cf34b5bf1 -->
 
 ## § 152 — Povinnost odsouzeného k náhradě nákladů státu
 <details>
@@ -2292,6 +3042,70 @@ Pravomocně odsouzený je povinen nahradit státu náklady výkonu vazby, odměn
 
 **Typicky rozhodné důkazy / podklady:** pravomocný odsuzující rozsudek; doklad o době a nákladech výkonu vazby; vyúčtování odměny ustanoveného obhájce; podklady o výkonu trestu odnětí svobody / domácího vězení a elektronického monitoringu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3f4c72945dc5172cdb96 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 152
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Byl-li obžalovaný pravomocně uznán vinným, je povinen nahradit státu
+>
+> - a) náklady výkonu vazby,
+>
+> - b) náklady, které stát vynaložil na úhradu odměny, náhradu hotových výdajů a náhradu za promeškaný čas ustanovenému obhájci, pokud nemá nárok na obhajobu bezplatnou,
+>
+> - c) náklady spojené s využitím elektronického kontrolního systému,
+>
+> - d) náklady výkonu trestu odnětí svobody,
+>
+> - e) náklady spojené s výkonem trestu domácího vězení a
+>
+> - f) paušální částkou ostatní náklady, jež nese stát.
+>
+> (2) Denní sazbu připadající na náklady spojené s využitím elektronického kontrolního systému a náklady spojené s výkonem trestu domácího vězení a způsob úhrady těchto nákladů stanoví Ministerstvo spravedlnosti obecně závazným právním předpisem.
+>
+> (3) Paušální částku uvedenou v odstavci 1 písm. f) stanoví obecně závazným právním předpisem ministerstvo spravedlnosti.
+>
+> (4) Úhradu nákladů výkonu vazby upravuje [[zákon o výkonu vazby|zákon o výkonu vazby]]. Úhradu nákladů výkonu trestu odnětí svobody upravuje [[zákon o výkonu trestu odnětí svobody|zákon o výkonu trestu odnětí svobody]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f4c72945dc5172cdb96 -->
+
 ## § 153 — Náklady bezvýsledných mimořádných OP
 <details>
 <summary>📜 <strong>Citace § 153 (úplné znění)</strong></summary>
@@ -2350,6 +3164,54 @@ Kdo podal zcela bezvýsledně dovolání nebo návrh na obnovu řízení, nahrad
 - [ ] Hlídat tříletou prekluzi rozhodnutí o náhradě (§ 154a).
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o dovolání/obnově (prokazující bezvýslednost); doklad o ustanovení obhájce pro řízení o návrhu a vyúčtování jeho odměny; údaj o případném nároku na bezplatnou obhajobu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ee7d0b16d88a43a5a708 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 153
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Kdo podal zcela bezvýsledně dovolání nebo návrh na obnovu řízení, je povinen státu nahradit náklady řízení o tomto návrhu, a to paušální částkou, kterou stanoví ministerstvo spravedlnosti obecně závazným právním předpisem. Dále je povinen nahradit státu náklady vynaložené na odměnu, náhradu hotových výdajů a náhradu za promeškaný čas obhájci, pokud byl v souvislosti s takovým návrhem ustanoven, ledaže obviněný má nárok na obhajobu bezplatnou nebo na obhajobu za sníženou odměnu.
+>
+> (2) Povinnost k náhradě podle odstavce 1 nepostihuje státního zástupce a orgán pověřený péčí o mládež.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ee7d0b16d88a43a5a708 -->
 
 ## § 154 — Náklady poškozeného
 <details>
@@ -2419,6 +3281,56 @@ Byl-li poškozenému adhezní nárok přiznán alespoň zčásti, nahradí mu od
 
 **Typicky rozhodné důkazy / podklady:** rozsudek s adhezním výrokem (§ 228/§ 229); vyúčtování zmocněnce dle advokátního tarifu; doklady o účelnosti a výši nákladů; podklady k případnému spoluzavinění poškozeného.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6bcdfc1f19adaf4815e5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 154 — Povinnost k náhradě nákladů spojených s účastí poškozeného v trestním řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) Byl-li poškozenému alespoň zčásti přiznán nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení, je odsouzený, jemuž byla povinnost k náhradě škody nebo nemajetkové újmy v penězích nebo k vydání bezdůvodného obohacení uložena, povinen nahradit poškozenému též náklady potřebné k účelnému uplatnění tohoto nároku v trestním řízení, včetně nákladů vzniklých přibráním zmocněnce.
+>
+> (2) Soud i v případě, že poškozenému nebyl přiznán nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení ani zčásti, rozhodne na návrh poškozeného o tom, že se odsouzenému ukládá povinnost uhradit poškozenému zcela nebo zčásti náklady související s účastí poškozeného v trestním řízení (§ 155 odst. 4), nebrání-li tomu povaha věci a okolnosti případu, zejména spoluzavinění poškozeného. Z důvodů zvláštního zřetele hodných náhradu přiměřeně sníží; přitom vezme v úvahu zejména povahu trestného činu, osobní a majetkové poměry poškozeného a odsouzeného. Snížení nelze provést, jde-li o úmyslný trestný čin.
+>
+> (3) Odsouzený je povinen nahradit státu náklady vzniklé přibráním zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu, nebrání-li tomu povaha věci a okolnosti případu, zejména spoluzavinění poškozeného. Jde-li o nedbalostní trestný čin, soud z důvodů zvláštního zřetele hodných náhradu přiměřeně sníží; přitom vezme v úvahu zejména povahu trestného činu a osobní a majetkové poměry odsouzeného.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 155
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6bcdfc1f19adaf4815e5 -->
+
 ## § 154a — Zánik povinnosti
 <details>
 <summary>📜 <strong>Citace § 154a (úplné znění)</strong></summary>
@@ -2471,6 +3383,52 @@ Povinnost odsouzeného uhradit státu náklady podle § 152 odst. 1 (vyjma nákl
 - [ ] U nákladů výkonu trestu odnětí svobody nezaměňovat s prekludovanými položkami.
 
 **Typicky rozhodné důkazy / podklady:** pravomocný rozsudek; spisový přehled o okamžiku, kdy bylo možné o náhradě poprvé rozhodnout; datum vydání rozhodnutí o náhradě; vymezení druhu nákladů (zda spadají pod § 154a).
+
+
+<!-- LEGAL-REVISION:BEGIN id=dd6130b9b00d962984dc generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 154a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> Povinnost uhradit náklady uvedené v § 152 odst. 1, nejde-li o náklady výkonu trestu odnětí svobody, § 153 odst. 1 a § 154 odst. 3 zaniká, jestliže o ní soud nerozhodl ve lhůtě tří let ode dne, kdy tak mohl poprvé učinit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 152, § 153, § 154
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd6130b9b00d962984dc -->
 
 ## §§ 155 – 156 — Rozhodování o náhradě
 
@@ -2526,6 +3484,108 @@ O náhradě nákladů trestního řízení rozhoduje zpravidla předseda senátu
 **Typicky rozhodné důkazy / podklady:** pravomocný rozsudek (vč. adhezního výroku); datum podání návrhu poškozeného; vyúčtování zmocněnce a dalších nákladů; vymezení druhu nákladů a příslušného režimu lhůty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=087a8cb8e6b6bed3362d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 155
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> (1) O povinnosti odsouzeného k náhradě nákladů výkonu vazby, nákladů spojených s využitím elektronického kontrolního systému při nahrazení vazby a o povinnosti k náhradě nákladů vynaložených státem na úhradu odměny, náhrady hotových výdajů a náhrady za promeškaný čas ustanovenému obhájci [§ 152 odst. 1 písm. a), b)] rozhodne po právní moci rozsudku předseda senátu soudu prvního stupně.
+>
+> (2) O povinnosti odsouzeného k náhradě nákladů spojených s výkonem trestu domácího vězení rozhodne po výkonu trestu nebo jeho části předseda senátu soudu prvního stupně.
+>
+> (3) O povinnosti odsouzeného hradit náklady spojené s využitím elektronického kontrolního systému v jiných případech než uvedených v odstavcích 1 a [[#§ 2|2]] rozhodne předseda senátu soudu, který vydal rozhodnutí, jehož výkon byl kontrolován prostřednictvím elektronického kontrolního systému, a to po ukončení výkonu elektronické kontroly nebo v jejím průběhu.
+>
+> (4) O povinnosti odsouzeného nahradit poškozenému náklady potřebné k účelnému uplatnění nároku na náhradu škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení v trestním řízení nebo jiné náklady související s účastí poškozeného v trestním řízení a o jejich výši rozhodne po právní moci rozsudku na návrh poškozeného předseda senátu soudu prvního stupně; nárok je třeba uplatnit do jednoho roku od právní moci odsuzujícího rozsudku, jinak zaniká.
+>
+> (5) O povinnosti odsouzeného hradit státu náklady vzniklé přibráním zmocněnce poškozeného, který má nárok na právní pomoc poskytovanou zmocněncem bezplatně nebo za sníženou odměnu, a o jejich výši rozhodne po právní moci rozsudku předseda senátu soudu prvního stupně i bez návrhu.
+>
+> (6) Proti rozhodnutí podle odstavců 1 až 5 je přípustná stížnost, jež má odkladný účinek.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 152, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=087a8cb8e6b6bed3362d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=dd67ec68a2bf42852aab generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+### Revizní doplnění k § 156
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+#### Znění ustanovení
+
+> O povinnosti k náhradě nákladů stanovených paušální částkou [§ 152 odst. 1 písm. f) a § 153 odst. 1] rozhodne po právní moci rozsudku předseda senátu soudu prvního stupně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 152, § 153
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd67ec68a2bf42852aab -->
 
 ## Shrnutí Hlav VI–VIII
 

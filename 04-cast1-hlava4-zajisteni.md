@@ -78,6 +78,60 @@ Vazba podle § 67 je *ultima ratio*: vyžaduje důvodnou obavu opřenou o konkr�
 
 **Typicky rozhodné důkazy / podklady:** usnesení o zahájení TS, protokoly o výsleších, záznamy komunikace s neslyšenými svědky, doklady o majetku/pobytu (zejména v cizině), podání vysvětlení obviněného k pobytu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=8d6e87fcc6dd48a32d4e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 67 — Důvody vazby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Obviněný smí být vzat do vazby jen tehdy, jestliže z jeho jednání nebo dalších konkrétních skutečností vyplývá důvodná obava,
+>
+> - a) že uprchne nebo se bude skrývat, aby se tak trestnímu stíhání nebo trestu vyhnul, zejména nelze-li jeho totožnost hned zjistit, nemá-li stálé bydliště anebo hrozí-li mu vysoký trest,
+>
+> - b) že bude působit na dosud nevyslechnuté svědky nebo spoluobviněné nebo jinak mařit objasňování skutečností závažných pro trestní stíhání, nebo
+>
+> - c) že bude opakovat trestnou činnost, pro niž je stíhán, dokoná trestný čin, o který se pokusil, nebo vykoná trestný čin, který připravoval nebo kterým hrozil,
+>
+> a dosud zjištěné skutečnosti nasvědčují tomu, že skutek, pro který bylo zahájeno trestní stíhání, byl spáchán, má všechny znaky trestného činu, jsou zřejmé důvody k podezření, že tento trestný čin spáchal obviněný, a s ohledem na osobu obviněného, povahu a závažnost trestného činu, pro který je stíhán, nelze v době rozhodování účelu vazby dosáhnout jiným opatřením, zejména uložením některého z předběžných opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d6e87fcc6dd48a32d4e -->
+
 ### § 68 — Předpoklady a omezení vazby
 
 **Odst. 1**: Do vazby lze vzít **jen osobu, proti níž bylo zahájeno TS** (§ 160). Rozhodnutí musí být odůvodněno **skutkovými okolnostmi** (ne jen procesními).
@@ -144,6 +198,68 @@ Sazbová bariéra se **neuplatní** pro úmyslné TČ při důvodu vazby § 67 p
 
 **Typicky rozhodné důkazy / podklady:** opis rejstříku trestů (recidiva), protokoly dokládající dřívější ovlivňování, doklady o intenzitě a vážnosti hrozby vůči poškozenému, znění skutkové věty usnesení o zahájení TS.
 
+
+<!-- LEGAL-REVISION:BEGIN id=940e064d7191c6cbcf1c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 68
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Vzít do vazby lze toliko osobu, proti níž bylo zahájeno trestní stíhání. Rozhodnutí o vazbě musí být odůvodněno též skutkovými okolnostmi.
+>
+> (2) Vzít do vazby nelze obviněného, který je stíhán pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody, jehož horní hranice nepřevyšuje dvě léta, nebo pro trestný čin spáchaný z nedbalosti, na který zákon stanoví trest odnětí svobody, jehož horní hranice nepřevyšuje tři léta.
+>
+> (3) Omezení uvedená v odstavci 2 se neužijí, jestliže obviněný
+>
+> - a) uprchl nebo se skrýval,
+>
+> - b) opakovaně se nedostavil na předvolání a nepodařilo se jej předvést ani jinak zajistit jeho účast při úkonu trestního řízení,
+>
+> - c) je neznámé totožnosti a dostupnými prostředky se ji nepodařilo zjistit,
+>
+> - d) již působil na svědky nebo spoluobviněné nebo jinak mařil objasňování skutečností závažných pro trestní stíhání, nebo
+>
+> - e) již opakoval trestnou činnost, pro niž je stíhán, nebo v takové trestné činnosti pokračoval, nebo byl za takovou trestnou činnost v posledních třech letech odsouzen nebo potrestán.
+>
+> (4) Omezení uvedená v odstavci 2 pro úmyslný trestný čin se neužijí, jestliže je dán důvod vazby uvedený v § 67 písm. c) a s přihlédnutím k povaze takového trestného činu vyžaduje vzetí do vazby účinná ochrana poškozeného, zejména ochrana jeho života, zdraví nebo jiného obdobného zájmu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=940e064d7191c6cbcf1c -->
+
 ### § 69 — Příkaz k zatčení
 
 **Kdy:**
@@ -208,6 +324,64 @@ Příkaz k zatčení je krajní nástroj, je-li dán důvod vazby a obviněného
 
 **Typicky rozhodné důkazy / podklady:** příkaz k zatčení, protokol o zatčení s časovým údajem, protokol o dodání a výslechu, záznam o poučení o právech, doklad o vyrozumění konzulárního úřadu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=92ebff0d0539fc439040 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 69 — Příkaz k zatčení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jestliže je dán některý z důvodů vazby ([[#§ 67|§ 67]]) a obviněného nelze předvolat, předvést nebo zadržet a zajistit tak jeho přítomnost u výslechu, vydá v přípravném řízení soudce na návrh státního zástupce a v řízení před soudem předseda senátu příkaz, aby byl obviněný zatčen.
+>
+> (2) Příkaz k zatčení musí vedle údajů zajišťujících, že obviněný nebude zaměněn s jinou osobou, obsahovat stručný popis skutku, pro nějž je obviněný stíhán, označení trestného činu, který se v tomto skutku spatřuje, a přesný popis důvodů, pro které se příkaz k zatčení vydává.
+>
+> (3) Zatčení provedou na podkladě příkazu policejní orgány, které jsou též povinny, je-li toho k provedení příkazu třeba, vypátrat pobyt obviněného.
+>
+> (4) Zatčená osoba má právo zvolit si obhájce, mluvit s ním bez přítomnosti třetí osoby a radit se s ním již v průběhu zatčení. Zatčená osoba má dále právo na své náklady komunikovat prostřednictvím písemných sdělení nebo telefonu s osobou, kterou sama určí, je-li to technicky možné a pokud to okolnosti umožňují, zejména neohrozí-li to dosažení účelu trestního řízení nebo nebrání-li tomu zájem na ochraně oběti; tato komunikace podléhá kontrole. Zatčený cizinec má právo, aby byl o jeho zatčení vyrozuměn konzulární úřad státu, jehož je občanem, a právo na komunikaci s tímto konzulárním úřadem. Nemá-li zatčený cizinec dostatek finančních prostředků, komunikace s konzulárním úřadem se mu umožní bezplatně. O těchto právech je třeba zatčenou osobu poučit a poskytnout jí plnou možnost jejich uplatnění.
+>
+> (5) Policejní orgán, který obviněného na základě příkazu zatkl, je povinen ho neodkladně, nejpozději však do 24 hodin, dodat soudu, jehož soudce příkaz vydal, nebo na místo umožňující tomuto soudu provést výslech prostřednictvím videokonferenčního zařízení; není-li to výjimečně možné vzhledem k nepředvídatelným okolnostem, musí být obviněný dodán nejpozději 24 hodin od zatčení jinému věcně příslušnému soudu. Nestane-li se tak, musí být obviněný propuštěn na svobodu.
+>
+> (6) Soudce soudu, který příkaz k zatčení vydal, musí obviněného neprodleně vyslechnout, rozhodnout o vazbě a toto rozhodnutí oznámit obviněnému do 24 hodin od doby, kdy byl obviněný dodán na místo výslechu. Provádí-li výslech obviněného výjimečně jiný věcně příslušný soudce, jemuž byl obviněný dodán vzhledem k nepředvídatelným okolnostem, informuje o jeho výsledku soudce soudu, který příkaz k zatčení vydal. Tento soudce po získání informace o výslechu rozhodne o vazbě a své rozhodnutí oznámí prostřednictvím soudce provádějícího výslech obviněnému. Není-li obviněnému rozhodnutí o vazbě oznámeno do 24 hodin od doby, kdy byl dodán na místo výslechu, musí být propuštěn na svobodu. Obviněný má právo požadovat, aby obhájce byl přítomen při jeho výslechu, pokud je v uvedené lhůtě dosažitelný.
+>
+> (7) Obviněného, který byl vzat do vazby, dodají do místa výkonu vazby policejní orgány.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92ebff0d0539fc439040 -->
+
 ### § 70 — Vyrozumění o vazbě
 
 **Odst. 1**: O vzetí do vazby je třeba **bez průtahů vyrozumět**:
@@ -259,6 +433,64 @@ Neplatí, pokud obviněný **nesouhlasí**, vyjma vyrozumění **rodinného př�
 
 **Typicky rozhodné důkazy / podklady:** protokol o výslechu s vyjádřením obviněného o vyrozumění, záznamy o odeslaných vyrozuměních, doklad o postavení obviněného (služební poměr, povolání), údaje o závislých osobách.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f7beef3b58e608f361c2 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 70 — Vyrozumění o vazbě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O vzetí do vazby je třeba bez průtahů vyrozumět některého rodinného příslušníka obviněného nebo jinou fyzickou osobu, u nichž obviněný uvede údaje potřebné k vyrozumění, jakož i jeho zaměstnavatele; to neplatí, prohlásí-li obviněný, že s takovým vyrozuměním nesouhlasí, ledaže jde o vyrozumění rodinného příslušníka mladistvého.
+>
+> (2) O vzetí do vazby
+>
+> - a) příslušníka bezpečnostního sboru nebo zaměstnance České republiky zařazeného k výkonu práce v bezpečnostním sboru se vyrozumí též ředitel tohoto bezpečnostního sboru nebo, jde-li o vzetí do vazby ředitele bezpečnostního sboru, nadřízený ředitele bezpečnostního sboru14),
+>
+> - b) vojáka z povolání nebo vojáka v aktivní záloze se vyrozumí též ministr obrany,
+>
+> - c) státního zaměstnance se vyrozumí též služební orgán ve služebním úřadu, v němž státní zaměstnanec vykonává státní službu,
+>
+> - d) znalce, soudního tlumočníka nebo soudního překladatele se vyrozumí též Ministerstvo spravedlnosti,
+>
+> - e) cizince a o jeho propuštění z vazby se vyrozumí též konzulární úřad státu, jehož je cizinec občanem, pokud o to cizinec požádá, nestanoví-li jinak vyhlášená mezinárodní smlouva, kterou je Česká republika vázána.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7beef3b58e608f361c2 -->
+
 ### § 70a — Vyrozumění věznice
 
 **Bezprostřední vyrozumění věznice o:**
@@ -309,6 +541,72 @@ Praktický význam pro **správu vazby**.
 - [ ] Byly nahlášeny údaje o dalším trvání / propuštění a o postoupení věci či podání obžaloby?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o vazbě a jejích změnách, oznámení o zvolení/ustanovení obhájce, doklad o datu a obsahu vyrozumění věznice, evidence korespondence obviněného.
+
+
+<!-- LEGAL-REVISION:BEGIN id=517035d3dbf7059607b6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 70a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Příslušnou věznici je třeba bez průtahů vyrozumět o
+>
+> - a) vzetí obviněného do vazby,
+>
+> - b) změně důvodů vazby,
+>
+> - c) rozhodnutí o dalším trvání vazby,
+>
+> - d) rozhodnutí o propuštění obviněného z vazby,
+>
+> - e) zákonném označení trestných činů, pro které je obviněný stíhán, nebo o jeho změně,
+>
+> - f) jménu, příjmení a adrese obhájce, který obviněného zastupuje,
+>
+> - g) osobních údajích spoluobviněného, pokud se nachází ve vazbě,
+>
+> - h) postoupení věci jinému orgánu činnému v trestním řízení,
+>
+> - i) podání obžaloby, návrhu na schválení dohody o vině a trestu nebo o pravomocném rozhodnutí o vrácení věci státnímu zástupci k došetření.
+>
+> (2) Vyrozumění podle odstavce 1 provede orgán činný v trestním řízení, který vede řízení v době, kdy došlo ke skutečnosti, kterou je třeba věznici oznámit; vrácení věci státnímu zástupci k došetření oznamuje soud, který takové rozhodnutí v prvním stupni učinil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=517035d3dbf7059607b6 -->
 
 ### § 71 — Přezkoumávání trvání vazby
 
@@ -366,6 +664,66 @@ Soudce v přípravném řízení rozhoduje:
 
 **Typicky rozhodné důkazy / podklady:** přehled stavu dokazování, doklady o změně (zániku) vazebních rizik, dosavadní právní kvalifikace a očekávaná sankce, návrhy na nahrazení vazby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5a7ba6e4f64724f45506 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 71 — Přezkoumávání trvání důvodů vazby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Orgány činné v trestním řízení jsou povinny průběžně zkoumat, zda důvody vazby u obviněného ještě trvají nebo se nezměnily a zda nelze vazbu nahradit některým z opatření uvedených v [[#§ 73|§ 73]] a [[#§ 73a|73a]]. Přihlížejí při tom také k tomu, zda ponechání obviněného ve vazbě vyžaduje obtížnost věci nebo jiné závažné důvody, pro které nelze trestní stíhání skončit, a zda by propuštěním obviněného z vazby bylo zmařeno nebo podstatně ztíženo dosažení účelu trestního stíhání. Soudce tak činí v přípravném řízení pouze při rozhodování o
+>
+> - a) žádosti obviněného o propuštění z vazby,
+>
+> - b) návrhu státního zástupce na rozhodnutí o ponechání obviněného ve vazbě,
+>
+> - c) změně důvodů vazby, jestliže byl shledán nový důvod vazby, nebo
+>
+> - d) stížnosti proti usnesení státního zástupce o vazbě.
+>
+> (2) Obviněný musí být neprodleně propuštěn z vazby, jestliže
+>
+> - a) pomine důvod vazby, nebo
+>
+> - b) je zřejmé, že vzhledem k osobě obviněného a k povaze a závažnosti věci trestní stíhání nepovede k uložení nepodmíněného trestu odnětí svobody, a nejsou-li dány okolnosti uvedené v § 68 odst. 3 a [[#§ 4|4.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 73, § 73a, § 68, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5a7ba6e4f64724f45506 -->
+
 ### § 71a — Žádost o propuštění z vazby
 
 > *Obviněný má právo kdykoli po právní moci rozhodnutí o vzetí do vazby žádat o propuštění z vazby.*
@@ -412,6 +770,52 @@ Soudce v přípravném řízení rozhoduje:
 
 **Typicky rozhodné důkazy / podklady:** data podání a vyřízení předchozích žádostí, srovnání odůvodnění (test „nových důvodů"), doklady k nově tvrzeným skutečnostem (zázemí, zaměstnání), spisový přehled lhůt.
 
+
+<!-- LEGAL-REVISION:BEGIN id=88dcee7c94893ec6462f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 71a — Žádost o propuštění z vazby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Obviněný má právo kdykoli po právní moci rozhodnutí o vzetí do vazby žádat o propuštění z vazby. Za žádost o propuštění z vazby se považuje i návrh obviněného na přijetí některého z opatření nahrazujících vazbu. O takové žádosti musí být rozhodnuto bez zbytečného odkladu. Byla-li žádost zamítnuta, může ji obviněný, neuvede-li v ní jiné důvody, opakovat až po uplynutí 30 dnů od právní moci posledního rozhodnutí, kterým byla zamítnuta jeho žádost o propuštění z vazby, nebo kterým bylo rozhodnuto o dalším trvání vazby nebo o změně důvodů vazby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88dcee7c94893ec6462f -->
+
 ### § 72 — Rozhodování o dalším trvání vazby (3měsíční přezkum)
 
 **Odst. 1**: V přípravném řízení **nejpozději každé 3 měsíce** od právní moci rozhodnutí o vzetí do vazby → soudce **na návrh SZ** rozhodne. Jinak **neprodlené propuštění**.
@@ -457,6 +861,58 @@ Soudce v přípravném řízení rozhoduje:
 - [ ] Po obžalobě: rozhodne soud do 30 dnů a dále přiměřeně po 3 měsících (odst. 3)?
 
 **Typicky rozhodné důkazy / podklady:** doložka právní moci usnesení o vazbě, spisová evidence lhůt, návrh SZ s datem podání, usnesení soudce o dalším trvání s datem vydání.
+
+
+<!-- LEGAL-REVISION:BEGIN id=910510ff39c7953d3f9b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 72 — Rozhodování o dalším trvání vazby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nejpozději každé tři měsíce od právní moci rozhodnutí o vzetí do vazby nebo právní moci jiného rozhodnutí o vazbě je v přípravném řízení soudce povinen rozhodnout na návrh státního zástupce o tom, zda se obviněný i nadále ponechává ve vazbě, nebo zda se z vazby propouští. Jinak musí být obviněný neprodleně propuštěn z vazby.
+>
+> (2) Návrh státního zástupce na vydání rozhodnutí soudce o dalším trvání vazby podle odstavce 1 je třeba doručit soudu nejpozději 15 dnů před uplynutím lhůty tří měsíců.
+>
+> (3) Soud je povinen nejpozději do 30 dnů ode dne, kdy u něj byla podána obžaloba proti obviněnému, který je ve vazbě, nebo návrh na schválení dohody o vině a trestu sjednané s obviněným, který je ve vazbě, nebo kdy mu byl doručen spis na základě rozhodnutí o postoupení nebo přikázání věci obviněného, který je ve vazbě, rozhodnout, zda se obviněný ponechává i nadále ve vazbě, nebo zda se z vazby propouští; jinak musí být obviněný neprodleně propuštěn z vazby. Ponechá-li soud obviněného ve vazbě, nebo rozhodne-li soud o vzetí obviněného do vazby až po podání obžaloby nebo návrhu na schválení dohody o vině a trestu, je povinen postupovat přiměřeně podle odstavce 1.
+>
+> (4) Jestliže tříměsíční lhůta pro rozhodnutí soudu o dalším trvání vazby skončí v průběhu řízení o opravném prostředku před nadřízeným soudem, je k rozhodnutí o ponechání obviněného ve vazbě nebo o jeho propuštění z vazby příslušný tento nadřízený soud; při předložení spisu jej soud, proti jehož rozhodnutí byl podán opravný prostředek, vyrozumí o konci této lhůty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=910510ff39c7953d3f9b -->
 
 ### § 72a — Nejvyšší přípustná doba trvání vazby
 
@@ -514,6 +970,68 @@ Pokud řízení skončí před uplynutím, ok. Pokud ne, **nejpozději poslední
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení (počátek běhu), přehled fází řízení, rozhodnutí o mimořádném opravném prostředku / nálezu ÚS, právní kvalifikace skutku (typ TČ).
 
+
+<!-- LEGAL-REVISION:BEGIN id=43691a51c06d92a989df generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 72a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Vazba může trvat v přípravném řízení a v řízení před soudem jen nezbytně nutnou dobu. Celková doba trvání vazby v trestním řízení nesmí přesáhnout
+>
+> - a) jeden rok, je-li vedeno trestní stíhání pro přečin,
+>
+> - b) dva roky, je-li vedeno trestní stíhání pro zločin,
+>
+> - c) tři roky, je-li vedeno trestní stíhání pro zvlášť závažný zločin,
+>
+> - d) čtyři roky, je-li vedeno trestní stíhání pro zvlášť závažný zločin, za který lze podle [[trestního zákona|trestního zákona]] uložit výjimečný trest.
+>
+> (2) Z doby uvedené v odstavci 1 připadá jedna třetina na přípravné řízení a dvě třetiny na řízení před soudem. Není-li přípravné řízení nebo řízení před soudem před uplynutím této doby skončeno, musí být nejpozději v poslední den této lhůty obviněný propuštěn z vazby. Je-li obviněný stíhán pro dva nebo více trestných činů, je pro určení této doby rozhodující čin nejpřísněji trestný. Je-li skutek, pro který bylo zahájeno trestní stíhání, jiným trestným činem, a délka vykonané vazby již přesáhla dobu stanovenou pro přípravné řízení nebo řízení před soudem, obviněný musí být neprodleně propuštěn z vazby.
+>
+> (3) Vazba z důvodu uvedeného v § 67 písm. b) může trvat nejdéle tři měsíce. Nebyl-li obviněný, který není ve vazbě současně i z jiného důvodu, propuštěn z vazby před uplynutím lhůty uvedené ve větě první, musí být propuštěn nejpozději poslední den této lhůty. Bylo-li zjištěno, že obviněný již působil na svědky nebo spoluobviněné nebo jinak mařil objasňování skutečností závažných pro trestní stíhání [§ 68 odst. 3 písm. d)], rozhodne o ponechání obviněného ve vazbě nad stanovenou lhůtu v přípravném řízení na návrh státního zástupce soudce a po podání obžaloby nebo návrhu na schválení dohody o vině a trestu soud.
+>
+> (4) Doba trvání vazby se počítá ode dne, kdy došlo k omezení osobní svobody obviněného. Při vrácení věci státnímu zástupci k došetření pokračuje běh lhůty, která připadá na přípravné řízení, ode dne, kdy byl spis doručen státnímu zástupci.
+>
+> (5) Doba trvání vazby, o níž bylo rozhodnuto v řízení o dovolání (§ 265l odst. 4 a § 265o odst. 2), o stížnosti pro porušení zákona (§ 275 odst. 3), o návrhu na povolení obnovy řízení (§ 282 odst. 2 a [[#§ 287|§ 287]]), po zrušení výroku o trestu nálezem Ústavního soudu (§ 314k odst. 1) nebo v řízení o výkonu trestu vyhoštění (§ 350c odst. 1), se posuzuje samostatně a nezávisle na vazbě v původním řízení. Ustanovení věty první se užije obdobně na vazbu v řízení podle [[zákona o mezinárodní justiční spolupráci ve věcech trestních|zákona o mezinárodní justiční spolupráci ve věcech trestních]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67, § 68, § 265l, § 265o, § 275, § 282, § 287, § 314k, § 350c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=43691a51c06d92a989df -->
+
 ### § 72b — Nezapočítání vazby po zvlášť závažném zločinu
 
 Pokud soud **vyhlásil** rozsudek odsuzující k nepodmíněnému trestu odnětí svobody **za ZZZ**, doba vazby **od vyhlášení do nařízení výkonu trestu** (nebo zrušení rozsudku) **se nezapočítává** do celkové doby vazby § 72a.
@@ -555,6 +1073,52 @@ Reziduum z dřívější úpravy umožňující dlouhodobé zajištění závaž
 - [ ] Nebyl rozsudek zrušen (čímž by se obnovil běh podle § 72a)?
 
 **Typicky rozhodné důkazy / podklady:** odsuzující rozsudek za ZZZ s datem vyhlášení, doklad o nařízení výkonu trestu nebo o zrušení rozsudku, evidence doby vazby a její počítání podle § 72a.
+
+
+<!-- LEGAL-REVISION:BEGIN id=915d4e9d8dced33387b9 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 72b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Byl-li soudem vyhlášen rozsudek, kterým byl obviněný odsouzen pro zvlášť závažný zločin k nepodmíněnému trestu odnětí svobody, nezapočítává se doba vazby od vyhlášení takového rozsudku do nařízení výkonu uloženého trestu odnětí svobody nebo do zrušení takového rozsudku do celkové doby trvání vazby podle § 72a odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 72a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=915d4e9d8dced33387b9 -->
 
 ### § 73 — Nahrazení vazby
 
@@ -608,6 +1172,74 @@ Reziduum z dřívější úpravy umožňující dlouhodobé zajištění závaž
 - [ ] Byl obviněný poučen, že porušení povinností vede ke vzetí do vazby (odst. 8)?
 
 **Typicky rozhodné důkazy / podklady:** identifikace vazebního důvodu, nabídka a doklady o důvěryhodnosti ručitele/zájmového sdružení, písemný slib obviněného, souhlas s monitoringem, cestovní doklad (pro odejmutí).
+
+
+<!-- LEGAL-REVISION:BEGIN id=0209a5c5f47b860b5084 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73 — Nahrazení vazby zárukou, dohledem, předběžným opatřením nebo slibem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li dán důvod vazby uvedený v § 67 písm. a) nebo c), může orgán rozhodující o vazbě ponechat obviněného na svobodě nebo ho propustit na svobodu, jestliže
+>
+> - a) zájmové sdružení občanů uvedené v § 3 odst. 1, anebo důvěryhodná osoba schopná příznivě ovlivňovat chování obviněného, nabídnou převzetí záruky za další chování obviněného a za to, že se obviněný na vyzvání dostaví k soudu, státnímu zástupci nebo policejnímu orgánu a že vždy předem oznámí vzdálení se z místa pobytu, a orgán rozhodující o vazbě považuje záruku vzhledem k osobě obviněného a k povaze projednávaného případu za dostatečnou a přijme ji,
+>
+> - b) obviněný dá písemný slib, že povede řádný život, zejména že se nedopustí trestné činnosti, na vyzvání se dostaví k soudu, státnímu zástupci nebo policejnímu orgánu, vždy předem oznámí vzdálení se z místa pobytu a že splní povinnosti a dodrží omezení, která se mu uloží, a orgán rozhodující o vazbě považuje slib vzhledem k osobě obviněného a k povaze projednávaného případu za dostatečný a přijme jej,
+>
+> - c) s ohledem na osobu obviněného a povahu projednávaného případu lze účelu vazby dosáhnout dohledem probačního úředníka nad obviněným, nebo
+>
+> - d) zároveň rozhodne o uložení některého z předběžných opatření.
+>
+> (2) Soud a v přípravném řízení státní zástupce seznámí toho, kdo nabízí převzetí záruky podle odstavce 1 písm. a) a splňuje podmínky pro její přijetí, s podstatou obvinění a se skutečnostmi, v nichž je shledáván důvod vazby.
+>
+> (3) Obviněný, nad nímž byl vysloven dohled probačního úředníka nahrazující vazbu, je povinen se ve stanovených lhůtách dostavit k probačnímu úředníkovi, změnit místo pobytu pouze s jeho souhlasem a podrobit se dalším omezením stanoveným ve výroku rozhodnutí, která směřují k tomu, aby se nedopustil trestné činnosti a nemařil průběh trestního řízení. Orgán rozhodující o vazbě může současně uložit obviněnému povinnost zdržovat se ve stanoveném časovém období v určeném obydlí nebo jeho části, nebrání-li mu v tom důležité důvody, zejména výkon zaměstnání nebo povolání nebo poskytnutí zdravotních služeb u poskytovatele zdravotních služeb v důsledku jeho onemocnění nebo úrazu; pro stanovení časového období se použije přiměřeně [[§ 60 odst. 4|§ 60 odst. 4]] [[trestního zákoníku|trestního zákoníku]]. Obviněný je povinen probačnímu úředníkovi umožnit vstup do určeného obydlí nebo jeho části.
+>
+> (4) V souvislosti s nahrazením vazby některým opatřením uvedeným v odstavci 1 může orgán rozhodující o vazbě rozhodnout o výkonu elektronické kontroly plnění povinností uložených v souvislosti s tímto opatřením prostřednictvím elektronického kontrolního systému umožňujícího detekci pohybu obviněného, jestliže obviněný slíbí, že při výkonu elektronické kontroly poskytne veškerou potřebnou součinnost. Před tím orgán rozhodující o vazbě obviněného poučí o průběhu elektronické kontroly.
+>
+> (5) V souvislosti s nahrazením vazby některým opatřením uvedeným v odstavci 1 může orgán rozhodující o vazbě současně uložit obviněnému omezení spočívající v zákazu vycestování do zahraničí. V takovém případě orgán rozhodující o vazbě vyzve obviněného nebo toho, kdo má cestovní doklad obviněného u sebe, aby mu cestovní doklad10) ve lhůtě jím stanovené vydal, jinak mu bude odejmut; na postup při odnětí cestovního dokladu se [[#§ 79|§ 79]] použije přiměřeně. Opis usnesení, kterým bylo rozhodnuto o uložení omezení spočívajícího v zákazu vycestování do zahraničí, které se týká státního občana České republiky, zašle orgán rozhodující o vazbě orgánu příslušnému k vydání cestovního dokladu; tento orgán také vyrozumí o vydání nebo odnětí cestovního dokladu.
+>
+> (6) Obviněný, kterému bylo v souvislosti s nahrazením vazby uloženo omezení uvedené v odstavci 4 nebo [[#§ 5|5]], má právo kdykoliv žádat o jeho zrušení. O takové žádosti musí orgán rozhodující o vazbě rozhodnout bez zbytečného odkladu. Byla-li žádost zamítnuta, může ji obviněný, neuvede-li nové důvody, opakovat až po uplynutí tří měsíců ode dne nabytí právní moci rozhodnutí.
+>
+> (7) Orgán, který rozhodl o zrušení omezení spočívajícího v zákazu vycestování do zahraničí, které se týká státního občana České republiky, vyrozumí o této skutečnosti bez zbytečného odkladu orgán příslušný k vydání cestovního dokladu; tento orgán rovněž vyrozumí o vrácení cestovního dokladu obviněnému.
+>
+> (8) Neplní-li obviněný povinnosti uložené v souvislosti s nahrazením vazby některým opatřením uvedeným v odstavci 1 a trvají-li důvody vazby, soud a v přípravném řízení na návrh státního zástupce soudce rozhodne o vazbě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67, § 3, § 60, § 79, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0209a5c5f47b860b5084 -->
 
 ### § 73a — Peněžitá záruka (kauce)
 
@@ -680,6 +1312,80 @@ Pokud více poškozených → **poměrné uspokojení**.
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o přijetí kauce, poučení složitele, doklady o nedostavení / útěku / neoznámení pobytu, přihláška nároku poškozeného, podklady k majetkovým poměrům.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7131988ecd014115bca0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73a — Peněžitá záruka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li dán důvod vazby uvedený v § 67 písm. a) nebo c), může orgán rozhodující o vazbě ponechat obviněného na svobodě nebo ho propustit na svobodu též tehdy, jestliže přijme složenou peněžitou záruku, jejíž výši určil. Je-li však obviněný stíhán pro trestný čin vraždy ([[§ 140|§ 140]] [[trestního zákoníku|trestního zákoníku]]), těžkého ublížení na zdraví ([[§ 145|§ 145]] [[trestního zákoníku|trestního zákoníku]]), mučení a jiného nelidského a krutého zacházení podle [[§ 149 odst. 3|§ 149 odst. 3]], [[4|4]] [[trestního zákoníku|trestního zákoníku]], obchodování s lidmi ([[§ 168|§ 168]] [[trestního zákoníku|trestního zákoníku]]), loupeže podle [[§ 173 odst. 4|§ 173 odst. 4]] [[trestního zákoníku|trestního zákoníku]], braní rukojmí podle [[§ 174 odst. 3|§ 174 odst. 3]], [[4|4]] [[trestního zákoníku|trestního zákoníku]], znásilnění podle [[§ 185 odst. 3|§ 185 odst. 3]], [[4|4]] [[trestního zákoníku|trestního zákoníku]], sexuálního útoku podle [[§ 185a odst. 3|§ 185a odst. 3]], [[4|4]] [[trestního zákoníku|trestního zákoníku]], sexuálního nátlaku podle [[§ 186 odst. 5|§ 186 odst. 5]], [[6|6]] [[trestního zákoníku|trestního zákoníku]], pohlavního zneužití podle [[§ 187 odst. 2|§ 187 odst. 2]], [[3|3]] [[trestního zákoníku|trestního zákoníku]], obecného ohrožení podle [[§ 272 odst. 2|§ 272 odst. 2]], [[3|3]] [[trestního zákoníku|trestního zákoníku]], vývoje, výroby a držení zakázaných bojových prostředků ([[§ 280|§ 280]] [[trestního zákoníku|trestního zákoníku]]), neoprávněné výroby a jiného nakládání s omamnými nebo psychotropními látkami, s rostlinami nebo houbami je obsahujícími nebo s jedy podle [[§ 283 odst. 3|§ 283 odst. 3]], [[4|4]] [[trestního zákoníku|trestního zákoníku]], získání kontroly nad vzdušným dopravním prostředkem, civilním plavidlem a pevnou plošinou ([[§ 290|§ 290]] [[trestního zákoníku|trestního zákoníku]]), zavlečení vzdušného dopravního prostředku do ciziny podle [[§ 292 odst. 2|§ 292 odst. 2]], [[3|3]] [[trestního zákoníku|trestního zákoníku]], vlastizrady ([[§ 309|§ 309]] [[trestního zákoníku|trestního zákoníku]]), rozvracení republiky ([[§ 310|§ 310]] [[trestního zákoníku|trestního zákoníku]]), teroristického útoku ([[§ 311|§ 311]] [[trestního zákoníku|trestního zákoníku]]), teroru ([[§ 312|§ 312]] [[trestního zákoníku|trestního zákoníku]]), sabotáže ([[§ 314|§ 314]] [[trestního zákoníku|trestního zákoníku]]), vyzvědačství ([[§ 316|§ 316]] [[trestního zákoníku|trestního zákoníku]]), spolupráce s nepřítelem ([[§ 319|§ 319]] [[trestního zákoníku|trestního zákoníku]]), válečné zrady ([[§ 320|§ 320]] [[trestního zákoníku|trestního zákoníku]]), genocidia ([[§ 400|§ 400]] [[trestního zákoníku|trestního zákoníku]]), útoku proti lidskosti ([[§ 401|§ 401]] [[trestního zákoníku|trestního zákoníku]]), apartheidu a diskriminace skupiny lidí ([[§ 402|§ 402]] [[trestního zákoníku|trestního zákoníku]]), agrese ([[§ 405a|§ 405a]] [[trestního zákoníku|trestního zákoníku]]), přípravy útočné války ([[§ 406|§ 406]] [[trestního zákoníku|trestního zákoníku]]), styků ohrožujících mír ([[§ 409|§ 409]] [[trestního zákoníku|trestního zákoníku]]), použití zakázaného bojového prostředku a nedovoleného vedení boje ([[§ 411|§ 411]] [[trestního zákoníku|trestního zákoníku]]), válečné krutosti ([[§ 412|§ 412]] [[trestního zákoníku|trestního zákoníku]]), perzekuce obyvatelstva ([[§ 413|§ 413]] [[trestního zákoníku|trestního zákoníku]]), plenění v prostoru válečných operací ([[§ 414|§ 414]] [[trestního zákoníku|trestního zákoníku]]), zneužití mezinárodně uznávaných a státních znaků ([[§ 415|§ 415]] [[trestního zákoníku|trestního zákoníku]]), nebo zneužití vlajky a příměří ([[§ 416|§ 416]] [[trestního zákoníku|trestního zákoníku]]), a je-li dán důvod vazby uvedený v § 67 písm. c), nelze peněžitou záruku přijmout. Se souhlasem obviněného může peněžitou záruku složit i jiná osoba, musí však být před jejím přijetím seznámena s podstatou obvinění a se skutečnostmi, v nichž je shledáván důvod vazby.
+>
+> (2) Na návrh obviněného nebo osoby, která nabízí složení peněžité záruky, orgán uvedený v odstavci 1 rozhodne, že
+>
+> - a) přijetí peněžité záruky je přípustné, a zároveň s přihlédnutím k osobě a k majetkovým poměrům obviněného nebo toho, kdo za něho složení peněžité záruky nabízí, k povaze a závažnosti trestného činu, pro který je obviněný stíhán, a závažnosti důvodů vazby určí výši peněžité záruky v odpovídající hodnotě od 10 000 Kč výše a způsob jejího složení, nebo
+>
+> - b) vzhledem k okolnostem případu nebo závažnosti skutečností odůvodňujících vazbu nabídku peněžité záruky nepřijímá.
+>
+> (3) Pokud orgán uvedený v odstavci 1 rozhodne, že přijetí peněžité záruky je přípustné, může zároveň rozhodnout o uložení omezení spočívajícího v zákazu vycestování do zahraničí. Pro případy podle věty první se § 73 odst. 5 až 7 použijí obdobně.
+>
+> (4) Soud a v přípravném řízení na návrh státního zástupce soudce rozhodne, že peněžitá záruka připadá státu, jestliže obviněný
+>
+> - a) uprchne, skrývá se nebo neoznámí změnu svého pobytu, a znemožní tak doručení předvolání nebo jiné písemnosti soudu, státního zástupce nebo policejního orgánu,
+>
+> - b) zaviněně se nedostaví na předvolání k úkonu trestního řízení, jehož provedení je bez jeho přítomnosti vyloučeno,
+>
+> - c) opakuje trestnou činnost nebo se pokusí dokonat trestný čin, který dříve nedokonal nebo který připravoval nebo kterým hrozil, nebo
+>
+> - d) se vyhýbá výkonu uloženého trestu odnětí svobody nebo peněžitého trestu.
+>
+> (5) Peněžitou záruku zruší nebo změní její výši na návrh obviněného nebo osoby, která ji složila, anebo i bez návrhu soud nebo státní zástupce, který v té době vede řízení, jestliže pominuly důvody, které k jejímu přijetí vedly, nebo se změnily okolnosti rozhodné pro určení její výše. Rozhodne-li o zrušení peněžité záruky nebo o jejím připadnutí státu, přezkoumá zároveň, zda nejsou dány důvody pro rozhodnutí o vzetí do vazby, a případně provede potřebné úkony.
+>
+> (6) Nerozhodne-li soud jinak, trvá peněžitá záruka u obviněného, který byl pravomocně odsouzen k nepodmíněnému trestu odnětí svobody nebo peněžitému trestu, do dne, kdy obviněný nastoupí výkon trestu odnětí svobody, zaplatí peněžitý trest a náklady trestního řízení; odstavec 7 tím není dotčen. Nezaplatí-li obviněný peněžitý trest nebo náklady trestního řízení ve stanovené lhůtě, na jejich zaplacení se použijí prostředky z peněžité záruky.
+>
+> (7) Byla-li odsuzujícím rozsudkem obviněnému uložena povinnost nahradit poškozenému majetkovou škodu nebo nemajetkovou újmu v penězích a poškozený o to ve stanovené lhůtě požádá, peněžitá záruka se poté, co odsouzený splnil své povinnosti uvedené v odstavci 6, použije k úhradě pohledávky poškozeného. Nepostačují-li prostředky z peněžité záruky k uspokojení pohledávek všech poškozených, tyto pohledávky se uspokojí poměrně.
+>
+> (8) Jakmile je možno peněžitou záruku použít k úhradě pohledávky poškozeného podle odstavce 7, soud o tom poškozeného vyrozumí. Nepožádá-li poškozený o využití peněžité záruky k úhradě své pohledávky do tří měsíců od tohoto vyrozumění, peněžitá záruka se vrátí odsouzenému nebo osobě, která peněžitou záruku složila. O tom je třeba poškozeného poučit.
+>
+> (9) Na důvody, pro které peněžitá záruka může připadnout státu, být použita na zaplacení peněžitého trestu, nákladů trestního řízení nebo k uhrazení pohledávky poškozeného, musí být obviněný a osoba, která peněžitou záruku složila, předem upozorněni.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67, § 140, § 145, § 149, § 168, § 173, § 174, § 185, § 185a, § 186, § 187, § 272, § 280, § 283, § 290, § 292, § 309, § 310, § 311, § 312, § 314, § 316, § 319, § 320, § 400, § 401, § 402, § 405a, § 406, § 409, § 411, § 412, § 413, § 414, § 415, § 416, § 73
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7131988ecd014115bca0 -->
+
 ### § 73aa — Trvání opatření nahrazujícího vazbu
 
 > *Opatření nahrazující vazbu může trvat jen po dobu nezbytně nutnou, po kterou trvají důvody vazby a je ho zapotřebí k jejímu nahrazení. Celková doba trvání opatření nahrazujícího vazbu, nestanoví-li zákon jinak, nesmí překročit jedenapůlnásobek doby stanovené pro trvání vazby.*
@@ -731,6 +1437,52 @@ Pokud více poškozených → **poměrné uspokojení**.
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o nahrazení vazby s datem, evidence trvání opatření, právní kvalifikace skutku, podklady k trvání/pominutí vazebních důvodů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=b952e9e9fe0900f147a3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73aa — Trvání opatření nahrazujícího vazbu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Opatření nahrazující vazbu může trvat jen po dobu nezbytně nutnou, po kterou trvají důvody vazby a je ho zapotřebí k jejímu nahrazení. Celková doba trvání opatření nahrazujícího vazbu, nestanoví-li zákon jinak, nesmí překročit jedenapůlnásobek doby stanovené pro trvání vazby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b952e9e9fe0900f147a3 -->
+
 ### § 73b — Orgány rozhodující o vazbě
 
 **Distributivní pravomoc:**
@@ -781,6 +1533,62 @@ Pokud více poškozených → **poměrné uspokojení**.
 
 **Typicky rozhodné důkazy / podklady:** žádost o propuštění s datem podání, rozhodnutí SZ o nevyhovění, doklad o datu předložení věci soudci, evidence lhůt podle §§ 72, 72a.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0335a8a092cbbaab9ce generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73b — Orgány rozhodující o vazbě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) O vzetí obviněného do vazby rozhoduje soud a v přípravném řízení na návrh státního zástupce soudce. O vazbě obviněného zatčeného podle [[#§ 69|§ 69]] rozhoduje v řízení před soudem soudce; v takovém případě má stejná práva a povinnosti jako senát a jeho předseda.
+>
+> (2) O žádosti obviněného o propuštění z vazby rozhoduje soud a v přípravném řízení státní zástupce. Nevyhoví-li státní zástupce žádosti o propuštění z vazby, je povinen ji nejpozději do pěti pracovních dnů od doručení předložit k rozhodnutí soudci; o tomto postupu vyrozumí obviněného. Souhlasí-li státní zástupce s propuštěním obviněného z vazby, může v řízení před soudem o propuštění z vazby rozhodnout předseda senátu.
+>
+> (3) O dalším trvání vazby obviněného rozhoduje soud a v přípravném řízení na návrh státního zástupce soudce.
+>
+> (4) O změně důvodů vazby rozhoduje soud a v přípravném řízení na návrh státního zástupce soudce; pominul-li některý z důvodů vazby, může o pominutí důvodu vazby rozhodnout v přípravném řízení i státní zástupce.
+>
+> (5) O žádosti o zrušení omezení spočívajícího v zákazu vycestování do zahraničí, které bylo obviněnému uloženo podle § 73 odst. 5 nebo § 73a odst. 3, nebo o zrušení předběžného opatření nahrazujícího vazbu rozhoduje soud a v přípravném řízení státní zástupce.
+>
+> (6) Rozhodnutí, kterým se obviněný propouští z vazby, může v přípravném řízení učinit i státní zástupce. V případě překročení lhůty pro rozhodnutí o dalším trvání vazby podle [[#§ 72|§ 72]] nebo překročení nejvyšší přípustné doby trvání vazby podle [[#§ 72a|§ 72a]] vydá soud a v přípravném řízení soudce nebo státní zástupce pouze příkaz k propuštění obviněného z vazby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69, § 73, § 73a, § 72, § 72a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0335a8a092cbbaab9ce -->
+
 ### § 73c — Zvláštní náležitosti rozhodnutí o vazbě
 
 V odůvodnění **musí být uvedeno**:
@@ -825,6 +1633,58 @@ Promítnutí klauzule § 67 — bez tohoto by usnesení o vazbě bylo **nepřezk
 - [ ] Jsou tvrzené skutečnosti podepřeny spisovým podkladem?
 
 **Typicky rozhodné důkazy / podklady:** text usnesení o vazbě, spisové podklady ke skutku a kvalifikaci, podklady k vazebním rizikům (majetek, pobyt, kontakty se svědky), úvaha o (ne)dostatečnosti mírnějších opatření.
+
+
+<!-- LEGAL-REVISION:BEGIN id=2c699e887a6c47170023 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73c — Zvláštní náležitosti rozhodnutí o vazbě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> V odůvodnění rozhodnutí o vzetí obviněného do vazby nebo jiného rozhodnutí o vazbě, jehož důsledkem je ponechání obviněného ve vazbě, musí být kromě obecných náležitostí ([[#§ 134|§ 134]]) uvedeny také
+>
+> - a) skutečnosti, které odůvodňují podezření ze spáchání trestného činu, pro který je obviněný stíhán,
+>
+> - b) konkrétní skutečnosti, ze kterých jsou dovozovány důvody vazby, popřípadě okolnosti uvedené v § 68 odst. 3 a [[#§ 4|4]] a v § 72a odst. 3,
+>
+> - c) důvody, pro které nebylo možné dosáhnout účelu vazby jiným opatřením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134, § 68, § 4, § 72a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c699e887a6c47170023 -->
 
 ### § 73d – § 73g — Vazební zasedání
 
@@ -884,6 +1744,218 @@ Nekoná se, i když obviněný žádal, pokud:
 
 **Typicky rozhodné důkazy / podklady:** žádost o vazební zasedání, protokol o posledním slyšení s datem, obsah nově tvrzených okolností, doklady ke zdravotnímu stavu či odmítnutí účasti, protokol o průběhu vazebního zasedání.
 
+
+<!-- LEGAL-REVISION:BEGIN id=79c63211a2f0f742c9aa generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73d — Vazební zasedání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Koná-li se hlavní líčení nebo veřejné zasedání, jehož se účastní obviněný, rozhodne soud i o vazbě, je-li to potřebné vzhledem ke stanoveným lhůtám.
+>
+> (2) Rozhoduje-li soud o vzetí obviněného do vazby mimo hlavní líčení nebo veřejné zasedání, nebo rozhoduje-li soudce o vzetí do vazby v přípravném řízení, rozhoduje vždy ve vazebním zasedání.
+>
+> (3) V jiných případech než uvedených v odstavcích 1 a [[#§ 2|2]] se rozhoduje ve vazebním zasedání, jestliže o to obviněný výslovně požádá, nebo soud a v přípravném řízení soudce považuje osobní slyšení obviněného za potřebné pro účely rozhodnutí o vazbě. Vazební zasedání však není třeba konat, i když o jeho konání obviněný výslovně požádal, jestliže
+>
+> - a) obviněný se jej následně odmítl zúčastnit,
+>
+> - b) obviněný byl slyšen k vazbě v posledních šesti týdnech, neuvedl žádné nové okolnosti podstatné pro rozhodnutí o vazbě nebo jím uváděné okolnosti zjevně nemohou vést ke změně rozhodnutí o vazbě,
+>
+> - c) zdravotní stav obviněného neumožňuje jeho výslech, nebo
+>
+> - d) obviněný se propouští z vazby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=79c63211a2f0f742c9aa -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=785e210f2719765ded2d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73e — Příprava vazebního zasedání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu a v přípravném řízení soudce předvolá nebo nechá předvést k vazebnímu zasedání obviněného a vyrozumí o něm státního zástupce a obhájce. Rozhoduje-li se o vazbě zadrženého nebo zatčeného obviněného, obhájce se vyrozumí, je-li ve lhůtě 24 hodin, v níž nejpozději musí být rozhodnuto o vazbě, dosažitelný.
+>
+> (2) Dobu konání vazebního zasedání stanoví předseda senátu a v přípravném řízení soudce tak, aby státní zástupce a obhájce měli možnost se vazebního zasedání zúčastnit a byly dodrženy lhůty stanovené pro rozhodnutí o vazbě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=785e210f2719765ded2d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=041b555868a89f5c7e7f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73f — Přítomnost osob při vazebním zasedání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Vazební zasedání se v řízení před soudem koná za stálé přítomnosti samosoudce; v případech, kdy rozhoduje senát, za stálé přítomnosti všech členů senátu.
+>
+> (2) Vazebního zasedání se vždy účastní obviněný; jeho účast může být zajištěna i prostřednictvím videokonferenčního zařízení. Účast státního zástupce a obhájce při vazebním zasedání není nutná.
+>
+> (3) Vazební zasedání se koná bez účasti veřejnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=041b555868a89f5c7e7f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=fd2d07bd97ab69b02b5a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 73g — Průběh vazebního zasedání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Po zahájení vazebního zasedání podá předseda senátu nebo určený člen senátu a v přípravném řízení soudce zprávu o stavu věci. Poté podle povahy věci přednese návrh státní zástupce nebo žádost o propuštění z vazby obviněný nebo jeho obhájce.
+>
+> (2) Státní zástupce, obviněný a jeho obhájce přednesou svá vyjádření a případné návrhy na provedení šetření potřebného pro rozhodnutí o vazbě. Není-li některá z těchto osob přítomna a jsou-li její vyjádření a návrhy obsaženy ve spise, anebo požádá-li o to, přednese jejich obsah předseda senátu nebo jím určený člen senátu a v přípravném řízení soudce. Následně předseda senátu a v přípravném řízení soudce vyslechne obviněného ke všem okolnostem podstatným pro rozhodnutí o vazbě. Státní zástupce a obhájce mohou klást obviněnému otázky, avšak teprve tehdy, až jim k tomu předseda senátu a v přípravném řízení soudce udělí slovo.
+>
+> (3) Jsou-li ve vazebním zasedání prováděny důkazy, užije se přiměřeně ustanovení o dokazování v hlavním líčení; omezení v provádění důkazů čtením protokolu o výpovědi svědka nebo znalce (§ 211 odst. 1 a [[#§ 5|5]]) se neuplatní.
+>
+> (4) Na závěr vazebního zasedání předseda senátu a v přípravném řízení soudce udělí slovo k závěrečným návrhům státnímu zástupci, obhájci a obviněnému.
+>
+> (5) Rozhodnutí se vždy vyhlásí ve vazebním zasedání.
+>
+> (6) Ustanovení [[#§ 55b|§ 55b]], [[#§ 56|56]] a [[#§ 57|57]] se přiměřeně užijí i na vazební zasedání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 211, § 5, § 55b, § 56, § 57
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fd2d07bd97ab69b02b5a -->
+
 ### § 74 — Stížnost proti rozhodnutí o vazbě
 
 **Odst. 1**: Stížnost přípustná proti rozhodnutí podle § 68, 69, 71, 71a, 72, 72a odst. 3, 73, 73a.
@@ -937,6 +2009,56 @@ Nekoná se, i když obviněný žádal, pokud:
 
 **Typicky rozhodné důkazy / podklady:** napadené rozhodnutí o vazbě / propuštění, zprošťující rozsudek, protokol o vyhlášení a o okamžiku podání stížnosti SZ, evidence přítomnosti SZ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=677ac4f2211e66308f2a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 74 — Stížnost proti rozhodnutí o vazbě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Proti rozhodnutí o vazbě ([[#§ 68|§ 68]], [[#§ 69|69]], [[#§ 71|71]], [[#§ 71a|71a]], [[#§ 72|72]], § 72a odst. 3, [[#§ 73|§ 73]] a [[#§ 73a|73a]]) je přípustná stížnost. Na rozhodování o stížnosti proti rozhodnutí o vazbě se obdobně užijí ustanovení o vazebním zasedání (§ 73d až 73g).
+>
+> (2) Odkladný účinek má pouze stížnost stran proti rozhodnutí o připadnutí peněžité záruky státu a stížnost státního zástupce proti rozhodnutí o propuštění obviněného z vazby, nejde-li o propuštění z vazby po vyhlášení zprošťujícího rozsudku. Byl-li však státní zástupce přítomen při vyhlášení rozhodnutí, má jeho stížnost odkladný účinek jen tehdy, byla-li podána ihned po vyhlášení rozhodnutí.
+>
+> (3) Rozhodne-li soud na základě stížnosti o zrušení rozhodnutí o vzetí obviněného do vazby nebo o dalším trvání vazby [§ 149 odst. 1 písm. b)], může věc vrátit k novému projednání a rozhodnutí pouze z důvodu závažných vad rozhodnutí. V takovém případě musí být obviněný neprodleně propuštěn z vazby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 68, § 69, § 71, § 71a, § 72, § 72a, § 73, § 73a, § 73d, § 149
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=677ac4f2211e66308f2a -->
+
 ### § 74a — Omezení obviněného ve VTOS
 
 Pokud je TS vedeno proti obviněnému **ve výkonu trestu odnětí svobody** a existuje důvod vazby: rozhodnutí o **omezeních** (analogických vazebním) **soudem / soudcem**. Omezení **nesmí být závažnější** než ve vazbě.
@@ -986,6 +2108,56 @@ Princip: nelze duplikovat zbavení svobody, ale lze přidat **vazební omezení*
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fc6f8f4435c685fcd62f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 74a — Omezení obviněného ve výkonu trestu odnětí svobody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li vedeno trestní stíhání proti obviněnému ve výkonu trestu odnětí svobody a je-li dán některý z důvodů vazby podle [[#§ 67|§ 67]], rozhodne o důvodech, obsahu a trvání nezbytných omezení, která se proti němu uplatní, soud a v přípravném řízení na návrh státního zástupce soudce.
+>
+> (2) Uložená omezení nesmí být závažnější než ta, kterým by jinak byl obviněný podroben ve vazbě.
+>
+> (3) Na rozhodování o omezeních, jejich trvání a o žádostech o zrušení omezení se přiměřeně užijí ustanovení § 68 odst. 1, [[#§ 71|§ 71]], [[#§ 71a|71a]], [[#§ 72|72]], [[#§ 72a|72a]] a [[#§ 74|74]]. Proti rozhodnutí podle odstavce 1 je přípustná stížnost. Ustanovení o vazebním zasedání se neužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67, § 68, § 71, § 71a, § 72, § 72a, § 74
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc6f8f4435c685fcd62f -->
+
 ## Oddíl 2 — Zadržení (§ 75 – § 77)
 
 ### § 75 — Zadržení obviněného policejním orgánem
@@ -1031,6 +2203,52 @@ Pokud je dán důvod vazby (§ 67) → policejní orgán může obviněného **z
 - [ ] Je přesně zaznamenán okamžik zadržení i odevzdání (počítání lhůty)?
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení s časovým údajem, doklad o uvědomění SZ a předání materiálu, doklad o čase odevzdání soudu, podklad k důvodu vazby.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c95a670a9bf412c43431 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 75 — Zadržení obviněného policejním orgánem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Jestliže je dán některý z důvodů vazby ([[#§ 67|§ 67]]), může policejní orgán obviněného zadržet. Je však povinen provedené zadržení státnímu zástupci bezodkladně ohlásit a předat mu opis protokolu, který sepsal při zadržení, i další materiál, který státní zástupce potřebuje, aby popřípadě mohl podat návrh na vzetí do vazby. Návrh musí být podán tak, aby obviněný mohl být nejpozději do 48 hodin od zadržení odevzdán soudu, jinak musí být propuštěn na svobodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c95a670a9bf412c43431 -->
 
 ### § 76 — Zadržení osoby podezřelé
 
@@ -1095,6 +2313,62 @@ Policejní orgán může zadržet **i osobu podezřelou před zahájením TS**, 
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení (místo, čas, okolnosti, osobní údaje, důvody), záznam o přistižení při činu / na útěku, doklad o souhlasu SZ či o jeho nedosažitelnosti, protokol o výslechu a poučení o obhájci, doklad o čase odevzdání soudu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=803dfad64ed664762809 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 76 — Zadržení osoby podezřelé
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Osobu podezřelou ze spáchání trestného činu může, je-li dán některý z důvodů vazby ([[#§ 67|§ 67]]), policejní orgán v naléhavých případech zadržet, i když dosud proti ní nebylo zahájeno trestní stíhání (§ 160 odst. 1). K zadržení je třeba předchozího souhlasu státního zástupce. Bez takového souhlasu lze zadržení provést, jen jestliže věc nesnese odkladu a souhlasu předem nelze dosáhnout, zejména byla-li ona osoba přistižena při trestném činu anebo zastižena na útěku.
+>
+> (2) Osobní svobodu osoby, která byla přistižena při trestném činu nebo bezprostředně poté, smí omezit kdokoli, pokud je to nutné ke zjištění její totožnosti, k zamezení útěku nebo k zajištění důkazů. Je však povinen tuto osobu předat ihned policejnímu orgánu; příslušníka ozbrojených sil může též předat nejbližšímu útvaru ozbrojených sil nebo správci posádky. Nelze-li takovou osobu ihned předat, je třeba některému z uvedených orgánů omezení osobní svobody bez odkladu oznámit.
+>
+> (3) Policejní orgán, který provedl zadržení, zadrženou osobu vyslechne a o výslechu sepíše protokol, v němž označí místo, čas a bližší okolnosti zadržení a uvede osobní údaje zadržené osoby, jakož i podstatné důvody zadržení.
+>
+> (4) Policejní orgán, který zadržení provedl nebo kterému byla podle odstavce 2 odevzdána osoba přistižená při trestném činu, ji propustí bezodkladně na svobodu v případě, že bude podezření rozptýleno nebo důvody zadržení z jiné příčiny odpadnou. Nepropustí-li zadrženou osobu na svobodu, předá státnímu zástupci protokol o jejím výslechu s vyhotovením usnesení o zahájení trestního stíhání a další důkazní materiál tak, aby státní zástupce popřípadě mohl podat návrh na vzetí do vazby. Návrh musí policejní orgán podat bez odkladu, aby osoba zadržená podle tohoto zákona mohla být odevzdána soudu nejpozději do 48 hodin od tohoto zadržení; jinak musí být propuštěna na svobodu.
+>
+> (5) Ustanovení § 33 odst. 1, [[#§ 5|5]] a [[#§ 6|6]], [[#§ 91|§ 91]], [[#§ 92|92]], [[#§ 93|93]] a [[#§ 95|95]] je třeba přiměřeně dbát i tehdy, jestliže je zadržená osoba vyslýchána v době, kdy ještě proti ní nebylo zahájeno trestní stíhání ([[#§ 160|§ 160]]).
+>
+> (6) Zadržený podezřelý má právo požadovat, aby obhájce byl přítomen při jeho výslechu podle odstavce 3, ledaže je obhájce ve lhůtě uvedené v odstavci 4 nedosažitelný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67, § 160, § 33, § 5, § 6, § 91, § 92, § 93, § 95
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=803dfad64ed664762809 -->
+
 ### § 76a — Příkaz k zadržení
 
 **Kdy:**
@@ -1143,6 +2417,60 @@ Příkaz k zadržení podle § 76a je nástroj pro výjimečné situace, kdy je 
 
 **Typicky rozhodné důkazy / podklady:** spis odůvodňující podezření a vazební důvod, doklady o nakládání s majetkem a o letence, záznamy o neúspěšných pokusech o doručení/předvedení, protokol o zadržení s vyznačením času.
 
+
+<!-- LEGAL-REVISION:BEGIN id=0c616496042ad0cc2444 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 76a — Příkaz k zadržení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li dán některý z důvodů vazby a nelze-li osobě podezřelé ze spáchání trestného činu doručit opis usnesení o zahájení trestního stíhání a takovou osobu nelze předvolat, předvést nebo bez odkladu zadržet, vydá soudce na návrh státního zástupce příkaz k jejímu zadržení.
+>
+> (2) Příkaz k zadržení musí vedle údajů zajišťujících, že osoba, jež má být zadržena, nebude zaměněna s jinou osobou, obsahovat přesný popis důvodů, pro které se vydává. Připojí se k němu opis usnesení o zahájení trestního stíhání.
+>
+> (3) Zadržení provedou na podkladě příkazu policejní orgány, které jsou též povinny, pokud je to třeba, vypátrat pobyt podezřelé osoby.
+>
+> (4) Policejní orgán, který podezřelou osobu na základě příkazu zadržel, je povinen jí neprodleně doručit opis usnesení o zahájení trestního stíhání, vyslechnout ji a s protokolem o jejím výslechu a dalším důkazním materiálem předat státnímu zástupci tak, aby státní zástupce mohl případně podat návrh na její vzetí do vazby do 48 hodin od zadržení; jinak musí být taková osoba propuštěna na svobodu.
+>
+> (5) Soudce, kterému byla zadržená osoba dodána, dále postupuje přiměřeně podle § 77 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 77
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c616496042ad0cc2444 -->
+
 ### § 76b — Práva zadržené osoby
 
 Identicky § 69 odst. 4 (zatčená osoba) — právo obhájce, komunikace, konzulární vyrozumění cizince.
@@ -1183,6 +2511,52 @@ Zadržená osoba má podle § 76b stejná práva jako osoba zatčená podle § 6
 - [ ] Pokud byla práva porušena, byla výpověď z dokazování vyloučena?
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení a poučení, časové záznamy o žádosti o obhájce a o výslechu, doklad o (ne)vyrozumění konzulátu, obsah a okolnosti výpovědi.
+
+
+<!-- LEGAL-REVISION:BEGIN id=b92a0d26fba3b91d7953 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 76b — Práva zadržené osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Zadržená osoba má právo zvolit si obhájce, mluvit s ním bez přítomnosti třetí osoby a radit se s ním již v průběhu zadržení. Zadržená osoba má dále právo na své náklady komunikovat prostřednictvím písemných sdělení nebo telefonu s osobou, kterou sama určí, je-li to technicky možné a pokud to okolnosti umožňují, zejména neohrozí-li to dosažení účelu trestního řízení nebo nebrání-li tomu zájem na ochraně oběti; tato komunikace podléhá kontrole. Zadržený cizinec má právo, aby byl o jeho zadržení vyrozuměn konzulární úřad státu, jehož je občanem, a právo na komunikaci s tímto konzulárním úřadem. Nemá-li zadržený cizinec dostatek finančních prostředků, komunikace s konzulárním úřadem se mu umožní bezplatně. O těchto právech je třeba zadrženou osobu poučit a poskytnout jí plnou možnost jejich uplatnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b92a0d26fba3b91d7953 -->
 
 ### § 77 — Rozhodnutí o zadržené osobě
 
@@ -1233,6 +2607,54 @@ Promítnutí čl. 8 odst. 3 LZPS: max. **48 h** zadržení + **24 h** rozhodnut�
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení s časem, doklad o odevzdání osoby a doručení návrhu na vazbu, protokol o výslechu a o vyhlášení rozhodnutí s minutovými údaji.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ce1166cd267ceb17560f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 77 — Rozhodnutí o zadržené osobě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nenařídil-li státní zástupce propuštění zadržené osoby na podkladě materiálů mu došlých, popřípadě po jejím opětovném výslechu, je povinen odevzdat ji ve lhůtě 48 hodin od zadržení soudu s návrhem na vzetí do vazby. K návrhu připojí dosud získaný důkazní materiál.
+>
+> (2) Soudce je povinen vyslechnout zadrženou osobu (odstavec 1), do 24 hodin od doručení návrhu státního zástupce rozhodnout o jejím propuštění na svobodu anebo rozhodnout, že ji bere do vazby. O době a místě konání výslechu vyrozumí bezodkladně vhodným způsobem zvoleného nebo ustanoveného obhájce, pokud je dosažitelný, a o jeho účast zadržená osoba požádala, a státního zástupce. Obhájce a státní zástupce se mohou výslechu zúčastnit a klást zadržené osobě otázky, avšak teprve tehdy, až jim k tomu soudce udělí slovo. Překročení doby 24 hodin od doručení návrhu státního zástupce na vzetí do vazby je vždy důvodem rozhodnutí o propuštění obviněného na svobodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce1166cd267ceb17560f -->
 
 ## Oddíl 3 — Zákaz vycestování (§ 77a)
 
@@ -1291,6 +2713,62 @@ Zákaz vycestování podle § 77a je samostatné zajišťovací opatření při 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c6e153286b1cb9e93602 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 77a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li vedeno trestní stíhání pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody, jehož horní hranice převyšuje dvě léta, nebo pro trestný čin spáchaný z nedbalosti, na který zákon stanoví trest odnětí svobody, jehož horní hranice převyšuje tři léta, může soud a v přípravném řízení na návrh státního zástupce soudce uložit omezení spočívající v zákazu vycestování do zahraničí, je-li to nezbytné pro dosažení účelu trestního řízení. Proti tomuto rozhodnutí je přípustná stížnost.
+>
+> (2) Bylo-li obviněnému uloženo omezení podle odstavce 1, předseda senátu a v přípravném řízení soudce vyzve obviněného nebo toho, kdo má cestovní doklad obviněného u sebe, aby mu cestovní doklad10) ve lhůtě jím stanovené vydal, jinak mu bude odejmut; na postup při odnětí cestovního dokladu se [[#§ 79|§ 79]] použije přiměřeně.
+>
+> (3) Opis usnesení podle odstavce 1, týká-li se státního občana České republiky, zašle předseda senátu a v přípravném řízení soudce orgánu příslušnému k vydání cestovního dokladu; tento orgán také vyrozumí o vydání nebo odnětí cestovního dokladu.
+>
+> (4) Omezení spočívající v zákazu vycestování do zahraničí podle odstavce 1 předseda senátu a v přípravném řízení státní zástupce zruší i bez návrhu, pominuly-li důvody pro jeho uložení. Obviněný, kterému bylo uloženo omezení podle odstavce 1, má právo kdykoliv žádat o jeho zrušení. O takové žádosti musí předseda senátu a v přípravném řízení státní zástupce rozhodnout bez zbytečného odkladu. Proti tomuto rozhodnutí je přípustná stížnost. Byla-li žádost zamítnuta, může ji obviněný, neuvede-li nové důvody, opakovat až po uplynutí tří měsíců od právní moci rozhodnutí.
+>
+> (5) Předseda senátu a v přípravném řízení státní zástupce vyrozumí bez zbytečného odkladu orgán příslušný k vydání cestovního dokladu o zrušení omezení spočívajícího v zákazu vycestování do zahraničí, které se týká státního občana České republiky; tento orgán rovněž vyrozumí o vrácení cestovního dokladu obviněnému.
+>
+> (6) Z důležitých důvodů může předseda senátu a v přípravném řízení státní zástupce na konkrétně vymezenou dobu povolit vycestování do zahraničí, zejména za účelem pracovní cesty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 79
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6e153286b1cb9e93602 -->
+
 ## Oddíl 4 — Zajištění věcí důležitých pro trestní řízení (§ 77b – § 81b)
 
 ### § 77b — Společné ustanovení
@@ -1345,6 +2823,70 @@ Zákaz vycestování podle § 77a je samostatné zajišťovací opatření při 
 - [ ] Je zajištěna věc, která má propadnout nebo být zabrána?
 
 **Typicky rozhodné důkazy / podklady:** doklady o charakteru věci (důkazní/nástroj/výnos/sankce/náhrada), vlastnické a správní vztahy (fond), ocenění věci, podklady pro posouzení účelnosti zajištění.
+
+
+<!-- LEGAL-REVISION:BEGIN id=079514d4d0699eeeb356 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 77b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Věcí důležitou pro trestní řízení je věc, která
+>
+>   - a) může sloužit pro důkazní účely,
+>
+>   - b) je nástrojem trestné činnosti,
+>
+>   - c) je výnosem z trestné činnosti,
+>
+>   - d) je předmětem mezinárodní sankce, nebo
+>
+>   - e) je náhradní hodnotou za věc uvedenou v písmenech b) až d).
+>
+> (2) Podléhá-li zajištění věc, která je součástí majetku ve svěřenském fondu nebo v podílovém fondu, zajistí se svěřenskému správci nebo obhospodařovateli podílového fondu. Není-li známo, komu věc důležitá pro trestní řízení patří, zajistí se bez uvedení osoby, jíž byla zajištěna; v opatření se uvede, kdy a kde a z jakého důvodu k zajištění věci došlo.
+>
+> (3) Zajištění věci pro důkazní účely má přednost před jinými důvody zajištění věci. Důvod zajištění podle [[#§ 47|§ 47]], [[#§ 78|78]], [[#§ 79|79]], [[#§ 79a|79a]], [[#§ 79g|79g]], [[#§ 344a|344a]], [[#§ 347|347]] nebo [[#§ 358b|358b]] lze v průběhu trestního řízení změnit usnesením, proti kterému je přípustná stížnost. O změně důvodu zajištění není třeba rozhodovat v případě, kdy jsou splněny podmínky pro vyslovení propadnutí nebo zabrání věci, která je zajištěna k důkazním účelům.
+>
+> (4) Neohrozí-li to dosažení účelu trestního řízení, nezajistí se věc bezcenná nebo věc, jejíž zajištění je z jiných důvodů neúčelné. Vždy se však zajistí věc, která má propadnout nebo být zabrána na základě rozhodnutí soudu, které dosud nenabylo právní moci.
+>
+> (5) Nestanoví-li zákon jinak, lze práva třetích osob k zajištěné věci důležité pro trestní řízení uplatnit pouze v řízení ve věcech občanskoprávních.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47, § 78, § 79, § 79a, § 79g, § 344a, § 347, § 358b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=079514d4d0699eeeb356 -->
 
 ### § 78–79 — Důkazní zajištění věci
 
@@ -1403,6 +2945,116 @@ K odnětí věci se přibere **nezúčastněná osoba** (svědek úkonu).
 - [ ] Byla u odnětí přibrána nezúčastněná osoba a u dat zvážena kopie?
 
 **Typicky rozhodné důkazy / podklady:** výzva k vydání a protokol o (ne)vydání, příkaz k odnětí a souhlas SZ, doklad o povaze údajů (mlčenlivost/zproštění), protokol o pořízení kopie dat, protokol o účasti nezúčastněné osoby.
+
+
+<!-- LEGAL-REVISION:BEGIN id=35fdfdf0869f8fd5fc0f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 78 — Povinnost k předložení nebo vydání věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Kdo má u sebe věc, která může sloužit pro důkazní účely, je povinen ji na vyzvání předložit soudu, státnímu zástupci nebo policejnímu orgánu; je-li ji nutno pro účely náležitého zjištění skutečností důležitých pro trestní řízení zajistit, je povinen takovou věc na vyzvání těmto orgánům vydat. Jsou-li věcí, která může sloužit pro důkazní účely, data uchovávaná v elektronické podobě, může být ten, kdo uvedená data drží nebo je má pod svojí kontrolou, vyzván k tomu, aby místo vydání hmotného nosiče, na kterém jsou uchovávaná nebo jsou z něj přístupná, umožnil pořízení jejich kopie, nebo aby poskytl jinou potřebnou součinnost k jejich zpřístupnění. Při vyzvání je třeba ho upozornit na to, že nevyhoví-li výzvě, může mu být věc odňata, jakož i na jiné následky nevyhovění ([[#§ 66|§ 66]]). Vyzvat k předložení nebo vydání věci je oprávněn předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán.
+>
+> (2) Povinnost podle odstavce 1 se nevztahuje na listinu nebo na jiný hmotný nosič obsahující obrazový, zvukový nebo datový záznam, jejichž obsah se týká okolnosti, o které platí zákaz výslechu, ledaže došlo k zproštění povinnosti zachovat věc v tajnosti nebo k zproštění povinnosti mlčenlivosti.
+>
+> (3) Nikoho nelze nutit, aby předložil nebo vydal věc, jež v době, kdy je požádáno o její předložení nebo vydání, může sloužit jako důkaz proti němu nebo proti jeho osobě blízké; tím nejsou dotčena ustanovení o odnětí věci, domovní prohlídce, prohlídce jiných prostor a pozemků a osobní prohlídce.
+>
+> (4) Je-li to potřebné pro účely zabránění zmaření propadnutí nebo zabrání věci, orgán činný v trestním řízení uvedený v odstavci 1 vydá příkaz, že osoba, jíž byla věc zajištěna, nesmí po dobu zajištění takovou věc převést na jinou osobu nebo ji zatížit. Právní jednání učiněné v rozporu s tímto zákazem je neplatné; soud k neplatnosti přihlédne i bez návrhu. O tom je třeba tuto osobu poučit.
+>
+> (5) Osobě, která předložila nebo vydala věc, jež může sloužit pro důkazní účely, vydá orgán, který úkon provedl, ihned písemné potvrzení o převzetí věci nebo opis protokolu; věc v nich musí být dostatečně přesně popsána, tak, aby bylo možné určit její totožnost.
+>
+> (6) Orgán činný v trestním řízení, kterému byla vydána věc, jež může sloužit pro důkazní účely, ji převezme do úschovy.
+>
+> (7) Osoba, které byla věc zajištěna, má právo kdykoli žádat o vrácení takové věci. O takové žádosti musí orgán činný v trestním řízení uvedený v odstavci 1 neodkladně rozhodnout. Byla-li žádost zamítnuta, může ji tato osoba, neuvede-li v ní nové důvody, opakovat až po uplynutí 30 dnů od právní moci rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35fdfdf0869f8fd5fc0f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=bf6d9fc72d4786799a1b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79 — Odnětí věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nebyla-li věc, která může sloužit pro důkazní účely, na vyzvání předložena nebo vydána tím, kdo ji má u sebe, může mu být na příkaz předsedy senátu a v přípravném řízení na příkaz státního zástupce nebo policejního orgánu odňata. Policejní orgán potřebuje k vydání takového příkazu předchozí souhlas státního zástupce; bez předchozího souhlasu může být příkaz policejním orgánem vydán jen tehdy, jestliže nelze předchozího souhlasu dosáhnout a věc nesnese odkladu. Jsou-li věcí, která může sloužit pro důkazní účely, data uchovávaná v elektronické podobě, lze místo odnětí hmotného nosiče, na kterém jsou uchovávaná nebo jsou z něj přístupná, pořídit jejich kopii. Za účelem pořízení jejich kopie je orgán činný v trestním řízení oprávněn zjednat si k datům přístup; s jejich obsahem se může seznámit pouze za podmínek uvedených v [[#§ 113a|§ 113a]].
+>
+> (2) Nevykoná-li orgán, který příkaz k odnětí věci vydal, odnětí věci sám, provede je na podkladě příkazu policejní orgán.
+>
+> (3) K odnětí věci se podle možnosti přibere osoba, která není na věci zúčastněna.
+>
+> (4) Na odňatou věc se obdobně použije § 78 odst. 4 až 7.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 113a, § 78
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf6d9fc72d4786799a1b -->
 
 ### §§ 79a–79h — Zajištění nástrojů, výnosů, předmětů sankce a náhradní hodnoty
 
@@ -1495,6 +3147,432 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zajištění a doklady o doručení, podklady o hodnotě výnosu/náhradní hodnoty, protokol o ohledání nemovitosti (§ 79d), doklad o složení peněz dle § 79h, evidence lhůt.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ba6b3f8015d8e7cbfa5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79a — Zajištění nástrojů trestné činnosti, výnosů z trestné činnosti a předmětů mezinárodní sankce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nasvědčují-li zjištěné skutečnosti tomu, že určitá věc je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce, může předseda senátu a v přípravném řízení státní zástupce nebo policejní orgán rozhodnout o zajištění takové věci. Policejní orgán k takovému rozhodnutí potřebuje předchozí souhlas státního zástupce. Předchozího souhlasu státního zástupce není třeba v naléhavých případech, které nesnesou odkladu. Policejní orgán je v takovém případě povinen do 48 hodin své rozhodnutí předložit státnímu zástupci, který s ním buď vysloví souhlas, nebo je zruší. Proti rozhodnutí o zajištění je přípustná stížnost.
+>
+> (2) V rozhodnutí o zajištění nebo v připojených listinách je zapotřebí náležitě a nezaměnitelně vymezit věci podléhající zajištění. Je-li zajišťováno právo, může být zajištěno i právo teprve v budoucnu vzniklé. V rozhodnutí o zajištění se tomu, komu byla věc zajištěna, zakáže, aby po oznámení rozhodnutí takovou věc převedl na jiného nebo ji zatížil, a je-li zajištěna hmotná věc, také, aby ji záměrně poškozoval nebo ničil. Je-li to zapotřebí pro účely zajištění nebo správy zajištěné věci, lze v rozhodnutí o zajištění věci nebo i v dodatečném rozhodnutí zakázat nebo omezit také výkon dalších práv souvisejících se zajištěnou věcí, a to včetně práv teprve v budoucnu vzniklých, jakož i vyzvat k vydání všech listin nebo jiných hmotných nosičů, jejichž předložení je nutné k uplatnění určitého práva k zajištěné věci, s upozorněním na následky nevyhovění takové výzvě ve stanovené lhůtě ([[#§ 66|§ 66]] a [[#§ 79|79]]). Na dodatečné rozhodnutí o zákazu nebo omezení výkonu dalších práv souvisejících se zajištěnou věcí se ustanovení o rozhodnutí o zajištění použijí přiměřeně.
+>
+> (3) V rozhodnutí o zajištění se tomu, komu byla věc zajištěna, dále uloží, aby orgánu činnému v trestním řízení, který rozhodl o zajištění, do 15 dnů od oznámení rozhodnutí sdělil, jaká práva třetích osob se váží k zajištěné věci, zda je jiným způsobem omezen výkon práva s ní nakládat, a bylo-li zajištěno majetkové právo, též kdo je osobou povinnou poskytnout odpovídající plnění, s upozorněním na následky nevyhovění takové výzvě ve stanovené lhůtě ([[#§ 66|§ 66]]).
+>
+> (4) Orgán činný v trestním řízení, který rozhodl o zajištění, učiní všechny úkony nezbytné k výkonu takového rozhodnutí.
+>
+> (5) Proti rozhodnutí o zajištění je přípustná stížnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66, § 79
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ba6b3f8015d8e7cbfa5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f9437f8aff41284e0375 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79b — Doručení rozhodnutí o zajištění a vyrozumění o něm
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Orgán činný v trestním řízení, který rozhodl o zajištění, bezodkladně doručí zkrácené rozhodnutí o zajištění bez odůvodnění orgánu nebo osobě, které jsou příslušné k provedení zajištění. Současně orgány nebo osoby příslušné k provedení zajištění vyzve, aby, pokud zjistí, že se s věcí, která byla zajištěna, nakládá tak, že hrozí zmaření nebo ztížení účelu zajištění, mu tuto skutečnost neprodleně oznámily. Orgán nebo osoba příslušná k provedení zajištění je povinna neprodleně po doručení rozhodnutí o zajištění provést zajištění věci a učinit vše potřebné k tomu, aby nedošlo k porušení zákazů a omezení uvedených v rozhodnutí o zajištění věci. Poté, co tento orgán nebo osoba provedou zajištění věci, orgán činný v trestním řízení doručí rozhodnutí o zajištění osobě, které byla věc zajištěna.
+>
+> (2) Byla-li zajištěna pohledávka a nejde-li o pohledávku na účtu vůči bance nebo jinému subjektu oprávněnému vést účet pro jiného, orgán činný v trestním řízení, který rozhodl o zajištění, doručí zkrácené rozhodnutí o zajištění bez odůvodnění také dlužníku vlastníka pohledávky a uloží mu, aby místo plnění vlastníku složil předmět plnění do jeho úschovy nebo na jiné určené místo. Složením předmětu plnění do úschovy nebo na určené místo dlužník svůj závazek v rozsahu poskytnutého plnění splní. Rozhodnutí o zajištění se dlužníku oznámí dříve než vlastníku zajištěné pohledávky.
+>
+> (3) Považuje-li to orgán činný v trestním řízení, který rozhodl o zajištění, za potřebné pro dosažení účelu zajištění, vyrozumí o zajištění věci také jiné orgány a osoby než uvedené v odstavci 1, které mají na základě jiných právních předpisů uloženou evidenční, dohledovou nebo jinou povinnost ve vztahu k zajištěné věci nebo jejímu vlastníku anebo držiteli, a zároveň je vyzve k tomu, aby mu, pokud zjistí, že je se zajištěnými věcmi nakládáno tak, že hrozí zmaření účelu jejich zajištění, tuto skutečnost neprodleně oznámily; tyto orgány a osoby jsou povinny takové výzvě vyhovět. Dále o zajištění vyrozumí osoby a orgány, o nichž je mu známo, že mají k zajištěné věci předkupní, nájemní nebo jiné právo, nebo vedou řízení, v němž byl omezen výkon práv s takovou věcí nakládat. Orgán činný v trestním řízení, který rozhodl o zajištění podílu v obchodní korporaci, o této skutečnosti vyrozumí po právní moci takového rozhodnutí také obchodní korporaci.
+>
+> (4) Orgán činný v trestním řízení, který rozhodl o zajištění nemovité věci, vyrozumí katastrální úřad o nabytí právní moci takového rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9437f8aff41284e0375 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d53e221f33f49c7cd7cf generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79c — Provedení zajištění movité věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Kdo má u sebe movitou věc, která může podléhat zajištění, je povinen takovou věc na vyzvání předsedy senátu a v přípravném řízení státního zástupce nebo policejního orgánu vydat; pokud ji nevydá, může mu být odňata. Na postup při vydání a odnětí movité věci se použijí obdobně [[#§ 78|§ 78]] a [[#§ 79|79]].
+>
+> (2) Orgán činný v trestním řízení příslušný k vydání příkazu k odnětí věci může při posouzení všech rozhodných okolností ponechat movitou věc na místě, kde se nachází, zejména pokud
+>
+>   - a) odnětí takové věci by vedlo k jejímu znehodnocení nebo k znehodnocení věci, s níž je funkčně spojena,
+>
+>   - b) odnětí takové věci by bylo spojeno s nepřiměřenými technickými obtížemi,
+>
+>   - c) jde o věc vyžadující zvláštní péči nebo je péče o ni spojena s nepřiměřenými náklady, nebo
+>
+>   - d) jde o věc nepatrné hodnoty.
+>
+> (3) Pokud je movitá věc ponechána na místě, kde se nachází, tato skutečnost se spolu s důvodem takového postupu uvede do protokolu a movitá věc se náležitě vymezí tak, aby nebyla zaměnitelná s jinými. Orgán příslušný k vydání příkazu k odnětí věci zároveň vydá příkaz k zdržení se nakládání s věcí, v němž movitou věc náležitě a nezaměnitelně vymezí a zakáže, aby s ní bylo jakkoli právně jednáno nebo fakticky nakládáno způsobem, který by vedl k zmaření účelu jejího zajištění, zejména aby byla převedena na jiného, zatížena, poškozena nebo zničena. Zákaz působí vůči všem a je účinný okamžikem vyvěšení příkazu na místě, kde se movitá věc nachází; v tomto smyslu musí příkaz obsahovat poučení, včetně upozornění na následky spojené s porušením zákazu. Právní jednání učiněné v rozporu se zákazem uvedeným v příkazu je neplatné, přičemž soud k neplatnosti přihlédne i bez návrhu. Movitá věc ponechaná na místě se označí tak, aby bylo zřejmé, že se na ni vztahuje příkaz k zdržení se nakládání s věcí.
+>
+> (4) Ponechání movité věci na místě, kde se nachází, nebrání tomu, aby orgán činný v trestním řízení příslušný k rozhodování o takové věci následně kdykoli vyzval k vydání takové věci nebo vydal příkaz k jejímu odnětí, má-li za to, že je to potřebné z hlediska účelu zajištění. Orgán činný v trestním řízení příslušný k rozhodování o vydané nebo odňaté movité věci může kdykoli rozhodnout, že ji ponechá z důvodů uvedených v odstavci 2 u osoby, které byla zajištěna; při tom postupuje přiměřeně podle odstavce 3. Proti takovému rozhodnutí není stížnost přípustná.
+>
+> (5) Rozhodnutí o zajištění podle [[#§ 79a|§ 79a]] ohledně movité věci, která byla vydána nebo odňata podle odstavce 1 anebo která byla ponechána na místě podle odstavce 2, musí být vydáno do 96 hodin od takového úkonu.
+>
+> (6) Orgán činný v trestním řízení příslušný k rozhodování o movité věci ponechané na místě nebo na základě příkazu předsedy senátu a v přípravném řízení státního zástupce policejní orgán je oprávněn pro účely kontroly dodržování příkazu k zdržení se nakládání s takovou věcí nebo pro účely odnětí takové věci vstoupit na místo, kde se věc nachází; přitom není oprávněn činit jiné úkony než ty, které souvisejí s výkonem kontroly dodržování příkazu nebo s odnětím věci. Pokud jde o obydlí nebo jinou prostoru, k jejíž prohlídce je potřebný příkaz soudce, a osoba, u níž se zajištěná věc nachází, se vstupem nesouhlasí, je orgán uvedený ve větě první v přípravném řízení oprávněn vstoupit do obydlí nebo jiné takové prostory po předchozím souhlasu soudce; policejní orgán si jej vyžádá prostřednictvím státního zástupce. Bez takového předchozího souhlasu může orgán uvedený ve větě první vstoupit do jiné prostory než obydlí, jestliže udělení souhlasu nelze předem dosáhnout a věc nesnese odkladu; je však povinen si bezodkladně dodatečně souhlas soudce vyžádat.
+>
+> (7) Odstavce 1 až 6 se přiměřeně použijí i na zjištěné stroje nebo jiná upevněná zařízení, která jsou součástí nemovité věci a jsou oddělitelná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 78, § 79, § 79a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d53e221f33f49c7cd7cf -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=af24e757766a8b103783 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79d — Ohledání nemovité věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Na základě příkazu k ohledání nemovité věci vydaného předsedou senátu a v přípravném řízení soudcem na návrh státního zástupce může soud nebo státní zástupce anebo na základě jejich pokynu policejní orgán provést ohledání nemovité věci a jejího příslušenství za účelem zjištění stavu nemovité věci a posouzení účelnosti jejího zajištění. Orgán činný v trestním řízení provádějící ohledání nemovité věci uvědomí o době a místě ohledání vlastníka nemovité věci nebo osobu, která s ním žije ve společné domácnosti, a dále osobu, o níž je známo, že má k nemovité věci práva. Tyto osoby jsou povinny prohlídku nemovité věci a jejího příslušenství umožnit.
+>
+> (2) Orgán provádějící ohledání k němu může přibrat osoby, jejichž účast při ohledání je potřebná, zejména pro účely ocenění nemovité věci.
+>
+> (3) Je-li při ohledání nemovité věci zjištěna movitá věc anebo stroj nebo jiné upevněné zařízení, které jsou součástí nemovité věci a jsou oddělitelné, u nichž jsou dány důvody pro jejich zajištění podle [[#§ 79a|§ 79a]], lze postupovat obdobně podle § 79c odst. 2 až 5 i bez vydání příkazu k domovní prohlídce nebo prohlídce jiných prostor a pozemků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 79a, § 79c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af24e757766a8b103783 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6405378a2cd705eaad04 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79e — Účinky zajištění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Právní jednání učiněné osobou, vůči níž směřují zákazy uvedené v rozhodnutí o zajištění, v rozporu se zákazy v něm uvedenými, je neplatné; o tom je třeba tuto osobu poučit. Soud k neplatnosti přihlédne i bez návrhu.
+>
+> (2) S věcí, na kterou se vztahuje rozhodnutí o zajištění, lze v rámci výkonu rozhodnutí, veřejné dražby, exekuce nebo insolvenčního řízení nakládat jen po předchozím souhlasu předsedy senátu a v přípravném řízení státního zástupce. Na úhradu pohledávek, které jsou předmětem výkonu rozhodnutí, veřejné dražby, exekuce nebo insolvenčního řízení, se přednostně použije věc nedotčená rozhodnutím o zajištění.
+>
+> (3) Je-li k převodu nebo ke zřízení práva k zajištěné věci nutný zápis do evidence vedené podle jiných právních předpisů, orgán nebo osoba, které vedou takovou evidenci, mohou po doručení rozhodnutí o zajištění provést zápis k takové věci na základě právního jednání osoby, jíž byla věc zajištěna, jen s předchozím souhlasem předsedy senátu a v přípravném řízení státního zástupce.
+>
+> (4) Byl-li podle [[katastrálního zákona|katastrálního zákona]] podán návrh na zápis práv k nemovité věci do katastru nemovitostí na základě právního jednání osoby, jíž byla nemovitá věc zajištěna, před vydáním usnesení o jejím zajištění, a do doby vydání usnesení o jejím zajištění o něm nebylo příslušným orgánem pravomocně rozhodnuto, ztrácí podaný návrh své právní účinky ke dni nabytí právní moci usnesení o jejím zajištění.
+>
+> (5) Je-li zajištěna pohledávka na účtu, zajištění se vztahuje na peněžní prostředky, které se nacházejí na účtu v okamžiku, v němž je bance nebo jinému subjektu, který vede účet pro jiného, doručeno rozhodnutí o jejich zajištění, až do výše částky uvedené v tomto rozhodnutí a jejího příslušenství. Převyšuje-li částka uvedená v rozhodnutí o zajištění zůstatek peněžních prostředků na účtu, vztahuje se zajištění i na peněžní prostředky, které na účet dodatečně dojdou, a to do výše částky uvedené v rozhodnutí, včetně jejího příslušenství. Nestanoví-li tento zákon jinak, od okamžiku doručení usnesení o zajištění pohledávky na účtu bance nebo jinému subjektu oprávněnému vést účet pro jiného je zakázáno jakkoli disponovat s peněžními prostředky, které se na účtu nacházejí, až do výše zajištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6405378a2cd705eaad04 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5942b3b086fcce57cbe0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79f — Zrušení nebo omezení zajištění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zajištění věci se zruší nebo omezí, není-li jej již třeba nebo jej není třeba ve stanoveném rozsahu. Bylo-li zrušeno zajištění věci, jež byla ponechána na místě, kde se nachází, odvolá se též příkaz k zdržení se nakládání s věcí.
+>
+> (2) Osoba, jíž byla věc zajištěna, má právo kdykoliv po právní moci usnesení o zajištění žádat o zrušení nebo omezení zajištění. O takové žádosti je třeba neodkladně rozhodnout. Byla-li žádost zamítnuta, může ji tato osoba, neuvede-li nové důvody, opakovat až po uplynutí 30 dnů od právní moci rozhodnutí.
+>
+> (3) O zrušení nebo omezení zajištění rozhoduje předseda senátu a v přípravném řízení státní zástupce nebo s jeho předchozím souhlasem policejní orgán.
+>
+> (4) Proti rozhodnutí o zrušení nebo omezení zajištění je přípustná stížnost, která má odkladný účinek.
+>
+> (5) Pravomocné zkrácené rozhodnutí o zrušení nebo omezení zajištění bez odůvodnění se doručí orgánům a osobám, kterým bylo doručeno rozhodnutí o zajištění. Orgány a osoby, které byly o rozhodnutí o zajištění vyrozuměny, je třeba vyrozumět i o rozhodnutí uvedeném ve větě první; o omezení zajištění se vyrozumí jen ty z nich, kterých se omezení týká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5942b3b086fcce57cbe0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3e727a07af9517450e35 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79g — Zajištění náhradní hodnoty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nelze-li zajistit věc, která je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce, může být místo ní zajištěna náhradní hodnota, která odpovídá, byť jen zčásti, její hodnotě; přitom se postupuje obdobně podle příslušných ustanovení upravujících zajištění věci, která je nástrojem trestné činnosti, výnosem z trestné činnosti nebo předmětem mezinárodní sankce (§ 79a až 79f). Náhradní hodnotu lze zajistit osobě, která měla povinnost strpět zajištění původní věci.
+>
+> (2) Z důležitých důvodů může předseda senátu a v přípravném řízení státní zástupce povolit na návrh osoby, které byla náhradní hodnota zajištěna, provedení úkonu, který se týká zajištěné náhradní hodnoty. Proti takovému rozhodnutí je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 79a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e727a07af9517450e35 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=810d4176f6121c17b7de generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 79h — Změna zajištěné věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Není-li tím ohrožen účel trestního řízení, předseda senátu a v přípravném řízení státní zástupce nebo s jeho předchozím souhlasem policejní orgán může rozhodnout o zajištění peněžních prostředků namísto jiné věci, která byla zajištěna, pokud ten, komu byla taková věc zajištěna, složí do úschovy příslušného orgánu činného v trestním řízení peněžní prostředky ve výši odpovídající hodnotě zajištěné věci.
+>
+> (2) Proti rozhodnutí podle odstavce 1 je přípustná stížnost, která má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=810d4176f6121c17b7de -->
+
 ### §§ 80–81b — Vrácení, vydání a další nakládání
 
 **§ 80** — **vrácení věci**:
@@ -1558,6 +3636,208 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0f052e66aeea9ed351cc generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 80
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Není-li věci, která byla vydána nebo odňata, k dalšímu řízení už třeba a nepřichází-li v úvahu její propadnutí nebo zabrání, vrátí se tomu, kdo ji vydal nebo komu byla odňata. Jestliže na ni uplatňuje právo osoba jiná, vydá se tomu, o jehož právu na věc není pochyb. Při pochybnostech se věc uloží do úschovy a osoba, která si na věc činí nárok, se upozorní, aby jej uplatnila v řízení ve věcech občanskoprávních. Byla-li věc v mezidobí prodána, s částkou za ni strženou se naloží obdobně podle věty první až třetí. Pokud osoba, která má na věc právo, ji přes opakovanou výzvu nepřevezme, bude věc prodána a částka za ni stržená bude uložena do úschovy soudu; věc bezcenná se zničí.
+>
+> (2) Je-li nebezpečí, že se věc, která nemohla být vrácena nebo vydána podle odstavce 1, zkazí, prodá se a částka za ni stržená se uloží do úschovy soudu.
+>
+> (3) Rozhodnutí podle odstavců 1 a [[#§ 2|2]] činí předseda senátu, v přípravném řízení státní zástupce nebo policejní orgán. Proti rozhodnutí o vrácení a vydání věci, jakož i o uložení do úschovy je přípustná stížnost, jež má odkladný účinek.
+>
+> (4) Věc na základě rozhodnutí o prodeji podle odstavců 1 a [[#§ 2|2]] prodá ten, kdo ji má ve správě, nebo ten, kdo je pověřen jejím prodejem, postupem podle zvláštního právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f052e66aeea9ed351cc -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a0eb3e6b7cc5ee5ddb4 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 81
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Jestliže byla vydána nebo odňata věc, která byla získána nebo byla pravděpodobně získána trestným činem, a buď není známo, komu věc patří, nebo není znám pobyt poškozeného, vyhlásí se veřejně popis věci. Vyhlášení se učiní způsobem pro vypátrání poškozeného nejúčelnějším, a to spolu s vyzváním, aby se poškozený přihlásil do šesti měsíců od vyhlášení.
+>
+> (2) Uplatnil-li ve lhůtě uvedené v odstavci 1 nárok na věc někdo jiný než ten, komu byla věc zajištěna, postupuje se podle § 80 odst. 1. Jestliže nárok na věc neuplatnil nikdo jiný, vydá se věc, nebo byla-li zatím už prodána, částka za ni stržená tomu, komu byla zajištěna, na jeho žádost, pokud nejde o věc, kterou získal trestným činem. Jde-li o věc, která byla získána trestným činem, nebo nepožádal-li ten, komu byla zajištěna, o vrácení věci a právo na věc neuplatnil někdo jiný ve lhůtě šesti měsíců po uplynutí lhůty uvedené v odstavci 1 větě druhé, připadá věc do vlastnictví státu; tím není dotčeno právo vlastníka žádat vydání takové věci nebo vydání částky stržené za její prodej.
+>
+> (3) Jde-li o věc bezcennou, lze ji zničit i bez předchozího vyhlášení popisu.
+>
+> (4) Opatření a rozhodnutí uvedená v odstavcích 1 až 3 činí předseda senátu a v přípravném řízení státní zástupce nebo policejní orgán. Proti usnesení o vydání věci nebo o zničení věci je přípustná stížnost, jež má odkladný účinek.
+>
+> (5) Podle odstavců 1 až 4 se postupuje přiměřeně také tehdy, byla-li zajištěna věc neznámé osobě nebo jestliže osoba, které byla věc zajištěna, zemřela, byla prohlášena za mrtvou nebo za nezvěstnou nebo zanikla, není známa osoba, jíž by věc mohla být vydána, a takové věci již není k dalšímu řízení třeba.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a0eb3e6b7cc5ee5ddb4 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=685339fe92c222f9cf74 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 81a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Na postup při vrácení nemovitých věcí a nehmotných věcí, které byly zajištěny podle [[#§ 79a|§ 79a]] a při dalším nakládání s nimi, jakož i na postup při vrácení náhradní hodnoty, která byla zajištěna podle [[#§ 79g|§ 79g]], a při dalším nakládání s ní, se přiměřeně užijí [[#§ 80|§ 80]] a [[#§ 81|81]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 79a, § 79g, § 80, § 81
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=685339fe92c222f9cf74 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=943acc721d66920844d3 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 81b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Byla-li vydána nebo odňata věc, která ohrožuje bezpečnost lidí nebo majetku, zejména omamná látka, psychotropní látka, přípravek obsahující omamnou nebo psychotropní látku, prekursor, jed, jaderný materiál nebo radioaktivní látka, ze které byl odebrán přiměřený vzorek, a takové věci již není třeba za účelem provedení důkazu, zejména nejsou-li pochybnosti o totožnosti vzorku věci a jejího celku a o celkovém množství věci, může předseda senátu a v přípravném řízení státní zástupce rozhodnout o jejím zničení již v průběhu trestního řízení, pokud takové věci již není k dalšímu řízení třeba a nelze-li ji vrátit podle [[#§ 80|§ 80]], nebo není známo, komu taková věc patří, anebo není znám pobyt poškozeného.
+>
+> (2) Byl-li vydán nebo odňat exemplář rostliny nebo živočicha, regulovaná kožešina nebo výrobek z tuleně nebo jiný jedinec, které lze zadržet pro účely jejich zabavení podle zákona o obchodování s ohroženými druhy, nebo jedinec zvláště chráněného druhu rostliny nebo živočicha anebo volně žijícího ptáka, které lze odebrat podle zákona [[o ochraně přírody a krajiny|o ochraně přírody a krajiny]], a není-li jich třeba pro důkazní účely a nelze-li je vrátit podle [[#§ 80|§ 80]], orgán činný v trestním řízení, kterému byly vydány, nebo který vydal příkaz k jejich odnětí, je postoupí České inspekci životního prostředí a zajistí jejich předání inspekci, pokud k němu dosud nedošlo; tím je zajištění ukončeno.
+>
+> (3) Proti usnesení podle odstavce 1 je přípustná stížnost, jež má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=943acc721d66920844d3 -->
+
 ## Oddíl 5 — Domovní a osobní prohlídka, prohlídka jiných prostor a pozemků, vstup do obydlí (§ 82 – § 85c)
 
 **Ústavní rozměr**: čl. 12 LZPS — **nedotknutelnost obydlí**, prohlídka **jen s příkazem soudce**.
@@ -1612,6 +3892,58 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 
 **Typicky rozhodné důkazy / podklady:** podklady odůvodňující podezření k danému místu, dokumentace povahy prostor (obydlí × jiné prostory), případně doklady o výkonu advokacie v prostoru.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4b38303acbc212cedc5c generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 82 — Důvody domovní prohlídky a osobní prohlídky a prohlídky jiných prostor a pozemků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Domovní prohlídku lze vykonat, je-li důvodné podezření, že v bytě nebo v jiné prostoře sloužící k bydlení nebo v prostorách k nim náležejících (obydlí) je věc nebo osoba důležitá pro trestní řízení.
+>
+> (2) Z důvodů uvedených v odstavci 1 lze vykonat i prohlídku prostor nesloužících k bydlení (jiných prostor) a pozemků, pokud nejsou veřejně přístupné.
+>
+> (3) Osobní prohlídku lze vykonat, je-li důvodné podezření, že někdo má u sebe věc důležitou pro trestní řízení.
+>
+> (4) U osoby zadržené a u osoby, která byla zatčena nebo která se bere do vazby, lze vykonat osobní prohlídku též tehdy, je-li tu podezření, že má u sebe zbraň nebo jinou věc, jíž by mohla ohrozit život nebo zdraví vlastní nebo cizí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b38303acbc212cedc5c -->
+
 ### § 83 — Příkaz k domovní prohlídce
 
 **Odst. 1 — kdo nařizuje:**
@@ -1659,6 +3991,54 @@ Příkaz k domovní prohlídce musí být písemný a řádně (individualizovan
 - [ ] Je doloženo, že nebyla dána překážka bránící doručení při úkonu?
 
 **Typicky rozhodné důkazy / podklady:** příkaz s odůvodněním, návrh SZ, protokol o domovní prohlídce s časem a způsobem doručení příkazu, podklady ke spisu odůvodňující úkon.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d9be3bfb535f4ecceed8 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 83 — Příkaz k domovní prohlídce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nařídit domovní prohlídku je oprávněn předseda senátu a v přípravném řízení na návrh státního zástupce soudce. V neodkladných případech tak může namísto příslušného předsedy senátu nebo soudce ([[#§ 18|§ 18]]) učinit předseda senátu nebo soudce, v jehož obvodu má být prohlídka vykonána. Příkaz k domovní prohlídce musí být vydán písemně a musí být odůvodněn. Doručí se osobě, u níž se prohlídka koná, při prohlídce, a není-li to možné, nejpozději do 24 hodin po odpadnutí překážky, která brání doručení.
+>
+> (2) Na příkaz předsedy senátu nebo soudce vykoná domovní prohlídku policejní orgán.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9be3bfb535f4ecceed8 -->
 
 ### § 83a — Příkaz k prohlídce jiných prostor a pozemků
 
@@ -1710,6 +4090,56 @@ Prohlídka jiných prostor a pozemků se zásadně provádí na příkaz nezávi
 
 **Typicky rozhodné důkazy / podklady:** příkaz soudu nebo doklad o podmínkách bezpříkazové prohlídky, protokol o prohlídce, žádost o dodatečný souhlas a rozhodnutí soudu, případný písemný souhlas uživatele.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3fc35501a46e4c824111 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 83a — Příkaz k prohlídce jiných prostor a pozemků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Na nařízení a provedení prohlídky jiných prostor a pozemků se obdobně užije § 83 odst. 1 a [[#§ 2|2.]]
+>
+> (2) Bez příkazu může policejní orgán provést prohlídku jiných prostor nebo pozemků, jestliže vydání příkazu nelze předem dosáhnout a věc nesnese odkladu. Policejní orgán je však povinen si bezodkladně dodatečně vyžádat souhlas orgánu oprávněného k vydání příkazu; v přípravném řízení tak činí prostřednictvím státního zástupce. Pokud oprávněný orgán souhlas dodatečně neudělí, nelze výsledek prohlídky použít v dalším řízení jako důkaz.
+>
+> (3) Bez příkazu může policejní orgán provést prohlídku jiných prostor nebo pozemků také tehdy, pokud uživatel dotčených prostor nebo pozemků písemně prohlásí, že s prohlídkou souhlasí, a své prohlášení předá policejnímu orgánu. O tomto úkonu však musí policejní orgán bezodkladně vyrozumět předsedu senátu oprávněného k vydání příkazu a v přípravném řízení státního zástupce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 83, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3fc35501a46e4c824111 -->
+
 ### § 83b — Příkaz k osobní prohlídce
 
 **Odst. 1**: Nařizuje **předseda senátu / SZ / policejní orgán** (se souhlasem SZ).
@@ -1758,6 +4188,58 @@ Osobní prohlídku nařizuje předseda senátu/SZ/policejní orgán (se souhlase
 - [ ] Je úkon zaprotokolován s uvedením, kdo a z jakého důvodu jej provedl?
 
 **Typicky rozhodné důkazy / podklady:** protokol o přistižení při činu / příkaz k zatčení, příkaz k osobní prohlídce nebo doklad o bezpříkazovém důvodu, protokol o osobní prohlídce s uvedením provádějící osoby.
+
+
+<!-- LEGAL-REVISION:BEGIN id=25a57a8c6588078a64c1 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 83b — Příkaz k osobní prohlídce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Nařídit osobní prohlídku je oprávněn předseda senátu a v přípravném řízení státní zástupce nebo s jeho souhlasem policejní orgán.
+>
+> (2) Nevykoná-li osobní prohlídku orgán, který ji nařídil, vykoná ji na jeho příkaz policejní orgán.
+>
+> (3) Osobní prohlídku vykonává vždy osoba stejného pohlaví.
+>
+> (4) Bez příkazu nebo souhlasu uvedeného v odstavci 1 může policejní orgán vykonat osobní prohlídku jen tehdy, jestliže příkazu nebo souhlasu předem dosáhnout nelze a věc nesnese odkladu, anebo jestliže jde o osobu přistiženou při činu nebo o osobu, na kterou byl vydán příkaz k zatčení. Bez příkazu nebo souhlasu lze též provést osobní prohlídku v případech uvedených v § 82 odst. 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 82
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25a57a8c6588078a64c1 -->
 
 ### § 83c — Vstup do obydlí, jiných prostor a na pozemek
 
@@ -1812,6 +4294,62 @@ Osobní prohlídku nařizuje předseda senátu/SZ/policejní orgán (se souhlase
 
 **Typicky rozhodné důkazy / podklady:** záznam tísňového volání / podklad o naléhavé okolnosti, protokol o vstupu s popisem provedených úkonů, dokumentace, co bylo v přímém dohledu × co bylo aktivně hledáno.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2cbf2c139a977aa45177 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 83c — Vstup do obydlí, jiných prostor a na pozemek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Policejní orgán může vstoupit do obydlí, jiných prostor nebo na pozemek jen tehdy, jestliže věc nesnese odkladu a vstup tam je nezbytný pro ochranu života nebo zdraví osob nebo pro ochranu jiných práv a svobod nebo pro odvrácení závažného ohrožení veřejné bezpečnosti a pořádku.
+>
+> (2) Policejní orgán dále může na místa uvedená v odstavci 1 vstoupit v případě, že se v nich nachází osoba,
+>
+> - a) na kterou byl vydán příkaz k zadržení, příkaz k zatčení nebo příkaz k dodání do výkonu trestu odnětí svobody nebo do výkonu ochranného opatření spojeného se zbavením osobní svobody,
+>
+> - b) kterou je třeba předvést pro účely trestního řízení, nebo
+>
+> - c) kterou je třeba zadržet.
+>
+> (3) Po vstupu na místa shora uvedená nesmějí být provedeny žádné jiné úkony než takové, které slouží k odstranění naléhavého nebezpečí nebo k předvedení osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2cbf2c139a977aa45177 -->
+
 ### § 84 — Předchozí výslech
 
 **Předchozí výslech** je obligatorní:
@@ -1858,6 +4396,52 @@ Předchozí výslech podle § 84 je obligatorní výzvou k dobrovolnému vydán�
 - [ ] Navazoval při neúspěchu výzvy řádný výkon úkonu?
 
 **Typicky rozhodné důkazy / podklady:** protokol o prohlídce s údajem o předchozím výslechu, příkaz k prohlídce, záznam o důvodech případného upuštění od výslechu, dokumentace přítomnosti a stavu osoby.
+
+
+<!-- LEGAL-REVISION:BEGIN id=b55af8bcf25a46152feb generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 84 — Předchozí výslech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Vykonat domovní prohlídku nebo osobní prohlídku nebo prohlídku jiných prostor a pozemků lze jen po předchozím výslechu toho, u koho nebo na kom se má takový úkon vykonat, a to jen tehdy, jestliže se výslechem nedosáhlo ani dobrovolného vydání hledané věci nebo odstranění jiného důvodu, který vedl k tomuto úkonu. Předchozího výslechu není třeba, jestliže věc nesnese odkladu a výslech nelze provést okamžitě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b55af8bcf25a46152feb -->
 
 ### § 85 — Výkon prohlídek a vstupů
 
@@ -1908,6 +4492,60 @@ Předchozí výslech podle § 84 je obligatorní výzvou k dobrovolnému vydán�
 
 **Typicky rozhodné důkazy / podklady:** protokol o prohlídce s identifikací orgánu a údajem o účasti osob, doklad o přibrání nezúčastněné osoby, písemné potvrzení o převzatých věcech, podklad k případnému odepření účasti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c9ee3ec87debbe3f4048 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 85
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Orgán vykonávající domovní prohlídku nebo prohlídku jiných prostor je povinen umožnit osobě, u níž se takový úkon koná, nebo některému dospělému členu její domácnosti nebo v případě prohlídky jiných prostor též jejímu zaměstnanci účast při prohlídce. O právu účasti při prohlídce je povinen tyto osoby poučit.
+>
+> (2) K výkonu domovní a osobní prohlídky je třeba přibrat osobu, která není na věci zúčastněna. K výkonu domovní prohlídky nebo prohlídky jiných prostor může orgán vykonávající prohlídku přibrat též osoby, jejichž účast při prohlídce je potřebná zejména pro účely náležité identifikace, ocenění a zabezpečení vydaných a odňatých věcí. Orgán vykonávající prohlídku prokáže své oprávnění.
+>
+> (3) V protokole o prohlídce je třeba též uvést, zda byla dodržena ustanovení o předchozím výslechu, popřípadě označit důvody, proč dodržena nebyla. Došlo-li při prohlídce k vydání nebo odnětí věci, je třeba pojmout do protokolu také údaje uvedené v § 78 odst. 5.
+>
+> (4) Osobě, u které byla prohlídka vykonána, vydá orgán, který takový úkon vykonal, ihned, a není-li to možné, nejdéle do 24 hodin poté písemné potvrzení o výsledku úkonu, jakož i o převzetí věcí, které byly přitom vydány nebo odňaty, anebo opis protokolu.
+>
+> (5) Při vstupu do obydlí, jiných prostor a pozemků se užije ustanovení odstavce 1 až 4 přiměřeně. Účast osob uvedených v odstavci 1 při vstupu do obydlí však lze odepřít a osobu uvedenou v odstavci 2 nepřibrat, jestliže by mohlo dojít k ohrožení jejího života nebo zdraví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 78
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9ee3ec87debbe3f4048 -->
+
 ### § 85a — Strpění úkonu
 
 Osoba je povinna **strpět** úkon. Při neumožnění lze **překonat odpor** po předchozí marné výzvě. Záznam do protokolu.
@@ -1953,6 +4591,54 @@ Podle § 85a je osoba povinna úkon strpět; odpor či překážku lze překonat
 - [ ] Lze případný nárok na náhradu škody posoudit podle § 13 odst. 1 z. č. 82/1998 Sb.?
 
 **Typicky rozhodné důkazy / podklady:** protokol o prohlídce se záznamem o výzvě a odporu, dokumentace chování osoby a hrozícího rizika, doklad o vzniklé škodě, příkaz k prohlídce.
+
+
+<!-- LEGAL-REVISION:BEGIN id=3791cca98e00b31bf56f generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 85a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Osoba, u níž má být provedena domovní prohlídka, prohlídka jiných prostor a pozemku, osobní prohlídka nebo vstup do obydlí, je povinna tyto úkony strpět.
+>
+> (2) Neumožní-li osoba, vůči níž směřuje úkon uvedený v odstavci 1, provedení takového úkonu, jsou orgány provádějící úkon oprávněny po předchozí marné výzvě překonat odpor takové osoby nebo jí vytvořenou překážku. O tom učiní záznam do protokolu (§ 85 odst. 3).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 85
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3791cca98e00b31bf56f -->
 
 ### § 85b — Domovní prohlídka v advokátní kanceláři
 
@@ -2017,6 +4703,74 @@ Domovní prohlídka v advokátní kanceláři podléhá zvláštnímu režimu §
 
 **Typicky rozhodné důkazy / podklady:** příkaz a protokol o prohlídce, seznam zabezpečených listin, doklad o (ne)udělení souhlasu zástupce ČAK, návrh na nahrazení souhlasu a rozhodnutí soudce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=00078b84f52655c65f4a generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 85b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Při provádění domovní prohlídky nebo prohlídky jiných prostor, v nichž advokát vykonává advokacii, pokud se zde mohou nacházet listiny, které obsahují skutečnosti, na něž se vztahuje povinnost mlčenlivosti advokáta, je orgán provádějící úkon povinen vyžádat si součinnost České advokátní komory (dále jen „Komora“); orgán provádějící úkon je oprávněn seznámit se s obsahem těchto listin pouze za přítomnosti a se souhlasem zástupce Komory, kterého ustanoví předseda Komory z řad jejích zaměstnanců nebo z řad advokátů. Stanovisko zástupce Komory je třeba uvést v protokolu podle § 85 odst. 3.
+>
+> (2) Odmítne-li zástupce Komory souhlas podle odstavce 1 udělit, musí být listiny za účasti orgánu provádějícího úkon, advokáta a zástupce Komory zabezpečeny tak, aby se s jejich obsahem nemohl nikdo seznámit, popřípadě je zničit nebo poškodit; bezprostředně poté musí být příslušné listiny předány Komoře. Komora vrátí advokátovi tyto listiny bez odkladu poté, co marně uplyne lhůta k podání návrhu podle odstavce 5. Komora postupuje obdobně, byl-li návrh zamítnut, a to i ohledně některých listin; v takovém případě Komora vrátí advokátovi jen ty listiny, kterých se zamítnutí návrhu týká. Komora vrátí advokátovi listiny bez odkladu též poté, kdy byla informována o postupu podle odstavce 6.
+>
+> (3) V případě uvedeném v odstavci 2 větě první lze souhlas zástupce Komory nahradit na návrh orgánu, který domovní prohlídku nebo prohlídku jiných prostor nařídil, rozhodnutím soudce nejblíže nadřízeného soudu, u něhož působí předseda senátu nebo soudce, který je oprávněn podle § 83 odst. 1 a § 83a odst. 1 nařídit domovní prohlídku nebo prohlídku jiných prostor. V případě prohlídky jiných prostor provedené policejním orgánem podle § 83a odst. 2 nebo [[#§ 3|3]] podává návrh podle věty první předseda senátu oprávněný k vydání příkazu a v přípravném řízení státní zástupce.
+>
+> (4) Návrh musí kromě obecných náležitostí (§ 59 odst. 3) obsahovat označení listin, ohledně kterých se navrhovatel domáhá nahrazení souhlasu zástupce Komory k seznámení se s jejich obsahem, a vylíčení skutečností svědčících o tom, proč nesouhlas zástupce Komory k seznámení se orgánu provádějícího úkon s obsahem těchto listin má být nahrazen rozhodnutím soudce podle odstavce 3. K návrhu je třeba připojit protokol, v němž je zaznamenán nesouhlas zástupce Komory s tím, aby se orgán provádějící úkon s obsahem listin seznámil.
+>
+> (5) Návrh je třeba podat do 15 dnů ode dne, kdy zástupce Komory odmítl udělit souhlas k seznámení se s obsahem listin, ohledně kterých se navrhovatel podle odstavce 4 domáhá nahrazení souhlasu zástupce Komory k seznámení se s jejich obsahem.
+>
+> (6) K návrhu, který neobsahuje všechny náležitosti nebo který je nesrozumitelný nebo neurčitý, soudce nepřihlíží; ustanovení § 59 odst. 3 věta třetí a čtvrtá se nepoužije. Obdobně soudce postupuje, byl-li návrh podán opožděně nebo byl-li podán někým, kdo k návrhu není oprávněn. O tomto postupu informuje soudce bez odkladu navrhovatele a Komoru.
+>
+> (7) Nepostupoval-li soudce podle odstavce 6, projedná bez zbytečného odkladu návrh ve veřejném zasedání a Komoře uloží, aby mu při něm předložila listiny, ohledně kterých se navrhovatel domáhá nahrazení souhlasu zástupce Komory k seznámení s jejich obsahem. Soudce vedle jiných úkonů též prověří, zda nebylo porušeno zabezpečení listin předložených Komorou, a seznámí se s jejich obsahem; současně učiní opatření, aby se navrhovatel a ani nikdo jiný o obsahu listin při veřejném zasedání nemohl dozvědět.
+>
+> (8) Dojde-li k odročení veřejného zasedání, soudce listiny zabezpečí tak, aby se s jejich obsahem nemohl nikdo seznámit, popřípadě je zničit nebo poškodit.
+>
+> (9) Soudce návrhu vyhoví, dojde-li k závěru, že listina neobsahuje skutečnosti, o nichž je dotčený advokát povinen zachovávat mlčenlivost; v opačném případě návrh zamítne.
+>
+> (10) Vyhoví-li soudce návrhu alespoň zčásti, předá bez odkladu po právní moci usnesení listiny, ohledně nichž byl nahrazen souhlas zástupce Komory k seznámením se s jejich obsahem, orgánu provádějícímu úkon a uloží mu, aby je Komoře vrátil ihned poté, jakmile se s jejich obsahem seznámí; to neplatí, mají-li být takové listiny použity jako důkaz v trestním řízení. Listiny, ohledně kterých byl návrh zamítnut, soudce vrátí bez odkladu po právní moci usnesení Komoře.
+>
+> (11) V případě, že listiny není možné odevzdat orgánu provádějícímu úkon, Komoře nebo jejich zástupcům osobně, doručí se nejpozději první pracovní den následující po dni, v němž nabylo usnesení právní moci, orgánu provádějícímu úkon nebo Komoře prostřednictvím soudního doručovatele nebo orgánů justiční stráže.
+>
+> (12) Listinou v odstavcích 1 až 11 se rozumí jak písemnost, popřípadě její část, tak i jiný nosič informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 85, § 83, § 83a, § 3, § 59
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00078b84f52655c65f4a -->
+
 ### § 85c — Důkaz v obydlí
 
 **Užití § 83, 83a, 84, 85, 85a, 85b** i pro **rekonstrukci, rekognici, prověrku na místě, vyšetřovací pokus** v bytě / obydlí / jiných prostorách / pozemku, pokud je nelze provést jinde a osoba **nedala souhlas**.
@@ -2059,6 +4813,52 @@ Domovní prohlídka v advokátní kanceláři podléhá zvláštnímu režimu §
 **Typicky rozhodné důkazy / podklady:** spis odůvodňující potřebu úkonu na místě, doklad o (ne)souhlasu uživatele, příkaz dle § 83/83a, protokol o provedeném úkonu se zárukami dle § 85.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=132d4d54ff0c87c5df0e generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 85c — Provádění důkazu v bytě, obydlí, jiných prostorách a na pozemku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Ustanovení [[#§ 83|§ 83]], [[#§ 83a|83a]], [[#§ 84|84]], [[#§ 85|85]], [[#§ 85a|85a]] a [[#§ 85b|85b]] se užije i tehdy, jestliže na místech v těchto ustanoveních uvedených je třeba provést rekonstrukci, rekognici, prověrku na místě nebo vyšetřovací pokus, z povahy takového úkonu vyplývá, že jej nelze provést jinde a ten, u koho se má takový úkon vykonat, k němu nedal souhlas.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 83, § 83a, § 84, § 85, § 85a, § 85b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=132d4d54ff0c87c5df0e -->
 
 ## Oddíl 6 — Zadržení a otevření zásilek, záměna a sledování (§ 86 – § 87c)
 
@@ -2105,6 +4905,54 @@ Domovní prohlídka v advokátní kanceláři podléhá zvláštnímu režimu §
 
 **Typicky rozhodné důkazy / podklady:** nařízení k vydání zásilky nebo příkaz k pozdržení, doklad o vyrozumění SZ s časem, evidence běhu třídenní lhůty, podklad o neodkladnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0095cce378c9fd0c5d5 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 86 — Zadržení zásilky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li k objasnění skutečností důležitých pro trestní řízení v konkrétní věci nutno zjistit obsah nedoručených poštovních zásilek, jiných zásilek nebo telegramů, nařídí předseda senátu a v přípravném řízení státní zástupce, aby je pošta nebo osoba provádějící jejich přepravu vydaly jemu a v přípravném řízení buď státnímu zástupci nebo policejnímu orgánu.
+>
+> (2) Bez nařízení uvedeného v odstavci 1 může být přeprava zásilky pozdržena na příkaz policejního orgánu, pokud věc nesnese odkladu a nařízení nelze předem dosáhnout. Policejní orgán je povinen o pozdržení zásilky do 24 hodin vyrozumět státního zástupce. Neobdrží-li pošta nebo osoba provádějící dopravu zásilek v takovém případě do tří dnů nařízení podle odstavce 1, nesmí dopravu zásilek dále zdržovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0095cce378c9fd0c5d5 -->
+
 ### § 87 — Otevření zásilky
 
 Otevírá **předseda senátu / SZ s ohlasem soudce / policejní orgán**.
@@ -2148,6 +4996,56 @@ Poštovní zásilku podle § 87 otevírá předseda senátu/SZ (se souhlasem sou
 
 **Typicky rozhodné důkazy / podklady:** nařízení dle § 86, doklad o tom, kdo zásilku otevřel a s jakým souhlasem, protokol o obsahu zásilky, podklad o hrozbě zmaření stíhání odůvodňující připojení ke spisu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f79a57a46a789f8f5549 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 87 — Otevření zásilky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zásilku vydanou podle § 86 odst. 1 může otevřít jen předseda senátu a v přípravném řízení se souhlasem soudce státní zástupce nebo policejní orgán.
+>
+> (2) Otevřená zásilka se odevzdá adresátovi, a není-li jeho pobyt znám a není-li zásilka určena do vlastních rukou, některému z jeho rodinných příslušníků; jinak se zásilka vrátí odesílateli. Je-li však obava, že odevzdáním zásilky by mohlo dojít ke zmaření nebo podstatnému ztížení účelu trestního stíhání, připojí se zásilka ke spisu; je-li to vhodné, oznámí se adresátovi obsah dopisu nebo telegramu. Není-li jeho pobyt znám a není-li zásilka určena do vlastních rukou, učiní se oznámení některému z jeho rodinných příslušníků.
+>
+> (3) Zásilka, kterou nebylo uznáno za nutné otevřít, odevzdá se ihned adresátovi nebo se vrátí poště nebo osobě, která ji vydala.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 86
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f79a57a46a789f8f5549 -->
+
 ### § 87a — Záměna zásilky
 
 **Pro objevení osob**, které se podílejí na nakládání s nelegální zásilkou (drogy, prekursory, jedy, zbraně, **padělané peníze**, věci určené ke spáchání TČ / pocházející z TČ).
@@ -2190,6 +5088,54 @@ Záměna zásilky je ofenzivní operativní nástroj použitelný jen u taxativn
 - [ ] Nehrozí námitka provokace (úmysl pachatele existoval předem)?
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení a otevření zásilky, znalecký posudek (totožnost a hmotnost látky), příkaz k záměně se souhlasem soudce, protokol o záměně, záznamy o sledování a o předání, fotodokumentace.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d1d0bc68bb56f2ec3fde generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 87a — Záměna zásilky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) V zájmu zjištění osob podílejících se na nakládání se zásilkou obsahující omamné látky, psychotropní látky, prekursory, jedy, jaderný materiál nebo radioaktivní látky, padělané peníze a padělané cenné papíry, střelné nebo hromadně účinné zbraně, střelivo, munici a výbušniny nebo jinou věc, k jejímuž držení je třeba zvláštního povolení, věci určené ke spáchání trestného činu, anebo věci z trestného činu pocházející, může předseda senátu a v přípravném řízení se souhlasem soudce státní zástupce nařídit, aby byl obsah takové zásilky zaměněn za jiný a takto upravená zásilka byla předána k další přepravě.
+>
+> (2) Záměnu provede policejní orgán, který o tom sepíše záznam a zabezpečí úschovu zaměněných věcí a materiálů. Se zaměněnými věcmi se nakládá jako s věcmi odňatými.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1d0bc68bb56f2ec3fde -->
 
 ### § 87b — Sledovaná zásilka
 
@@ -2236,6 +5182,56 @@ Sledovaná zásilka slouží k rozkrytí distribučního řetězce; nařizuje ji
 
 **Typicky rozhodné důkazy / podklady:** příkaz SZ ke sledované zásilce, protokoly o sledování a pohybu zásilky, ztotožnění zúčastněných osob, navazující odposlechy/sledování, dokumentace realizace.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4a75ba4c033108121d47 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 87b — Sledovaná zásilka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Státní zástupce může v přípravném řízení nařídit, aby zásilka, u níž je důvodné podezření, že obsahuje věci uvedené v [[#§ 87a|§ 87a]], byla sledována, jestliže je to třeba k objasnění trestného činu nebo odhalení všech jeho pachatelů a zjištění potřebných skutečností jiným způsobem by bylo neúčinné nebo podstatně ztížené. Sledování zásilky provede podle pokynu státního zástupce policejní orgán; vůči osobám, které se sledovanou zásilkou nakládají, přitom neprovádí žádné úkony směřující k vydání nebo odnětí věci. O průběhu sledování zásilky se sepíše protokol a podle potřeby se pořídí též obrazový nebo jiný záznam.
+>
+> (2) Bez příkazu podle odstavce 1 může policejní orgán zahájit sledování zásilky, jestliže věc nesnese odkladu a příkazu nelze předem dosáhnout. O tomto úkonu státního zástupce bez odkladu vyrozumí a postupuje dále podle jeho pokynů.
+>
+> (3) Sledování zásilky ukončí policejní orgán na příkaz státního zástupce, a je-li zřejmé, že nakládáním se zásilkou vzniká vážné nebezpečí života nebo zdraví, značné škody na majetku, anebo hrozí-li vážné nebezpečí, že takovou zásilku nebude možné dále sledovat, i bez takového příkazu. Podle potřeby současně s ukončením sledování zásilky učiní úkon směřující proti dalšímu držení věcí, které tvoří obsah zásilky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 87a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4a75ba4c033108121d47 -->
+
 ### § 87c — Definice zásilky
 
 Pojem široký: **předmět dopravovaný jakýmkoliv způsobem**, ať poštou nebo jinou osobou, **včetně dopravy skrytým způsobem**.
@@ -2275,6 +5271,52 @@ Definice zásilky je široká: zahrnuje vše dopravované jakýmkoli způsobem a
 **Typicky rozhodné důkazy / podklady:** protokol o ohledání/zadržení, dokumentace způsobu dopravy a ukrytí, znalecký posudek, doklad o příslušném zajišťovacím titulu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=73b4d84f728baeeafdf7 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 87c — Společné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Zásilkou ve smyslu § 86 až 87c se rozumí předmět dopravovaný jakýmkoliv způsobem, ať již s využitím pošty nebo jiné osoby, včetně dopravy skrytým způsobem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 86
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=73b4d84f728baeeafdf7 -->
 
 ## Oddíl 7 — Odposlech a záznam telekomunikačního provozu (§ 88, § 88a)
 
@@ -2405,6 +5447,78 @@ Odposlech je nejcitlivější zásah vedle vazby; nařizuje jej soudce na návrh
 
 **Typicky rozhodné důkazy / podklady:** písemný odůvodněný příkaz soudce, návrh SZ, protokoly o záznamech a jejich vyhodnocení, doklad o zničení záznamu s obhájcem, protokol dle odst. 6 (místo, čas, způsob, obsah), doklad o informování dotčené osoby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=0b77848d1ffdca80a45d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li vedeno trestní řízení pro zločin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně osm let, pro trestný čin pletichy v insolvenčním řízení podle [[§ 226|§ 226]] [[trestního zákoníku|trestního zákoníku]], porušení předpisů o pravidlech hospodářské soutěže podle [[§ 248 odst. 1 písm. e)|§ 248 odst. 1 písm. e)]] a [[odst. 2 až 4|odst. 2 až 4]] [[trestního zákoníku|trestního zákoníku]], zjednání výhody při zadání veřejné zakázky, při veřejné soutěži a veřejné dražbě podle [[§ 256|§ 256]] [[trestního zákoníku|trestního zákoníku]], pletichy při zadání veřejné zakázky a při veřejné soutěži podle [[§ 257|§ 257]] [[trestního zákoníku|trestního zákoníku]], pletichy při veřejné dražbě podle [[§ 258|§ 258]] [[trestního zákoníku|trestního zákoníku]], neoprávněná činnost pro cizí moc podle [[§ 318a|§ 318a]] [[trestního zákoníku|trestního zákoníku]], zneužití pravomoci úřední osoby podle [[§ 329|§ 329]] [[trestního zákoníku|trestního zákoníku]], křivé obvinění podle [[§ 345 odst. 3 až 5|§ 345 odst. 3 až 5]] [[trestního zákoníku|trestního zákoníku]], křivá výpověď a nepravdivý znalecký posudek podle [[§ 346 odst. 3 až 5|§ 346 odst. 3 až 5]] [[trestního zákoníku|trestního zákoníku]], křivé tlumočení podle [[§ 347 odst. 3 až 5|§ 347 odst. 3 až 5]] [[trestního zákoníku|trestního zákoníku]] nebo pro jiný úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, může být vydán příkaz k odposlechu a záznamu telekomunikačního provozu, pokud lze důvodně předpokládat, že jím budou získány významné skutečnosti pro trestní řízení a nelze-li sledovaného účelu dosáhnout jinak nebo bylo-li by jinak jeho dosažení podstatně ztížené. Odposlech a záznam telekomunikačního provozu provádí pro potřeby všech orgánů činných v trestním řízení Policie České republiky. Provádění odposlechu a záznamu telekomunikačního provozu mezi obhájcem a obviněným je nepřípustné. Zjistí-li policejní orgán při odposlechu a záznamu telekomunikačního provozu, že obviněný komunikuje se svým obhájcem, je povinen záznam odposlechu bezodkladně zničit a informace, které se v této souvislosti dozvěděl, nijak nepoužít. Protokol o zničení záznamu založí do spisu.
+>
+> (2) Nařídit odposlech a záznam telekomunikačního provozu je oprávněn předseda senátu a v přípravném řízení na návrh státního zástupce soudce. Příkaz k odposlechu a záznamu telekomunikačního provozu musí být vydán písemně a musí být odůvodněn, včetně konkrétního odkazu na vyhlášenou mezinárodní smlouvu v případě, že se vede trestní řízení pro úmyslný trestný čin, k jehož stíhání tato mezinárodní smlouva zavazuje. V příkazu k odposlechu a záznamu telekomunikačního provozu musí být stanovena uživatelská adresa či zařízení a osoba uživatele, pokud je její totožnost známa, a doba, po kterou bude odposlech a záznam telekomunikačního provozu prováděn, která nesmí být delší než čtyři měsíce; v odůvodnění musí být uvedeny konkrétní skutkové okolnosti, které vydání tohoto příkazu, včetně doby jeho trvání, odůvodňují. Příkaz k odposlechu a záznamu telekomunikačního provozu se bezodkladně doručí policejnímu orgánu. V přípravném řízení opis příkazu k odposlechu a záznamu telekomunikačního provozu soudce bezodkladně zašle státnímu zástupci.
+>
+> (3) Policejní orgán je povinen průběžně vyhodnocovat, zda i nadále trvají důvody, které vedly k vydání příkazu k odposlechu a záznamu telekomunikačního provozu. Pokud důvody pominuly, je povinen odposlech a záznam telekomunikačního provozu ihned ukončit, a to i před skončením doby uvedené v odstavci 2. Tuto skutečnost bezodkladně písemně oznámí předsedovi senátu, který příkaz k odposlechu a záznamu telekomunikačního provozu vydal, a v přípravném řízení rovněž státnímu zástupci a soudci.
+>
+> (4) Na základě vyhodnocení dosavadního průběhu odposlechu a záznamu telekomunikačního provozu může soudce soudu vyššího stupně a v přípravném řízení na návrh státního zástupce soudce krajského soudu dobu trvání odposlechu a záznamu telekomunikačního provozu prodloužit, a to i opakovaně, vždy na dobu nejdéle čtyř měsíců.
+>
+> (5) Bez příkazu k odposlechu a záznamu telekomunikačního provozu může orgán činný v trestním řízení nařídit odposlech a záznam telekomunikačního provozu, nebo jej provést i sám, je-li vedeno trestní řízení pro trestný čin obchodování s lidmi ([[§ 168|§ 168]] [[trestního zákoníku|trestního zákoníku]]), svěření dítěte do moci jiného ([[§ 169|§ 169]] [[trestního zákoníku|trestního zákoníku]]), omezování osobní svobody ([[§ 171|§ 171]] [[trestního zákoníku|trestního zákoníku]]), vydírání ([[§ 175|§ 175]] [[trestního zákoníku|trestního zákoníku]]), únosu dítěte a osoby stižené duševní poruchou ([[§ 200|§ 200]] [[trestního zákoníku|trestního zákoníku]]), násilí proti skupině obyvatelů a proti jednotlivci ([[§ 352|§ 352]] [[trestního zákoníku|trestního zákoníku]]), nebezpečného vyhrožování ([[§ 353|§ 353]] [[trestního zákoníku|trestního zákoníku]]) nebo nebezpečného pronásledování ([[§ 354|§ 354]] [[trestního zákoníku|trestního zákoníku]]), pokud s tím uživatel odposlouchávané stanice souhlasí.
+>
+> (6) Má-li být záznam telekomunikačního provozu užit jako důkaz, je třeba k němu připojit protokol s uvedením údajů o místě, času, způsobu a obsahu provedeného záznamu, jakož i o orgánu, který záznam pořídil. Ostatní záznamy je povinen policejní orgán označit, spolehlivě uschovat tak, aby byla zajištěna ochrana před neoprávněným zneužitím záznamů, a v protokolu založeném do spisu poznamenat, kde jsou uloženy. V jiné trestní věci, než je ta, v níž byl odposlech a záznam telekomunikačního provozu proveden, lze záznam jako důkaz užít tehdy, pokud je v této věci vedeno trestní stíhání pro trestný čin uvedený v odstavci 1, nebo souhlasí-li s tím uživatel odposlouchávané stanice.
+>
+> (7) Pokud při odposlechu a záznamu telekomunikačního provozu nebyly zjištěny skutečnosti významné pro trestní řízení, je policejní orgán po souhlasu soudu a v přípravném řízení státního zástupce povinen záznamy bezodkladně zničit po třech letech od pravomocného skončení věci. Soud a v přípravném řízení státní zástupce souhlas neudělí, pokud byl podán mimořádný opravný prostředek nebo ústavní stížnost; v takovém případě policejní orgán zničí záznam po konečném vyřízení věci. Protokol o zničení záznamu o odposlechu zašle policejní orgán státnímu zástupci, jehož rozhodnutím byla věc pravomocně skončena, a v řízení před soudem předsedovi senátu prvního stupně, k založení do spisu.
+>
+> (8) Jde-li o záznam telekomunikačního provozu uvedený v odstavci 6 větě první, státní zástupce nebo policejní orgán, jehož rozhodnutím byla věc pravomocně skončena, a v řízení před soudem předseda senátu soudu prvního stupně po pravomocném skončení věci informuje o nařízeném odposlechu a záznamu telekomunikačního provozu osobu uvedenou v odstavci 2, pokud je známa a nejde-li o osobu, která měla možnost se tuto informaci dozvědět z trestního spisu a namítat nezákonnost příkazu k odposlechu a záznamu telekomunikačního provozu a jeho provedení v řízení před soudem. Informace obsahuje spisovou značku trestní věci, označení soudu, který vydal příkaz k odposlechu a záznamu telekomunikačního provozu, dobu trvání odposlechu a datum jeho ukončení. Součástí informace je poučení o právu podat návrh na přezkoumání zákonnosti příkazu k odposlechu a záznamu telekomunikačního provozu a jeho provedení. Informaci podá
+>
+> - a) předseda senátu soudu prvního stupně do 30 dnů ode dne nabytí právní moci rozhodnutí, kterým byla věc skončena, nebo ode dne, od kterého se má za to, že se obviněný osvědčil ve zkušební době podmíněného zastavení trestního stíhání, anebo, pokud soud prvního stupně nemá v této době spis k dispozici, ode dne doručení spisu,
+>
+> - b) státní zástupce, jehož rozhodnutím byla věc pravomocně skončena, do 30 dnů ode dne uplynutí lhůty pro přezkoumání rozhodnutí nejvyšším státním zástupcem podle [[#§ 174a|§ 174a]], přichází-li takový přezkum v úvahu, jinak do 30 dnů ode dne nabytí právní moci takového rozhodnutí nebo ode dne, od kterého se má za to, že se obviněný osvědčil ve zkušební době podmíněného odložení podání návrhu na potrestání nebo podmíněného zastavení trestního stíhání, nebo
+>
+> - c) policejní orgán, jehož rozhodnutím byla věc pravomocně skončena, do 30 dnů ode dne uplynutí lhůty pro přezkoumání jeho rozhodnutí státním zástupcem podle § 174 odst. 2 písm. e).
+>
+> (9) Jde-li o záznam telekomunikačního provozu uvedený v odstavci 7, policejní orgán, který záznam označil, informuje o nařízeném odposlechu a záznamu telekomunikačního provozu osobu uvedenou v odstavci 2, pokud je známa; odstavec 8 věty druhá a třetí se použijí obdobně. Byla-li věc pravomocně skončena policejním orgánem, policejní orgán podá informaci ve lhůtě uvedené v odstavci 8 písm. c), jinak do 30 dnů poté, co mu soud nebo státní zástupce doručil své rozhodnutí, kterým byla věc pravomocně skončena.
+>
+> (10) Informaci podle odstavců 8 a [[#§ 9|9]] předseda senátu, státní zástupce nebo policejní orgán nepodá v řízení o zločinu, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně osm let, spáchaném organizovanou skupinou, v řízení o trestném činu spáchaném ve prospěch organizované zločinecké skupiny, v řízení o trestném činu účasti na organizované zločinecké skupině ([[§ 361|§ 361]] [[trestního zákoníku|trestního zákoníku]]), v řízení o trestném činu účasti na teroristické skupině ([[§ 312a|§ 312a]] [[trestního zákoníku|trestního zákoníku]]) nebo pokud se na spáchání trestného činu podílelo více osob a ve vztahu alespoň k jedné z nich nebylo trestní řízení doposud pravomocně skončeno, nebo pokud je proti osobě, jíž má být informace sdělena, vedeno trestní řízení, anebo pokud by poskytnutím takové informace mohl být zmařen účel trestního řízení, včetně řízení uvedeného v odstavci 6, nebo by mohlo dojít k ohrožení bezpečnosti státu, života, zdraví, práv a svobod osob. Předseda senátu, státní zástupce nebo policejní orgán je povinen průběžně zkoumat, zda důvod pro nepodání informace, který může pominout, stále trvá; pokud pominul, informuje osobu uvedenou v odstavci 8 nebo [[#§ 9|9]] neprodleně poté, co tuto skutečnost zjistí. Informaci nepodá, pokud důvod pro její nepodání nepominul ani po uplynutí 10 let ode dne vydání příkazu k odposlechu a záznamu telekomunikačního provozu.
+>
+> (11) Osoba uvedená v odstavcích 8 a [[#§ 9|9]] má právo podat návrh na přezkoumání zákonnosti příkazu k odposlechu a záznamu telekomunikačního provozu a jeho provedení. Návrh se podává u orgánu, který osobě podal informaci podle odstavce 8 nebo [[#§ 9|9]], do 30 dnů ode dne doručení této informace dotčené osobě. Tento orgán přezkoumá, zda byl návrh podán oprávněnou osobou a ve stanovené lhůtě, a spolu se svým vyjádřením k těmto otázkám a informací podanou dotčené osobě jej předloží Nejvyššímu soudu. Orgán uvedený v odstavci 8 k návrhu připojí též spisy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 226, § 248, § 256, § 257, § 258, § 318a, § 329, § 345, § 346, § 347, § 168, § 169, § 171, § 175, § 200, § 352, § 353, § 354, § 174a, § 174, § 9, § 361, § 312a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b77848d1ffdca80a45d -->
+
 ### § 88a — Údaje o telekomunikačním provozu (metadata)
 
 **Méně závažný zásah** než odposlech (jen metadata — kdo, kdy, kde, kolik dlouho komu volal; nikoli obsah).
@@ -2461,6 +5575,56 @@ Zjištění metadat je mírnější než odposlech, ale stále ústavně chrán�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=544a6db49d76cd9a53a6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Je-li třeba pro účely trestního řízení vedeného pro úmyslný trestný čin, na který zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně tři roky, pro trestný čin poškození cizích práv podle [[§ 181 odst. 2|§ 181 odst. 2]] [[trestního zákoníku|trestního zákoníku]], pro trestný čin porušení tajemství dopravovaných zpráv ([[§ 182|§ 182]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin zneužití identity k výrobě pornografie a její šíření ([[§ 191a|§ 191a]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin podvodu ([[§ 209|§ 209]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin neoprávněného přístupu k počítačovému systému a neoprávněného zásahu do počítačového systému nebo nosiče informací ([[§ 230|§ 230]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat ([[§ 231|§ 231]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin nebezpečného vyhrožování ([[§ 353|§ 353]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin nebezpečného pronásledování ([[§ 354|§ 354]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin šíření poplašné zprávy ([[§ 357|§ 357]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin podněcování k trestnému činu ([[§ 364|§ 364]] [[trestního zákoníku|trestního zákoníku]]), pro trestný čin schvalování trestného činu ([[§ 365|§ 365]] [[trestního zákoníku|trestního zákoníku]]), nebo pro úmyslný trestný čin, k jehož stíhání zavazuje vyhlášená mezinárodní smlouva, kterou je Česká republika vázána, zjistit údaje o telekomunikačním provozu, které jsou předmětem telekomunikačního tajemství anebo na něž se vztahuje ochrana osobních a zprostředkovacích dat a nelze-li sledovaného účelu dosáhnout jinak nebo bylo-li by jinak jeho dosažení podstatně ztížené, nařídí v řízení před soudem jejich vydání soudu předseda senátu a v přípravném řízení nařídí jejich vydání státnímu zástupci nebo policejnímu orgánu soudce na návrh státního zástupce. Příkaz k zjištění údajů o telekomunikačním provozu musí být vydán písemně a odůvodněn, včetně konkrétního odkazu na vyhlášenou mezinárodní smlouvu v případě, že se vede trestní řízení pro trestný čin, k jehož stíhání tato mezinárodní smlouva zavazuje. Vztahuje-li se žádost ke konkrétnímu uživateli, musí být v příkazu uvedena jeho totožnost, je-li známa.
+>
+> (2) Osoba uvedená v odstavci 1 větě poslední, pokud je známa a nejde-li o osobu, která měla možnost se tuto informaci dozvědět z trestního spisu a namítat nezákonnost příkazu k zjištění údajů o telekomunikačním provozu v řízení před soudem, má právo na informaci o vydání takového příkazu, nejsou-li dány důvody pro nepodání takové informace, a právo podat návrh na přezkoumání zákonnosti takového příkazu a jeho provedení. Ustanovení § 88 odst. 8 až 11 se použijí obdobně.
+>
+> (3) Příkazu podle odstavce 1 není třeba, pokud k poskytnutí údajů dá souhlas uživatel telekomunikačního zařízení, ke kterému se mají údaje o uskutečněném telekomunikačním provozu vztahovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 181, § 182, § 191a, § 209, § 230, § 231, § 353, § 354, § 357, § 364, § 365, § 88
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=544a6db49d76cd9a53a6 -->
+
 ## Oddíl 8 — Předběžná opatření (§ 88b – § 88o)
 
 **Alternativa vazby** — mírnější zajišťovací prostředky, často **postačující bez zbavení svobody**.
@@ -2513,6 +5677,54 @@ Předběžné opatření je alternativou vazby ukládanou jen obviněnému při 
 
 **Typicky rozhodné důkazy / podklady:** usnesení o zahájení TS, výpovědi poškozeného a svědků, komunikace (zprávy, hovory), dokumentace předchozích incidentů, posouzení proporcionality.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3c501c193c7a7b7abb12 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předběžné opatření lze uložit pouze obviněnému.
+>
+> (2) Předběžné opatření smí být uloženo jen tehdy, jestliže z jednání obviněného nebo z dalších konkrétních skutečností vyplývá důvodná obava, že bude opakovat trestnou činnost, pro niž je stíhán, dokoná trestný čin, o který se pokusil, nebo vykoná trestný čin, který připravoval nebo kterým hrozil, a dosud zjištěné skutečnosti nasvědčují tomu, že skutek, pro který bylo zahájeno trestní stíhání, byl spáchán a má všechny znaky trestného činu, jsou zřejmé důvody k podezření, že tento trestný čin spáchal obviněný, a s ohledem na osobu obviněného a na povahu a závažnost trestného činu, pro který je stíhán, nelze v době rozhodování účelu předběžného opatření dosáhnout jiným opatřením, přičemž uložení předběžného opatření si vyžaduje ochrana oprávněných zájmů poškozeného, který je fyzickou osobou, zejména jeho života, zdraví, svobody nebo lidské důstojnosti, nebo zájmů osob mu blízkých, nebo ochrana zájmů společnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c501c193c7a7b7abb12 -->
+
 ### § 88c — Druhy předběžných opatření (9 katalogově)
 
 - **a) Zákaz styku s určitými osobami** (poškozený, blízké osoby, svědci);
@@ -2561,6 +5773,70 @@ Katalog § 88c je taxativní (9 druhů); opatření se volí podle zdroje nebezp
 
 **Typicky rozhodné důkazy / podklady:** dokumentace zdroje rizika (záznamy, výpovědi, předchozí jednání), posouzení proporcionality, přesné vymezení osob/míst/činností.
 
+
+<!-- LEGAL-REVISION:BEGIN id=0b51bc3dd95c3299c991 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88c — Druhy předběžných opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Předběžným opatřením může být obviněnému uložen
+>
+> - a) zákaz styku s poškozeným, osobami jemu blízkými nebo s jinými osobami, zejména svědky (dále jen „zákaz styku s určitými osobami“),
+>
+> - b) zákaz vstoupit do společného obydlí obývaného s poškozeným a jeho bezprostředního okolí a zdržovat se v takovém obydlí (dále jen „zákaz vstupu do obydlí“),
+>
+> - c) zákaz návštěv nevhodného prostředí, sportovních, kulturních a jiných společenských akcí a styku s určitými osobami,
+>
+> - d) zákaz zdržovat se na konkrétně vymezeném místě,
+>
+> - e) zákaz vycestování do zahraničí,
+>
+> - f) zákaz držet a přechovávat věci, které mohou sloužit k páchání trestné činnosti,
+>
+> - g) zákaz užívat, držet nebo přechovávat alkoholické nápoje nebo jiné návykové látky,
+>
+> - h) zákaz hazardních her, hraní na hracích přístrojích a sázek (dále jen „zákaz her a sázek“), nebo
+>
+> - i) zákaz výkonu konkrétně vymezené činnosti, jejíž povaha umožňuje opakování nebo pokračování v trestné činnosti (dále jen „zákaz výkonu konkrétně vymezené činnosti“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b51bc3dd95c3299c991 -->
+
 ### § 88d — Zákaz styku
 
 Nepřípustnost **jakéhokoli kontaktování / vyhledávání** poškozeného / blízkých / svědků, **i přes elektronickou komunikaci**.
@@ -2602,6 +5878,54 @@ Zákaz styku je široký: pokrývá i nepřímý a elektronický kontakt; výjim
 - [ ] Je agenda péče o dítě řešena přes OSPOD/soud, ne přímým kontaktem?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zákazu styku, screenshoty/metadata zpráv, výpis komunikace, vyjádření OSPOD, doklad o přítomnosti OČTŘ/PMS u povolených setkání.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d7287d7911fa4ee62cf6 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88d — Zákaz styku s určitými osobami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zákaz styku s určitými osobami spočívá v nepřípustnosti jakéhokoli kontaktování nebo vyhledávání poškozeného, osob mu blízkých nebo jiných osob, zejména svědků, a to i prostřednictvím sítě elektronických komunikací nebo jiných obdobných prostředků.
+>
+> (2) Z důležitých důvodů se povolí setkání obviněného s poškozeným, osobou mu blízkou nebo jinou osobou. Setkání se uskuteční vždy za přítomnosti orgánu činného v trestním řízení, který v době setkání vede řízení, nebo na základě jeho pověření vydaného Probační a mediační službě za přítomnosti probačního úředníka. Setkání se neprodleně ukončí, objeví-li se v jeho průběhu okolnosti, které brání jeho pokračování, zejména vyvolá-li obviněný v poškozeném, osobě mu blízké nebo jiné osobě důvodnou obavu z uskutečnění jednání uvedeného v § 88b odst. 2 nebo se pokusí ovlivnit jejich výpověď.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 88b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7287d7911fa4ee62cf6 -->
 
 ### § 88e — Zákaz vstupu do obydlí
 
@@ -2656,6 +5980,62 @@ Zákaz vstupu do obydlí je hlavní trestněprocesní nástroj proti domácímu 
 
 **Typicky rozhodné důkazy / podklady:** protokol o vykázání (§ 44 PolZ), lékařské zprávy, výpovědi poškozené a svědků, popis obydlí a okolí, doklad o poučení a o odnosu věcí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=eabd9151dca63f896e94 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88e — Zákaz vstupu do obydlí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zákaz vstupu do obydlí spočívá v nepřípustnosti vstupu obviněného do společného obydlí obývaného s poškozeným a jeho bezprostředního okolí, a v nepřípustnosti zdržovat se v takovém obydlí.
+>
+> (2) V rozhodnutí o zákazu vstupu do obydlí se obviněnému zakáže vstupovat do obydlí a jeho bezprostředního okolí a zdržovat se v obydlí. Rozhodnutí musí vedle obecných náležitostí (§ 134 odst. 1 a [[#§ 2|2]]) dále obsahovat jméno a příjmení obviněného, přesné označení obydlí a vymezení jeho bezprostředního okolí a poučení o právech a povinnostech obviněného včetně poučení o následcích nesplnění povinnosti uvedené v odstavci 4 i o důsledcích neplnění uloženého předběžného opatření.
+>
+> (3) Bylo-li proti obviněnému použito vykázání podle jiného právního předpisu, v rozhodnutí o vyslovení zákazu vstupu do obydlí se uvede, že zákaz vstupu do obydlí počíná až prvním dnem následujícím po skončení výkonu vykázání podle jiného právního předpisu. Důvody pro vyslovení zákazu vstupu do obydlí se jinak oproti vykázání podle jiného právního předpisu posuzují samostatně.
+>
+> (4) Obviněný je po oznámení rozhodnutí uvedeného v odstavci 2 povinen opustit neprodleně obydlí a jeho bezprostřední okolí v rozsahu vymezeném v usnesení, a zdržet se vstupu do těchto prostor.
+>
+> (5) Obviněný je po oznámení rozhodnutí uvedeného v odstavci 2 oprávněn vzít si před opuštěním obydlí věci sloužící jeho osobní potřebě, osobní cennosti a osobní doklady.
+>
+> (6) Z důležitých důvodů lze obviněnému umožnit vzít si v průběhu trvání zákazu vstupu do obydlí z něj věci nezbytné pro podnikání nebo pro výkon povolání. Ohledně přítomnosti orgánu činného v trestním řízení platí § 88d odst. 2 obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134, § 2, § 88d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eabd9151dca63f896e94 -->
+
 ### § 88f, § 88g, § 88i–§ 88l
 
 Konkrétní obsah jednotlivých zákazů — vyžadují **přesné vymezení** osob / míst / činností + poučení o důsledcích neplnění.
@@ -2707,6 +6087,286 @@ Obsah jednotlivých zákazů (§ 88f–§ 88l) musí být vymezen určitě a dop
 
 **Typicky rozhodné důkazy / podklady:** dokumentace zdroje rizika (účetnictví, výpisy, znalecký posudek), přesné vymezení zakázané činnosti/věci, doklad o poučení, podklady pro kontrolu dodržování.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e157f26419857fbe3d8d generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88f — Zákaz návštěv nevhodného prostředí, sportovních, kulturních a jiných společenských akcí a styku s určitými osobami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Rozhodnutí o zákazu návštěv nevhodného prostředí, sportovních, kulturních a jiných společenských akcí a styku s určitými osobami musí vedle obecných náležitostí (§ 134 odst. 1 a [[#§ 2|2]]) obsahovat přesné vymezení osob, míst nebo prostor, na které se zákaz vztahuje, jakož i poučení o důsledcích neplnění uloženého předběžného opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e157f26419857fbe3d8d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a007243fa0d09cbd06c2 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88g — Zákaz zdržovat se na konkrétně vymezeném místě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí o zákazu zdržovat se na konkrétně vymezeném místě musí vedle obecných náležitostí (§ 134 odst. 1 a [[#§ 2|2]]) obsahovat přesné vymezení konkrétního místa, ve kterém se obviněný nesmí zdržovat; ustanovení § 88e odst. 2 se použije přiměřeně.
+>
+> (2) Z důležitých důvodů lze obviněnému povolit, aby se po stanovenou dobu zdržoval na místě, na které se vztahuje zákaz uvedený v odstavci 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134, § 2, § 88e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a007243fa0d09cbd06c2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2d18f541ea1224f64856 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88i — Zákaz držet a přechovávat věci, které mohou sloužit k páchání trestné činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Zákaz držet a přechovávat věci, které mohou sloužit k páchání trestné činnosti, se vysloví, pokud by taková věc vzhledem ke své povaze nebo zjištěným okolnostem mohla být určena k páchání trestné činnosti a současně je dána obava z hrozícího opakování nebo pokračování v takové trestné činnosti, z dokonání trestného činu, o který se obviněný pokusil, nebo spáchání trestného činu, který připravoval nebo kterým hrozil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2d18f541ea1224f64856 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=581b2bfc7fcc7e377ce0 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88j — Zákaz užívat, držet nebo přechovávat alkoholické nápoje nebo jiné návykové látky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Zákaz užívat, držet nebo přechovávat alkoholické nápoje nebo jiné návykové látky se vysloví, byl-li trestný čin, pro který je obviněný stíhán, spáchán v souvislosti s požíváním alkoholických nápojů nebo užíváním jiných návykových látek a současně je dána obava z hrozícího opakování nebo pokračování v takové trestné činnosti, z dokonání trestného činu, o který se obviněný pokusil, nebo spáchání trestného činu, který připravoval nebo kterým hrozil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=581b2bfc7fcc7e377ce0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=edea4b51d9e4956e9bba generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88k — Zákaz her a sázek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Zákaz her a sázek se vysloví, souvisí-li hazardní hry, sázky nebo hraní na výherních hracích přístrojích s trestnou činností obviněného.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edea4b51d9e4956e9bba -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3d3e4374c520eb7b4b47 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88l — Zákaz výkonu konkrétně vymezené činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Zákaz výkonu konkrétně vymezené činnosti se vysloví, souvisí-li výkon činnosti, ke které je třeba zvláštního oprávnění, povolení, nebo jejíž výkon upravuje jiný právní předpis, s trestnou činností obviněného, a současně je dána obava, že dalším výkonem této činnosti hrozí opakování nebo pokračování v takové trestné činnosti, z dokonání trestného činu, o který se obviněný pokusil, nebo spáchání trestného činu, který připravoval nebo kterým hrozil.
+>
+> (2) Z důležitých důvodů lze výkon konkrétně vymezené činnosti na omezenou dobu povolit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d3e4374c520eb7b4b47 -->
+
 ### § 88m — Rozhodování o předběžných opatřeních
 
 **Distributivní pravomoc:**
@@ -2756,6 +6416,64 @@ O předběžných opatřeních rozhoduje podle § 88m buď SZ (zákaz styku, vě
 
 **Typicky rozhodné důkazy / podklady:** návrh SZ (u soudcovských PO), rozhodnutí příslušného orgánu, doklad o vyrozumění OSPOD, doklad o poučení o opravném prostředku.
 
+
+<!-- LEGAL-REVISION:BEGIN id=bee46cb06a06371cb12b generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88m — Rozhodování o předběžných opatřeních
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí o předběžném opatření musí být odůvodněno též skutkovými okolnostmi.
+>
+> (2) O uložení předběžných opatření zákazu styku s určitými osobami, zákazu držet a přechovávat věci, které mohou sloužit k páchání trestné činnosti, zákazu užívat, držet nebo přechovávat alkoholické nápoje nebo jiné návykové látky a zákazu her a sázek rozhoduje předseda senátu a v přípravném řízení státní zástupce.
+>
+> (3) O uložení ostatních předběžných opatření rozhoduje předseda senátu a v přípravném řízení na návrh státního zástupce soudce.
+>
+> (4) V případech uvedených v § 88d odst. 2, § 88g odst. 2 a § 88l odst. 2 rozhoduje podle povahy uloženého předběžného opatření předseda senátu a v přípravném řízení státní zástupce nebo na návrh státního zástupce soudce.
+>
+> (5) O rozhodnutí, kterým se ukládá zákaz styku obviněného rodiče s dítětem, je třeba neprodleně vyrozumět orgán sociálně-právní ochrany dětí. V případě, že se rozhodnutím povolí setkání obviněného rodiče s dítětem, předseda senátu nebo v přípravném řízení státní zástupce vyrozumí včas orgán sociálně-právní ochrany dětí, aby se mohl setkání účastnit.
+>
+> (6) Při ukládání předběžných opatření přihlédne orgán činný v trestním řízení k opatřením, která již byla obviněnému uložena i podle jiného právního předpisu.
+>
+> (7) Proti rozhodnutím podle odstavců 2 až 4 je přípustná stížnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 88d, § 88g, § 88l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bee46cb06a06371cb12b -->
+
 ### § 88n — Trvání
 
 **Princip nezbytné nutnosti.** Maximum: **do právní moci rozsudku / jiného končícího rozhodnutí**.
@@ -2800,6 +6518,60 @@ Předběžné opatření trvá jen po nezbytně nutnou dobu, nejdéle do pravomo
 - [ ] Zanikne opatření nejpozději právní mocí končícího rozhodnutí?
 
 **Typicky rozhodné důkazy / podklady:** spisový materiál o trvání nebezpečí, žádost o zrušení a vyjádření poškozeného, rozhodnutí o (ne)zrušení, podklady k evropskému ochrannému příkazu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=3633429e652fb72336af generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88n — Trvání předběžných opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> (1) Předběžné opatření trvá, dokud to vyžaduje jeho účel, nejdéle však do právní moci rozsudku nebo jiného rozhodnutí, jímž řízení končí.
+>
+> (2) Ukáže-li se, že výkon předběžného opatření je nemožný nebo jeho plnění nelze na obviněném spravedlivě požadovat nebo předběžné opatření není nezbytně nutné v původně stanoveném rozsahu, rozhodne o jeho zrušení nebo změně podle povahy uloženého předběžného opatření předseda senátu a v přípravném řízení státní zástupce nebo na návrh státního zástupce soudce. Může též rozhodnout o uložení jiného předběžného opatření, je-li to podle povahy věci a okolností případu nezbytné a jsou-li splněny podmínky pro jeho uložení.
+>
+> (3) Obviněný má právo kdykoli žádat o zrušení předběžného opatření. O takové žádosti musí předseda senátu nebo v přípravném řízení státní zástupce bez zbytečného odkladu rozhodnout. Byla-li žádost zamítnuta, může ji obviněný, neuvede-li v ní nové důvody, opakovat až po uplynutí tří měsíců od právní moci rozhodnutí.
+>
+> (4) Proti rozhodnutím podle odstavců 2 a [[#§ 3|3]] je přípustná stížnost. Poškozený má právo podat stížnost jen proti rozhodnutím o předběžných opatřeních podle [[#§ 88d|§ 88d]] a [[#§ 88e|88e]]. Odkladný účinek má pouze stížnost státního zástupce a poškozeného proti rozhodnutí o zrušení předběžného opatření. Byl-li však státní zástupce nebo poškozený při vyhlášení takového rozhodnutí přítomen, má jejich stížnost odkladný účinek jen tehdy, byla-li podána ihned po vyhlášení rozhodnutí.
+>
+> (5) Byl-li na základě předběžného opatření vydán evropský ochranný příkaz podle [[zákona o mezinárodní justiční spolupráci ve věcech trestních|zákona o mezinárodní justiční spolupráci ve věcech trestních]] a o změně nebo zrušení tohoto předběžného opatření rozhodl orgán činný v trestním řízení, který je odlišný od orgánu, jenž vydal evropský ochranný příkaz, zašle své rozhodnutí tomuto justičnímu orgánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 88d, § 88e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3633429e652fb72336af -->
 
 ### § 88o — Důsledky neplnění
 
@@ -2846,6 +6618,58 @@ Na neplnění předběžného opatření reaguje § 88o třístupňově: pořád
 **Typicky rozhodné důkazy / podklady:** oznámení/protokol o porušení, výpovědi poškozeného a svědků, záznam policejní hlídky, doklad o předchozím poučení obviněného, podklady pro případnou vazbu (§ 67, § 68).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ff2db9d29d16824153b9 generator=2026-07-17.4 source_sha256=0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd -->
+#### Revizní doplnění k § 88o — Důsledky neplnění uloženého předběžného opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md`; identifikátor verze: `SB-1961-00141_2026-01-01`; SHA-256: `0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd`.
+
+##### Znění ustanovení
+
+> Neplní-li obviněný, u kterého je i nadále dán důvod pro uložení předběžného opatření, podmínky uloženého předběžného opatření, může příslušný orgán činný v trestním řízení rozhodnout o
+>
+> - a) uložení pořádkové pokuty podle [[#§ 66|§ 66]],
+>
+> - b) uložení jiného druhu předběžného opatření, nebo
+>
+> - c) vzetí obviněného do vazby za podmínek stanovených tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff2db9d29d16824153b9 -->
 
 ## Shrnutí Hlavy IV
 
