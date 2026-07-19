@@ -6,71 +6,59 @@
 ---
 
 ## § 1 — Účel zákona
-<details>
-<summary>📜 <strong>Citace § 1 (úplné znění)</strong></summary>
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-> #### § 1
+### Znění ustanovení
+
+> **(1)** Účelem trestního řádu je upravit postup orgánů činných v trestním řízení tak, aby trestné činy byly náležitě zjištěny a jejich pachatelé podle zákona spravedlivě potrestáni. Řízení přitom musí působit k upevňování zákonnosti, k předcházení a zamezování trestné činnosti, k výchově občanů v duchu důsledného zachovávání zákonů a pravidel občanského soužití i čestného plnění povinností ke státu a společnosti.
 >
-> ##### Účel zákona
->
-> (1) Účelem trestního řádu je upravit postup orgánů činných v trestním řízení tak, aby trestné činy byly náležitě zjištěny a jejich pachatelé podle zákona spravedlivě potrestáni. Řízení přitom musí působit k upevňování zákonnosti, k předcházení a zamezování trestné činnosti, k výchově občanů v duchu důsledného zachovávání zákonů a pravidel občanského soužití i čestného plnění povinností ke státu a společnosti.
->
-> (2) Pomáhat k dosažení účelu trestního řízení je právem a podle ustanovení tohoto zákona i povinností občanů.
+> **(2)** Pomáhat k dosažení účelu trestního řízení je právem a podle ustanovení tohoto zákona i povinností občanů.
 
-</details>
+### Přehled výkladu
 
-> *Účelem trestního řádu je upravit postup orgánů činných v trestním řízení tak, aby trestné činy byly náležitě zjištěny a jejich pachatelé podle zákona spravedlivě potrestáni…* (odst. 1)
+§ 1 vymezuje účel úpravy postupu orgánů činných v trestním řízení a požadované působení řízení. Nezakládá sám konkrétní donucovací pravomoc, sankci ani výjimku z procesních práv. Jeho teleologický význam se uplatní společně s konkrétní procesní normou a s garancemi § 2 trestního řádu.
 
-### Smysl a účel
+### Souvisící ustanovení
 
-Účelové ustanovení formuluje **dvojakou funkci** trestního procesu:
+- § 2 odst. 1, 2, 4, 5 a 13 — zákonnost stíhání, presumpce neviny, šetření práv a svobod, rozsah zjišťování skutkového stavu a práva obhajoby.
+- § 8 — součinnost státních orgánů, právnických a fyzických osob.
+- § 66 — pořádková pokuta jen při splnění tam stanovených podmínek.
+- § 97, § 99 a § 100 — povinnost svědčit, zákaz výslechu a právo odepřít výpověď.
+- § 158 odst. 3, 7 a 8 — podání vysvětlení a jeho meze.
 
-1. **Represivní složka** — zjištění trestného činu a spravedlivé potrestání pachatele.
-2. **Preventivní složka** — působení k upevňování zákonnosti, předcházení a zamezování trestné činnosti, výchova občanů.
+### Souvisící předpisy
 
-Druhá věta odst. 1 (zákonnost, výchova, plnění povinností ke státu) je **reziduum socialistické rétoriky** z roku 1961 — interpretačně se dnes čte ve světle **principu právního státu** (čl. 1 Ústavy ČR). „Výchova občanů" se interpretuje jako **generální prevence** v moderním pojetí — odstrašující a normotvorný účinek trestu na společnost.
+- čl. 1 odst. 1 Ústavy České republiky — demokratický právní stát;
+- čl. 8 odst. 2, čl. 36 odst. 1 a čl. 40 odst. 2 až 4 Listiny základních práv a svobod — zákonnost zásahu, soudní ochrana, presumpce neviny a obhajoba;
+- čl. 6 Úmluvy o ochraně lidských práv a základních svobod — spravedlivý proces.
 
-Odst. 2 — *Pomáhat k dosažení účelu trestního řízení je právem a podle ustanovení tohoto zákona i povinností občanů* — zakládá **právní rámec součinnostních povinností** (svědek, podání vysvětlení, oznamovací povinnosti dle § 367–368 TZ). Tato povinnost je však ohraničena **právem mlčet**, **právem nepřispívat k sebeobviňování** a **mlčenlivostí zvlášť chráněných osob** (advokát, duchovní, lékař, novinář při ochraně zdroje).
+### Z důvodové zprávy
 
-### Praktický dopad
+Sněmovní tisk 66 Národního shromáždění vztahoval § 1 k úpravě řízení se zřetelem na výchovu pachatelů i ostatních členů společnosti. Jde o historický pramen k původnímu znění, nikoli o popis dnešní ústavní doktríny. Zákon č. 178/1990 Sb. s účinností od 1. 7. 1990 odstranil z § 1 výrazy „socialistické“, nahradil „socialistického“ výrazem „občanského“ a z odstavce 2 vypustil společenské organizace.
 
-§ 1 sám o sobě **není přímo aplikovaný**, slouží jako **interpretační vodítko**: při pochybnostech o výkladu jiných ustanovení se přihlíží k tomu, zda interpretace naplňuje cíl spravedlivého zjištění a potrestání **při respektování ústavně zaručených práv**.
+### Literatura
 
-### F. Kazuistika
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola revize.
 
-**1. Modelová situace.** Obhájce v dovolání namítá, že trest uložený jeho klientovi neslouží „výchově občanů v duchu zachovávání zákonů" (§ 1 odst. 1 věta druhá), nýbrž jen pomstě poškozeného. Současně státní zástupce v jiné věci argumentuje, že povinnost občana „pomáhat k dosažení účelu trestního řízení" (odst. 2) zakládá vynutitelnou povinnost svědka-novináře vyzradit svůj zdroj. Důkazy: spisový materiál, znění poučení svědka, případně osvědčení o novinářské činnosti.
+### Výklad
 
-**2. Právní otázka.** Lze z účelového § 1 dovodit samostatnou hmotně- či procesněprávní povinnost (nebo její mez), nebo jde výlučně o interpretační vodítko bez přímé normativní síly?
+[1] Slovní spojení „podle zákona spravedlivě potrestáni“ nelze oddělit od zákonných mezí postupu. § 2 odst. 1 vyžaduje stíhání jen ze zákonných důvodů a zákonným způsobem; § 2 odst. 2 chrání presumpci neviny a § 2 odst. 4 dovoluje zásah do práv jen na základě zákona, v odůvodněných případech a v nezbytné míře. Účelem řízení proto není odsouzení za každou cenu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 1 — dvojaký účel (represe + prevence) a deklarace součinnostní povinnosti občanů.
-- *Související ustanovení téhož zákona:* § 2 (zásady, jimiž se účel naplňuje), § 8 (součinnost), § 99–100 (zákaz a odepření výslechu), § 367–368 TZ (oznamovací/překažovací povinnosti).
-- *Související předpisy:* čl. 1 a čl. 90 Ústavy (právní stát, ochrana práv soudy), čl. 17 LZPS (svoboda projevu a ochrana zdroje).
-- *Judikatura:* nosný závěr ÚS — účelová a programová ustanovení nelze vykládat tak, aby zakládala zásah do základních práv nad rámec konkrétní zákonné úpravy; „výchova" se čte jako generální prevence.
+[2] Požadavek náležitého zjištění trestných činů konkretizuje § 2 odst. 5. V přípravném řízení se objasňují stejně pečlivě okolnosti ve prospěch i neprospěch osoby, proti níž se řízení vede, a dokazování může vést též ke zproštění, zastavení nebo jinému zákonnému výsledku.
 
-**4. Subsumpce.** § 1 sám nezakládá konkrétní oprávnění ani povinnost; je rámcem pro výklad. Povinnost svědčit i její meze plynou z konkrétních ustanovení (§ 97 a násl.), nikoli z odst. 2. Argument o „pomstě" je proti samotné struktuře § 1, který výslovně zahrnuje i represi (spravedlivé potrestání).
+[3] Druhá věta § 1 odst. 1 připisuje preventivní a výchovné působení řízení. Sama neupravuje účel, druh ani výměru trestu a nelze z ní dovozovat oprávnění k exemplárnímu nebo nepřiměřenému trestu. Takový závěr by musel obstát podle konkrétní hmotněprávní úpravy.
 
-**5. Řešení.** Soud námitku obhajoby odmítne jako nepřípadnou — § 1 není přímo aplikovatelné, slouží jen jako výkladová pomůcka; výchovný účinek trestu je legitimním cílem. Povinnost novináře vyzradit zdroj nelze opřít o odst. 2 — meze součinnosti stanoví zvláštní ustanovení a ústavní ochrana zdroje.
+[4] Odstavec 2 je obecné východisko účasti občanů. Konkrétní povinnost musí vyplývat z ustanovení trestního řádu: například § 97 stanoví povinnost dostavit se na předvolání a vypovídat jako svědek. § 1 odst. 2 sám neurčuje obsah povinnosti ani sankci za její nesplnění.
 
-**6. Varianty.** (a) Kdyby šlo o výklad sporného ustanovení dvojího významu, lze § 1 použít jako argument pro tu interpretaci, která lépe naplňuje spravedlivé zjištění při respektu k právům. (b) Kdyby občan odmítl podat svědectví bez zákonného důvodu, sankce neplyne z § 1, ale z § 66 (pořádková pokuta).
+[5] Procesní role je nutno rozlišovat. Obviněný má právo nevypovídat; u svědka stanoví § 99 zákaz výslechu a § 100 právo odepřít výpověď; u osoby podávající vysvětlení upravuje možnost odepření § 158 odst. 8. Pořádkovou pokutu podle § 66 nelze spojovat automaticky s každým odmítnutím: předpokládá konkrétní zákonnou povinnost, řádné předvolání nebo výzvu a absenci uznané omluvy či zákonného důvodu odmítnutí.
 
-### G. Protiargumenty a rizika
+[6] Zákon č. 178/1990 Sb. provedl významnou deideologizaci textu, nezměnil však celou druhou větu odstavce 1. Při dnešním výkladu se její historická dikce uplatní jen způsobem slučitelným s ústavním pořádkem a konkrétními procesními garancemi.
 
-- *Protiargument „výchovná funkce ospravedlňuje exemplární trest":* nelze — § 1 nesmí převážit nad zásadou přiměřenosti trestu (§ 38–39 TZ); neutralizace odkazem na ústavní zákaz nepřiměřených sankcí.
-- *Protiargument „odst. 2 zakládá vynutitelnou povinnost":* meze tvoří právo nevypovídat a zákonem chráněná mlčenlivost; odst. 2 sám sankci nezakládá.
-- *Slabé místo:* reziduální socialistická dikce — vždy nutno argumentovat ústavně konformním výkladem ve světle čl. 1 Ústavy.
+[7] **Autorský závěr:** § 1 může být součástí systematického a teleologického odůvodnění, nemůže však bez konkrétní zákonné normy vytvořit titul pro donucení, povinnost nebo sankci. Při více možných výkladech veřejnoprávní normy je třeba zohlednit ústavní limity zásahu do základních práv.
 
-### H. Praktický závěr
+### Judikatura
 
-§ 1 používejte jako interpretační vodítko při pochybnostech o výkladu jiných ustanovení, nikdy jako samostatný právní důvod rozhodnutí.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Slouží § 1 v podání jako výkladová opora, nebo (chybně) jako samostatný normativní základ?
-- [ ] Je výklad ústavně konformní (čl. 1, 90 Ústavy)?
-- [ ] Respektuje navržené řešení obě složky účelu — represivní i preventivní?
-- [ ] Není „výchovný" účinek zneužit k nepřiměřené represi?
-
-**Typicky rozhodné důkazy / podklady:** trestní spis, protokol o poučení, znění napadeného rozhodnutí s odůvodněním účelu trestu.
+**Nález Ústavního soudu ze dne 11. 9. 2012, sp. zn. II. ÚS 1375/11 (N 156/66 SbNU 331).** Ve věci prohlídky kanceláře České televize v trestním řízení pro podezření z ohrožení utajované informace Ústavní soud zrušil příkaz k prohlídce. Pro tento komentář jsou relevantní odstavce 28 až 36 a 45 a násl.: zásah sledující zjištění a potrestání trestné činnosti podléhá restriktivnímu výkladu zákonných podmínek, ústavně konformní interpretaci a testu nezbytnosti; ochrana novinářského zdroje není nahrazena obecným odkazem na účel trestního řízení. Nález není podkladem pro tvrzení, že „výchova občanů“ podle § 1 znamená generální prevenci trestu.
 
 ---
 
