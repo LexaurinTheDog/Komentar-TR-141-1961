@@ -1319,7 +1319,15 @@ Usnesení je pravomocné a vykonatelné obdobně jako rozsudek (§ 139, se stí�
 - usnesení **NSZ** — stížnost jen kde zákon přiznává rozhodování soudu; **NS rozhoduje**;
 - usnesení **státního zástupce NSZ** — rozhoduje **NSZ**.
 
-**Odst. 4 — odkladný účinek**: jen kde zákon výslovně stanoví (např. § 74 odst. 2 — propadnutí kauce, propuštění z vazby SZ; § 47 odst. 2 — zrušení zajištění).
+**Odst. 4 — odkladný účinek**: jen kde zákon výslovně stanoví (např. § 74 odst. 2 — propadnutí kauce, propuštění z vazby SZ; **§ 47a odst. 4** — peněžitá jistota u zajištění nároku poškozeného; **§ 79f odst. 4** — zrušení nebo omezení zajištění; **§ 79g odst. 2** — povolení úkonu u náhradní hodnoty).
+
+Pozor na ustanovení, která odkladný účinek přiznávají **jen v části** rozhodnutí; paušální formulace je zde nepřesná:
+- **§ 49** — u rozhodnutí podle § 47 a § 48 má stížnost odkladný účinek *pouze* „pokud jde o zrušení zajištění, jeho omezení nebo povolení provedení úkonu"; proti **nařízení** zajištění odkladný účinek nemá;
+- **§ 79f odst. 4** — jen proti rozhodnutí o **zrušení nebo omezení** zajištění; proti **zamítnutí** žádosti nikoli;
+- **§ 74 odst. 2** — je-li SZ přítomen vyhlášení, jen byla-li stížnost podána **ihned**;
+- **§ 188, § 231 odst. 3, § 314c, § 314p, § 314r odst. 6** — „**nejde-li o přerušení trestního stíhání**";
+- **§ 179h odst. 7, § 308 odst. 7** — jen proti rozhodnutí podle **odstavců 2 a 3**;
+- **§ 322 odst. 7, § 325 odst. 6** — „**nejedná-li se o stížnost pouze proti výroku** o vyslovení dohledu a o uložení přiměřených omezení a přiměřených povinností".
 
 ### F. Kazuistika
 

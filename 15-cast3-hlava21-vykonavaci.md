@@ -209,7 +209,7 @@ Stížnost s odkladným účinkem.
 **2. Právní otázka.** Kdy je odklad výkonu trestu obligatorní a kdy fakultativní, a jaké meze má fakultativní odklad?
 
 **3. Použitelné právo.**
-- *Komentované ustanovení:* §§ 322–323 — obligatorní odklad (těhotná žena, matka dítěte do 1 roku, těžká nemoc, vážné ohrožení uskutečnění výkonu) a fakultativní odklad na žádost (rodinné, zaměstnanecké, majetkové důvody, max. 3 měsíce); stížnost má odkladný účinek.
+- *Komentované ustanovení:* §§ 322–323 — obligatorní odklad (těhotná žena, matka dítěte do 1 roku, těžká nemoc, vážné ohrožení uskutečnění výkonu) a fakultativní odklad na žádost (rodinné, zaměstnanecké, majetkové důvody, max. 3 měsíce). **Opravné prostředky se u obou ustanovení liší a nelze je shrnout společně:** podle § 322 odst. 7 je proti rozhodnutím podle odst. 1, 3 a 4 přípustná stížnost s odkladným účinkem, *nejedná-li se o stížnost pouze proti výroku o vyslovení dohledu a o uložení přiměřených omezení a přiměřených povinností podle odst. 4*; podle § 323 odst. 4 může naproti tomu stížnost podat **jen státní zástupce**, a to **jen proti rozhodnutí, jímž byl povolen odklad podle § 323 odst. 2**, přičemž zákon jí **odkladný účinek nepřiznává** (uplatní se § 141 odst. 4).
 - *Související ustanovení téhož zákona:* § 321 (nařízení výkonu), §§ 325–327 (přerušení), § 315 (příslušnost).
 - *Související předpisy:* zák. č. 169/1999 Sb.; zdravotnické předpisy k posouzení těžké nemoci.
 - *Judikatura:* nosný závěr — obligatorní odklad u těhotenství/těžké nemoci není projevem uvážení soudu; fakultativní odklad je limitován účelem trestu a maximální dobou.
