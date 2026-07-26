@@ -1417,7 +1417,7 @@ K odnětí věci se přibere **nezúčastněná osoba** (svědek úkonu).
 **§ 79b — doručování**:
 - zkrácené rozhodnutí bez odůvodnění → orgánu/osobě **příslušné k provedení zajištění** (typicky banka);
 - po provedení → doručení **osobě, jejíž věc byla zajištěna**;
-- u pohledávky bez bankovního účtu → **dlužníku** se uloží **složit plnění do úschovy**;
+- u pohledávky bez bankovního účtu → **dlužníku vlastníka pohledávky** se uloží, aby místo plnění vlastníku složil předmět plnění **do úschovy orgánu činného v trestním řízení nebo na jiné určené místo** (odst. 2 — zákon tedy nepředepisuje účet orgánu činného v trestním řízení a připouští i jiné místo, je-li způsobilé zajistit účel); složením předmětu plnění do úschovy nebo na určené místo **dlužník svůj závazek v rozsahu poskytnutého plnění splní**; rozhodnutí se **dlužníku oznámí dříve než vlastníku** zajištěné pohledávky;
 - vyrozumění **katastrálního úřadu** u nemovité věci;
 - vyrozumění **obchodní korporace** při zajištění podílu.
 
@@ -1436,16 +1436,37 @@ Příkaz vydá **soudce na návrh SZ** v přípravném řízení / **předseda s
 **§ 79e — účinky zajištění:**
 
 - právní jednání v rozporu — **neplatnost**;
-- nakládání v rámci výkonu rozhodnutí / dražby / exekuce / insolvence — **jen s předchozím souhlasem**;
+- nakládání v rámci výkonu rozhodnutí / dražby / exekuce / insolvence — **jen s předchozím souhlasem** předsedy senátu, v přípravném řízení státního zástupce; na úhradu pohledávek se přednostně použije věc **nedotčená** rozhodnutím o zajištění (odst. 2);
 - u **bankovního účtu** — zajištění zahrnuje peněžní prostředky **v okamžiku doručení** + dodatečné platby do výše částky.
+
+**Vazba na insolvenční řízení.** Konstrukce odst. 2 předpokládá, že zajištěná věc je v insolvenčním řízení **nadále k dispozici** a že s ní lze — se souhlasem — nakládat; zajištění zde působí jako **omezení dispozice**, nikoli jako přesun hodnoty mimo majetkovou podstatu. Insolvenční zákon na to navazuje uceleným rozhraním:
+
+- **§ 283 odst. 3 IZ** — zpeněžení majetku v podstatě, na nějž se vztahuje trestní zajištění, jen s předchozím souhlasem OČTŘ; převyšuje-li výtěžek částku určenou k vyplacení, správce o tom OČTŘ informuje a nesdělí-li OČTŘ do 30 dnů, že se zajištění vztahuje i na zbytek, **použije se zbytek k rozdělení mezi věřitele**;
+- **§ 227 IZ** — majetek, k jehož zpeněžení souhlas udělen nebyl, může správce z podstaty vyjmout;
+- **§ 167 odst. 2 a § 173 odst. 1 věta třetí IZ** — věřitelé vykonatelných pohledávek na náhradu škody/nemajetkové újmy z trestného činu nebo na vydání bezdůvodného obohacení se uspokojují **ze zpeněžení** zajištěných hodnot (pořadí dle doby vzniku zajištění podle trestního řádu) a mohou přihlásit kdykoli, byl-li zajištěn majetek **v majetkové podstatě dlužníka** a přihláška byla podána v době, kdy zajištění trvá;
+- **§ 140b IZ** — zákaz vydat rozhodnutí v jiných soudních či rozhodčích řízeních neplatí pro tytéž nároky, byl-li zajištěn majetek v majetkové podstatě (na policejní *zajišťovací usnesení* toto ustanovení nedopadá — hovoří o „jiných soudních nebo rozhodčích řízeních").
+
+Uvedený mechanismus je vystavěn na tom, že zajištěná hodnota v majetkové podstatě **zůstane a bude zpeněžena**. Srov. *NS* 29 ICdo 42/2025 (souběh zajištění a zahrnutí do podstaty předpokládá i IZ — § 227, § 283 odst. 3) a *NS* 29 NSČR 14/2015 (předpokladem je, že „byl zajištěn majetek v majetkové podstatě dlužníka"). Podrobněji [komentář k insolvenčnímu zákonu](https://github.com/LexaurinTheDog/komentar-insolvencni-zakon-182-2006).
 
 **§ 79f — zrušení / omezení zajištění:**
 
-Pokud již **není třeba**. Žádost — rozhodnutí **neodkladně**, opakování po **30 dnech**. **Stížnost s odkladným účinkem**.
+Zajištění se zruší **nebo omezí**, není-li ho již třeba **nebo není-li ho třeba ve stanoveném rozsahu** (odst. 1) — zákon tedy výslovně počítá i s tím, že zajištění je nepřiměřené pouze svým **rozsahem**, aniž by důvod zajištění odpadl.
+
+Osoba, jíž byla věc zajištěna, může o zrušení nebo omezení žádat **kdykoli po právní moci** usnesení o zajištění; o žádosti je třeba rozhodnout **neodkladně**. Byla-li žádost zamítnuta, lze ji opakovat až po **30 dnech od právní moci** rozhodnutí — **neuvede-li žadatel nové důvody** (odst. 2); s novými důvody tedy 30denní lhůta nebrání opakování.
+
+O zrušení nebo omezení rozhoduje **předseda senátu** a v přípravném řízení **státní zástupce nebo — s jeho předchozím souhlasem — policejní orgán** (odst. 3).
+
+**Odkladný účinek — pozor na rozsah:** podle odst. 4 má odkladný účinek stížnost proti **rozhodnutí o zrušení nebo omezení** zajištění (tj. proti rozhodnutí, jímž se zajištění uvolňuje). Proti **zamítnutí** žádosti odkladný účinek nenastupuje — uplatní se obecné pravidlo § 141 odst. 4, podle něhož má stížnost odkladný účinek, jen kde to zákon výslovně stanoví.
+
+**Kdo o stížnosti rozhoduje:** jde-li o usnesení **policejního orgánu**, jímž bylo zajištění provedeno, omezeno nebo jímž nebylo vyhověno žádosti o zrušení či omezení, rozhoduje podle **§ 146a odst. 2** soud, v jehož obvodu je činný dozorový státní zástupce; věc soudu předkládá státní zástupce. Obdobně u rozhodnutí státního zástupce podle § 146a odst. 1 písm. c), d). Stížností lze přitom napadnout **každé** usnesení policejního orgánu (§ 141 odst. 2 věta první).
 
 **§ 79g — náhradní hodnota:**
 
-Pokud nelze zajistit nástroj/výnos/předmět sankce → **náhradní hodnota** odpovídající (alespoň zčásti) hodnotě původní věci. Zajištění **osobě, která měla povinnost strpět zajištění původní věci**.
+Pokud nelze zajistit nástroj/výnos/předmět sankce → **náhradní hodnota** odpovídající (alespoň zčásti) hodnotě původní věci; postupuje se **obdobně podle § 79a až 79f**. Zajištění **osobě, která měla povinnost strpět zajištění původní věci**.
+
+Náhradní hodnota se ze své podstaty zajišťuje **právě proto, že výnos (nástroj, předmět sankce) zajistit nelze** — nejde tedy o výnos z trestné činnosti, nýbrž o jiný, zpravidla legálně nabytý majetek dotčené osoby. Toto rozlišení je významné všude tam, kde právní úprava spojuje následky výslovně s *výnosem* z trestné činnosti.
+
+**Odst. 2 — povolení úkonu:** z **důležitých důvodů** může předseda senátu a v přípravném řízení **státní zástupce** povolit na návrh osoby, jíž byla náhradní hodnota zajištěna, provedení úkonu, který se zajištěné náhradní hodnoty týká. Rozhodnutí náleží **výlučně státnímu zástupci**, nikoli policejnímu orgánu. Proti takovému rozhodnutí je přípustná stížnost **s odkladným účinkem**.
 
 **§ 79h — změna zajištěné věci (peněžité prostředky místo věci):**
 
@@ -1465,14 +1486,14 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 **2. Právní otázka.** Za jakých podmínek lze zajistit výnos, objemný nástroj (ponecháním na místě) a náhradní hodnotu podle § 79a–79g, jaké jsou účinky zajištění účtu (§ 79e) a zakládá samo neskončení věci odsuzujícím rozsudkem nárok na náhradu škody za zajištění?
 
 **3. Použitelné právo.**
-- *Komentované ustanovení:* § 79a (vlastní zajištění — orgán, souhlas SZ, lhůta 48 h, stížnost), § 79b (doručování — banka, poté osoba, katastr), § 79c (movitá věc; alternativa ponechání na místě s příkazem; lhůta 96 h), § 79d (ohledání nemovitosti), § 79e (účinky — neplatnost, účet k okamžiku doručení), § 79f (zrušení/omezení, opakování po 30 dnech, stížnost s odkladným účinkem), § 79g (náhradní hodnota), § 79h (složení peněz místo věci).
+- *Komentované ustanovení:* § 79a (vlastní zajištění — orgán, souhlas SZ, lhůta 48 h, stížnost), § 79b (doručování — banka, poté osoba, katastr), § 79c (movitá věc; alternativa ponechání na místě s příkazem; lhůta 96 h), § 79d (ohledání nemovitosti), § 79e (účinky — neplatnost, účet k okamžiku doručení, souhlas při nakládání v exekuci/insolvenci), § 79f (zrušení/omezení i co do rozsahu; žádost kdykoli po právní moci, rozhodnutí neodkladně; opakování po 30 dnech, neuvede-li žadatel nové důvody; odkladný účinek stížnosti jen u rozhodnutí o zrušení/omezení), § 79g (náhradní hodnota; odst. 2 — povolení úkonu státním zástupcem z důležitých důvodů), § 79h (složení peněz místo věci).
 - *Související ustanovení téhož zákona:* § 77b (kategorie věcí); § 80–81b (vrácení a nakládání); § 78–79 (důkazní zajištění).
 - *Související předpisy:* § 70, § 101, § 102, § 102a TZ (propadnutí/zabrání a náhradní hodnota); z. č. 82/1998 Sb. (odpovědnost státu za škodu); směrnice 2014/42/EU.
 - *Judikatura:* NS 30 Cdo 3310/2013 — odpovědnost státu za zajištění prostředků na účtu nezakládá bez dalšího pouhá skutečnost, že řízení neskončilo odsuzujícím rozsudkem; ÚS II.ÚS 2823/13 — zajištění je dočasným omezením dispozice, legitimním a přiměřeným při zachování zákonných podmínek.
 
 **4. Subsumpce.** Prostředky na účtu → zajištění dle § 79a; podle § 79e zahrnuje prostředky v okamžiku doručení banky plus dodatečné platby do výše částky. Výrobní linka → § 79c: pro objem ji lze ponechat na místě s příkazem zdržet se nakládání, s lhůtou 96 h pro rozhodnutí. Nemovitost jako kompenzace → § 79g (náhradní hodnota), s vyrozuměním katastru dle § 79b a možností ohledání dle § 79d. Námitka náhrady škody → dle NS 30 Cdo 3310/2013 nestačí neskončení věci odsouzením.
 
-**5. Řešení.** Orgán zajištění provede, vymezí věci a zákazy a vyzve ke sdělení práv třetích osob s omezením nakládání do 15 dnů; rozhodnutí se doručí nejprve bance, poté obviněnému (u nemovitosti vyrozumí katastr). Účet je zajištěn k okamžiku doručení banky. Obviněný může žádat o zrušení/omezení (§ 79f) s opakováním po 30 dnech; stížnost má odkladný účinek. Nárok na náhradu škody za zajištění účtu nelze opřít jen o to, že nepadl odsuzující rozsudek — nutno tvrdit a prokázat nezákonnost rozhodnutí nebo nesprávný úřední postup.
+**5. Řešení.** Orgán zajištění provede, vymezí věci a zákazy a vyzve ke sdělení práv třetích osob s omezením nakládání do 15 dnů; rozhodnutí se doručí nejprve bance, poté obviněnému (u nemovitosti vyrozumí katastr). Účet je zajištěn k okamžiku doručení banky. Obviněný může kdykoli po právní moci žádat o zrušení nebo omezení (§ 79f), o žádosti je třeba rozhodnout neodkladně; zamítne-li se, lze ji bez nových důvodů opakovat až po 30 dnech. Vyhoví-li se žádosti (zajištění se zruší či omezí), má stížnost odkladný účinek (§ 79f odst. 4); je-li žádost zamítnuta, odkladný účinek nenastupuje (§ 141 odst. 4) a o stížnosti proti usnesení policejního orgánu rozhoduje soud podle § 146a odst. 2. Nárok na náhradu škody za zajištění účtu nelze opřít jen o to, že nepadl odsuzující rozsudek — nutno tvrdit a prokázat nezákonnost rozhodnutí nebo nesprávný úřední postup.
 
 **6. Varianty.** (a) Obviněný složí podle § 79h peněžní prostředky ve výši hodnoty zajištěné linky — zajištění se přesune na peníze a linka se uvolní. (b) Zajištění již není třeba (výnos byl prokazatelně získán z legálního zdroje) — podle § 79f se zajištění zruší, jinak hrozí odpovědnost za škodu z nezákonného postupu.
 
@@ -1491,7 +1512,9 @@ Pokud osoba **složí peněžní prostředky** ve výši hodnoty zajištěné v�
 - [ ] Obsahuje rozhodnutí vymezení věcí, zákazy a výzvu ke sdělení práv třetích osob (15 dnů)?
 - [ ] Bylo doručeno ve správném pořadí (banka → osoba; u nemovitosti vyrozumění katastru)?
 - [ ] Byla u movité věci ponechané na místě dodržena lhůta 96 h pro rozhodnutí?
-- [ ] Při žádosti o zrušení (§ 79f) — bylo rozhodnuto neodkladně a respektován odkladný účinek stížnosti?
+- [ ] Při žádosti o zrušení nebo omezení (§ 79f) — bylo rozhodnuto neodkladně a odůvodněno i ve vztahu k **rozsahu** zajištění? Rozhodoval příslušný orgán (v přípravném řízení SZ, policejní orgán jen s předchozím souhlasem SZ — odst. 3)?
+- [ ] Byl správně vyhodnocen **odkladný účinek** stížnosti — přiznán u rozhodnutí o zrušení/omezení (odst. 4), nikoli automaticky u zamítnutí žádosti (§ 141 odst. 4)?
+- [ ] Byl u náhradní hodnoty případný návrh na povolení úkonu (§ 79g odst. 2) předložen **státnímu zástupci**, jemuž rozhodnutí náleží?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zajištění a doklady o doručení, podklady o hodnotě výnosu/náhradní hodnoty, protokol o ohledání nemovitosti (§ 79d), doklad o složení peněz dle § 79h, evidence lhůt.
 
