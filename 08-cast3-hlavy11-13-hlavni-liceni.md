@@ -679,7 +679,7 @@ Předběžné projednání probíhá zpravidla neveřejně, soud přezkoumá cel
 
 ### H. Praktický závěr
 
-§ 188 dává soudu po předběžném projednání šest (resp. s odst. 2 sedm) možností rozhodnutí. Vrácení k došetření je subsidiární a musí být odůvodněno obtížemi dokazování v HL. Proti většině rozhodnutí je stížnost s odkladným účinkem.
+§ 188 dává soudu po předběžném projednání šest (resp. s odst. 2 sedm) možností rozhodnutí. Vrácení k došetření je subsidiární a musí být odůvodněno obtížemi dokazování v HL. Proti rozhodnutím podle odst. 1 písm. b) až f) a podle odst. 2 je přípustná stížnost, jež má odkladný účinek, **nejde-li o přerušení trestního stíhání**; proti rozhodnutí o podmíněném zastavení trestního stíhání a o schválení narovnání může stížnost s odkladným účinkem podat též poškozený.
 
 **Checklist (soud / SZ / obhájce / poškozený):**
 - [ ] Je naplněn konkrétní typ rozhodnutí a) až f) (resp. odst. 2)?
